@@ -10,3 +10,5 @@
 
 (define-public crate-rofi-obsidian-0.1.4 (c (n "rofi-obsidian") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "open") (r "^5.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "0vhv7y68v33h7yab8prqn9mc5rl9g6yz7msn8qmbhvacfw4qqvmk")))
 
+(define-public crate-rofi-obsidian-0.1.5 (c (n "rofi-obsidian") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "open") (r "^5.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "1mk0d22c0dnhgb8wk7japvhhxd7r7m4356r2bnaw9n1dcg0kkn2b")))
+
