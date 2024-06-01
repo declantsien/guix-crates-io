@@ -24,3 +24,5 @@
 
 (define-public crate-nu_plugin_highlight-1.1.3+0.93.0 (c (n "nu_plugin_highlight") (v "1.1.3+0.93.0") (d (list (d (n "ansi_colours") (r "^1") (d #t) (k 0)) (d (n "bat") (r "^0.24") (k 0)) (d (n "nu-ansi-term") (r "^0.50") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.93.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.93.0") (d #t) (k 0)) (d (n "syntect") (r "^5") (d #t) (k 0)))) (h "1qrr0vi5gxx96b4bhcpj4jhskhsnmc8jh1ij8pb48a516rqxipw2")))
 
+(define-public crate-nu_plugin_highlight-1.1.4+0.94.0 (c (n "nu_plugin_highlight") (v "1.1.4+0.94.0") (d (list (d (n "ansi_colours") (r "^1") (d #t) (k 0)) (d (n "bat") (r "^0.24") (k 0)) (d (n "nu-ansi-term") (r "^0.50") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.94") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94") (d #t) (k 0)) (d (n "syntect") (r "^5") (d #t) (k 0)))) (h "0dv5wqmla3sid6rdygmi7ib43bc9cd3dpj9gc5s6ibrmw7fkar0i")))
+

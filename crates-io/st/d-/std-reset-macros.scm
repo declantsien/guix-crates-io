@@ -4,3 +4,5 @@
 
 (define-public crate-std-reset-macros-0.1.1 (c (n "std-reset-macros") (v "0.1.1") (d (list (d (n "proc-macro2") (r "^1.0.80") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "04iyvl3ak4gnciw9fmm6zfv7avw2ggy7wcrb6nyr1qdkj29skygz")))
 
+(define-public crate-std-reset-macros-0.1.2 (c (n "std-reset-macros") (v "0.1.2") (d (list (d (n "paste") (r "^1.0.15") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.80") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "1k3kdry8m9ca7nlzpnzjf5n1qadp73dhxds416c3wrgq59nx3nrr")))
+
