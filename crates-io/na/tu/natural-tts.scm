@@ -4,3 +4,5 @@
 
 (define-public crate-natural-tts-0.1.1 (c (n "natural-tts") (v "0.1.1") (d (list (d (n "derive_builder") (r "^0.20.0") (d #t) (k 0)) (d (n "hound") (r "^3.5.1") (d #t) (k 0)) (d (n "online") (r "^4.0.2") (d #t) (k 0)) (d (n "pyo3") (r "^0.21.2") (f (quote ("auto-initialize"))) (d #t) (k 0)) (d (n "rodio") (r "^0.18.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "tts") (r "^0.26.1") (d #t) (k 0)))) (h "0bnl6p43ddla8pj9nrng3sf21dmvaym4bpfdba6fn2garrnmkhxj") (f (quote (("tts-rs") ("parler") ("gtts") ("default" "tts-rs" "coqui" "parler" "gtts") ("coqui"))))))
 
+(define-public crate-natural-tts-0.1.2 (c (n "natural-tts") (v "0.1.2") (d (list (d (n "derive_builder") (r "^0.20.0") (d #t) (k 0)) (d (n "hound") (r "^3.5.1") (d #t) (k 0)) (d (n "online") (r "^4.0.2") (d #t) (k 0)) (d (n "pyo3") (r "^0.21.2") (f (quote ("auto-initialize"))) (d #t) (k 0)) (d (n "rodio") (r "^0.18.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "tts") (r "^0.26.1") (d #t) (k 0)))) (h "0l469y5nvp5mdbl756sbpkb6100648c2c8dy8zv04ncjjbzjsa8d") (f (quote (("tts-rs") ("parler") ("gtts") ("default" "tts-rs" "coqui" "parler" "gtts") ("coqui"))))))
+
