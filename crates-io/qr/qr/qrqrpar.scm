@@ -10,3 +10,5 @@
 
 (define-public crate-qrqrpar-0.1.5 (c (n "qrqrpar") (v "0.1.5") (d (list (d (n "hashbrown") (r "^0.14.3") (d #t) (k 0)) (d (n "resvg") (r "^0.36.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)))) (h "1zplgrlhva259zsjbafsn9jd0yb266ps9jpyl7k476fk62d68a1g")))
 
+(define-public crate-qrqrpar-0.1.6 (c (n "qrqrpar") (v "0.1.6") (d (list (d (n "hashbrown") (r "^0.14.3") (d #t) (k 0)) (d (n "resvg") (r "^0.36.0") (d #t) (k 0)) (d (n "tempdir") (r "^0.3.7") (d #t) (k 2)))) (h "0npgv2bhyvyclpp5n12mbr3mmx0bspnnqzrjy05w9ndbq87xzgqp")))
+
