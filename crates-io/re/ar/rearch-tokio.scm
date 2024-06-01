@@ -20,3 +20,5 @@
 
 (define-public crate-rearch-tokio-0.10.1 (c (n "rearch-tokio") (v "0.10.1") (d (list (d (n "rearch") (r "^0.10.0") (d #t) (k 0)) (d (n "rearch-effects") (r "^0.5.0") (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("rt"))) (k 0)))) (h "1k25sq8w6xy23if39wdb3rxbrjxna3fk9kbkn2yldy16440pddzy")))
 
+(define-public crate-rearch-tokio-0.10.2 (c (n "rearch-tokio") (v "0.10.2") (d (list (d (n "rearch") (r "^0.10.2") (d #t) (k 0)) (d (n "rearch-effects") (r "^0.5.2") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("rt"))) (k 0)))) (h "0qn6sl7w9czzg6y1i585asf6545icpd3nz4zw7s6gln6bn3n6jwk")))
+

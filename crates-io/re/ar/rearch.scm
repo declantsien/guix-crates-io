@@ -34,3 +34,5 @@
 
 (define-public crate-rearch-0.10.1 (c (n "rearch") (v "0.10.1") (d (list (d (n "log") (r "^0.4.21") (o #t) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "rearch-macros") (r "^0.6.0") (d #t) (k 0)))) (h "0xd27xcir2nqa3gb6wk3jd7rnz1q2kig68xi5fncpqd28yvw8ig2") (f (quote (("experimental-api") ("default")))) (s 2) (e (quote (("logging" "dep:log")))) (r "1.75")))
 
+(define-public crate-rearch-0.10.2 (c (n "rearch") (v "0.10.2") (d (list (d (n "log") (r "^0.4.21") (o #t) (d #t) (k 0)) (d (n "parking_lot") (r "^0.12.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "rearch-macros") (r "^0.6.0") (d #t) (k 0)))) (h "15363c28jd20smjhk2pc16vqp09waia74gvlg8rv1sdfsrf5fcss") (f (quote (("experimental-api") ("default")))) (s 2) (e (quote (("logging" "dep:log")))) (r "1.75")))
+

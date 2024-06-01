@@ -6,3 +6,5 @@
 
 (define-public crate-orx-pinned-concurrent-col-1.2.0 (c (n "orx-pinned-concurrent-col") (v "1.2.0") (d (list (d (n "orx-fixed-vec") (r "^2.9") (d #t) (k 0)) (d (n "orx-pinned-vec") (r "^2.9") (d #t) (k 0)) (d (n "orx-split-vec") (r "^2.11") (d #t) (k 0)) (d (n "test-case") (r "^3.3.1") (d #t) (k 2)))) (h "08lha27ilbfd03g10x4xz80vzvxqldgnl3sfib1j27n96x9l5jlc")))
 
+(define-public crate-orx-pinned-concurrent-col-1.3.0 (c (n "orx-pinned-concurrent-col") (v "1.3.0") (d (list (d (n "orx-fixed-vec") (r "^2.11") (d #t) (k 0)) (d (n "orx-pinned-vec") (r "^2.11") (d #t) (k 0)) (d (n "orx-split-vec") (r "^2.13") (d #t) (k 0)) (d (n "test-case") (r "^3.3.1") (d #t) (k 2)))) (h "0kmb1qh6l6d68ipn3d5hhmbm4wpdnkv1wwgcl3vy99lailwx78wq")))
+

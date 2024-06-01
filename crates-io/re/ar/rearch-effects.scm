@@ -14,3 +14,5 @@
 
 (define-public crate-rearch-effects-0.5.1 (c (n "rearch-effects") (v "0.5.1") (d (list (d (n "once_cell") (r "^1.19.0") (o #t) (k 0)) (d (n "rearch") (r "^0.10.0") (d #t) (k 0)))) (h "1rjbbi6wlym98vmr3l380lp278q1nl8dss5q03g58vfagas7i7jl") (f (quote (("default" "lazy-state-transformers")))) (s 2) (e (quote (("lazy-state-transformers" "dep:once_cell"))))))
 
+(define-public crate-rearch-effects-0.5.2 (c (n "rearch-effects") (v "0.5.2") (d (list (d (n "rearch") (r "^0.10.2") (d #t) (k 0)))) (h "09h5j3naiymghrlqpz605c6k0ns8xih7z26s4nwyhin3v9ndrhm7")))
+

@@ -6,3 +6,5 @@
 
 (define-public crate-sen5x-rs-0.2.0 (c (n "sen5x-rs") (v "0.2.0") (d (list (d (n "embedded-hal") (r "=1.0.0") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "=0.10.0") (f (quote ("eh1"))) (d #t) (k 2)) (d (n "sensirion-i2c") (r "^0.3.0") (d #t) (k 0)))) (h "0ryp0l82yxzdnkr7y9kdnzir5r8na52g5jhqf70821v7s0g1z2rx")))
 
+(define-public crate-sen5x-rs-0.2.1 (c (n "sen5x-rs") (v "0.2.1") (d (list (d (n "embedded-hal") (r "=1.0.0") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "=0.10.0") (f (quote ("eh1"))) (d #t) (k 2)) (d (n "sensirion-i2c") (r "^0.3.0") (d #t) (k 0)))) (h "04g9x9knm84yjnzwr4cy0m1wx0xl2xkkysvsc6bkklmswrv3frkv")))
+
