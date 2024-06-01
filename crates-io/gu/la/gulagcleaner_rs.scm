@@ -14,3 +14,5 @@
 
 (define-public crate-gulagcleaner_rs-0.12.2 (c (n "gulagcleaner_rs") (v "0.12.2") (d (list (d (n "flate2") (r "^1.0.27") (d #t) (k 0)) (d (n "lopdf") (r "^0.32.0") (d #t) (k 0)))) (h "0i7lbkbksp56i9g6r8c3rd17aa5ki0wz0k3z8dsh5lg2p7c5nrx6")))
 
+(define-public crate-gulagcleaner_rs-0.14.1 (c (n "gulagcleaner_rs") (v "0.14.1") (d (list (d (n "flate2") (r "^1.0.27") (d #t) (k 0)) (d (n "lopdf") (r "^0.32.0") (d #t) (k 0)))) (h "09j9mvxsj4dskr5vi17rq1k6daa6rd5khqpqbgmwh53ypkll0qh3")))
+

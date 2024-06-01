@@ -12,3 +12,5 @@
 
 (define-public crate-rust-fsm-dsl-0.6.2 (c (n "rust-fsm-dsl") (v "0.6.2") (d (list (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (d #t) (k 0)))) (h "02aihlisf33sl8m4n1zm4m2lwh5iggdiv5rbclywpwhgg8x7x5m3")))
 
+(define-public crate-rust-fsm-dsl-0.7.0 (c (n "rust-fsm-dsl") (v "0.7.0") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "01dxzfga91h5afiwyc6n9092hh7gh9m123d4al79ddpysz6cpbdk") (f (quote (("diagram"))))))
+
