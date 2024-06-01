@@ -30,3 +30,5 @@
 
 (define-public crate-ontoenv-cli-0.1.7-a7 (c (n "ontoenv-cli") (v "0.1.7-a7") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "chrono") (r "^0.4.33") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.1") (d #t) (k 0)) (d (n "ontoenv") (r "^0.1.7-a7") (d #t) (k 0)) (d (n "oxigraph") (r "^0.3.22") (d #t) (k 0)))) (h "0sagaq4z2gycyvakr0gzi7s78f2mnf6s15y507cii7rkgyic185w")))
 
+(define-public crate-ontoenv-cli-0.1.7-a8 (c (n "ontoenv-cli") (v "0.1.7-a8") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "chrono") (r "^0.4.33") (f (quote ("serde"))) (d #t) (k 0)) (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.1") (d #t) (k 0)) (d (n "ontoenv") (r "^0.1.7-a8") (d #t) (k 0)) (d (n "oxigraph") (r "^0.3.22") (d #t) (k 0)))) (h "0pp4ijxl8jk7agx2xxb68xmmfsj8xcmhvsk3l48kn8hznyj4gspg")))
+

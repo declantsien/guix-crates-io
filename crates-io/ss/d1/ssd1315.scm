@@ -14,3 +14,5 @@
 
 (define-public crate-ssd1315-0.1.3 (c (n "ssd1315") (v "0.1.3") (d (list (d (n "display-interface") (r "^0.5.0") (d #t) (k 0)) (d (n "display-interface-i2c") (r "^0.5.0") (d #t) (k 0)) (d (n "display-interface-spi") (r "^0.5.0") (d #t) (k 0)) (d (n "embedded-graphics") (r "^0.8.1") (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0") (d #t) (k 0)))) (h "0rqqjl554505lvjh30g2ln2ichhhj68ac6w12ldn2n4ykjhcjw3l")))
 
+(define-public crate-ssd1315-0.2.0 (c (n "ssd1315") (v "0.2.0") (d (list (d (n "display-interface") (r "^0.5.0") (d #t) (k 0)) (d (n "display-interface-i2c") (r "^0.5.0") (d #t) (k 0)) (d (n "display-interface-spi") (r "^0.5.0") (d #t) (k 0)) (d (n "embedded-graphics-core") (r "^0.4.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0") (d #t) (k 0)))) (h "18vracb5clmk2ijbpzpvv9h5ca4v9yvz7jr1lwv7wc65vid3sh37")))
+

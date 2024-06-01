@@ -24,3 +24,5 @@
 
 (define-public crate-xlsx_batch_reader-0.1.11 (c (n "xlsx_batch_reader") (v "0.1.11") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "quick-xml") (r "^0.27.1") (d #t) (k 0)) (d (n "rust_xlsxwriter") (r "^0.54.0") (f (quote ("zlib" "chrono"))) (o #t) (d #t) (k 0)) (d (n "zip") (r "^0.6.4") (d #t) (k 0)))) (h "0q5gwy5sldizchsi003qkd9an8mi05w2amcli503j6wq7y0jb3iy") (f (quote (("xlsxwriter" "rust_xlsxwriter") ("full" "cached" "xlsxwriter") ("default") ("cached"))))))
 
+(define-public crate-xlsx_batch_reader-0.1.12 (c (n "xlsx_batch_reader") (v "0.1.12") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 0)) (d (n "chrono") (r "^0.4.35") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "quick-xml") (r "^0.27.1") (d #t) (k 0)) (d (n "rust_xlsxwriter") (r "^0.54.0") (f (quote ("zlib" "chrono"))) (o #t) (d #t) (k 0)) (d (n "zip") (r "^0.6.4") (d #t) (k 0)))) (h "164za1z48f6af4pxr0jjrxx6p9wk2vg7n1bkvv6mvv6320xh4fj1") (f (quote (("xlsxwriter" "rust_xlsxwriter") ("full" "cached" "xlsxwriter") ("default") ("cached"))))))
+

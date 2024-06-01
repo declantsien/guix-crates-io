@@ -48,3 +48,5 @@
 
 (define-public crate-clang-ast-0.1.23 (c (n "clang-ast") (v "0.1.23") (d (list (d (n "clang-ast-test-suite") (r "^0") (d #t) (k 2)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)) (d (n "rustversion") (r "^1.0.13") (d #t) (k 2)) (d (n "serde") (r "^1.0.194") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.194") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.99") (d #t) (k 2)))) (h "1c22z6752whf8mx4pij51dgsa0a3hplviks5vfnd84zky8svq63y")))
 
+(define-public crate-clang-ast-0.1.24 (c (n "clang-ast") (v "0.1.24") (d (list (d (n "clang-ast-test-suite") (r "^0") (d #t) (k 2)) (d (n "monostate") (r "^0.1") (d #t) (k 2)) (d (n "rustc-hash") (r "^1.1") (d #t) (k 0)) (d (n "rustversion") (r "^1.0.13") (d #t) (k 2)) (d (n "serde") (r "^1.0.194") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.194") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.99") (d #t) (k 2)))) (h "0y6w3vwzqzjv4nhr567j9qv6563asczqp81959gndxc98z5g862j")))
+
