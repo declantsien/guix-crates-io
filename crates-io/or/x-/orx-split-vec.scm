@@ -112,3 +112,5 @@
 
 (define-public crate-orx-split-vec-2.12.0 (c (n "orx-split-vec") (v "2.12.0") (d (list (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "orx-pinned-vec") (r "^2.10") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_chacha") (r "^0.3") (d #t) (k 2)) (d (n "test-case") (r "^3.3.1") (d #t) (k 2)))) (h "04v5lf3aq83riyh1g5nfb2pqqp9gqnsg70gq874gcw45ghyik8c0")))
 
+(define-public crate-orx-split-vec-2.13.0 (c (n "orx-split-vec") (v "2.13.0") (d (list (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "orx-pinned-vec") (r "^2.11") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "rand_chacha") (r "^0.3") (d #t) (k 2)) (d (n "test-case") (r "^3.3.1") (d #t) (k 2)))) (h "18pcrjf32207dff39a116blrgiik50r192naplmbmfbm9s6dzvrb")))
+
