@@ -72,3 +72,5 @@
 
 (define-public crate-risc0-core-1.0.0-rc.6 (c (n "risc0-core") (v "1.0.0-rc.6") (d (list (d (n "bytemuck") (r "^1.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)))) (h "1b7bbj5xjzvkwa9aw6gw6da8ibw1wrsdmy8haflc9zkamk4gq869") (f (quote (("std"))))))
 
+(define-public crate-risc0-core-1.0.0-rc.7 (c (n "risc0-core") (v "1.0.0-rc.7") (d (list (d (n "bytemuck") (r "^1.12") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (f (quote ("small_rng"))) (d #t) (k 2)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)))) (h "0ipfzyzxlzv57vbyi9cd3bhpnvjrlrdh5cnz0pzwqai3qhljpylp") (f (quote (("std"))))))
+
