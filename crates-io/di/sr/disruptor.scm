@@ -36,3 +36,5 @@
 
 (define-public crate-disruptor-2.0.0 (c (n "disruptor") (v "2.0.0") (d (list (d (n "core_affinity") (r "^0.8.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "crossbeam") (r "^0.8") (d #t) (k 2)) (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)))) (h "1x61qz3rwp9p952fpmmv9sppifx987hw57gdqf62xy5ayrfl1q9i")))
 
+(define-public crate-disruptor-2.1.0 (c (n "disruptor") (v "2.1.0") (d (list (d (n "core_affinity") (r "^0.8.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "crossbeam") (r "^0.8") (d #t) (k 2)) (d (n "crossbeam-utils") (r "^0.8") (d #t) (k 0)))) (h "0pyz8l0haxd2rsgzq61dz0nag8hcv1h7jqj46hwdmbc8aymvsn3h")))
+
