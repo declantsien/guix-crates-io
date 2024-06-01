@@ -14,3 +14,5 @@
 
 (define-public crate-win_dialog-0.3.0 (c (n "win_dialog") (v "0.3.0") (d (list (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "windows") (r "^0.56.0") (f (quote ("Win32_UI_WindowsAndMessaging"))) (d #t) (k 0)))) (h "0h9djypn63hfqps77pqxd9aykai97nbxzr6hjgh0vh12h1mrna2r")))
 
+(define-public crate-win_dialog-0.4.0 (c (n "win_dialog") (v "0.4.0") (d (list (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "windows") (r "^0.56.0") (f (quote ("Win32_UI_WindowsAndMessaging"))) (d #t) (k 0)))) (h "00yllwrggf21ap6wdj8nq02nl9crqvybzh0sa1ncgzxaa4fjaayn")))
+
