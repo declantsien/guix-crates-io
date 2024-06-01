@@ -14,3 +14,5 @@
 
 (define-public crate-nftables-0.4.0 (c (n "nftables") (v "0.4.0") (d (list (d (n "serde") (r "^1.0.137") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.81") (d #t) (k 0)) (d (n "serde_path_to_error") (r "^0.1") (d #t) (k 0)) (d (n "serial_test") (r "^3.0.0") (d #t) (k 2)) (d (n "strum") (r "^0.26.2") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1l98618mmlkvg42kvx7wnwb1h32sg0gp02gnnsa2i37w6d5v92g6")))
 
+(define-public crate-nftables-0.4.1 (c (n "nftables") (v "0.4.1") (d (list (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_path_to_error") (r "^0.1") (d #t) (k 0)) (d (n "serial_test") (r "^3.1.0") (d #t) (k 2)) (d (n "strum") (r "^0.26.2") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26.2") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0vry8kjvl32arb5v9scklq12srz63cvr9142b3slmlp4rbsq2l1v")))
+

@@ -20,3 +20,5 @@
 
 (define-public crate-pyontoenv-0.1.7-a7 (c (n "pyontoenv") (v "0.1.7-a7") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "ontoenv") (r "^0.1.7-a7") (d #t) (k 0)) (d (n "oxigraph") (r "^0.3.22") (d #t) (k 0)) (d (n "pyo3") (r "^0.21.0-beta.0") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.21.0-beta.0") (d #t) (k 1)))) (h "0fyziy33x69yn5f0x1qm43h3m1xvdmb49fpavpd42jbp8x93p9l8") (f (quote (("abi3" "pyo3/abi3-py38"))))))
 
+(define-public crate-pyontoenv-0.1.7-a8 (c (n "pyontoenv") (v "0.1.7-a8") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 0)) (d (n "env_logger") (r "^0.11.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "ontoenv") (r "^0.1.7-a8") (d #t) (k 0)) (d (n "oxigraph") (r "^0.3.22") (d #t) (k 0)) (d (n "pyo3") (r "^0.21.0-beta.0") (f (quote ("extension-module"))) (d #t) (k 0)) (d (n "pyo3-build-config") (r "^0.21.0-beta.0") (d #t) (k 1)))) (h "1mvfwdcp4cmvn9qp4i3qp7yjz7b2r33s4p6cawq2rr0932vcix9m") (f (quote (("abi3" "pyo3/abi3-py38"))))))
+
