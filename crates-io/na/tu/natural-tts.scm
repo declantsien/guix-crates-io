@@ -1,0 +1,4 @@
+(define-module (crates-io na tu natural-tts) #:use-module (crates-io))
+
+(define-public crate-natural-tts-0.1.0 (c (n "natural-tts") (v "0.1.0") (d (list (d (n "derive_builder") (r "^0.20.0") (d #t) (k 0)) (d (n "hound") (r "^3.5.1") (d #t) (k 0)) (d (n "online") (r "^4.0.2") (d #t) (k 0)) (d (n "pyo3") (r "^0.21.2") (d #t) (k 0)) (d (n "rodio") (r "^0.18.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "tts") (r "^0.26.1") (d #t) (k 0)))) (h "0hf8pppawramnjfkzadzkmvsglxwgk0zpmhdx6wg2r5aay1151wz") (f (quote (("tts-rs") ("parler") ("gtts") ("default" "tts-rs" "coqui" "parler" "gtts") ("coqui"))))))
+
