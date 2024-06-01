@@ -8,3 +8,5 @@
 
 (define-public crate-cove-0.4.0 (c (n "cove") (v "0.4.0") (h "0bylgc3nr8yrxmy019h285axhpr8r7cjy6g725h09k9pm5zdhhl1") (f (quote (("std") ("default" "std"))))))
 
+(define-public crate-cove-0.5.0 (c (n "cove") (v "0.5.0") (h "17c933w2cs9x5zc4ny80wyq8qwr7n95dlnjbjjbxh6cpxc09na1r") (f (quote (("std") ("default" "std"))))))
+

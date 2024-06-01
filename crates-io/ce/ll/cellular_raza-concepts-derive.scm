@@ -10,3 +10,5 @@
 
 (define-public crate-cellular_raza-concepts-derive-0.0.8 (c (n "cellular_raza-concepts-derive") (v "0.0.8") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0izxxhw6bd0idb2yskl80zimw9g1qmkfcwzf979rmf1ba8id5apq")))
 
+(define-public crate-cellular_raza-concepts-derive-0.0.9 (c (n "cellular_raza-concepts-derive") (v "0.0.9") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)))) (h "19mqcmx9k9b0rcpqzsyx2baiy2mqbc4fs33qfy7nr9jwy7szdzhv")))
+
