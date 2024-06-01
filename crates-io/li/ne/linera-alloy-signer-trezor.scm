@@ -1,0 +1,4 @@
+(define-module (crates-io li ne linera-alloy-signer-trezor) #:use-module (crates-io))
+
+(define-public crate-linera-alloy-signer-trezor-0.1.0 (c (n "linera-alloy-signer-trezor") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "linera-alloy-consensus") (r "^0.1.0") (f (quote ("std"))) (k 0)) (d (n "linera-alloy-network") (r "^0.1.0") (k 0)) (d (n "linera-alloy-primitives") (r "^0.7.4") (k 0)) (d (n "linera-alloy-rpc-types") (r "^0.1.0") (k 2)) (d (n "linera-alloy-signer") (r "^0.1.0") (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "trezor-client") (r "=0.1.3") (f (quote ("ethereum"))) (k 0)))) (h "1aqnq2vm8w7pbq1vw968sw5zrys0448m44s3rayiip9hfjysfckr") (r "1.76")))
+
