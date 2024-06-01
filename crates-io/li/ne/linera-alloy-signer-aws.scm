@@ -1,0 +1,4 @@
+(define-module (crates-io li ne linera-alloy-signer-aws) #:use-module (crates-io))
+
+(define-public crate-linera-alloy-signer-aws-0.1.0 (c (n "linera-alloy-signer-aws") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "aws-config") (r "^1") (k 2)) (d (n "aws-sdk-kms") (r "^1") (k 0)) (d (n "k256") (r "^0.13") (f (quote ("ecdsa"))) (k 0)) (d (n "linera-alloy-consensus") (r "^0.1.0") (f (quote ("std"))) (k 0)) (d (n "linera-alloy-network") (r "^0.1.0") (k 0)) (d (n "linera-alloy-primitives") (r "^0.7.4") (k 0)) (d (n "linera-alloy-signer") (r "^0.1.0") (k 0)) (d (n "spki") (r "^0.7") (f (quote ("std"))) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0xq88sryznf4a5bx66kzz37p9d3s16a16pa3xk3g179kqg6i9h2m") (f (quote (("eip712" "linera-alloy-signer/eip712")))) (r "1.76")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io li ne linera-alloy-signer-gcp) #:use-module (crates-io))
+
+(define-public crate-linera-alloy-signer-gcp-0.1.0 (c (n "linera-alloy-signer-gcp") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "gcloud-sdk") (r "^0.24") (f (quote ("google-cloud-kms-v1"))) (d #t) (k 0)) (d (n "k256") (r "^0.13") (f (quote ("ecdsa" "pem"))) (k 0)) (d (n "linera-alloy-consensus") (r "^0.1.0") (f (quote ("std"))) (k 0)) (d (n "linera-alloy-network") (r "^0.1.0") (k 0)) (d (n "linera-alloy-primitives") (r "^0.7.4") (k 0)) (d (n "linera-alloy-signer") (r "^0.1.0") (k 0)) (d (n "spki") (r "^0.7") (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "12jja7bg4w3a42safmm9b72vzji2bn321289l6qqm1zpmfmbni8d") (f (quote (("eip712" "linera-alloy-signer/eip712")))) (r "1.76")))
+
