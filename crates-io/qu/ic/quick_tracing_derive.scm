@@ -8,3 +8,5 @@
 
 (define-public crate-quick_tracing_derive-0.1.3 (c (n "quick_tracing_derive") (v "0.1.3") (d (list (d (n "deluxe") (r "^0.5.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.85") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.63") (d #t) (k 0)))) (h "1r56skrag8nbg6iwz8gf1fhnaknlaml6h0n1p952vjnywmrh45vf")))
 
+(define-public crate-quick_tracing_derive-0.1.4 (c (n "quick_tracing_derive") (v "0.1.4") (d (list (d (n "deluxe") (r "^0.5.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.85") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.63") (d #t) (k 0)))) (h "1kycbcalnsbw4pqf7p5nf5fwhz7rr31ac6z83syqfy21gx5wfdpa")))
+

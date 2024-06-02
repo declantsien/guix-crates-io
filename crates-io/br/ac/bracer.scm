@@ -14,3 +14,5 @@
 
 (define-public crate-bracer-0.3.0 (c (n "bracer") (v "0.3.0") (h "15qyjd5wqnzfpx486z24d6m4ww8cnbvilc95gc5j6xa8pfipbw4v")))
 
+(define-public crate-bracer-0.3.1 (c (n "bracer") (v "0.3.1") (h "0baqa2mmd8z5r4w2kccr3yygpgp901rr1h376c0yzi0p55a8s900")))
+
