@@ -12,3 +12,5 @@
 
 (define-public crate-tracing-test-macro-0.2.4 (c (n "tracing-test-macro") (v "0.2.4") (d (list (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "022w5m923lz4dmxd1xh04ywywvrya2fk7aqjg2bkmrz2z32c32r5") (f (quote (("no-env-filter"))))))
 
+(define-public crate-tracing-test-macro-0.2.5 (c (n "tracing-test-macro") (v "0.2.5") (d (list (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "0s3m7a3pycn8r4xyql5gv5b85sdrqp4w24k1aqy26zf80vdrsr84") (f (quote (("no-env-filter"))))))
+

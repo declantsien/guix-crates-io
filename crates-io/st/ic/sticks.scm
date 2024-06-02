@@ -14,3 +14,5 @@
 
 (define-public crate-sticks-0.1.7 (c (n "sticks") (v "0.1.7") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)))) (h "1jkbwl8frf8k90chzkcglzsyghvzcdjnl5h55ncsxb6d7d3b75c4")))
 
+(define-public crate-sticks-0.1.8 (c (n "sticks") (v "0.1.8") (d (list (d (n "clap") (r "^2.33") (d #t) (k 0)))) (h "16x8ii7w99ig90c4vmbs7p7c92vjd5xr7b10a9iwx5hx7g1s8rff")))
+
