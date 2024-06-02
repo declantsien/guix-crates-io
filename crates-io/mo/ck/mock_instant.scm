@@ -18,3 +18,5 @@
 
 (define-public crate-mock_instant-0.5.0 (c (n "mock_instant") (v "0.5.0") (h "0cnvlmh2ihxly7kv126ywgb00i6gpzpj2fh4gcn3fm05xcfgwdmk")))
 
+(define-public crate-mock_instant-0.5.1 (c (n "mock_instant") (v "0.5.1") (h "1ks9nah4wvdp72lyd0zdv60wqhwjh13pgp6yjw84i5ipp1nvpknd")))
+
