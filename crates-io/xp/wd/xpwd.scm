@@ -6,3 +6,5 @@
 
 (define-public crate-xpwd-1.0.2 (c (n "xpwd") (v "1.0.2") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "notify-rust") (r "^4.11.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "zxcvbn") (r "^3.0.1") (d #t) (k 0)))) (h "166lm9v2fcg2wcvcc433plkas0n0nsbdim8nm5apa131n91riq45")))
 
+(define-public crate-xpwd-1.0.3 (c (n "xpwd") (v "1.0.3") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "clipboard") (r "^0.5.0") (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "notify-rust") (r "^4.11.0") (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (d #t) (k 0)) (d (n "zxcvbn") (r "^3.0.1") (d #t) (k 0)))) (h "1rllzhp2cyxyp7gfnhm5a53yyx8p6pbhplbz3myp4jsqsj8i0cd1")))
+
