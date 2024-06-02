@@ -1,0 +1,4 @@
+(define-module (crates-io oc id ocidir) #:use-module (crates-io))
+
+(define-public crate-ocidir-0.1.0 (c (n "ocidir") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "camino") (r "^1.0.4") (d #t) (k 0)) (d (n "cap-std-ext") (r "^4.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.19") (d #t) (k 0)) (d (n "flate2") (r "^1.0.20") (f (quote ("zlib"))) (k 0)) (d (n "fn-error-context") (r "^0.2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "oci-spec") (r "^0.6.5") (d #t) (k 0)) (d (n "olpc-cjson") (r "^0.1.1") (d #t) (k 0)) (d (n "openssl") (r "^0.10.33") (d #t) (k 0)) (d (n "serde") (r "^1.0.125") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.64") (d #t) (k 0)) (d (n "tar") (r "^0.4.38") (d #t) (k 0)))) (h "1493hwhj5xqk44a0hcprairvsnh865ysc7sqni356scwx1d597lw")))
+
