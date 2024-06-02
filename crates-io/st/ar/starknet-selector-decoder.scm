@@ -8,3 +8,5 @@
 
 (define-public crate-starknet-selector-decoder-0.1.3 (c (n "starknet-selector-decoder") (v "0.1.3") (d (list (d (n "phf") (r "^0.11") (k 0)) (d (n "phf") (r "^0.11.1") (k 1)) (d (n "phf_codegen") (r "^0.11.1") (d #t) (k 1)) (d (n "starknet") (r "^0.9.0") (d #t) (k 1)))) (h "1k8iwdqiw0s51y3flv0vp4vnq52bk2sk0j9096jfw18pzs2wm2y9")))
 
+(define-public crate-starknet-selector-decoder-0.1.4 (c (n "starknet-selector-decoder") (v "0.1.4") (d (list (d (n "phf") (r "^0.11") (k 0)) (d (n "phf") (r "^0.11.1") (k 1)) (d (n "phf_codegen") (r "^0.11.1") (d #t) (k 1)) (d (n "starknet") (r "^0.9.0") (d #t) (k 1)))) (h "0v9c8w6x2pym1zqimq4jscxnjzpwhz0ysi6qrsr9vckzihszfik7")))
+

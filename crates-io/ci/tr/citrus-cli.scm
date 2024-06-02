@@ -8,3 +8,5 @@
 
 (define-public crate-citrus-cli-0.1.3 (c (n "citrus-cli") (v "0.1.3") (d (list (d (n "clap") (r "^3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)))) (h "1icalds4dxg0zryg8k1f1kfzd8zps0p3k5g3zs81lq4avl128438")))
 
+(define-public crate-citrus-cli-0.1.4 (c (n "citrus-cli") (v "0.1.4") (d (list (d (n "citrus-core") (r "^0.1.0") (d #t) (k 0)) (d (n "clap") (r "^3") (d #t) (k 0)))) (h "0slb74qrbs30y4hk6nrsf6qs58mj6pzqpnlc9clab1q1345nv4cw") (r "1.70")))
+
