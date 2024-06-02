@@ -6,3 +6,5 @@
 
 (define-public crate-seismic-response-0.2.1 (c (n "seismic-response") (v "0.2.1") (d (list (d (n "close-to") (r "^0.2.0") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "csv") (r "^1.3.0") (d #t) (k 2)) (d (n "js-sys") (r "^0.3.69") (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tsify") (r "^0.4.5") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.92") (d #t) (k 0)))) (h "08n512dj8vwpn148wkz05fw9hsmz8yh3j1bqxa22018mwnjs3fdf")))
 
+(define-public crate-seismic-response-0.3.0 (c (n "seismic-response") (v "0.3.0") (d (list (d (n "close-to") (r "^0.2.0") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "csv") (r "^1.3.0") (d #t) (k 2)) (d (n "js-sys") (r "^0.3.69") (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tsify") (r "^0.4.5") (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2.92") (d #t) (k 0)))) (h "1kkr8a8y4lv1lqhvkb3zf4abygkdsc78k2x51sp2h2z27vjr6069")))
+

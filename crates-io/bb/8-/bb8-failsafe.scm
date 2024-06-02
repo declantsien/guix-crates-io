@@ -22,3 +22,5 @@
 
 (define-public crate-bb8-failsafe-0.1.10 (c (n "bb8-failsafe") (v "0.1.10") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bb8") (r "^0.8") (d #t) (k 0)) (d (n "failsafe") (r "^1.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread"))) (d #t) (k 2)))) (h "05d7w40xpd04f8grd376iwc85bwlmwf940qahbfvx6vjl6d88p15")))
 
+(define-public crate-bb8-failsafe-0.1.11 (c (n "bb8-failsafe") (v "0.1.11") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bb8") (r "^0.8") (d #t) (k 0)) (d (n "failsafe") (r "^1.2") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread"))) (d #t) (k 2)))) (h "0p1gss9264ipgibbp6kr90fbc79hk3r15m6cqwyp7cjp5r6cwfy0")))
+

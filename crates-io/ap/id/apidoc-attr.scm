@@ -32,3 +32,5 @@
 
 (define-public crate-apidoc-attr-0.2.6 (c (n "apidoc-attr") (v "0.2.6") (d (list (d (n "procmeta") (r "^0.3.5") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "syn") (r "^2.0") (o #t) (d #t) (k 0)))) (h "13ypva7nkaj47iay977mim3pkn214kqqz2qc92i3hzslraivxnc2") (f (quote (("proc" "procmeta" "syn") ("core" "serde"))))))
 
+(define-public crate-apidoc-attr-0.2.7 (c (n "apidoc-attr") (v "0.2.7") (d (list (d (n "procmeta") (r "^0.3.5") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "syn") (r "^2.0") (o #t) (d #t) (k 0)))) (h "16fny5x295jq7vf3l5rnv57krryfyi232qia43xnma3lbw4l58y1") (f (quote (("proc" "procmeta" "syn") ("core" "serde"))))))
+
