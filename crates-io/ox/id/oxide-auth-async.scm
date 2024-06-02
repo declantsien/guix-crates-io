@@ -8,3 +8,5 @@
 
 (define-public crate-oxide-auth-async-0.2.0 (c (n "oxide-auth-async") (v "0.2.0") (d (list (d (n "async-trait") (r "^0.1.59") (d #t) (k 0)) (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (f (quote ("clock"))) (k 0)) (d (n "oxide-auth") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.148") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.148") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.89") (d #t) (k 2)) (d (n "smol") (r "^1.3.0") (d #t) (k 2)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "0prndz7ir86jc58plw37wp8fndszxf29hvxs07kpw916s7skwn34")))
 
+(define-public crate-oxide-auth-async-0.2.1 (c (n "oxide-auth-async") (v "0.2.1") (d (list (d (n "async-trait") (r "^0.1.59") (d #t) (k 0)) (d (n "base64") (r "^0.21") (d #t) (k 0)) (d (n "chrono") (r "^0.4.23") (f (quote ("clock"))) (k 0)) (d (n "oxide-auth") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.148") (d #t) (k 2)) (d (n "serde_derive") (r "^1.0.148") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.89") (d #t) (k 2)) (d (n "smol") (r "^1.3.0") (d #t) (k 2)) (d (n "url") (r "^2.3.1") (d #t) (k 0)))) (h "1la0m7j18mfhf6fdsn7xv63x66mvznpwn2p6q26nnf7kd3sglyar")))
+
