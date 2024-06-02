@@ -26,3 +26,5 @@
 
 (define-public crate-proto_shim-0.3.1 (c (n "proto_shim") (v "0.3.1") (d (list (d (n "command-group") (r "^5.0.1") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)))) (h "0m2rjgaafsvqars3nna0ggmnvpad2l1hxig2x9bz9jc9rb2cv6rb")))
 
+(define-public crate-proto_shim-0.4.0 (c (n "proto_shim") (v "0.4.0") (d (list (d (n "command-group") (r "^5.0.1") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)))) (h "115dwinm355b3l2j4dn68px2rib2shr520hk6g4irnq1yppijjzr")))
+

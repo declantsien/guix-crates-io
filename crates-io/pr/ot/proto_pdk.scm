@@ -134,3 +134,5 @@
 
 (define-public crate-proto_pdk-0.19.2 (c (n "proto_pdk") (v "0.19.2") (d (list (d (n "extism-pdk") (r "^1.2.0") (d #t) (k 0)) (d (n "proto_pdk_api") (r "^0.19.1") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "warpgate_pdk") (r "^0.5.2") (d #t) (k 0)))) (h "19q5flq19whs7rs4x5dfp13sb34gzg0mw45zm1plyir2pcd08ama")))
 
+(define-public crate-proto_pdk-0.20.0 (c (n "proto_pdk") (v "0.20.0") (d (list (d (n "extism-pdk") (r "^1.2.0") (d #t) (k 0)) (d (n "proto_pdk_api") (r "^0.20.0") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "warpgate_pdk") (r "^0.6.0") (d #t) (k 0)))) (h "1gp7mp1fs4xv7rccsshgmcbx6y44dg0mvmna9xhgk6m7x71xn32a")))
+

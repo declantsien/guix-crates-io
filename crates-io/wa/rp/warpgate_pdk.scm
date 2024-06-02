@@ -24,3 +24,5 @@
 
 (define-public crate-warpgate_pdk-0.5.2 (c (n "warpgate_pdk") (v "0.5.2") (d (list (d (n "extism-pdk") (r "^1.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "warpgate_api") (r "^0.7.2") (d #t) (k 0)))) (h "1x9gba1gb90f4xqyyxzg145wqzd1fzj1kkv9zx7yg79xc2zqf3g0")))
 
+(define-public crate-warpgate_pdk-0.6.0 (c (n "warpgate_pdk") (v "0.6.0") (d (list (d (n "extism-pdk") (r "^1.2.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "warpgate_api") (r "^0.8.0") (d #t) (k 0)))) (h "1kp50a4czhf11h9b41jjwl5h3j2dqqsqlfsiwj7wm8hl9xhyc7gd")))
+
