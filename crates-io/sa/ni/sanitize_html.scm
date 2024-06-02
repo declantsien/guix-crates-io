@@ -20,3 +20,5 @@
 
 (define-public crate-sanitize_html-0.8.0 (c (n "sanitize_html") (v "0.8.0") (d (list (d (n "html5ever") (r "^0.26") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "markup5ever_rcdom") (r "^0.2") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "019nadpbsvgc3nr9mv7dbkq6m281rljycdcia86a4ln2lngi3ipd")))
 
+(define-public crate-sanitize_html-0.8.1 (c (n "sanitize_html") (v "0.8.1") (d (list (d (n "html5ever") (r "^0.27") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "markup5ever_rcdom") (r "^0.3") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "1h0br3qzny2zziv99kkgpv78kzz0ggc1qz3ciy726csaldd3d0s3")))
+
