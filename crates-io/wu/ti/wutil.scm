@@ -6,3 +6,5 @@
 
 (define-public crate-wutil-0.0.3 (c (n "wutil") (v "0.0.3") (h "1af02nx5gc9faq8lym3afwcw237jiny4kbnwl4xm7nna1mhs8y3x")))
 
+(define-public crate-wutil-0.0.4 (c (n "wutil") (v "0.0.4") (h "0b2s92v1fh3jbgagxl727rhkfby1hdfnm28nzg5fw5p6mgwdrbfc") (f (quote (("default" "alloc") ("alloc"))))))
+
