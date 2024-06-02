@@ -10,3 +10,5 @@
 
 (define-public crate-lcmx-0.1.4 (c (n "lcmx") (v "0.1.4") (d (list (d (n "gcdx") (r "^0") (d #t) (k 0)))) (h "1ayagiyb1ly5b3qrl3m7hbxl3sh6r04vzq3pj2567dkargjryayb")))
 
+(define-public crate-lcmx-0.1.5 (c (n "lcmx") (v "0.1.5") (d (list (d (n "gcdx") (r "^0") (d #t) (k 0)))) (h "0krq719f76jx3np9227l33rnhz861k15dbc3maj8hqw8c08ylg2x")))
+

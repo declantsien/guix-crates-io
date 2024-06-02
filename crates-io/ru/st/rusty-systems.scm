@@ -4,3 +4,5 @@
 
 (define-public crate-rusty-systems-1.0.0 (c (n "rusty-systems") (v "1.0.0") (d (list (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11") (d #t) (k 2)))) (h "1ck8l1nhxg136qi1sm2ih1gvsf2mqd98h8s7lxf8pibf52gy9fj8")))
 
+(define-public crate-rusty-systems-2.0.0 (c (n "rusty-systems") (v "2.0.0") (d (list (d (n "ansi_term") (r "^0.12") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11") (d #t) (k 2)))) (h "1gvnaplplpp7098a56lfxawwvrkz3y9jpj9q01s9g309nzyv2vc8")))
+

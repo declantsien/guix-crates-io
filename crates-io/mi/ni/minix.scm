@@ -8,3 +8,5 @@
 
 (define-public crate-minix-0.1.3 (c (n "minix") (v "0.1.3") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "figlet-rs") (r "^0.1.3") (d #t) (k 0)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "13sdxdzxnwy969zn127nhb21afamaybdq75yq149azw6yrsf9pmh")))
 
+(define-public crate-minix-0.1.4 (c (n "minix") (v "0.1.4") (d (list (d (n "clap") (r "^4.4.8") (f (quote ("cargo" "derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "figlet-rs") (r "^0.1.3") (d #t) (k 0)) (d (n "regex") (r "^1.4") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0swab7zpla7sj38kz8cib719xdcnvafm7yzl5a2kzx97rm2jydfm")))
+
