@@ -46,3 +46,5 @@
 
 (define-public crate-e57-0.11.1 (c (n "e57") (v "0.11.1") (d (list (d (n "crc32c") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "roxmltree") (r "^0.19") (d #t) (k 0)))) (h "0rjqkwgw49yi32281c5kmlrs7as26p8k2c0wq23048hf8gjiy76v") (s 2) (e (quote (("crc32c" "dep:crc32c"))))))
 
+(define-public crate-e57-0.11.2 (c (n "e57") (v "0.11.2") (d (list (d (n "crc32c") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "roxmltree") (r "^0.20") (d #t) (k 0)))) (h "097skvmmdqankccd79h51zqa46cd90plznljyi2qn76z9082783q") (s 2) (e (quote (("crc32c" "dep:crc32c"))))))
+
