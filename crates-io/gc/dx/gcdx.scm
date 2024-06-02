@@ -20,3 +20,5 @@
 
 (define-public crate-gcdx-0.2.0 (c (n "gcdx") (v "0.2.0") (h "0qa5s51q9xddxs2skp8pdks3nprj5vmc2w0cm4i4n7dsj0w56gyc")))
 
+(define-public crate-gcdx-0.2.1 (c (n "gcdx") (v "0.2.1") (h "0fn0z2m1rgvxwxgbq5ik30dhbzwnzg5rxl96lizkr3hpwzy7vprs")))
+

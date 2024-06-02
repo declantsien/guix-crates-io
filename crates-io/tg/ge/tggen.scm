@@ -76,3 +76,5 @@
 
 (define-public crate-tggen-0.0.39 (c (n "tggen") (v "0.0.39") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)))) (h "1bnqmv5jcmqsnzg5j7f7k823jyan375vnk8pgs6h7y42kp3g4zfh")))
 
+(define-public crate-tggen-0.0.40 (c (n "tggen") (v "0.0.40") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)))) (h "1fp49mbcp17s30cvnj91k562i5f7lsjmyw5r4in13ldz3jnn4m0n")))
+
