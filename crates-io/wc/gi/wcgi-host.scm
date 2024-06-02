@@ -6,3 +6,5 @@
 
 (define-public crate-wcgi-host-0.1.2 (c (n "wcgi-host") (v "0.1.2") (d (list (d (n "http") (r "^0.2.8") (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "macros" "rt"))) (k 0)) (d (n "wasmparser") (r "^0.95.0") (d #t) (k 0)) (d (n "wcgi") (r "^0.1.2") (d #t) (k 0)))) (h "1k4mnrikqni8838cyf7rpvwc1961k2in67arzfia52fk1qmwyqm7") (f (quote (("schema" "schemars")))) (r "1.64.0")))
 
+(define-public crate-wcgi-host-0.2.0 (c (n "wcgi-host") (v "0.2.0") (d (list (d (n "http") (r "^1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util" "macros" "rt"))) (k 0)) (d (n "wasmparser") (r "^0.95.0") (d #t) (k 0)) (d (n "wcgi") (r "^0.2.0") (d #t) (k 0)))) (h "1xicrl3qdj5yrr11372p63mv93ms4x41bq3m6srqd8adwr5i7z0w") (f (quote (("schema" "schemars")))) (r "1.64.0")))
+

@@ -6,3 +6,5 @@
 
 (define-public crate-wcgi-0.1.2 (c (n "wcgi") (v "0.1.2") (d (list (d (n "http") (r "^0.2.8") (d #t) (k 0)) (d (n "http-serde") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "0xxzwaiia3yjmkqi3vhrsa8qcns19z3i59i5pnbq2fpc9qrqzjir") (r "1.64.0")))
 
+(define-public crate-wcgi-0.2.0 (c (n "wcgi") (v "0.2.0") (d (list (d (n "http") (r "^1") (d #t) (k 0)) (d (n "http-serde") (r "^2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "1ck1qbz95y070vik9c0qnh0pb3qgag4mbabnh6k4nxmhbwc405dm") (r "1.64.0")))
+

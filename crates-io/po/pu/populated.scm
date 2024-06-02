@@ -10,3 +10,5 @@
 
 (define-public crate-populated-0.0.5 (c (n "populated") (v "0.0.5") (h "00d0za5vhhq9skhy41h96r4m2b4z0ifsggyhj1rz634h7qbdkijs")))
 
+(define-public crate-populated-0.0.6 (c (n "populated") (v "0.0.6") (h "1k93h9yx9km38wlsirh8vz85wza42sprvayxxsgpv87yknh31sqx")))
+
