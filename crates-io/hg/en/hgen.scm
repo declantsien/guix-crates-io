@@ -6,3 +6,5 @@
 
 (define-public crate-hgen-0.3.0 (c (n "hgen") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)))) (h "0dcl8a4n7kp59wybmr7sgd6fxlsd24znbklmcid9m8gfkmmfa1sj")))
 
+(define-public crate-hgen-0.4.0 (c (n "hgen") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.60") (d #t) (k 0)))) (h "0s2dc1wrh8k3h22g3ypvy47vkdasb3mjxzbsf9zhm0d1z5vixdig")))
+

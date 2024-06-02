@@ -80,3 +80,5 @@
 
 (define-public crate-cirru_parser-0.1.30 (c (n "cirru_parser") (v "0.1.30") (d (list (d (n "bincode") (r "^2.0.0-rc.3") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.202") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (o #t) (d #t) (k 0)))) (h "0nwl9a8cpira9w7d8bkzpapkwxnpdlg0pdkbp7i6vpbmxid1wkdv") (f (quote (("use-serde" "serde" "serde_json") ("default"))))))
 
+(define-public crate-cirru_parser-0.1.31 (c (n "cirru_parser") (v "0.1.31") (d (list (d (n "bincode") (r "^2.0.0-rc.3") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "serde") (r "^1.0.202") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (o #t) (d #t) (k 0)))) (h "0l51gv1hswzvci4wsbzv1p7g5302jkl0cv9bkv1iiz9dg7bqs2ij") (f (quote (("use-serde" "serde" "serde_json") ("default"))))))
+
