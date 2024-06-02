@@ -18,3 +18,5 @@
 
 (define-public crate-sqlmo_openapi-0.19.0 (c (n "sqlmo_openapi") (v "0.19.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "openapiv3") (r "^6") (d #t) (k 0) (p "openapiv3-extended")) (d (n "serde_json") (r "^1.0.103") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.24") (d #t) (k 2)) (d (n "sqlmo") (r "^0.16") (d #t) (k 0)))) (h "1mcl1bss2yhisjpvj3l60v9p7plhy8f1hyf9br0m2df9rvr6376s")))
 
+(define-public crate-sqlmo_openapi-0.20.0 (c (n "sqlmo_openapi") (v "0.20.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "openapiv3") (r "^6") (d #t) (k 0) (p "openapiv3-extended")) (d (n "serde_json") (r "^1.0.103") (d #t) (k 2)) (d (n "serde_yaml") (r "^0.9.24") (d #t) (k 2)) (d (n "sqlmo") (r "^0.17") (d #t) (k 0)))) (h "0sdavck16161rd6gbvdp5yg4bhj8afjp3axyp3f7x5mvacd6d7jl")))
+

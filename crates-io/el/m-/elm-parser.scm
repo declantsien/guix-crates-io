@@ -66,3 +66,5 @@
 
 (define-public crate-elm-parser-1.7.1 (c (n "elm-parser") (v "1.7.1") (d (list (d (n "cps") (r "^0.2.3") (d #t) (k 0)) (d (n "leptos") (r "^0.4") (f (quote ("csr"))) (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "013y4zhzbw5s47d2q2z1pj3fgrik3fdbx40756mnckhr8yc451b9")))
 
+(define-public crate-elm-parser-2.0.0 (c (n "elm-parser") (v "2.0.0") (d (list (d (n "cps") (r "^0.2.3") (d #t) (k 0)) (d (n "leptos") (r "^0.4") (f (quote ("csr"))) (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.0") (d #t) (k 0)) (d (n "select") (r "^0.6.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "0lc3ix7kay8gdk9jc5k0fyynxhq7kmk5hljbj5704x1id4csymah")))
+

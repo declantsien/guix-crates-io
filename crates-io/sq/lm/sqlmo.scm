@@ -56,3 +56,5 @@
 
 (define-public crate-sqlmo-0.16.4 (c (n "sqlmo") (v "0.16.4") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "serde") (r "^1.0.171") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (o #t) (d #t) (k 0)))) (h "10dy33isc8r1q7xjn2qd46vn16slqy48cvzmx4f3llpahqkm81xv")))
 
+(define-public crate-sqlmo-0.17.0 (c (n "sqlmo") (v "0.17.0") (d (list (d (n "anyhow") (r "^1.0.72") (d #t) (k 0)) (d (n "serde") (r "^1.0.171") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (o #t) (d #t) (k 0)))) (h "1ds4jwna7wsbpb8cif4d46b7mfv53smi3cjpn7xwwrzhaa32wql0")))
+
