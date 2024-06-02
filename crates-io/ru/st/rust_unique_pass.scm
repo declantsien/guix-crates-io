@@ -16,3 +16,5 @@
 
 (define-public crate-rust_unique_pass-0.8.0 (c (n "rust_unique_pass") (v "0.8.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "fluent") (r "^0.16.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rust-embed") (r "^8.4.0") (f (quote ("include-exclude"))) (d #t) (k 0)) (d (n "unic-langid") (r "^0.9.5") (d #t) (k 0)) (d (n "zxcvbn") (r "^2.2.2") (d #t) (k 0)))) (h "0s5n3vzvs1pcdsyy5lq8acbb99fggppqyjgjvp75gvs311rg5qn3")))
 
+(define-public crate-rust_unique_pass-0.8.1 (c (n "rust_unique_pass") (v "0.8.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "fluent") (r "^0.16.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rust-embed") (r "^8.4.0") (f (quote ("include-exclude"))) (d #t) (k 0)) (d (n "unic-langid") (r "^0.9.5") (d #t) (k 0)) (d (n "zxcvbn") (r "^3.0.1") (d #t) (k 0)))) (h "0gi78li3va233306w3832qymqryyxn5n0b9rf7gn49q5nnzf2kq8")))
+
