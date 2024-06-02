@@ -30,3 +30,5 @@
 
 (define-public crate-demand-1.2.3 (c (n "demand") (v "1.2.3") (d (list (d (n "console") (r "^0.15.8") (d #t) (k 0)) (d (n "ctor") (r "^0.2.8") (d #t) (k 2)) (d (n "indoc") (r "^2.0.5") (d #t) (k 2)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)))) (h "02qdylzb94yzg3fm7pvwj1asbmjs3ql97ddblavdifx68iwasryi")))
 
+(define-public crate-demand-1.2.4 (c (n "demand") (v "1.2.4") (d (list (d (n "console") (r "^0.15.8") (d #t) (k 0)) (d (n "ctor") (r "^0.2.8") (d #t) (k 2)) (d (n "indoc") (r "^2.0.5") (d #t) (k 2)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "termcolor") (r "^1.1") (d #t) (k 0)))) (h "02nvf2nkwl3ammgqxdnb8ib72a7irq542r2pcyswdl6s8kyma4li")))
+

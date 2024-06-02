@@ -164,3 +164,5 @@
 
 (define-public crate-refs-0.8.4 (c (n "refs") (v "0.8.4") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serial_test") (r "^3.1") (d #t) (k 2)) (d (n "vents") (r "^0.5") (d #t) (k 2)))) (h "0dd1n2spjd8llfhicrdn6hym5c1zjv2dym2ycisj40x72b56mxck") (f (quote (("default" "checks") ("checks"))))))
 
+(define-public crate-refs-0.8.5 (c (n "refs") (v "0.8.5") (d (list (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serial_test") (r "^3.1") (d #t) (k 2)) (d (n "vents") (r "^0.5") (d #t) (k 2)))) (h "0s5m4d4wm7frnhv5wkvj8ivklj269k618g1rb1n38yhyrq7yrwbd") (f (quote (("default" "checks") ("checks"))))))
+
