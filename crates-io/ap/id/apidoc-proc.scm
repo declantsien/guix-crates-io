@@ -32,3 +32,5 @@
 
 (define-public crate-apidoc-proc-0.2.6 (c (n "apidoc-proc") (v "0.2.6") (d (list (d (n "apidoc-expand") (r "^0.2.6") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2.0") (o #t) (d #t) (k 0)))) (h "0ai3fmwr25rjq3q1zhlfm1p9l5ylvzjzfrfjq0jkap9b91wvh1fv") (f (quote (("generate" "apidoc-expand" "syn"))))))
 
+(define-public crate-apidoc-proc-0.2.7 (c (n "apidoc-proc") (v "0.2.7") (d (list (d (n "apidoc-expand") (r "^0.2.7") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2.0") (o #t) (d #t) (k 0)))) (h "0dzj3wxv2r6mxlr1w6mqvzpa0p3mnygid1i1jkzql3bxzdm6z1bg") (f (quote (("generate" "apidoc-expand" "syn"))))))
+

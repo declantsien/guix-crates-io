@@ -32,3 +32,5 @@
 
 (define-public crate-apidoc-core-0.2.6 (c (n "apidoc-core") (v "0.2.6") (d (list (d (n "apidoc-attr") (r "^0.2.6") (f (quote ("core"))) (d #t) (k 0)) (d (n "roadblk-attr") (r "^0.1.8") (f (quote ("core"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0n4z12yxbgbw6piwdkgyw57dvs4by25frgdlrr665jhbaqmn3wvz")))
 
+(define-public crate-apidoc-core-0.2.7 (c (n "apidoc-core") (v "0.2.7") (d (list (d (n "apidoc-attr") (r "^0.2.7") (f (quote ("core"))) (d #t) (k 0)) (d (n "roadblk-attr") (r "^0.2.0") (f (quote ("core"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "05f288y9wh7fyjp0c3bivqgx586c5krnri07b0l6ywng3v0djr24")))
+

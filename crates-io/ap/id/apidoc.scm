@@ -34,3 +34,5 @@
 
 (define-public crate-apidoc-0.2.7 (c (n "apidoc") (v "0.2.7") (d (list (d (n "apidoc-attr") (r "^0.2.6") (f (quote ("core"))) (d #t) (k 0)) (d (n "apidoc-core") (r "^0.2.6") (d #t) (k 0)) (d (n "apidoc-expand") (r "^0.2.6") (d #t) (k 2)) (d (n "apidoc-proc") (r "^0.2.6") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 2)))) (h "00m8d6mj33k2rjpanpyy67v9q4ym8lmibdb8yc681vrairh51v1z") (f (quote (("generate" "apidoc-proc/generate"))))))
 
+(define-public crate-apidoc-0.2.8 (c (n "apidoc") (v "0.2.8") (d (list (d (n "apidoc-attr") (r "^0.2.7") (f (quote ("core"))) (d #t) (k 0)) (d (n "apidoc-core") (r "^0.2.7") (d #t) (k 0)) (d (n "apidoc-expand") (r "^0.2.7") (d #t) (k 2)) (d (n "apidoc-proc") (r "^0.2.7") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 2)))) (h "1pq15aa8ry5fjfl85cpjn9483143kh4bvmzl9dih0n7vh22w5y7w") (f (quote (("generate" "apidoc-proc/generate"))))))
+

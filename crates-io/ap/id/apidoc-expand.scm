@@ -32,3 +32,5 @@
 
 (define-public crate-apidoc-expand-0.2.6 (c (n "apidoc-expand") (v "0.2.6") (d (list (d (n "apidoc-attr") (r "^0.2.6") (f (quote ("proc"))) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "procmeta") (r "^0.3.5") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "roadblk-attr") (r "^0.1.8") (f (quote ("proc"))) (d #t) (k 0)) (d (n "roadblk-expand") (r "^0.1.8") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "0xwaxm5vq0nslrrnl7ghg7m3jy8z2c6g5rskw8x8jaw1xgi94w1d")))
 
+(define-public crate-apidoc-expand-0.2.7 (c (n "apidoc-expand") (v "0.2.7") (d (list (d (n "apidoc-attr") (r "^0.2.7") (f (quote ("proc"))) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "procmeta") (r "^0.3.5") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "roadblk-attr") (r "^0.2.0") (f (quote ("proc"))) (d #t) (k 0)) (d (n "roadblk-expand") (r "^0.2.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "0lnn8rjmww121gqvifl08bz1pymnmqqf72fmfy708yjrx54f983y")))
+
