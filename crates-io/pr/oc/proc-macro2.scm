@@ -280,3 +280,5 @@
 
 (define-public crate-proc-macro2-1.0.84 (c (n "proc-macro2") (v "1.0.84") (d (list (d (n "flate2") (r "^1.0") (d #t) (k 2)) (d (n "quote") (r "^1.0") (k 2)) (d (n "rayon") (r "^1.0") (d #t) (k 2)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "tar") (r "^0.4") (d #t) (k 2)) (d (n "unicode-ident") (r "^1.0") (d #t) (k 0)))) (h "1mj998115z75c0007glkdr8qj57ibv82h7kg6r8hnc914slwd5pc") (f (quote (("span-locations") ("proc-macro") ("nightly") ("default" "proc-macro")))) (r "1.56")))
 
+(define-public crate-proc-macro2-1.0.85 (c (n "proc-macro2") (v "1.0.85") (d (list (d (n "flate2") (r "^1.0") (d #t) (k 2)) (d (n "quote") (r "^1.0") (k 2)) (d (n "rayon") (r "^1.0") (d #t) (k 2)) (d (n "rustversion") (r "^1") (d #t) (k 2)) (d (n "tar") (r "^0.4") (d #t) (k 2)) (d (n "unicode-ident") (r "^1.0") (d #t) (k 0)))) (h "08zwg5l5f3czp62g4cvzgjwnk176lsrwq6kdi4x0arm9bbhlq912") (f (quote (("span-locations") ("proc-macro") ("nightly") ("default" "proc-macro")))) (r "1.56")))
+

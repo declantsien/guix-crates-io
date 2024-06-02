@@ -1,0 +1,4 @@
+(define-module (crates-io co nr conrig) #:use-module (crates-io))
+
+(define-public crate-conrig-0.0.0 (c (n "conrig") (v "0.0.0") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.203") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.117") (o #t) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (o #t) (d #t) (k 0)))) (h "01bhgb74pcwnivv5q6ngwg5nax0yjpbf9md5fivs94hh7q6pi0h7") (f (quote (("yaml" "serde_yaml") ("json" "serde_json") ("full-desc") ("default" "all-format" "full-desc") ("collapse-io-error") ("all-format" "ron" "yaml" "json" "toml"))))))
+
