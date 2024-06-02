@@ -104,3 +104,5 @@
 
 (define-public crate-ra-ap-rustc_lexer-0.54.0 (c (n "ra-ap-rustc_lexer") (v "0.54.0") (d (list (d (n "expect-test") (r "^1.4.0") (d #t) (k 2)) (d (n "unicode-properties") (r "^0.1.0") (f (quote ("emoji"))) (k 0)) (d (n "unicode-xid") (r "^0.2.0") (d #t) (k 0)))) (h "1frl4fhwr31imffsys5v30z7vf4j1z9rlb1fpg99wlm6h3jpi5ck")))
 
+(define-public crate-ra-ap-rustc_lexer-0.55.0 (c (n "ra-ap-rustc_lexer") (v "0.55.0") (d (list (d (n "expect-test") (r "^1.4.0") (d #t) (k 2)) (d (n "unicode-properties") (r "^0.1.0") (f (quote ("emoji"))) (k 0)) (d (n "unicode-xid") (r "^0.2.0") (d #t) (k 0)))) (h "1s6wrk06v8zriqm4qn2kzs2410xr37xsmah7zny746zlm2sq3y7q")))
+

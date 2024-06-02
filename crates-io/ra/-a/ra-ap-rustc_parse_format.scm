@@ -86,3 +86,5 @@
 
 (define-public crate-ra-ap-rustc_parse_format-0.54.0 (c (n "ra-ap-rustc_parse_format") (v "0.54.0") (d (list (d (n "rustc_index") (r "^0.54.0") (k 0) (p "ra-ap-rustc_index")) (d (n "rustc_lexer") (r "^0.54.0") (d #t) (k 0) (p "ra-ap-rustc_lexer")))) (h "1pa40ha8xvkg2yi9v0q3di0paw3hqmp93djs3zn82vvc40ps8sz9")))
 
+(define-public crate-ra-ap-rustc_parse_format-0.55.0 (c (n "ra-ap-rustc_parse_format") (v "0.55.0") (d (list (d (n "rustc_index") (r "^0.55.0") (k 0) (p "ra-ap-rustc_index")) (d (n "rustc_lexer") (r "^0.55.0") (d #t) (k 0) (p "ra-ap-rustc_lexer")))) (h "15l5yh794qm9v7jk0gy6p7m5l074qkz28354apyaar34amc5s1in")))
+

@@ -10,3 +10,5 @@
 
 (define-public crate-tree-sitter-arduino-0.21.0 (c (n "tree-sitter-arduino") (v "0.21.0") (d (list (d (n "cc") (r "^1.0.90") (d #t) (k 1)) (d (n "tree-sitter") (r "^0.22.2") (d #t) (k 0)))) (h "0a5064mc49f2rvg60qrlrh51iy8qc41i6hqql0mzmd8wg3h2v4w5")))
 
+(define-public crate-tree-sitter-arduino-0.21.1 (c (n "tree-sitter-arduino") (v "0.21.1") (d (list (d (n "cc") (r "^1.0.90") (d #t) (k 1)) (d (n "tree-sitter") (r "^0.22.2") (d #t) (k 0)))) (h "12wxabh8hqwlzpmyn2ahjd7dd7byz8w0zqcnz44lhbj01mqnq8cn")))
+

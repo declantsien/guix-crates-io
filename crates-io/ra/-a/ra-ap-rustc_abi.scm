@@ -86,3 +86,5 @@
 
 (define-public crate-ra-ap-rustc_abi-0.54.0 (c (n "ra-ap-rustc_abi") (v "0.54.0") (d (list (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (o #t) (k 0)) (d (n "rand_xoshiro") (r "^0.6.0") (o #t) (d #t) (k 0)) (d (n "rustc_index") (r "^0.54.0") (k 0) (p "ra-ap-rustc_index")) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0m45gvb0xmdmhcav5r497c6qwkwcn7gqfr5dmhdx8kxifzb7hari")))
 
+(define-public crate-ra-ap-rustc_abi-0.55.0 (c (n "ra-ap-rustc_abi") (v "0.55.0") (d (list (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "rand") (r "^0.8.4") (o #t) (k 0)) (d (n "rand_xoshiro") (r "^0.6.0") (o #t) (d #t) (k 0)) (d (n "rustc_index") (r "^0.55.0") (k 0) (p "ra-ap-rustc_index")) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0p83wgaayjrbyfljh9pfbjfd3hkpcgjwjvd7gclh0ns06f0f8kj3")))
+
