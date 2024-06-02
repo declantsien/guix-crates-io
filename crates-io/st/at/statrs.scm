@@ -38,3 +38,5 @@
 
 (define-public crate-statrs-0.16.0 (c (n "statrs") (v "0.16.0") (d (list (d (n "approx") (r "^0.5.0") (d #t) (k 0)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.29") (f (quote ("rand"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)))) (h "0vk9wlimhy6wx9a1hhy2n3knpd2gj8b8pnl1q8y734l1fkhya21d") (f (quote (("nightly"))))))
 
+(define-public crate-statrs-0.16.1 (c (n "statrs") (v "0.16.1") (d (list (d (n "approx") (r "^0.5.0") (d #t) (k 0)) (d (n "criterion") (r "^0.3.3") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.29") (f (quote ("rand"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2.14") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)))) (h "08bp7n3rwk41r11ynwl5x7xdc9cv85zw4r7ww117mhfsp8nhcnmk") (f (quote (("nightly"))))))
+
