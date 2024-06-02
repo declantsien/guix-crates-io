@@ -10,3 +10,5 @@
 
 (define-public crate-a121-sys-0.2.0 (c (n "a121-sys") (v "0.2.0") (d (list (d (n "bindgen") (r "^0.69") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)))) (h "106wkg27n6s7b241lpkrzc4xhkd23yq34dcrk8k5nb5r56lj5vwl") (f (quote (("presence") ("distance")))) (r "1.75")))
 
+(define-public crate-a121-sys-0.3.0 (c (n "a121-sys") (v "0.3.0") (d (list (d (n "bindgen") (r "^0.69") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)))) (h "0xami7vsqk548jhx25xpmf70lbcmk7cdn3rrl694jgaylc5l0gmm") (f (quote (("stub_library") ("presence") ("distance")))) (r "1.75")))
+
