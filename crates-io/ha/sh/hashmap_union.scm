@@ -6,3 +6,5 @@
 
 (define-public crate-hashmap_union-0.3.0 (c (n "hashmap_union") (v "0.3.0") (h "1x9xf47m3p1qy2z2v17rq42kjvqypiza0r1hbcf76xj2nq3gh4ls")))
 
+(define-public crate-hashmap_union-0.3.1 (c (n "hashmap_union") (v "0.3.1") (h "1jkhy733d3y9kafd5x53ph2ak812almivylgyrkqf5rk4y4vyzn7")))
+

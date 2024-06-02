@@ -38,3 +38,5 @@
 
 (define-public crate-serror-0.3.4 (c (n "serror") (v "0.3.4") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "axum") (r "^0.7.5") (f (quote ("macros"))) (o #t) (d #t) (k 0)) (d (n "axum-extra") (r "^0.9.3") (f (quote ("typed-header"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)))) (h "1a7cz5al1n6x4ylcp05crqc0nh3dxpgqycvvgv168jggfk931i66") (f (quote (("default" "axum")))) (s 2) (e (quote (("axum" "dep:axum" "dep:axum-extra"))))))
 
+(define-public crate-serror-0.3.5 (c (n "serror") (v "0.3.5") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "axum") (r "^0.7.5") (f (quote ("macros"))) (o #t) (d #t) (k 0)) (d (n "axum-extra") (r "^0.9.3") (f (quote ("typed-header"))) (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)))) (h "0fr5fywgd22951nvqbkzwnkbicachylmxxml3b2rm6h5icgxdhnl") (f (quote (("default" "axum")))) (s 2) (e (quote (("axum" "dep:axum" "dep:axum-extra"))))))
+
