@@ -72,3 +72,5 @@
 
 (define-public crate-hugo-build-0.126.2 (c (n "hugo-build") (v "0.126.2") (d (list (d (n "flate2") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)))) (h "1gqh2n0m90fjf3544ab81xfdqjnn38d3h7ddc63nc61bbqbmc8rp") (r "1.65")))
 
+(define-public crate-hugo-build-0.126.3 (c (n "hugo-build") (v "0.126.3") (d (list (d (n "flate2") (r "^1") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("blocking"))) (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)))) (h "0prgmhvir20bq1w6b2cb647yvg3idr78k1k6fpbpkrvcv5wrglwj") (r "1.65")))
+
