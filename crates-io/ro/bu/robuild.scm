@@ -6,3 +6,5 @@
 
 (define-public crate-robuild-0.0.3 (c (n "robuild") (v "0.0.3") (h "12r5kghynwzfslysfpss4kbxcc4bgqxh8w0a3gmaqkzpisngn02h") (r "1.56.0")))
 
+(define-public crate-robuild-0.0.4 (c (n "robuild") (v "0.0.4") (h "1kvgmd0k092x5cmp7fwz5r98gjr5zf5p5524q8s5pf9km14nn2a6") (r "1.56.0")))
+
