@@ -56,3 +56,5 @@
 
 (define-public crate-pokemon-rs-1.6.3 (c (n "pokemon-rs") (v "1.6.3") (d (list (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "0552yyndfhl79zgrrszk0b365w1mqgvgslkjngbmr46dnzky089p")))
 
+(define-public crate-pokemon-rs-1.6.4 (c (n "pokemon-rs") (v "1.6.4") (d (list (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "06ba5qsj50nvni0yrsrmpzdha1map2bb885ji0j5iqi10kha1f4i")))
+
