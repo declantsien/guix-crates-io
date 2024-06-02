@@ -98,3 +98,5 @@
 
 (define-public crate-server_fn_macro_default-0.7.0-preview2 (c (n "server_fn_macro_default") (v "0.7.0-preview2") (d (list (d (n "server_fn_macro") (r "^0.7.0-preview2") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "0faki7f5dbsj5r2dsfxpp3hql8dv8m1y498gsiigi2miyh0iqhv7") (f (quote (("ssr" "server_fn_macro/ssr") ("nightly" "server_fn_macro/nightly") ("axum" "server_fn_macro/axum") ("actix" "server_fn_macro/actix"))))))
 
+(define-public crate-server_fn_macro_default-0.6.12 (c (n "server_fn_macro_default") (v "0.6.12") (d (list (d (n "server_fn_macro") (r "^0.6.12") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "1rhs3zp05ha5k0d1xq72zwfri67crgwzxwkraxhfm1gcjzr3sy00") (f (quote (("ssr" "server_fn_macro/ssr") ("nightly" "server_fn_macro/nightly") ("axum" "server_fn_macro/axum") ("actix" "server_fn_macro/actix"))))))
+

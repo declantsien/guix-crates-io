@@ -4,3 +4,5 @@
 
 (define-public crate-goldboot-macros-0.0.2 (c (n "goldboot-macros") (v "0.0.2") (d (list (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.39") (d #t) (k 0)))) (h "0l1lrl1b1m2sa76jnvr5pl8ywf4nikaz9j3pnkyph9y8wvih5x4r") (r "1.74")))
 
+(define-public crate-goldboot-macros-0.0.3 (c (n "goldboot-macros") (v "0.0.3") (d (list (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.39") (d #t) (k 0)))) (h "1344zxxvj8gw6ib4hl8gf0h3l13r8x11jhz5jiisvyvk06168c4v") (r "1.74")))
+

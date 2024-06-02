@@ -102,3 +102,5 @@
 
 (define-public crate-leptos_integration_utils-0.6.11 (c (n "leptos_integration_utils") (v "0.6.11") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "leptos") (r "^0.6.11") (f (quote ("ssr"))) (d #t) (k 0)) (d (n "leptos_config") (r "^0.6.11") (d #t) (k 0)) (d (n "leptos_hot_reload") (r "^0.6.11") (d #t) (k 0)) (d (n "leptos_meta") (r "^0.6.11") (f (quote ("ssr"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0jyax8iyrs756anqpxyijfg93s23fb9796xs2p531b72wfph9xd1") (f (quote (("experimental-islands")))) (r "1.75")))
 
+(define-public crate-leptos_integration_utils-0.6.12 (c (n "leptos_integration_utils") (v "0.6.12") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "leptos") (r "^0.6.12") (f (quote ("ssr"))) (d #t) (k 0)) (d (n "leptos_config") (r "^0.6.12") (d #t) (k 0)) (d (n "leptos_hot_reload") (r "^0.6.12") (d #t) (k 0)) (d (n "leptos_meta") (r "^0.6.12") (f (quote ("ssr"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0gc0lci3szm1vqjyf6jdr1pcdksddrf8ixd7wrp52ay4qdn2b9if") (f (quote (("experimental-islands")))) (r "1.75")))
+

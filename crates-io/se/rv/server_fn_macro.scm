@@ -100,3 +100,5 @@
 
 (define-public crate-server_fn_macro-0.7.0-preview2 (c (n "server_fn_macro") (v "0.7.0-preview2") (d (list (d (n "const_format") (r "^0.2.30") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "parsing" "extra-traits"))) (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8.6") (f (quote ("const_xxh64"))) (d #t) (k 0)))) (h "0x2brp4y1fqm0lz8braj7q7b23i8cncn4gcq34vfizrg8p07n7cp") (f (quote (("ssr") ("reqwest") ("nightly") ("axum") ("actix"))))))
 
+(define-public crate-server_fn_macro-0.6.12 (c (n "server_fn_macro") (v "0.6.12") (d (list (d (n "const_format") (r "^0.2.30") (d #t) (k 0)) (d (n "convert_case") (r "^0.6.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "parsing" "extra-traits"))) (d #t) (k 0)) (d (n "xxhash-rust") (r "^0.8.6") (f (quote ("const_xxh64"))) (d #t) (k 0)))) (h "0g0pijsb371q9sz6kcphmlv1hnl77ik3qr4p2car1j0s3jxidhh9") (f (quote (("ssr") ("reqwest") ("nightly") ("axum") ("actix"))))))
+

@@ -14,3 +14,5 @@
 
 (define-public crate-leaper-0.2.2 (c (n "leaper") (v "0.2.2") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("cargo"))) (d #t) (k 0)))) (h "1vcp31xngxd4kgv920p12gpivv12dxcvkh9ab28b5gjf89nh6w5i")))
 
+(define-public crate-leaper-0.3.0 (c (n "leaper") (v "0.3.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("cargo"))) (d #t) (k 0)))) (h "0w5a8jmb0xjm6cx1ax9az0ymhmgq476gqlrxbyr0q2lnvv5rgwzb")))
+

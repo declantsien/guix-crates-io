@@ -10,3 +10,5 @@
 
 (define-public crate-nozomi-2.0.1 (c (n "nozomi") (v "2.0.1") (d (list (d (n "env_logger") (r "^0.11.2") (d #t) (k 0)) (d (n "error-stack") (r "^0.4.1") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "18kpdxdqji5xyzvvikkk0jwxflin5bj2ss640chr9c2wiac383xf")))
 
+(define-public crate-nozomi-3.0.0 (c (n "nozomi") (v "3.0.0") (d (list (d (n "error-stack") (r "^0.4.1") (o #t) (d #t) (k 0)) (d (n "log") (r "^0.4.21") (o #t) (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "0n2j93x0ni4lqxmng99wc4dg12w7dwi99np3ch2kjrgnp93whxk5") (s 2) (e (quote (("secure_log" "log" "dep:md5") ("log" "dep:log") ("error-stack" "dep:error-stack"))))))
+

@@ -18,3 +18,5 @@
 
 (define-public crate-dns-bench-0.5.1 (c (n "dns-bench") (v "0.5.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("std" "derive"))) (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "hickory-resolver") (r "^0.24.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.201") (f (quote ("derive"))) (k 0)) (d (n "tabled") (r "^0.15.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "0zi2cidb926mrry7y7jr31bpn9c2giw1b14n63qj0k4b6826j38c") (r "1.74.1")))
 
+(define-public crate-dns-bench-0.6.0 (c (n "dns-bench") (v "0.6.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("std" "derive"))) (d #t) (k 0)) (d (n "directories") (r "^5.0.1") (d #t) (k 0)) (d (n "hickory-resolver") (r "^0.24.1") (d #t) (k 0)) (d (n "indicatif") (r "^0.17.8") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (k 0)) (d (n "tabled") (r "^0.15.0") (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)))) (h "1s057mvi7svj0qjhiz7mcnm353g2i8z50lzcqyj2m69hk5p878s7") (r "1.74.1")))
+
