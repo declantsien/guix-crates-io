@@ -1,0 +1,4 @@
+(define-module (crates-io eg ui egui_ratatui) #:use-module (crates-io))
+
+(define-public crate-egui_ratatui-0.0.1 (c (n "egui_ratatui") (v "0.0.1") (d (list (d (n "argh") (r "^0.1.12") (d #t) (k 2)) (d (n "eframe") (r "^0.27.2") (f (quote ("accesskit" "default_fonts" "glow" "persistence"))) (o #t) (k 0)) (d (n "egui") (r "^0.27.2") (d #t) (k 0)) (d (n "env_logger") (r "^0.10") (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (k 2)) (d (n "ratatui") (r "^0.26.2") (k 0)) (d (n "wasm-bindgen-futures") (r "^0.4") (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "web-time") (r "^1") (d #t) (k 0)))) (h "12lmv5i69b4kzpf7pfwhm0nc3a0961dy77zl6j6bdv2ybjaywh7x") (f (quote (("default" "eframe")))) (r "1.76")))
+
