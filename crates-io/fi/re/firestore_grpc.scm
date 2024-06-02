@@ -324,3 +324,5 @@
 
 (define-public crate-firestore_grpc-0.217.0 (c (n "firestore_grpc") (v "0.217.0") (d (list (d (n "prost") (r "^0.9") (d #t) (k 0)) (d (n "prost-types") (r "^0.9") (d #t) (k 0)) (d (n "tonic") (r "^0.6") (f (quote ("tls" "tls-roots"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.6") (d #t) (k 1)))) (h "1j5ffnslb8s66mhyba0snn2c6v4fj2y9xzs8aqbyjvb7iy03bv8l")))
 
+(define-public crate-firestore_grpc-0.218.0 (c (n "firestore_grpc") (v "0.218.0") (d (list (d (n "prost") (r "^0.9") (d #t) (k 0)) (d (n "prost-types") (r "^0.9") (d #t) (k 0)) (d (n "tonic") (r "^0.6") (f (quote ("tls" "tls-roots"))) (d #t) (k 0)) (d (n "tonic-build") (r "^0.6") (d #t) (k 1)))) (h "183ffyym4qd24jl3gayf34sh4isa86fsmy8yp8sks2n10li29xzi")))
+

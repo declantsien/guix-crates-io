@@ -26,3 +26,5 @@
 
 (define-public crate-lunka-0.6.1 (c (n "lunka") (v "0.6.1") (d (list (d (n "allocator-api2") (r "^0.2.16") (f (quote ("alloc"))) (k 0)))) (h "0m0r47ij197jlc2b9ygq0n1z1ip41xc0bahq2lbmp8cinn56fs57") (f (quote (("use-32-bits") ("stdlibs") ("link-static" "link-lua54") ("link-lua54") ("default" "auxlib" "stdlibs" "link-lua54") ("auxlib"))))))
 
+(define-public crate-lunka-0.7.0 (c (n "lunka") (v "0.7.0") (d (list (d (n "allocator-api2") (r "^0.2.16") (f (quote ("alloc"))) (k 0)))) (h "0n78pw865h2ipd31dqg36nl6wh4ck8aln5kk0mvwn1nma4qhzrgr") (f (quote (("use-32-bits") ("stdlibs") ("link-static" "link-lua54") ("link-lua54") ("default" "auxlib" "stdlibs" "link-lua54") ("auxlib"))))))
+

@@ -18,3 +18,5 @@
 
 (define-public crate-libcdio-sys-0.5.0 (c (n "libcdio-sys") (v "0.5.0") (d (list (d (n "bindgen") (r "^0.63") (d #t) (k 1)))) (h "1zm1nn1m9zd6a537hvsbaaa4wy8y2k6m5rmm71kgc7s68rd02c27") (f (quote (("udf") ("iso9660") ("default" "cdio" "iso9660" "udf") ("cdio"))))))
 
+(define-public crate-libcdio-sys-0.5.1 (c (n "libcdio-sys") (v "0.5.1") (d (list (d (n "bindgen") (r "^0.69") (d #t) (k 1)))) (h "0j812ggg2p6hxwwaqfdgrfsz21mn2kzr28hysv21fb8isqd8gicr") (f (quote (("udf") ("iso9660") ("default" "cdio" "iso9660" "udf") ("cdio"))))))
+
