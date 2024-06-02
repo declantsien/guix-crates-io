@@ -16,3 +16,5 @@
 
 (define-public crate-roadblk-proc-0.1.8 (c (n "roadblk-proc") (v "0.1.8") (d (list (d (n "roadblk-expand") (r "^0.1.8") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "021db15ylhj0zvy7pmw2ghyjspzvnd468z7b6aj440vrlvfx4lxv")))
 
+(define-public crate-roadblk-proc-0.2.0 (c (n "roadblk-proc") (v "0.2.0") (d (list (d (n "roadblk-expand") (r "^0.2.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "0k78gygqkxj0q032is9ld9wrjg9g4833k0nkxccw9zmf4221i0p1")))
+

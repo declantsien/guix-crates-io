@@ -18,3 +18,5 @@
 
 (define-public crate-roadblk-core-0.1.8 (c (n "roadblk-core") (v "0.1.8") (d (list (d (n "lazy-regex") (r "^3.0") (d #t) (k 0)) (d (n "roadblk-attr") (r "^0.1.8") (f (quote ("core"))) (d #t) (k 0)))) (h "1sv28sscxrjbhfwcrzai5viazm1s46afmwhhllvmfgs3dv5psj19")))
 
+(define-public crate-roadblk-core-0.2.0 (c (n "roadblk-core") (v "0.2.0") (d (list (d (n "lazy-regex") (r "^3.1") (d #t) (k 0)) (d (n "roadblk-attr") (r "^0.2.0") (f (quote ("core"))) (d #t) (k 0)))) (h "18qazqnv6b7yrscb0zxayfjqif85wbqasiwzcawpc19mzijl64qh")))
+

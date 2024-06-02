@@ -16,3 +16,5 @@
 
 (define-public crate-roadblk-0.1.8 (c (n "roadblk") (v "0.1.8") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 2)) (d (n "procmeta") (r "^0.3.2") (d #t) (k 2)) (d (n "quote") (r "^1.0") (d #t) (k 2)) (d (n "roadblk-attr") (r "^0.1.8") (f (quote ("core"))) (d #t) (k 0)) (d (n "roadblk-core") (r "^0.1.8") (d #t) (k 0)) (d (n "roadblk-expand") (r "^0.1.8") (d #t) (k 2)) (d (n "roadblk-proc") (r "^0.1.8") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 2)))) (h "15hd34xmlk25z232nn1hqmmcy550z4czlhn0a77wgqiilwv6lw5v")))
 
+(define-public crate-roadblk-0.2.0 (c (n "roadblk") (v "0.2.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 2)) (d (n "procmeta") (r "^0.3.2") (d #t) (k 2)) (d (n "quote") (r "^1.0") (d #t) (k 2)) (d (n "roadblk-attr") (r "^0.2.0") (f (quote ("core"))) (d #t) (k 0)) (d (n "roadblk-core") (r "^0.2.0") (d #t) (k 0)) (d (n "roadblk-expand") (r "^0.2.0") (d #t) (k 2)) (d (n "roadblk-proc") (r "^0.2.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 2)))) (h "077c5hgfp8bqb8lnvsnqb40rqp790cz1d2424bc0jd80xp1nyvaz")))
+

@@ -18,3 +18,5 @@
 
 (define-public crate-roadblk-attr-0.1.9 (c (n "roadblk-attr") (v "0.1.9") (d (list (d (n "procmeta") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "109n514npsnl3jdd7jjhh0pd77fi9vkzi69pcjdaq1dszad61wx6") (f (quote (("proc" "procmeta") ("core" "serde"))))))
 
+(define-public crate-roadblk-attr-0.2.0 (c (n "roadblk-attr") (v "0.2.0") (d (list (d (n "procmeta") (r "^0.3.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1nrvigd1a56i99azq5a9kq3aklcz94g0sgccv3z7rq575h6sx2v8") (f (quote (("proc" "procmeta") ("core" "serde"))))))
+
