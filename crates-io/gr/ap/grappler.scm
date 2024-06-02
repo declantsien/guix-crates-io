@@ -6,3 +6,5 @@
 
 (define-public crate-grappler-0.1.2 (c (n "grappler") (v "0.1.2") (d (list (d (n "grappler-core") (r "^0.1.2") (d #t) (k 0)) (d (n "grappler-macros") (r "^0.1.2") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.96") (d #t) (k 2)))) (h "0ikhbaa8bfx59ffxirl31q4028lrra24smma3bcny5vhr4dqd336")))
 
+(define-public crate-grappler-0.1.3 (c (n "grappler") (v "0.1.3") (d (list (d (n "grappler-core") (r "^0.1.3") (d #t) (k 0)) (d (n "grappler-macros") (r "^0.1.3") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.96") (d #t) (k 2)))) (h "0dq1a9f77cxpkb4vwyi1mn5q9v7jc54rdwy5j4h8wjb0m6yjq2aj")))
+

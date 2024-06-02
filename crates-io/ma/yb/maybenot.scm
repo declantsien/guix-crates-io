@@ -10,3 +10,5 @@
 
 (define-public crate-maybenot-1.1.1 (c (n "maybenot") (v "1.1.1") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "libflate") (r "^2.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)) (d (n "ring") (r "^0.16.20") (d #t) (k 0)) (d (n "serde") (r "^1.0.185") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simple-error") (r "^0.3.0") (d #t) (k 0)))) (h "1b8x5iy2v9np9g8aky4nr7x7918g55z6if7hmdyr606p6ibj1zm7")))
 
+(define-public crate-maybenot-1.1.2 (c (n "maybenot") (v "1.1.2") (d (list (d (n "byteorder") (r "^1.4.3") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "libflate") (r "^2.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_distr") (r "^0.4.3") (d #t) (k 0)) (d (n "ring") (r "^0.17.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.185") (f (quote ("derive"))) (d #t) (k 0)) (d (n "simple-error") (r "^0.3.0") (d #t) (k 0)))) (h "0lq1y781cc7q5d10vnjinp7z079a32mb238259rnbscg3hjyl273")))
+

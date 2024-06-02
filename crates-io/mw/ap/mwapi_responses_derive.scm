@@ -32,3 +32,5 @@
 
 (define-public crate-mwapi_responses_derive-0.4.2 (c (n "mwapi_responses_derive") (v "0.4.2") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.2") (d #t) (k 0)))) (h "1fi7nxcckamzf3b957l9lrs1gqnf4shnspqysdi9r677p7la52qj") (r "1.67")))
 
+(define-public crate-mwapi_responses_derive-0.5.0-rc.1 (c (n "mwapi_responses_derive") (v "0.5.0-rc.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0.2") (d #t) (k 0)))) (h "0g10kvfm3aj0d312njzf3klxhvl3piqif4dbyxpp0n3f4jiscjnv") (r "1.73")))
+
