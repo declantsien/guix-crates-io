@@ -8,3 +8,5 @@
 
 (define-public crate-dumpster-0.2.0 (c (n "dumpster") (v "0.2.0") (d (list (d (n "dumpster_derive") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "fastrand") (r "^2.0.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)))) (h "11mqhmaczn34b15drfld9326rb2irfch1h2j1b1d6gjyvnri31xb") (f (quote (("default" "derive") ("coerce-unsized")))) (s 2) (e (quote (("derive" "dep:dumpster_derive"))))))
 
+(define-public crate-dumpster-0.2.1 (c (n "dumpster") (v "0.2.1") (d (list (d (n "dumpster_derive") (r "^0.2.0") (o #t) (d #t) (k 0)) (d (n "fastrand") (r "^2.0.0") (d #t) (k 2)) (d (n "once_cell") (r "^1.18.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)))) (h "0rzyw892x36yqzxnxynvwjxsrf8ikhy2cljzj8z7qabp5n8cjhrs") (f (quote (("default" "derive") ("coerce-unsized")))) (s 2) (e (quote (("derive" "dep:dumpster_derive"))))))
+

@@ -10,3 +10,5 @@
 
 (define-public crate-twibint-0.2.3 (c (n "twibint") (v "0.2.3") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "num-bigint") (r "^0.4") (d #t) (k 2)) (d (n "pyo3") (r "^0.19.0") (f (quote ("extension-module"))) (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "typed_test_gen") (r "^0.1") (d #t) (k 2)))) (h "1y4zcsmhggxr04nxj9q87dqmgm2mw34v41jfbk76p5j0ns5x2zbj") (f (quote (("unsafe") ("default" "unsafe"))))))
 
+(define-public crate-twibint-0.2.4 (c (n "twibint") (v "0.2.4") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "num-bigint") (r "^0.4") (d #t) (k 2)) (d (n "pyo3") (r "^0.19.0") (f (quote ("extension-module"))) (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "typed_test_gen") (r "^0.1") (d #t) (k 2)))) (h "066lalnj3zpjycikckk1fmyfkx7swvsgskap5ldrh89k7qw3j66a") (f (quote (("unsafe") ("default" "unsafe"))))))
+
