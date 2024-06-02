@@ -18,3 +18,5 @@
 
 (define-public crate-field_access_derive-0.1.7 (c (n "field_access_derive") (v "0.1.7") (d (list (d (n "proc-macro2") (r "^1.0.81") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.58") (d #t) (k 0)))) (h "0sp45d3qflix1918mrdsbfabfxwy3xf7y7q29kvw2jshib0a8v6a") (r "1.65.0")))
 
+(define-public crate-field_access_derive-0.1.8 (c (n "field_access_derive") (v "0.1.8") (d (list (d (n "proc-macro2") (r "^1.0.85") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (d #t) (k 0)))) (h "1nd88zc89s03z97vkxynkwm2myljbqw04dwicsyviy3ysb6mszci") (r "1.65.0")))
+

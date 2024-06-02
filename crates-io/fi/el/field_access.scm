@@ -18,3 +18,5 @@
 
 (define-public crate-field_access-0.1.7 (c (n "field_access") (v "0.1.7") (d (list (d (n "field_access_derive") (r "^0.1.7") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.91") (f (quote ("diff"))) (d #t) (k 2)))) (h "04v000p4qjvmf1y14j9r4hmkml0bwd9svisi9x7my7mldwpv15xi") (f (quote (("derive" "field_access_derive") ("default" "alloc" "derive") ("alloc")))) (r "1.65.0")))
 
+(define-public crate-field_access-0.1.8 (c (n "field_access") (v "0.1.8") (d (list (d (n "field_access_derive") (r "^0.1.8") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1.0.15") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.96") (f (quote ("diff"))) (d #t) (k 2)))) (h "0p3534gwmp2rawah7611p4fc963qsh4p2k036wjn4sm5hnvklqky") (f (quote (("derive" "field_access_derive") ("default" "alloc" "derive") ("alloc")))) (r "1.65.0")))
+
