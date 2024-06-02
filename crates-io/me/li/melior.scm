@@ -122,3 +122,5 @@
 
 (define-public crate-melior-0.18.1 (c (n "melior") (v "0.18.1") (d (list (d (n "dashmap") (r "^5.5.3") (d #t) (k 0)) (d (n "indoc") (r "^2.0.5") (d #t) (k 2)) (d (n "insta") (r "^1.38.0") (d #t) (k 2)) (d (n "melior-macro") (r "^0.11.1") (d #t) (k 0)) (d (n "mlir-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)))) (h "1c8fz7mz4qk8czqifz71671lyhd07xf0hdjcbnhypdy06hm9scwr") (f (quote (("ods-dialects"))))))
 
+(define-public crate-melior-0.18.2 (c (n "melior") (v "0.18.2") (d (list (d (n "dashmap") (r "^5.5.3") (d #t) (k 0)) (d (n "indoc") (r "^2.0.5") (d #t) (k 2)) (d (n "insta") (r "^1.39.0") (d #t) (k 2)) (d (n "melior-macro") (r "^0.11.2") (d #t) (k 0)) (d (n "mlir-sys") (r "^0.2.2") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)))) (h "1qfqgf2gwzn0fm7wr7zms93f75b5lzn3hswgajciqvqlm0v4p42z") (f (quote (("ods-dialects"))))))
+
