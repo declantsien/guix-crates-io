@@ -90,3 +90,5 @@
 
 (define-public crate-ra-ap-rustc_macros-0.54.0 (c (n "ra-ap-rustc_macros") (v "0.54.0") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0.9") (f (quote ("full"))) (d #t) (k 0)) (d (n "synstructure") (r "^0.13.0") (d #t) (k 0)))) (h "13gf6sr50jccbvngp9az5adili3crsap8d8h6rsp3yrq78zfak6q")))
 
+(define-public crate-ra-ap-rustc_macros-0.55.0 (c (n "ra-ap-rustc_macros") (v "0.55.0") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0.9") (f (quote ("full"))) (d #t) (k 0)) (d (n "synstructure") (r "^0.13.0") (d #t) (k 0)))) (h "0dfdjb2w27cyq61z0bz1phh93cz1vbair8wv079k0ix3ry5m8hxp")))
+

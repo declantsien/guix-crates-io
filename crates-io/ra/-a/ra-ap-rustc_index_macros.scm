@@ -68,3 +68,5 @@
 
 (define-public crate-ra-ap-rustc_index_macros-0.54.0 (c (n "ra-ap-rustc_index_macros") (v "0.54.0") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0.9") (f (quote ("full"))) (d #t) (k 0)) (d (n "synstructure") (r "^0.13.0") (d #t) (k 0)))) (h "1yxf6bmv1j7slw159qkahn57l4k6irr82naldq63bnvmmkiaj5bc") (f (quote (("nightly") ("default" "nightly"))))))
 
+(define-public crate-ra-ap-rustc_index_macros-0.55.0 (c (n "ra-ap-rustc_index_macros") (v "0.55.0") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0.9") (f (quote ("full"))) (d #t) (k 0)) (d (n "synstructure") (r "^0.13.0") (d #t) (k 0)))) (h "0kmd350nnc64fprnv8dmgb827ri16km98gzfib590f2flvz1r5k9") (f (quote (("nightly") ("default" "nightly"))))))
+

@@ -90,3 +90,5 @@
 
 (define-public crate-ra-ap-rustc_serialize-0.54.0 (c (n "ra-ap-rustc_serialize") (v "0.54.0") (d (list (d (n "indexmap") (r "^2.0.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.8.1") (f (quote ("union" "may_dangle"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "thin-vec") (r "^0.2.12") (d #t) (k 0)))) (h "0aqpghlvrqh271qbs82v8kd1nv2k4kz0jpjj49xcp809wsj4zfr4")))
 
+(define-public crate-ra-ap-rustc_serialize-0.55.0 (c (n "ra-ap-rustc_serialize") (v "0.55.0") (d (list (d (n "indexmap") (r "^2.0.0") (d #t) (k 0)) (d (n "smallvec") (r "^1.8.1") (f (quote ("union" "may_dangle"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.2") (d #t) (k 2)) (d (n "thin-vec") (r "^0.2.12") (d #t) (k 0)))) (h "0ksir3hnjlb5b9215az8kdar0k9m5dfa245wkmfavfczazafpmgh")))
+

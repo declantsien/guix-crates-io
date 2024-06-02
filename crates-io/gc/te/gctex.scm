@@ -42,3 +42,5 @@
 
 (define-public crate-gctex-0.3.6 (c (n "gctex") (v "0.3.6") (d (list (d (n "bindgen") (r "^0.66") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (f (quote ("parallel"))) (o #t) (d #t) (k 1)) (d (n "heapless") (r "^0.8.0") (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "0anixawspdmhbg6wk3v8d72v23cvn4yj9gzrff09k7wa1hlhis2a") (f (quote (("simd" "cpp_fallback") ("run_bindgen" "bindgen") ("default" "c_api" "simd") ("cpp_fallback" "cc") ("c_api"))))))
 
+(define-public crate-gctex-0.3.7 (c (n "gctex") (v "0.3.7") (d (list (d (n "bindgen") (r "^0.66") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0.83") (f (quote ("parallel"))) (o #t) (d #t) (k 1)) (d (n "heapless") (r "^0.8.0") (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "08vl0rgbfr2r33dxrlcdz5jgzypbcqlbp86j8j5l3fvw81yrqwhf") (f (quote (("simd" "cpp_fallback") ("run_bindgen" "bindgen") ("default" "c_api" "simd") ("cpp_fallback" "cc") ("c_api"))))))
+
