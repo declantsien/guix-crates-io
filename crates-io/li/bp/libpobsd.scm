@@ -10,3 +10,5 @@
 
 (define-public crate-libpobsd-0.2.0 (c (n "libpobsd") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.35") (f (quote ("serde"))) (d #t) (k 0)) (d (n "hash32") (r "^0.3.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.12") (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "02ph3367dvxqknyhamnfw8g3abqdp3zi6ljq0q9sxn92lrid262c") (f (quote (("default" "serde")))) (s 2) (e (quote (("serde" "dep:serde")))) (r "1.68.0")))
 
+(define-public crate-libpobsd-0.3.0 (c (n "libpobsd") (v "0.3.0") (d (list (d (n "chrono") (r "^0.4.35") (f (quote ("serde"))) (d #t) (k 0)) (d (n "hash32") (r "^0.3.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.12") (d #t) (k 0)) (d (n "regex") (r "^1.7.3") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0gjf13dg143yg9p14qw9z5jixckyzja9b08xhfzmbww35i15pajk") (f (quote (("default" "serde")))) (s 2) (e (quote (("serde" "dep:serde")))) (r "1.68.0")))
+

@@ -6,3 +6,5 @@
 
 (define-public crate-bevy_light_2d-0.1.2 (c (n "bevy_light_2d") (v "0.1.2") (d (list (d (n "bevy") (r "^0.13") (f (quote ("bevy_render" "bevy_core_pipeline" "bevy_winit" "bevy_sprite" "png" "x11"))) (k 0)))) (h "07iqf3b9kpvynlnp9cx9gahqjv4lshz4h1hk7fs0phn7q025py60")))
 
+(define-public crate-bevy_light_2d-0.1.3 (c (n "bevy_light_2d") (v "0.1.3") (d (list (d (n "bevy") (r "^0.13") (f (quote ("bevy_render" "bevy_core_pipeline" "bevy_winit" "bevy_sprite" "png" "x11"))) (k 0)))) (h "1qd1rnrqq0bsmidav0i916hfhyjpkzmwz19j1379hs8a7rczps5q")))
+

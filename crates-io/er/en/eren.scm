@@ -38,3 +38,5 @@
 
 (define-public crate-eren-0.2.9 (c (n "eren") (v "0.2.9") (d (list (d (n "clap") (r "^3.2.25") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "isahc") (r "^1.7.2") (f (quote ("json" "text-decoding"))) (k 0)) (d (n "serde") (r "^1.0.200") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "skim") (r "^0.10.4") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "0fg7rh1mhb5njpv7lx53pzs5h5ndsmjfqjvknv6zhawzwbbcg4b7")))
 
+(define-public crate-eren-0.3.0 (c (n "eren") (v "0.3.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("cargo"))) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "isahc") (r "^1.7.2") (f (quote ("json" "text-decoding"))) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "skim") (r "^0.10.4") (k 0)) (d (n "tokio") (r "^1.38.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "0pcv3xk5avsqjiyg1q689kc75v1ly0libkb685bbvbc8n4sxhnyv")))
+
