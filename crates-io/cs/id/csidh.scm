@@ -4,3 +4,5 @@
 
 (define-public crate-csidh-0.2.0 (c (n "csidh") (v "0.2.0") (d (list (d (n "crypto-bigint") (r "^0.6.0-pre.12") (k 0)) (d (n "oorandom") (r "^11") (d #t) (k 0)))) (h "1yspyxy1l7wkllfsf57ysjy07hc3z9g15l21ykccr00a2453iybb") (r "1.76")))
 
+(define-public crate-csidh-0.3.0 (c (n "csidh") (v "0.3.0") (d (list (d (n "crypto-bigint") (r "^0.6.0-pre.12") (k 0)) (d (n "oorandom") (r "^11") (d #t) (k 0)))) (h "0rcdn3596ij2dyphxag8bmh70ah4hx4s4pkkgz5bv24z6rn8innp") (r "1.78")))
+

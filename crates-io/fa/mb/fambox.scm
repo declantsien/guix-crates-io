@@ -6,3 +6,5 @@
 
 (define-public crate-fambox-0.1.2 (c (n "fambox") (v "0.1.2") (d (list (d (n "bincode") (r "^1.3.3") (k 2)) (d (n "serde") (r "^1.0.200") (o #t) (k 0)) (d (n "serde") (r "^1.0.200") (f (quote ("derive"))) (k 2)) (d (n "version_check") (r "^0.9.4") (d #t) (k 1)))) (h "0sdc3g4mpd58h3hfrk0928lvzk02y1v20kxbspfjmns007w2f56z") (f (quote (("default" "alloc") ("alloc")))) (s 2) (e (quote (("serde" "dep:serde"))))))
 
+(define-public crate-fambox-0.2.0 (c (n "fambox") (v "0.2.0") (d (list (d (n "bincode") (r "^1.3.3") (k 2)) (d (n "serde") (r "^1.0.200") (o #t) (k 0)) (d (n "serde") (r "^1.0.200") (f (quote ("derive"))) (k 2)) (d (n "version_check") (r "^0.9.4") (d #t) (k 1)))) (h "12vyw4qc2ii6kdalr617z3216hb909awyz9fgkjwpd2lbv30lwq9") (f (quote (("default" "alloc") ("alloc")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
