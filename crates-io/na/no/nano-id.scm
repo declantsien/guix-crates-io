@@ -18,3 +18,5 @@
 
 (define-public crate-nano-id-0.3.3 (c (n "nano-id") (v "0.3.3") (d (list (d (n "getrandom") (r "^0.2.11") (d #t) (k 0)))) (h "0m5xzs4y0pqycilifnf18rvdmv8kxmld56l36agpdw9jihhgv7bf") (f (quote (("wasm" "getrandom/js") ("default" "base64") ("base64") ("base62") ("base58"))))))
 
+(define-public crate-nano-id-0.4.0 (c (n "nano-id") (v "0.4.0") (d (list (d (n "getrandom") (r "^0.2") (d #t) (k 0)))) (h "1jnz11dczy71n0qcivv1fsbnakrdgmysr9n8m00fswfxygqfbnra") (f (quote (("wasm" "getrandom/js") ("default" "base64") ("base64") ("base62") ("base58"))))))
+
