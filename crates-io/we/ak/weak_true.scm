@@ -10,3 +10,5 @@
 
 (define-public crate-weak_true-0.1.4 (c (n "weak_true") (v "0.1.4") (h "1kd18sgq2ffzsragzc4yg09v23jr9dp4gqlnv0mfkh2xrczj5bzz")))
 
+(define-public crate-weak_true-0.1.5 (c (n "weak_true") (v "0.1.5") (h "158snfh8d9yv415qkpnhfylv1dayfh6dpsxm53vnfbf8f5qk2m4i")))
+
