@@ -6,3 +6,5 @@
 
 (define-public crate-soft_matrix-1.0.2 (c (n "soft_matrix") (v "1.0.2") (d (list (d (n "keepawake") (r "^0.4.3") (d #t) (k 0)) (d (n "nix") (r "^0.26.4") (f (quote ("user"))) (d #t) (k 0)) (d (n "rustfft") (r "^6.0.1") (d #t) (k 0)) (d (n "wave_stream") (r "^0.5.0") (d #t) (k 0)))) (h "0idvndx1j4jhw01i7k7f5zlh0ffh308vjm6g2b2864ldyx27sd8m")))
 
+(define-public crate-soft_matrix-1.0.3 (c (n "soft_matrix") (v "1.0.3") (d (list (d (n "keepawake") (r "^0.4.3") (d #t) (k 0)) (d (n "nix") (r "^0.26.4") (f (quote ("user"))) (d #t) (k 0)) (d (n "rustfft") (r "^6.0.1") (d #t) (k 0)) (d (n "wave_stream") (r "^0.5.0") (d #t) (k 0)))) (h "1kzd7ggzw6gb76ph8d4qiv5fh3188skzgb0sibn8m843xn31rvzi")))
+
