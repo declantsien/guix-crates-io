@@ -32,3 +32,5 @@
 
 (define-public crate-tree-sitter-earthfile-0.5.2 (c (n "tree-sitter-earthfile") (v "0.5.2") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "tree-sitter") (r "~0.22.1") (d #t) (k 0)))) (h "1qzrbxhzwinqqdqhqafr1zpmyfwjb9n5j5wl4mkpp8alv24qlx39")))
 
+(define-public crate-tree-sitter-earthfile-0.5.3 (c (n "tree-sitter-earthfile") (v "0.5.3") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "tree-sitter") (r "~0.22.1") (d #t) (k 0)))) (h "1qjfmfk6kidafqrlpz4m19wwc4pvc71fyadzsv7p7gqjzzvc6w6g")))
+
