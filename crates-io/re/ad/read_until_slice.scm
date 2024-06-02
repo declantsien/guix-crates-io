@@ -10,3 +10,5 @@
 
 (define-public crate-read_until_slice-0.1.4 (c (n "read_until_slice") (v "0.1.4") (d (list (d (n "pin-project-lite") (r "^0.2") (k 0)) (d (n "tokio") (r "^1.37") (f (quote ("io-util"))) (k 0)) (d (n "tokio") (r "^1.37") (f (quote ("macros" "rt" "net"))) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "0qwbr1ikp0y7i2fjrd25cl3d0rqg6ra3ajwfnxz39lp4qhy4fds1")))
 
+(define-public crate-read_until_slice-0.1.5 (c (n "read_until_slice") (v "0.1.5") (d (list (d (n "pin-project-lite") (r "^0.2") (k 0)) (d (n "tokio") (r "^1.38") (f (quote ("io-util"))) (k 0)) (d (n "tokio") (r "^1.38") (f (quote ("macros" "rt" "net"))) (k 2)) (d (n "tokio-test") (r "^0.4") (d #t) (k 2)))) (h "0qqs7gvrwkzfj8nvj2nsl673h7lvq2ibzqr6bh3gjilscfs20r51")))
+
