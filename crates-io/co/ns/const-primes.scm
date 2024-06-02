@@ -60,3 +60,5 @@
 
 (define-public crate-const-primes-0.7.4 (c (n "const-primes") (v "0.7.4") (d (list (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "1zf91m38rx17yn55ck7rzzghvpp9528rzg30z9lq2k7bqvxfc142") (f (quote (("std"))))))
 
+(define-public crate-const-primes-0.8.0 (c (n "const-primes") (v "0.8.0") (d (list (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "0g0dh4ng8168sgb7ildwawds6vxdy69zs5337cj5xs4qrr76mzb0") (f (quote (("std"))))))
+
