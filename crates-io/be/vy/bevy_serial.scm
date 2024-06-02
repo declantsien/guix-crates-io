@@ -12,3 +12,5 @@
 
 (define-public crate-bevy_serial-0.5.0 (c (n "bevy_serial") (v "0.5.0") (d (list (d (n "bevy") (r "^0.13") (k 0)) (d (n "mio") (r "^0.8") (d #t) (k 0)) (d (n "mio-serial") (r "^5.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "serialport") (r "^4.2") (d #t) (k 0)))) (h "15kqlviy0mi4gk0mqajr5jzk04x2lqjdz3cavbfbkb551x2cfkkf")))
 
+(define-public crate-bevy_serial-0.6.0 (c (n "bevy_serial") (v "0.6.0") (d (list (d (n "bevy") (r "^0.13") (k 0)) (d (n "mio") (r "^0.8") (d #t) (k 0)) (d (n "mio-serial") (r "^5.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "serialport") (r "^4.2") (d #t) (k 0)))) (h "18zgrbihglrh4xy3kh5r0p9gyjr0jny5g71xv5as2pqav8zxpcj7")))
+

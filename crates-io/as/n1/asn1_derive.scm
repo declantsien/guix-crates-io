@@ -78,3 +78,5 @@
 
 (define-public crate-asn1_derive-0.16.1 (c (n "asn1_derive") (v "0.16.1") (d (list (d (n "proc-macro2") (r "^1.0.60") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "16dak48m8zy2fv291dlnz58kym9w11kigqmrqfwhj043kgn1q9z2") (r "1.57.0")))
 
+(define-public crate-asn1_derive-0.16.2 (c (n "asn1_derive") (v "0.16.2") (d (list (d (n "proc-macro2") (r "^1.0.60") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "11y93778dzdfjcl03w07ddg9gq9f18bk2pznn0icq5yc71nhgrjn") (r "1.57.0")))
+

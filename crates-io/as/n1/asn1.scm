@@ -98,3 +98,5 @@
 
 (define-public crate-asn1-0.16.1 (c (n "asn1") (v "0.16.1") (d (list (d (n "asn1_derive") (r "^0.16.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.11") (d #t) (k 2)))) (h "0s2ky345g1bwdpza79d2ncrgilfarh2ycab5j8clcd61ss7xr6l8") (f (quote (("std") ("default" "std")))) (r "1.57.0")))
 
+(define-public crate-asn1-0.16.2 (c (n "asn1") (v "0.16.2") (d (list (d (n "asn1_derive") (r "^0.16.2") (d #t) (k 0)) (d (n "libc") (r "^0.2.11") (d #t) (k 2)))) (h "1ggb140ilik21y4vha7f1p9m795k1aq4mp9adc4n46r8b2hfsb2k") (f (quote (("std") ("default" "std")))) (r "1.57.0")))
+
