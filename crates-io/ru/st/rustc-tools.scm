@@ -18,3 +18,5 @@
 
 (define-public crate-rustc-tools-0.3.3 (c (n "rustc-tools") (v "0.3.3") (d (list (d (n "cargo_metadata") (r "^0.18") (d #t) (k 0)) (d (n "term") (r "^0.7") (d #t) (k 0)))) (h "11z28n2ax9ym40bsdl0kbvzlf2jm0wakmy2wwph0dikd04lxdqvx")))
 
+(define-public crate-rustc-tools-0.78.0 (c (n "rustc-tools") (v "0.78.0") (d (list (d (n "cargo_metadata") (r "^0.18") (d #t) (k 0)) (d (n "term") (r "^0.7") (d #t) (k 0)))) (h "0x16nx5bnlxp5s2sikfb7a1dkzq9ibxk8n7n2nvjz68rbwavzqyw")))
+

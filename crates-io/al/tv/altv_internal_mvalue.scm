@@ -136,3 +136,5 @@
 
 (define-public crate-altv_internal_mvalue-16.0.0-dev.5 (c (n "altv_internal_mvalue") (v "16.0.0-dev.5") (d (list (d (n "altv_sdk") (r "=16.0.0-dev.5") (d #t) (k 0) (p "altv_internal_sdk")) (d (n "autocxx") (r "^0.26.0") (d #t) (k 0)) (d (n "erased-serde") (r "^0.3.31") (d #t) (k 0)) (d (n "logger") (r "=16.0.0-dev.5") (d #t) (k 0) (p "altv_internal_logger")) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive" "rc"))) (d #t) (k 0)))) (h "0f1hxvdb61rvs137fy3sdk3dg834i45vkbhvvi27pb3aaxh76bg1") (r "1.78.0")))
 
+(define-public crate-altv_internal_mvalue-16.1.0 (c (n "altv_internal_mvalue") (v "16.1.0") (d (list (d (n "altv_sdk") (r "=16.1.0") (d #t) (k 0) (p "altv_internal_sdk")) (d (n "autocxx") (r "^0.26.0") (d #t) (k 0)) (d (n "erased-serde") (r "^0.3.31") (d #t) (k 0)) (d (n "logger") (r "=16.1.0") (d #t) (k 0) (p "altv_internal_logger")) (d (n "paste") (r "^1.0.14") (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive" "rc"))) (d #t) (k 0)))) (h "1jic2k5kyzwmzs8mc9bglfy2n8v930378g6l08a5b8n41cjvn8ch") (r "1.78.0")))
+

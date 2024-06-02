@@ -174,3 +174,5 @@
 
 (define-public crate-altv_internal_resource_main_macro-16.0.0-dev.5 (c (n "altv_internal_resource_main_macro") (v "16.0.0-dev.5") (d (list (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^1.0.109") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "05vsp3xmqf29hkmfr8lip597g4c0imz96nkj2bnpxi4mv48hz8lc") (r "1.78.0")))
 
+(define-public crate-altv_internal_resource_main_macro-16.1.0 (c (n "altv_internal_resource_main_macro") (v "16.1.0") (d (list (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^1.0.109") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "0hgjdxbvfgbas118rrbcikiwdsnk23wpa2y4p1wx7rcf42lwp1x6") (r "1.78.0")))
+

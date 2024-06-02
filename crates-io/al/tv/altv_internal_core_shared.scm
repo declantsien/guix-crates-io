@@ -184,3 +184,5 @@
 
 (define-public crate-altv_internal_core_shared-16.0.0-dev.5 (c (n "altv_internal_core_shared") (v "16.0.0-dev.5") (d (list (d (n "altv_sdk") (r "=16.0.0-dev.5") (d #t) (k 0) (p "altv_internal_sdk")) (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)))) (h "0c3s1va8mgv7rq9hqd30p2vyq6wfg3dxz4v40ij8qmj350xj5b8c") (r "1.78.0")))
 
+(define-public crate-altv_internal_core_shared-16.1.0 (c (n "altv_internal_core_shared") (v "16.1.0") (d (list (d (n "altv_sdk") (r "=16.1.0") (d #t) (k 0) (p "altv_internal_sdk")) (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)))) (h "06yalmyhb527v82lpmmm1kxg5nb5gdsvmj1qadg8fc5ddgqnrzy5") (r "1.78.0")))
+

@@ -184,3 +184,5 @@
 
 (define-public crate-altv_internal_logger-16.0.0-dev.5 (c (n "altv_internal_logger") (v "16.0.0-dev.5") (d (list (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)))) (h "16567vdfbc186w2mbwdjfrdb33yvjyq58fyqnsjvwwbgl5l2p5x6") (r "1.78.0")))
 
+(define-public crate-altv_internal_logger-16.1.0 (c (n "altv_internal_logger") (v "16.1.0") (d (list (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)))) (h "1v4ygriqyw5qhab2nxhj4xzar3n1hyx890inc0j6mvi0s3wk5zzy") (r "1.78.0")))
+
