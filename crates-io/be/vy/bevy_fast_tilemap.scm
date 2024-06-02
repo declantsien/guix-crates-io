@@ -28,3 +28,5 @@
 
 (define-public crate-bevy_fast_tilemap-0.7.4 (c (n "bevy_fast_tilemap") (v "0.7.4") (d (list (d (n "bevy") (r "0.13.*") (d #t) (k 0)) (d (n "bevy") (r "^0.13") (d #t) (k 2)) (d (n "bevy-inspector-egui") (r ">=0.22") (k 2)) (d (n "num") (r "0.4.*") (d #t) (k 0)) (d (n "rand") (r "0.8.*") (d #t) (k 0)))) (h "0gqb1n8hmkb4l9ziwhfw8nsacq2q16b4hd56hx2q9wvbl3zdr4hh")))
 
+(define-public crate-bevy_fast_tilemap-0.7.5 (c (n "bevy_fast_tilemap") (v "0.7.5") (d (list (d (n "bevy") (r "0.13.*") (d #t) (k 0)) (d (n "bevy") (r "^0.13") (d #t) (k 2)) (d (n "bevy-inspector-egui") (r ">=0.22") (k 2)) (d (n "num") (r "0.4.*") (d #t) (k 0)) (d (n "rand") (r "0.8.*") (d #t) (k 0)))) (h "1vm7w93i8ny85bic9hxqihffqdhad7456qm5dycxd7z1appa4b43")))
+
