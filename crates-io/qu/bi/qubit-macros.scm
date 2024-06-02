@@ -24,3 +24,5 @@
 
 (define-public crate-qubit-macros-0.4.0 (c (n "qubit-macros") (v "0.4.0") (d (list (d (n "proc-macro2") (r "^1.0.76") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (d #t) (k 0)) (d (n "ts-rs") (r "^8.1.0") (d #t) (k 0)))) (h "1xc6wi616jwfsb2056dsswshbpnd5r7mvrpn364l8igqdxi5h0ka")))
 
+(define-public crate-qubit-macros-0.4.1 (c (n "qubit-macros") (v "0.4.1") (d (list (d (n "proc-macro2") (r "^1.0.76") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.48") (d #t) (k 0)) (d (n "ts-rs") (r "^8.1.0") (d #t) (k 0)))) (h "0cvlkhpb95q3jhp90k4l1sqg74ky4mlrajdzki17v2v1pf4jhpig")))
+
