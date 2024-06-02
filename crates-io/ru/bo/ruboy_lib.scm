@@ -4,3 +4,5 @@
 
 (define-public crate-ruboy_lib-0.1.1 (c (n "ruboy_lib") (v "0.1.1") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)))) (h "13s8njbirrsng5cz7ksi553c616i9c9a6xk56l87qp0bxryshd1v") (f (quote (("isa_display") ("default" "boot_dmg" "isa_display") ("boot_mgb" "boot_img_enabled") ("boot_img_enabled") ("boot_dmg0" "boot_img_enabled") ("boot_dmg" "boot_img_enabled"))))))
 
+(define-public crate-ruboy_lib-0.1.2 (c (n "ruboy_lib") (v "0.1.2") (d (list (d (n "cfg-if") (r "^1.0.0") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "ruboy_proc_macro") (r "^0.1.2") (d #t) (k 0)) (d (n "spin_sleep") (r "^1.2.0") (d #t) (k 0)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)))) (h "1gzaqgrkjhr45xis26k1p1rw7pfq6xpang5h8m82ga6zgqgas5iv") (f (quote (("isa_display") ("default" "boot_dmg" "isa_display") ("boot_mgb" "boot_img_enabled") ("boot_img_enabled") ("boot_dmg0" "boot_img_enabled") ("boot_dmg" "boot_img_enabled"))))))
+
