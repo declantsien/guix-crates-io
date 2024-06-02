@@ -8,3 +8,5 @@
 
 (define-public crate-grappler-macros-0.1.3 (c (n "grappler-macros") (v "0.1.3") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "darling") (r "^0.20.9") (d #t) (k 0)) (d (n "grappler-core") (r "^0.1.3") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (f (quote ("full"))) (d #t) (k 0)))) (h "02h6dcfz1sgjnv3lcbkia86i0i00lkjfwrccifr00n4bf58mcqqd")))
 
+(define-public crate-grappler-macros-0.1.4 (c (n "grappler-macros") (v "0.1.4") (d (list (d (n "Inflector") (r "^0.11.4") (d #t) (k 0)) (d (n "darling") (r "^0.20.9") (d #t) (k 0)) (d (n "grappler-core") (r "^0.1.4") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (f (quote ("full"))) (d #t) (k 0)))) (h "0i0645nlq9z9bnwa39bpvmnvb5vrybpw0g45spxwrn78cgz7a2g9")))
+

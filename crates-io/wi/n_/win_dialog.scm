@@ -30,3 +30,5 @@
 
 (define-public crate-win_dialog-1.0.0 (c (n "win_dialog") (v "1.0.0") (d (list (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "windows") (r "^0.56.0") (f (quote ("Win32_UI_WindowsAndMessaging"))) (d #t) (k 0)))) (h "1pkd5xi361b36rjfyzwb5bjyhziqv5svig4f23srw1xs2940rh3c") (f (quote (("deprecated"))))))
 
+(define-public crate-win_dialog-1.0.1 (c (n "win_dialog") (v "1.0.1") (d (list (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "windows") (r "^0.56.0") (f (quote ("Win32_UI_WindowsAndMessaging"))) (d #t) (k 0)))) (h "0bif1hcsaw9wxmjby8114b5wm33n95nvjnmx8bk8yclg43rjq09f") (f (quote (("deprecated"))))))
+

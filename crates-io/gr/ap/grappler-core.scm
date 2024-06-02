@@ -8,3 +8,5 @@
 
 (define-public crate-grappler-core-0.1.3 (c (n "grappler-core") (v "0.1.3") (d (list (d (n "retour") (r "^0.3.1") (f (quote ("static-detour"))) (d #t) (k 0)) (d (n "skidscan") (r "^2.0.1") (d #t) (k 0)))) (h "1q309igq0nwzglld0m3dls3n5pgfmv4g1v2nhhhh70n1z72l9g69")))
 
+(define-public crate-grappler-core-0.1.4 (c (n "grappler-core") (v "0.1.4") (d (list (d (n "retour") (r "^0.3.1") (f (quote ("static-detour"))) (d #t) (k 0)) (d (n "skidscan") (r "^2.0.1") (d #t) (k 0)))) (h "1hydxa6wjk6fng75gifxfm1bdfg65lr6n7iqgnqdkwm33zhrsp2w")))
+

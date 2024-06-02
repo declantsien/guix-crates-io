@@ -12,3 +12,5 @@
 
 (define-public crate-scope-lock-0.2.4 (c (n "scope-lock") (v "0.2.4") (d (list (d (n "parking_lot") (r "^0.12.2") (f (quote ("send_guard"))) (d #t) (k 0)))) (h "0ly9h3340xl0mskd3yqf852pdh1fq2mqkp3dl3f5jmibvd0nypav")))
 
+(define-public crate-scope-lock-0.2.5 (c (n "scope-lock") (v "0.2.5") (d (list (d (n "parking_lot") (r "^0.12.2") (f (quote ("send_guard"))) (d #t) (k 0)))) (h "0239dq7cp602dqn718cc0pykxwgxmcr70qc18ybjh46n9b09x7kr") (r "1.66")))
+
