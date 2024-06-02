@@ -6,3 +6,5 @@
 
 (define-public crate-ruboy-0.1.2 (c (n "ruboy") (v "0.1.2") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "eframe") (r "^0.27.2") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (f (quote ("release_max_level_info"))) (d #t) (k 0)) (d (n "ruboy_lib") (r "^0.1.2") (d #t) (k 0)) (d (n "simplelog") (r "^0.12.2") (d #t) (k 0)))) (h "0s4ndhmyn51gdhw67pz01mdf5r4p3y4n247n0y6n90877p9mnjfi")))
 
+(define-public crate-ruboy-0.1.3 (c (n "ruboy") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.83") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "eframe") (r "^0.27.2") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (f (quote ("release_max_level_info"))) (d #t) (k 0)) (d (n "ruboy_lib") (r "^0.1.3") (d #t) (k 0)) (d (n "simplelog") (r "^0.12.2") (d #t) (k 0)))) (h "1v2n6cgcyrb00wjjha4rsmim68a6d1q40rjsgq5liywa0mmavd0i")))
+

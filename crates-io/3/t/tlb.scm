@@ -42,3 +42,5 @@
 
 (define-public crate-tlb-0.2.19 (c (n "tlb") (v "0.2.19") (d (list (d (n "bitvec") (r "^1") (d #t) (k 0)) (d (n "either") (r "^1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "impl-tools") (r "^0.10") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "tlbits") (r "^0.2.19") (d #t) (k 0)))) (h "0hd03nn5amss4g54xgl7qpcifg9g56wfyk8ais18295w9hxwigw5")))
 
+(define-public crate-tlb-0.2.20 (c (n "tlb") (v "0.2.20") (d (list (d (n "bitvec") (r "^1") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "hex-literal") (r "^0.4") (d #t) (k 2)) (d (n "impl-tools") (r "^0.10") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "tlbits") (r "^0.2.20") (d #t) (k 0)))) (h "16ggfk60y3sdkm3x5p90fn5qj2a6i69kv9x4n0a9ihjfcrzq0k2v")))
+

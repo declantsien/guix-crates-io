@@ -40,3 +40,5 @@
 
 (define-public crate-tlbits-0.2.19 (c (n "tlbits") (v "0.2.19") (d (list (d (n "bitvec") (r "^1") (d #t) (k 0)) (d (n "either") (r "^1") (d #t) (k 0)) (d (n "impl-tools") (r "^0.10") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1z6199fkcm57k7awn2avfvhd1b5liiaq5zz5m08lq0jrc6xf3iar")))
 
+(define-public crate-tlbits-0.2.20 (c (n "tlbits") (v "0.2.20") (d (list (d (n "bitvec") (r "^1") (d #t) (k 0)) (d (n "either") (r "^1") (d #t) (k 0)) (d (n "impl-tools") (r "^0.10") (d #t) (k 0)) (d (n "num-bigint") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "01q45dy3rnxfwp9lz4cp98bkg5sijhg8bxyimnwm7vnxhwrx2g2z")))
+

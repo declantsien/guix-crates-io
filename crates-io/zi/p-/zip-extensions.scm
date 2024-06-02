@@ -26,3 +26,5 @@
 
 (define-public crate-zip-extensions-0.7.0 (c (n "zip-extensions") (v "0.7.0") (d (list (d (n "zip") (r "^0.6.6") (d #t) (k 0)))) (h "1pv2kzjsqphb53ja5hwhj27fkq03q2spjm50gfyx28izykqb8rf8")))
 
+(define-public crate-zip-extensions-0.8.0 (c (n "zip-extensions") (v "0.8.0") (d (list (d (n "zip") (r "^2.1.1") (d #t) (k 0)))) (h "0hb3m1mzvhvjjk0nahqq3irlmjp9mpihapawa9jxg5rlkd4rj2pb")))
+

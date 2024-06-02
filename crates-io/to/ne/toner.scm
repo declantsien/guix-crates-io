@@ -22,3 +22,5 @@
 
 (define-public crate-toner-0.2.19 (c (n "toner") (v "0.2.19") (d (list (d (n "tlb") (r "^0.2.19") (d #t) (k 0)) (d (n "tlb-ton") (r "^0.2.19") (d #t) (k 0)) (d (n "ton-contracts") (r "^0.2.19") (d #t) (k 0)))) (h "0yphz528dqnv4zdq4g0sbvrrrdqk79gz8ajb6pcq4mns46mb284j")))
 
+(define-public crate-toner-0.2.20 (c (n "toner") (v "0.2.20") (d (list (d (n "tlb") (r "^0.2.20") (d #t) (k 0)) (d (n "tlb-ton") (r "^0.2.20") (d #t) (k 0)) (d (n "ton-contracts") (r "^0.2.20") (d #t) (k 0)))) (h "1hppgkxfxqgqxrn9xfpsqmgvp7lvzb4fkmbn27hdqcprjrcf335v")))
+
