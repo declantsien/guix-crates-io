@@ -10,3 +10,5 @@
 
 (define-public crate-hq-rs-0.5.0 (c (n "hq-rs") (v "0.5.0") (d (list (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hcl-rs") (r "^0.17") (d #t) (k 0)) (d (n "pest") (r "^2.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7") (d #t) (k 0)))) (h "0qwh82dsjjsh9wfjshckqhskkx45ga0pyn9ap1mcrhvxj3gc7w93")))
 
+(define-public crate-hq-rs-0.6.0 (c (n "hq-rs") (v "0.6.0") (d (list (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "hcl-rs") (r "^0.17") (d #t) (k 0)) (d (n "pest") (r "^2.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7") (d #t) (k 0)))) (h "0pj7l6z1rbf02bmab6hr2nig0920hi3fx69w1zvvf1q07dvqhrfg")))
+

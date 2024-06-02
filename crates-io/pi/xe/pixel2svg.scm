@@ -4,3 +4,5 @@
 
 (define-public crate-pixel2svg-1.0.2 (c (n "pixel2svg") (v "1.0.2") (d (list (d (n "clap") (r "^4.5.4") (d #t) (k 0)) (d (n "clap_derive") (r "^4.5.4") (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "svg") (r "^0.17.0") (d #t) (k 0)))) (h "0i23jq788kmcavgb40qqb1k4qc23zijg4cn4x64vamfgvjlhwyjp")))
 
+(define-public crate-pixel2svg-1.1.0 (c (n "pixel2svg") (v "1.1.0") (d (list (d (n "clap") (r "^4.5.4") (d #t) (k 0)) (d (n "clap_derive") (r "^4.5.4") (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "svg") (r "^0.17.0") (d #t) (k 0)))) (h "1dd5hym7jbxvndvdnp34qn9xcjc7hchr2f8gm538hfqppw1rjbhn")))
+
