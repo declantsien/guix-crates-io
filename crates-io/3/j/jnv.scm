@@ -16,3 +16,5 @@
 
 (define-public crate-jnv-0.2.3 (c (n "jnv") (v "0.2.3") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "gag") (r "^1.0.0") (d #t) (k 0)) (d (n "j9") (r "^0.1.3") (d #t) (k 0)) (d (n "promkit") (r "^0.4.3") (d #t) (k 0)) (d (n "radix_trie") (r "^0.2.1") (d #t) (k 0)))) (h "1wb6h2bjlm6mpklszs24zbr4mzhqlj4fsvbzmq15xkzikln5kahc")))
 
+(define-public crate-jnv-0.3.0 (c (n "jnv") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "jaq-core") (r "^1.2.1") (d #t) (k 0)) (d (n "jaq-interpret") (r "^1.2.1") (d #t) (k 0)) (d (n "jaq-parse") (r "^1.0.2") (d #t) (k 0)) (d (n "jaq-std") (r "^1.2.1") (d #t) (k 0)) (d (n "promkit") (r "^0.4.3") (d #t) (k 0)) (d (n "radix_trie") (r "^0.2.1") (d #t) (k 0)))) (h "1ba8hax4sky15jhcslvs5iqh937ncy9z8sgk4b0yvvrjw47kg30n")))
+
