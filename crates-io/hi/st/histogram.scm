@@ -84,3 +84,5 @@
 
 (define-public crate-histogram-0.10.1 (c (n "histogram") (v "0.10.1") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "schemars") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)))) (h "0b5ylvw5w8ncdyzma88xjy2xjpya5wrkfa89y9lail19lswirn2v") (s 2) (e (quote (("serde" "dep:serde") ("schemars" "dep:schemars" "serde"))))))
 
+(define-public crate-histogram-0.10.2 (c (n "histogram") (v "0.10.2") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "schemars") (r "^0.8") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.144") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.47") (d #t) (k 0)))) (h "0hw67pb8sfz0lcbaqrbh5d1vr627zxxa2sjvahb954kwnp8ygq6g") (s 2) (e (quote (("serde" "dep:serde") ("schemars" "dep:schemars" "serde"))))))
+

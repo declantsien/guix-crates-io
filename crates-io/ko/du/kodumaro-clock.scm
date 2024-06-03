@@ -8,3 +8,5 @@
 
 (define-public crate-kodumaro-clock-1.0.4 (c (n "kodumaro-clock") (v "1.0.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "raylib") (r "^3.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0040jswk0bqpk6iqv0hqx0z2dg00wjfsz2pssvgkrmy6s5yqr06y")))
 
+(define-public crate-kodumaro-clock-1.0.5 (c (n "kodumaro-clock") (v "1.0.5") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "color-eyre") (r "^0.6") (d #t) (k 0)) (d (n "eyre") (r "^0.6") (d #t) (k 0)) (d (n "raylib") (r "^5.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0z5310sgdsa32l6icjhyiwr5ay9iwh9yzbknxxhw0c37k5168mq4")))
+
