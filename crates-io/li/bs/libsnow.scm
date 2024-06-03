@@ -1,0 +1,4 @@
+(define-module (crates-io li bs libsnow) #:use-module (crates-io))
+
+(define-public crate-libsnow-0.0.1-alpha.1 (c (n "libsnow") (v "0.0.1-alpha.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "brotli") (r "^6.0") (d #t) (k 0)) (d (n "csv") (r "^1.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "nix-editor") (r "^0.3.0") (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5") (d #t) (k 0)) (d (n "rayon") (r "^1.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("json" "brotli"))) (d #t) (k 0)) (d (n "rusqlite") (r "^0.31") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0rb21rb1v89whr03jhvgf9wcq2wzhkjnqr5p708m8bi4rqxlwsyz")))
+

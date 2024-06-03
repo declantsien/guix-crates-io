@@ -24,3 +24,5 @@
 
 (define-public crate-xmc4300-0.11.0 (c (n "xmc4300") (v "0.11.0") (d (list (d (n "cortex-m") (r "^0.7.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7.4") (o #t) (d #t) (k 0)) (d (n "critical-section") (r "^1.1.2") (o #t) (d #t) (k 0)) (d (n "vcell") (r "^0.1.3") (d #t) (k 0)))) (h "11kl7wdgs3wbs1rjiazzxyarwi20m2rc3dqwl3zavasn78szpy98") (f (quote (("rt" "cortex-m-rt/device") ("default" "critical-section" "rt"))))))
 
+(define-public crate-xmc4300-0.12.0 (c (n "xmc4300") (v "0.12.0") (d (list (d (n "cortex-m") (r "^0.7.7") (d #t) (k 0)) (d (n "cortex-m-rt") (r "^0.7.3") (o #t) (d #t) (k 0)) (d (n "critical-section") (r "^1.1.2") (o #t) (d #t) (k 0)) (d (n "vcell") (r "^0.1.3") (d #t) (k 0)))) (h "1jpzhk80h784cjbsv2iz1hlkg6ji0rwy6c3mbhg5z2y4fw5l4y7w") (f (quote (("rt" "cortex-m-rt/device") ("default" "critical-section" "rt"))))))
+
