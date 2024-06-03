@@ -4,3 +4,7 @@
 
 (define-public crate-typedoc_json_to_md-0.2.0 (c (n "typedoc_json_to_md") (v "0.2.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.203") (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)))) (h "0iakg4ivyjpdkqbcfv6bcjn5kixbvm0hkl4p0krz2h4v6sm7a4fs")))
 
+(define-public crate-typedoc_json_to_md-0.3.0 (c (n "typedoc_json_to_md") (v "0.3.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.203") (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)))) (h "0aswq6y55zy5yp1x2lv8k57j2kkjxwnklwr0ijl41vrp2780c5px")))
+
+(define-public crate-typedoc_json_to_md-0.3.1 (c (n "typedoc_json_to_md") (v "0.3.1") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "json") (r "^0.12.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.203") (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)))) (h "1sp1wz1cr3ig0n9lrfnpjjgkyw48zr7f8bc5y1zyfazp52pzbl27")))
+

@@ -52,3 +52,5 @@
 
 (define-public crate-zalgo-codec-macro-0.1.25 (c (n "zalgo-codec-macro") (v "0.1.25") (d (list (d (n "syn") (r "^2.0") (d #t) (k 0)) (d (n "zalgo-codec-common") (r "^0.10.4") (d #t) (k 0)))) (h "1nznqliywpf8nsi2n11qnwjk7x175yn9d937mcl21x6qj11gzra5")))
 
+(define-public crate-zalgo-codec-macro-0.1.26 (c (n "zalgo-codec-macro") (v "0.1.26") (d (list (d (n "syn") (r "^2.0") (d #t) (k 0)) (d (n "zalgo-codec-common") (r "^0.11.0") (d #t) (k 0)))) (h "1yv5gk7zrp82mynvvvaxzknx0j9njb8cccr4zpzx6jryfg59gsia")))
+

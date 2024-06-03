@@ -56,3 +56,5 @@
 
 (define-public crate-zalgo-codec-common-0.10.4 (c (n "zalgo-codec-common") (v "0.10.4") (d (list (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("alloc" "derive"))) (o #t) (k 0)))) (h "0pcgn87f4663dlja72dn7abfmlrrgnkj545yyw46bkbyalrl6v0z") (f (quote (("std") ("default" "std")))) (s 2) (e (quote (("serde" "dep:serde"))))))
 
+(define-public crate-zalgo-codec-common-0.11.0 (c (n "zalgo-codec-common") (v "0.11.0") (d (list (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("alloc" "derive"))) (o #t) (k 0)))) (h "0r6lcadl3hx9vmah31j01fg8nf7war7xg9lgs15vp69apm964w07") (f (quote (("std") ("default" "std")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
