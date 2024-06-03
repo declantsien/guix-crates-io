@@ -1,0 +1,4 @@
+(define-module (crates-io go le golem-cloud-worker-client) #:use-module (crates-io))
+
+(define-public crate-golem-cloud-worker-client-0.0.59 (c (n "golem-cloud-worker-client") (v "0.0.59") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures-core") (r "^0.3") (d #t) (k 0)) (d (n "golem-openapi-client-generator") (r "^0.0.7") (d #t) (k 1)) (d (n "http") (r "^1.0") (d #t) (k 0)) (d (n "relative-path") (r "^1.9.2") (d #t) (k 1)) (d (n "reqwest") (r "^0.11") (f (quote ("gzip" "json" "multipart" "stream"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "uuid") (r "^1.6") (f (quote ("serde"))) (d #t) (k 0)))) (h "0nbpc4ij7y6d8j8i9xlq33dag0j2pi48ry5g6m8j8fy8kqqfqd51")))
+
