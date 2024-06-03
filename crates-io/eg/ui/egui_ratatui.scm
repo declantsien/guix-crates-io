@@ -8,3 +8,5 @@
 
 (define-public crate-egui_ratatui-0.0.4 (c (n "egui_ratatui") (v "0.0.4") (d (list (d (n "argh") (r "^0.1.12") (d #t) (k 2)) (d (n "egui") (r "^0.27.2") (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 2)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (k 2)) (d (n "ratatui") (r "^0.26.2") (k 0)) (d (n "web-time") (r "^1") (d #t) (k 0)))) (h "090pla58a3vqh010m33ckbz098b3v6m7wg1fjkgv7c2hfrch10l4") (r "1.76")))
 
+(define-public crate-egui_ratatui-0.0.5 (c (n "egui_ratatui") (v "0.0.5") (d (list (d (n "argh") (r "^0.1.12") (d #t) (k 2)) (d (n "egui") (r "^0.27.2") (d #t) (k 0)) (d (n "itertools") (r "^0.12.1") (d #t) (k 2)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (k 2)) (d (n "ratatui") (r "^0.26.2") (k 0)) (d (n "web-time") (r "^1") (d #t) (k 0)))) (h "0w6mrwkjinfrb709v0jfmbqjrgm0mr3n3654402k05dw2hzcqdp4") (r "1.76")))
+
