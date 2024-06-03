@@ -54,3 +54,5 @@
 
 (define-public crate-varcon-core-4.0.7 (c (n "varcon-core") (v "4.0.7") (d (list (d (n "enumflags2") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "winnow") (r "^0.6.5") (o #t) (d #t) (k 0)))) (h "07pwbsabj2s8pgrl4l2a453816a64r76h8x5wf0izmncjxzn0rpp") (f (quote (("default")))) (s 2) (e (quote (("parser" "dep:winnow") ("flags" "dep:enumflags2")))) (r "1.75")))
 
+(define-public crate-varcon-core-4.0.8 (c (n "varcon-core") (v "4.0.8") (d (list (d (n "enumflags2") (r "^0.7") (o #t) (d #t) (k 0)) (d (n "winnow") (r "^0.6.7") (o #t) (d #t) (k 0)))) (h "050a7b3almriyr127xhc8cbd7xsa7a3d7b6hnkpx020r8bi99yw7") (f (quote (("default")))) (s 2) (e (quote (("parser" "dep:winnow") ("flags" "dep:enumflags2")))) (r "1.75")))
+

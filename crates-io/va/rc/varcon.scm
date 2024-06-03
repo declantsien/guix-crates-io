@@ -40,3 +40,5 @@
 
 (define-public crate-varcon-0.7.5 (c (n "varcon") (v "0.7.5") (d (list (d (n "codegenrs") (r "^3.0") (d #t) (k 2)) (d (n "snapbox") (r "^0.5.9") (f (quote ("path"))) (d #t) (k 2)) (d (n "varcon-core") (r "^4.0") (d #t) (k 0)) (d (n "varcon-core") (r "^4.0") (f (quote ("parser"))) (d #t) (k 2)))) (h "1nj6pk6sgmff61dzlgw383j0s2zvd71xf6fp37wkj33xrgxzlkbx") (f (quote (("flags" "varcon-core/flags") ("default" "all") ("all" "flags")))) (r "1.75")))
 
+(define-public crate-varcon-0.7.6 (c (n "varcon") (v "0.7.6") (d (list (d (n "codegenrs") (r "^3.0") (d #t) (k 2)) (d (n "snapbox") (r "^0.6.5") (d #t) (k 2)) (d (n "varcon-core") (r "^4.0") (d #t) (k 0)) (d (n "varcon-core") (r "^4.0") (f (quote ("parser"))) (d #t) (k 2)))) (h "1b1blf8bydgyrjy6avkcq1jswlffcca47314fy82waqcqk3bb63c") (f (quote (("flags" "varcon-core/flags") ("default" "all") ("all" "flags")))) (r "1.75")))
+

@@ -16,3 +16,5 @@
 
 (define-public crate-libpid-0.5.0 (c (n "libpid") (v "0.5.0") (d (list (d (n "proptest") (r "^1.3.1") (d #t) (k 2)) (d (n "serial_test") (r "^3.0.0") (d #t) (k 2)) (d (n "test-log") (r "^0.2.14") (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "08hp929z53czhwyrx3ypjvci9vagp2bphdp67kp05gr8ba9599f5")))
 
+(define-public crate-libpid-0.6.0 (c (n "libpid") (v "0.6.0") (d (list (d (n "proptest") (r "^1.3.1") (d #t) (k 2)) (d (n "serial_test") (r "^3.0.0") (d #t) (k 2)) (d (n "test-log") (r "^0.2.14") (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "0aizv3my1vl2va27mvx4qiam7alzxdci0fwc5kcy4f9r5lmlmzja")))
+

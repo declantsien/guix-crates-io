@@ -54,3 +54,5 @@
 
 (define-public crate-vault-8.0.0 (c (n "vault") (v "8.0.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "magnus") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "nom-tracable") (r "^0.9") (d #t) (k 0)) (d (n "nom_locate") (r "^4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "12nqvifs8jlvrvmdjscgy0j5ahkbx3l2fiiq7nhkdjn1kbaja720") (f (quote (("trace" "nom-tracable/trace")))) (s 2) (e (quote (("serde" "dep:serde" "uuid/serde"))))))
 
+(define-public crate-vault-9.0.0 (c (n "vault") (v "9.0.0") (d (list (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "magnus") (r "^0.6") (o #t) (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "nom-tracable") (r "^0.9") (d #t) (k 0)) (d (n "nom_locate") (r "^4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "uuid") (r "^1") (d #t) (k 0)))) (h "0ngzpxl42pjsbph93ivp3w5a9z4ha77wh7x9ps2bfl57cnsps7vp") (f (quote (("trace" "nom-tracable/trace") ("regression") ("raw")))) (s 2) (e (quote (("serde" "dep:serde" "uuid/serde"))))))
+

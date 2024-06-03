@@ -10,3 +10,5 @@
 
 (define-public crate-dysk-cli-2.8.2 (c (n "dysk-cli") (v "2.8.2") (d (list (d (n "bet") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^4.4") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "clap-help") (r "^1.0") (d #t) (k 0)) (d (n "file-size") (r "^1.0.3") (d #t) (k 0)) (d (n "lfs-core") (r "^0.11.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "termimad") (r "^0.25.5") (d #t) (k 0)))) (h "1a7yx0v0rvxs0x2llwskcxxrzlnnnqn2i14055bbg0f44pfrh11b") (r "1.70")))
 
+(define-public crate-dysk-cli-2.9.0 (c (n "dysk-cli") (v "2.9.0") (d (list (d (n "bet") (r "^1.0.2") (d #t) (k 0)) (d (n "clap") (r "^4.4") (f (quote ("derive" "cargo"))) (d #t) (k 0)) (d (n "clap-help") (r "^1.0") (d #t) (k 0)) (d (n "file-size") (r "^1.0.3") (d #t) (k 0)) (d (n "lfs-core") (r "^0.11.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "termimad") (r "^0.25.5") (d #t) (k 0)))) (h "0safacwa8vb8lq1kasjbmc4d730syh45gg50nknsxx2fv757b2qs") (r "1.70")))
+
