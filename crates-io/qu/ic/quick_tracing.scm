@@ -10,3 +10,5 @@
 
 (define-public crate-quick_tracing-0.1.4 (c (n "quick_tracing") (v "0.1.4") (d (list (d (n "quick_tracing_derive") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-appender") (r "^0.2.3") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "00hxaj9prwm88nn8f076dhix2zqd5wpp54ysw731rxrygviw4rbf") (f (quote (("default")))) (s 2) (e (quote (("derive" "dep:quick_tracing_derive"))))))
 
+(define-public crate-quick_tracing-0.1.5 (c (n "quick_tracing") (v "0.1.5") (d (list (d (n "quick_tracing_derive") (r "^0.1.4") (o #t) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-appender") (r "^0.2.3") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (d #t) (k 0)))) (h "1v5w6dnvpdgx3c3fyfq0k0nd353vl29brb4xbkd2b0ffd56i4rmd") (f (quote (("default")))) (s 2) (e (quote (("derive" "dep:quick_tracing_derive"))))))
+

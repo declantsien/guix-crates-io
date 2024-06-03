@@ -24,3 +24,5 @@
 
 (define-public crate-chinese-format-0.8.0 (c (n "chinese-format") (v "0.8.0") (d (list (d (n "chinese-number") (r "^0.7.7") (d #t) (k 0)) (d (n "digit-sequence") (r "^0.3.4") (o #t) (d #t) (k 0)) (d (n "dyn-error") (r "^0.2.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "speculate2") (r "^0.2") (d #t) (k 2)))) (h "16kxmmli9lkl95lz35szbwhp3drff8h7s538kmvxq7wl5jfrjfsw") (f (quote (("gregorian" "digit-sequence") ("currency"))))))
 
+(define-public crate-chinese-format-0.8.1 (c (n "chinese-format") (v "0.8.1") (d (list (d (n "chinese-number") (r "^0.7.7") (d #t) (k 0)) (d (n "digit-sequence") (r "^0.3.4") (o #t) (d #t) (k 0)) (d (n "dyn-error") (r "^0.2.0") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "speculate2") (r "^0.2") (d #t) (k 2)))) (h "1l2n1hwn0vdvnngp7qb9hqjf12g1vrj3dkfnbgqvrjw9b8wix52a") (f (quote (("gregorian" "digit-sequence") ("currency"))))))
+
