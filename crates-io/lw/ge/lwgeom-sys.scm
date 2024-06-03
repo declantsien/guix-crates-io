@@ -12,3 +12,5 @@
 
 (define-public crate-lwgeom-sys-0.0.7 (c (n "lwgeom-sys") (v "0.0.7") (d (list (d (n "bindgen") (r "^0.69.4") (d #t) (k 1)) (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "libc") (r "^0.2") (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "0r2a8n2knnvid5zzli7lpxdfzqr92mzk4dzycf472nxayfdicp92") (l "lwgeom")))
 
+(define-public crate-lwgeom-sys-0.0.8 (c (n "lwgeom-sys") (v "0.0.8") (d (list (d (n "bindgen") (r "^0.69.4") (d #t) (k 1)) (d (n "glob") (r "^0.3") (d #t) (k 1)) (d (n "libc") (r "^0.2") (k 0)) (d (n "pkg-config") (r "^0.3") (d #t) (k 1)))) (h "090wa50209mkfc078hnq6ggy31b938m1zmar8b36j8y1l1rlz6i9") (l "lwgeom")))
+
