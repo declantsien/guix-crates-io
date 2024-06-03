@@ -34,3 +34,5 @@
 
 (define-public crate-freedesktop-desktop-entry-0.5.3 (c (n "freedesktop-desktop-entry") (v "0.5.3") (d (list (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "gettext-rs") (r "^0.7") (f (quote ("gettext-system"))) (d #t) (k 0)) (d (n "memchr") (r "^2") (d #t) (k 0)) (d (n "strsim") (r "^0.11.1") (d #t) (k 0)) (d (n "textdistance") (r "^1.0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "xdg") (r "^2.4.0") (d #t) (k 0)))) (h "0s3m7cdggyclnafzpbw54a7k1d4l72yr3habl112p5rn080jqlyn")))
 
+(define-public crate-freedesktop-desktop-entry-0.5.4 (c (n "freedesktop-desktop-entry") (v "0.5.4") (d (list (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "gettext-rs") (r "^0.7") (f (quote ("gettext-system"))) (d #t) (k 0)) (d (n "memchr") (r "^2") (d #t) (k 0)) (d (n "strsim") (r "^0.11.1") (d #t) (k 0)) (d (n "textdistance") (r "^1.0.2") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "xdg") (r "^2.4.0") (d #t) (k 0)))) (h "1cir2zsb9qqw04fwhlflc0fdha202vwzmchxwpmrdv8qanwfzvr2")))
+
