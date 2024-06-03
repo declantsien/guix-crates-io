@@ -110,3 +110,5 @@
 
 (define-public crate-conjure-serde-4.0.0-rc4 (c (n "conjure-serde") (v "4.0.0-rc4") (d (list (d (n "base64") (r "^0.22") (d #t) (k 0)) (d (n "conjure-object") (r "^1.1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde-smile") (r "^0.2.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1k2214lkvxqyip4v4iss5cjw41l3jwf4d7wy0r0vr84rsa83l7ip")))
 
+(define-public crate-conjure-serde-4.0.0 (c (n "conjure-serde") (v "4.0.0") (d (list (d (n "base64") (r "^0.22") (d #t) (k 0)) (d (n "conjure-object") (r "^1.1.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde-smile") (r "^0.2.0") (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 2)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0ynbl1g3lhx0j98db3p8d7kibz3gjkq83cr42qd32fz9kjjbc7p9")))
+
