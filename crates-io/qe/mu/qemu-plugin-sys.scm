@@ -12,3 +12,5 @@
 
 (define-public crate-qemu-plugin-sys-8.2.2-v0 (c (n "qemu-plugin-sys") (v "8.2.2-v0") (d (list (d (n "anyhow") (r "^1.0.75") (d #t) (k 1)))) (h "0lc1nrsx30hdwh3a9w7npi1sikf048zfq0k0d601fxj5s3ngd552")))
 
+(define-public crate-qemu-plugin-sys-9.0.0-v0 (c (n "qemu-plugin-sys") (v "9.0.0-v0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 1)))) (h "0clgfi0q00y3mmv37nygiyc2b9zlm6gw9k4yxdb1qv4c8b45066l") (f (quote (("plugin-api-v3") ("plugin-api-v2") ("plugin-api-v1") ("default" "plugin-api-v2"))))))
+

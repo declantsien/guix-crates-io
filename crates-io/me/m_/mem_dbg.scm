@@ -22,3 +22,5 @@
 
 (define-public crate-mem_dbg-0.2.1 (c (n "mem_dbg") (v "0.2.1") (d (list (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "half") (r "^2.0.4") (o #t) (d #t) (k 0)) (d (n "maligned") (r "^0.2.1") (o #t) (d #t) (k 0)) (d (n "mem_dbg-derive") (r "=0.1.4") (o #t) (d #t) (k 0)) (d (n "mmap-rs") (r "^0.6.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (o #t) (d #t) (k 0)))) (h "0x1vham3cpd1x26frvy3a4fvswr2vph4sxpzwyn81nd4dcx12ran") (f (quote (("std" "alloc") ("offset_of_enum") ("derive" "mem_dbg-derive") ("default" "std" "derive") ("alloc"))))))
 
+(define-public crate-mem_dbg-0.2.2 (c (n "mem_dbg") (v "0.2.2") (d (list (d (n "bitflags") (r "^2.4.1") (d #t) (k 0)) (d (n "half") (r "^2.0.4") (o #t) (d #t) (k 0)) (d (n "maligned") (r "^0.2.1") (o #t) (d #t) (k 0)) (d (n "mem_dbg-derive") (r "=0.1.5") (o #t) (d #t) (k 0)) (d (n "mmap-rs") (r "^0.6.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("small_rng"))) (o #t) (d #t) (k 0)))) (h "0nnwzq9yap98d17lc9q9r2mcw2qqwb8qfxy0kqimh2qhacf789fp") (f (quote (("std" "alloc") ("offset_of_enum") ("derive" "mem_dbg-derive") ("default" "std" "derive") ("alloc"))))))
+

@@ -42,3 +42,7 @@
 
 (define-public crate-html-macro-0.2.3 (c (n "html-macro") (v "0.2.3") (d (list (d (n "html-validation") (r "^0.1.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0l47iypv7n31jcg0llxkw22sifrpcb4n7yrvk7qdbb2gjc28zpby")))
 
+(define-public crate-html-macro-0.2.4 (c (n "html-macro") (v "0.2.4") (d (list (d (n "html-validation") (r "^0.1.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0qdzpj4kzmgy2bz02zxaka8yl5bwn8pqn1hylbj4fql3rd1pg25p")))
+
+(define-public crate-html-macro-0.2.5 (c (n "html-macro") (v "0.2.5") (d (list (d (n "html-validation") (r "^0.1.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (f (quote ("span-locations"))) (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "00rivfn74s64k8xhvl21siav6d9za1bql1sv6r53sxqvq5wnvhfs")))
+

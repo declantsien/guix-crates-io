@@ -8,3 +8,5 @@
 
 (define-public crate-mem_dbg-derive-0.1.4 (c (n "mem_dbg-derive") (v "0.1.4") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "00aykaliqqsr3isg6dmlmqsc87jx2c3237f6jy8b06w8xcwl9daq")))
 
+(define-public crate-mem_dbg-derive-0.1.5 (c (n "mem_dbg-derive") (v "0.1.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "1080qv389q57sxc5zs7r9ix5abyraazzyd6sbxi3wpnn8kjg94ax")))
+

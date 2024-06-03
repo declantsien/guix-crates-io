@@ -10,3 +10,5 @@
 
 (define-public crate-deb822-lossless-0.1.8 (c (n "deb822-lossless") (v "0.1.8") (d (list (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rowan") (r "^0.15.11") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "08cik71kha6glmpxzhd9krx5zh8djc2kpwaac6gbp2fvgqii9bz3") (f (quote (("default" "serde")))) (s 2) (e (quote (("serde" "dep:serde"))))))
 
+(define-public crate-deb822-lossless-0.1.9 (c (n "deb822-lossless") (v "0.1.9") (d (list (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rowan") (r "^0.15.11") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0mmis2qfnxn6n5s1pimwgq50i97yh51mpm8s3vkp6fvdv1fs2rpy") (f (quote (("default" "serde")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
