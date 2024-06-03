@@ -112,3 +112,5 @@
 
 (define-public crate-ra_ap_intern-0.0.217 (c (n "ra_ap_intern") (v "0.0.217") (d (list (d (n "dashmap") (r "=5.5.3") (f (quote ("raw-api"))) (d #t) (k 0)) (d (n "hashbrown") (r "^0.14") (f (quote ("inline-more"))) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "triomphe") (r "^0.1.10") (f (quote ("std"))) (k 0)))) (h "1855j3yl0bb7pcn28n5zcas6j41sdi4iw0klcaa9rpx5fn516ly3") (r "1.78")))
 
+(define-public crate-ra_ap_intern-0.0.218 (c (n "ra_ap_intern") (v "0.0.218") (d (list (d (n "dashmap") (r "=5.5.3") (f (quote ("raw-api"))) (d #t) (k 0)) (d (n "hashbrown") (r "^0.14") (f (quote ("inline-more"))) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "triomphe") (r "^0.1.10") (f (quote ("std"))) (k 0)))) (h "1c54kvii5bmvgwwamc82cfzixvvlxwav8x815vjgf003l6apwghx") (r "1.78")))
+

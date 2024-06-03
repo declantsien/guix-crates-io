@@ -338,3 +338,5 @@
 
 (define-public crate-ra_ap_toolchain-0.0.217 (c (n "ra_ap_toolchain") (v "0.0.217") (d (list (d (n "camino") (r "^1.1.6") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)))) (h "13accqcydlygcbfc5hw0yvnm3xlqi6gg5yv69d1c68k804y4739n") (r "1.78")))
 
+(define-public crate-ra_ap_toolchain-0.0.218 (c (n "ra_ap_toolchain") (v "0.0.218") (d (list (d (n "camino") (r "^1.1.6") (d #t) (k 0)) (d (n "home") (r "^0.5.4") (d #t) (k 0)))) (h "1qmil2dcnmjzd4a0i60j8ywln2csj8jgmmyj9p5bqmshv323yfak") (r "1.78")))
+

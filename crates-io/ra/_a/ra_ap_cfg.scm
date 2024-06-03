@@ -372,3 +372,5 @@
 
 (define-public crate-ra_ap_cfg-0.0.217 (c (n "ra_ap_cfg") (v "0.0.217") (d (list (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "tt") (r "=0.0.217") (d #t) (k 0) (p "ra_ap_tt")))) (h "1hmb1fyrm49n7bvl1apnazfy5dzp8b9791sar9yqrkjcicvlvlrm") (r "1.78")))
 
+(define-public crate-ra_ap_cfg-0.0.218 (c (n "ra_ap_cfg") (v "0.0.218") (d (list (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "tt") (r "=0.0.218") (d #t) (k 0) (p "ra_ap_tt")))) (h "14fkr7d43is6ljngak4h5a07b25wd69yzzbz2wq5smwwaym84ybn") (r "1.78")))
+

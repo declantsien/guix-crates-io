@@ -350,3 +350,5 @@
 
 (define-public crate-ra_ap_text_edit-0.0.217 (c (n "ra_ap_text_edit") (v "0.0.217") (d (list (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "text-size") (r "^1.1.1") (d #t) (k 0)))) (h "0pc138wnlav4clyg76109sqw38phr43fwh5ki5zjirwv5hxk1rsg") (r "1.78")))
 
+(define-public crate-ra_ap_text_edit-0.0.218 (c (n "ra_ap_text_edit") (v "0.0.218") (d (list (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "text-size") (r "^1.1.1") (d #t) (k 0)))) (h "0qkidk49iajnqz4z97kc4c7namj22fm5yr3wfi04gzawf6r2zjvb") (r "1.78")))
+

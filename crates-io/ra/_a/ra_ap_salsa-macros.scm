@@ -34,3 +34,5 @@
 
 (define-public crate-ra_ap_salsa-macros-0.0.217 (c (n "ra_ap_salsa-macros") (v "0.0.217") (d (list (d (n "heck") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0a0cikgv32agnfg7iiyvlc1wshm0dkndhincn6cp6alswdcfl6n7") (r "1.78")))
 
+(define-public crate-ra_ap_salsa-macros-0.0.218 (c (n "ra_ap_salsa-macros") (v "0.0.218") (d (list (d (n "heck") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "0yhp1xmjwz19vn8p6j17sg2k4jngp9jis1f9asz8521z1jq6f2cw") (r "1.78")))
+

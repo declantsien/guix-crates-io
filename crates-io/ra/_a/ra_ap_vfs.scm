@@ -344,3 +344,5 @@
 
 (define-public crate-ra_ap_vfs-0.0.217 (c (n "ra_ap_vfs") (v "0.0.217") (d (list (d (n "fst") (r "^0.4.7") (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (d #t) (k 0)) (d (n "nohash-hasher") (r "^0.2.0") (d #t) (k 0)) (d (n "paths") (r "=0.0.217") (d #t) (k 0) (p "ra_ap_paths")) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "stdx") (r "=0.0.217") (d #t) (k 0) (p "ra_ap_stdx")) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "0xf4aa0zbis9jlifszmihi417my9mcgi23rwy3v83dl36vqrv79x") (r "1.78")))
 
+(define-public crate-ra_ap_vfs-0.0.218 (c (n "ra_ap_vfs") (v "0.0.218") (d (list (d (n "fst") (r "^0.4.7") (d #t) (k 0)) (d (n "indexmap") (r "^2.1.0") (d #t) (k 0)) (d (n "nohash-hasher") (r "^0.2.0") (d #t) (k 0)) (d (n "paths") (r "=0.0.218") (d #t) (k 0) (p "ra_ap_paths")) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "stdx") (r "=0.0.218") (d #t) (k 0) (p "ra_ap_stdx")) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "0aqx867cplyyclsi94b6dz3q8swxdqm9vipfhh8a9bw4hlh9mj8j") (r "1.78")))
+

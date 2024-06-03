@@ -366,3 +366,5 @@
 
 (define-public crate-ra_ap_parser-0.0.217 (c (n "ra_ap_parser") (v "0.0.217") (d (list (d (n "drop_bomb") (r "^0.1.5") (d #t) (k 0)) (d (n "limit") (r "=0.0.217") (d #t) (k 0) (p "ra_ap_limit")) (d (n "ra-ap-rustc_lexer") (r "^0.53.0") (k 0)) (d (n "tracing") (r "^0.1.40") (o #t) (d #t) (k 0)))) (h "1s4j4phdrlhwyc01pmy23a3prpdp9l8zb4ld0x9bhba7ln78v4ba") (f (quote (("in-rust-tree") ("default" "tracing")))) (r "1.78")))
 
+(define-public crate-ra_ap_parser-0.0.218 (c (n "ra_ap_parser") (v "0.0.218") (d (list (d (n "drop_bomb") (r "^0.1.5") (d #t) (k 0)) (d (n "limit") (r "=0.0.218") (d #t) (k 0) (p "ra_ap_limit")) (d (n "ra-ap-rustc_lexer") (r "^0.53.0") (k 0)) (d (n "tracing") (r "^0.1.40") (o #t) (d #t) (k 0)))) (h "1anfq0bcmizll8m7i5yrk01frn9pwsin1c6pxhd4fbxzww0dshpw") (f (quote (("in-rust-tree") ("default" "tracing")))) (r "1.78")))
+

@@ -376,3 +376,5 @@
 
 (define-public crate-ra_ap_tt-0.0.217 (c (n "ra_ap_tt") (v "0.0.217") (d (list (d (n "smol_str") (r "^0.2.1") (d #t) (k 0)) (d (n "stdx") (r "=0.0.217") (d #t) (k 0) (p "ra_ap_stdx")) (d (n "text-size") (r "^1.1.1") (d #t) (k 0)))) (h "01i8gbg2fj25ad82v64avgmggkmgcq2s35a8phgbyhhycwpdz5qs") (r "1.78")))
 
+(define-public crate-ra_ap_tt-0.0.218 (c (n "ra_ap_tt") (v "0.0.218") (d (list (d (n "smol_str") (r "^0.2.1") (d #t) (k 0)) (d (n "stdx") (r "=0.0.218") (d #t) (k 0) (p "ra_ap_stdx")) (d (n "text-size") (r "^1.1.1") (d #t) (k 0)))) (h "0ck5bjvc0ccj9hq6bsf7wb9p2py70xh7cxvr8hy3lf5d1qm0pm1f") (r "1.78")))
+

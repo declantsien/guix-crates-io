@@ -344,3 +344,5 @@
 
 (define-public crate-ra_ap_paths-0.0.217 (c (n "ra_ap_paths") (v "0.0.217") (d (list (d (n "camino") (r "^1.1.6") (d #t) (k 0)))) (h "1k1gd7mw915d9y2xz5hrk2s92y8n3a8pwbgbgpj7g76rggkczqsq") (f (quote (("serde1" "camino/serde1")))) (r "1.78")))
 
+(define-public crate-ra_ap_paths-0.0.218 (c (n "ra_ap_paths") (v "0.0.218") (d (list (d (n "camino") (r "^1.1.6") (d #t) (k 0)))) (h "1zrhy18k7ak58dkva8i47sla7s5rn2kbcdry0gyzbvr8dci72xk0") (f (quote (("serde1" "camino/serde1")))) (r "1.78")))
+
