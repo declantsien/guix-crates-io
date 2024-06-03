@@ -1,0 +1,4 @@
+(define-module (crates-io gi tn gitnote) #:use-module (crates-io))
+
+(define-public crate-gitnote-0.0.1 (c (n "gitnote") (v "0.0.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("cargo" "wrap_help"))) (d #t) (k 0)) (d (n "colored") (r "^2.1.0") (d #t) (k 0)) (d (n "configparser") (r "^3.0.4") (d #t) (k 0)) (d (n "git2") (r "^0.18.3") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "sha256") (r "^1.5.0") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.12") (d #t) (k 0)) (d (n "uuid") (r "^1.8.0") (f (quote ("v4" "fast-rng" "macro-diagnostics"))) (d #t) (k 0)))) (h "0f2izw7myc71g13c6bjcb5kqm2azrcfcn7fq8xwwnia1snm9a6ri")))
+
