@@ -2,3 +2,5 @@
 
 (define-public crate-trycp_client-0.17.0-dev.0 (c (n "trycp_client") (v "0.17.0-dev.0") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "rmp-serde") (r "^1.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "tokio") (r "^1.38") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.21") (d #t) (k 0)) (d (n "trycp_api") (r "^0.17.0-dev.0") (d #t) (k 0)))) (h "01a2c11kknfnhmm0w0bb4gf59hdxfwxf00jvrcjqykndbl3v56ym")))
 
+(define-public crate-trycp_client-0.16.0-dev.7 (c (n "trycp_client") (v "0.16.0-dev.7") (d (list (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "rmp-serde") (r "=0.15.5") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "tokio") (r "^1.38") (f (quote ("full"))) (d #t) (k 0)) (d (n "tokio-tungstenite") (r "^0.21") (d #t) (k 0)) (d (n "trycp_api") (r "^0.16.0-dev.7") (d #t) (k 0)))) (h "17mikbgvz1asglxfvpp0aav8z8mjw8n8x32kacgqspxap63q0zkz")))
+
