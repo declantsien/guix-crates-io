@@ -32,3 +32,5 @@
 
 (define-public crate-supabase-wrappers-macros-0.1.15 (c (n "supabase-wrappers-macros") (v "0.1.15") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0lfn3gc3fyhz30agib24wyjfwh0vagcn9x9s8lyl0yl1x2rsywdf")))
 
+(define-public crate-supabase-wrappers-macros-0.1.16 (c (n "supabase-wrappers-macros") (v "0.1.16") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "093anm5jnlkzhj76a4g9zns63knyzkpx5pxncifsc4ira4dm7mbg")))
+

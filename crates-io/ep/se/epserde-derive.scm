@@ -16,3 +16,5 @@
 
 (define-public crate-epserde-derive-0.3.1 (c (n "epserde-derive") (v "0.3.1") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "07i1bh6m20jzzyg1hpbpp0d4aidl73cz603kaakpks5n0wnbwahg")))
 
+(define-public crate-epserde-derive-0.6.0 (c (n "epserde-derive") (v "0.6.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "0dhhi07kjg7rb7v455jj38baf3nw7xaw5dixv5s7bi3a7icr59bd")))
+
