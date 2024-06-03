@@ -16,3 +16,5 @@
 
 (define-public crate-zenity-dialog-0.3.5 (c (n "zenity-dialog") (v "0.3.5") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (f (quote ("std" "alloc"))) (o #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "1nyh1bkcgnhmpa3khqlh5kr4zilsix6m20ac5hp1dy75pc0adri6") (f (quote (("default")))) (s 2) (e (quote (("chrono" "dep:chrono"))))))
 
+(define-public crate-zenity-dialog-0.3.6 (c (n "zenity-dialog") (v "0.3.6") (d (list (d (n "anyhow") (r "^1.0.86") (f (quote ("std"))) (k 0)) (d (n "chrono") (r "^0.4.38") (f (quote ("std" "alloc"))) (o #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (k 0)))) (h "0671zr5mvckay2v43b690ibq528l3rg1pplkcx7vab05iq7072p5") (f (quote (("info") ("error") ("entry") ("default" "calendar" "entry" "info" "error") ("calendar")))) (s 2) (e (quote (("chrono" "calendar" "dep:chrono"))))))
+
