@@ -20,3 +20,5 @@
 
 (define-public crate-css-module-lexer-0.0.10 (c (n "css-module-lexer") (v "0.0.10") (d (list (d (n "codspeed-criterion-compat") (r "^2") (d #t) (k 2)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "indoc") (r "^2") (d #t) (k 2)) (d (n "linked-hash-map") (r "^0.5") (d #t) (k 2)) (d (n "similar-asserts") (r "^1") (d #t) (k 2)) (d (n "smallvec") (r "^1.13") (d #t) (k 0)))) (h "19fk0vqdc30y0yh3716amfsi9mq41cy10arhg7q21f35x4mm40af")))
 
+(define-public crate-css-module-lexer-0.0.11 (c (n "css-module-lexer") (v "0.0.11") (d (list (d (n "codspeed-criterion-compat") (r "^2") (d #t) (k 2)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "indoc") (r "^2") (d #t) (k 2)) (d (n "linked-hash-map") (r "^0.5") (d #t) (k 2)) (d (n "similar-asserts") (r "^1") (d #t) (k 2)) (d (n "smallvec") (r "^1.13") (d #t) (k 0)))) (h "01nn2p50xa5i0j2nxdzfvyhfd4p29hay8gdli0j5v31vpqj23i09")))
+
