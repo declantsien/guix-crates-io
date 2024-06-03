@@ -22,3 +22,5 @@
 
 (define-public crate-cargo-stylus-0.3.0 (c (n "cargo-stylus") (v "0.3.0") (d (list (d (n "cargo-stylus-util") (r "^0.3.0") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive" "color"))) (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)))) (h "1fz47fl4ydkdywwxliafddvm9r8cb9v2l3b72z4a6kf8a6w9sxgn")))
 
+(define-public crate-cargo-stylus-0.3.1 (c (n "cargo-stylus") (v "0.3.1") (d (list (d (n "cargo-stylus-util") (r "^0.3.1") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive" "color"))) (d #t) (k 0)) (d (n "eyre") (r "^0.6.8") (d #t) (k 0)))) (h "14xc52ir32kc882473qmlfc515wjamr5x17k7390iamjh42dv5s5")))
+

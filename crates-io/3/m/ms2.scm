@@ -10,3 +10,5 @@
 
 (define-public crate-ms2-0.1.4 (c (n "ms2") (v "0.1.4") (d (list (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1fgnyadmzc8243r62kjj60q8wmg2bhasr36sr4krshzd4nzspd5q")))
 
+(define-public crate-ms2-0.1.5 (c (n "ms2") (v "0.1.5") (d (list (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0hq3iy0y20j9zdpcs6rp0qpk3zal55s1bf53vq0mclr89glris83")))
+
