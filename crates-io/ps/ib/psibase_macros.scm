@@ -24,3 +24,5 @@
 
 (define-public crate-psibase_macros-0.9.0 (c (n "psibase_macros") (v "0.9.0") (d (list (d (n "darling") (r "^0.14") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "psibase_names") (r "^0.9.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "syn") (r "^1.0.86") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "0cwcs7ln97m4pimz07cdajvckdrg4ddxmwnmasjyfhgzksyh6hxz") (r "1.64")))
 
+(define-public crate-psibase_macros-0.10.0 (c (n "psibase_macros") (v "0.10.0") (d (list (d (n "darling") (r "^0.14") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.36") (d #t) (k 0)) (d (n "psibase_names") (r "^0.10.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.15") (d #t) (k 0)) (d (n "syn") (r "^1.0.86") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "0ndzarr5m4v65cj4zrfkvib4b9vqz3cz7ifxwji4d7pvp11qs479") (r "1.64")))
+

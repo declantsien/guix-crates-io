@@ -24,3 +24,5 @@
 
 (define-public crate-psibase_names-0.9.0 (c (n "psibase_names") (v "0.9.0") (d (list (d (n "seahash") (r "^2.0.0") (d #t) (k 0)))) (h "0jfcczyf94slgq00kg42a8ys7qdq1mxma8fxs1rlkhyxbxbvl8px") (r "1.64")))
 
+(define-public crate-psibase_names-0.10.0 (c (n "psibase_names") (v "0.10.0") (d (list (d (n "seahash") (r "^2.0.0") (d #t) (k 0)))) (h "0d5hww8102hgkv67b7kk4w8md6b809hknr2qs3n8jd2gwx78x1fn") (r "1.64")))
+

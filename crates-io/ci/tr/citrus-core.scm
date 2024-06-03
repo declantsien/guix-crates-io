@@ -6,3 +6,5 @@
 
 (define-public crate-citrus-core-0.1.2 (c (n "citrus-core") (v "0.1.2") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)))) (h "1zni8naz9s451d2rjqkypd8vjqr9ady9ib69yhhfixjlddqai6xz") (r "1.70")))
 
+(define-public crate-citrus-core-0.1.3 (c (n "citrus-core") (v "0.1.3") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)))) (h "1i4q828js05vx4wd7xlapxw0xgkff6z462jqg61dflwpprcq86bq") (r "1.70")))
+

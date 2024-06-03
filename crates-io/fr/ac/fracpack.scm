@@ -28,3 +28,5 @@
 
 (define-public crate-fracpack-0.9.0 (c (n "fracpack") (v "0.9.0") (d (list (d (n "custom_error") (r "^1.9.2") (d #t) (k 0)) (d (n "psibase_macros") (r "^0.9.0") (d #t) (k 0)))) (h "04y3kqv68zkmqd1yx163am7f4cwhdk1q9h4ysdbd73c8yp9jg4jj") (r "1.64")))
 
+(define-public crate-fracpack-0.10.0 (c (n "fracpack") (v "0.10.0") (d (list (d (n "custom_error") (r "^1.9.2") (d #t) (k 0)) (d (n "psibase_macros") (r "^0.10.0") (d #t) (k 0)))) (h "00mq5f499zgl9z6202r1fv8y0341imvkz57n76pbmraywhlajyv2") (r "1.64")))
+
