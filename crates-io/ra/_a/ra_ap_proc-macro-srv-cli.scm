@@ -142,3 +142,5 @@
 
 (define-public crate-ra_ap_proc-macro-srv-cli-0.0.217 (c (n "ra_ap_proc-macro-srv-cli") (v "0.0.217") (d (list (d (n "proc-macro-api") (r "=0.0.217") (d #t) (k 0) (p "ra_ap_proc_macro_api")) (d (n "proc-macro-srv") (r "=0.0.217") (d #t) (k 0) (p "ra_ap_proc_macro_srv")))) (h "1a5wb7r4ldj1y6fmzmhfi29xwf20ssglhwfwhcxp0qwkyncw2rk9") (f (quote (("sysroot-abi" "proc-macro-srv/sysroot-abi") ("in-rust-tree" "proc-macro-srv/in-rust-tree" "sysroot-abi")))) (r "1.78")))
 
+(define-public crate-ra_ap_proc-macro-srv-cli-0.0.218 (c (n "ra_ap_proc-macro-srv-cli") (v "0.0.218") (d (list (d (n "proc-macro-api") (r "=0.0.218") (d #t) (k 0) (p "ra_ap_proc_macro_api")) (d (n "proc-macro-srv") (r "=0.0.218") (d #t) (k 0) (p "ra_ap_proc_macro_srv")))) (h "1kdpvy7a98chys2sq8lqmb1knx57f6y58wyrrf1x5pni9awmmkjj") (f (quote (("sysroot-abi" "proc-macro-srv/sysroot-abi") ("in-rust-tree" "proc-macro-srv/in-rust-tree" "sysroot-abi")))) (r "1.78")))
+

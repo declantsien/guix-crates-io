@@ -338,3 +338,5 @@
 
 (define-public crate-ra_ap_test_utils-0.0.217 (c (n "ra_ap_test_utils") (v "0.0.217") (d (list (d (n "dissimilar") (r "^1.0.7") (d #t) (k 0)) (d (n "profile") (r "=0.0.217") (d #t) (k 0) (p "ra_ap_profile")) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "stdx") (r "=0.0.217") (d #t) (k 0) (p "ra_ap_stdx")) (d (n "text-size") (r "^1.1.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "0c5z5mmhmxhribmzbx3wzx26l97g9yd5v5bl7ldir3s6y3ii5xps") (r "1.78")))
 
+(define-public crate-ra_ap_test_utils-0.0.218 (c (n "ra_ap_test_utils") (v "0.0.218") (d (list (d (n "dissimilar") (r "^1.0.7") (d #t) (k 0)) (d (n "profile") (r "=0.0.218") (d #t) (k 0) (p "ra_ap_profile")) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "stdx") (r "=0.0.218") (d #t) (k 0) (p "ra_ap_stdx")) (d (n "text-size") (r "^1.1.1") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "1s36dfg0ykrxa15xn7cj9kqx2fild0ycngh1q0vlffh9pkqk10df") (r "1.78")))
+
