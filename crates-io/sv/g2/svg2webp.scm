@@ -16,3 +16,5 @@
 
 (define-public crate-svg2webp-0.1.7 (c (n "svg2webp") (v "0.1.7") (d (list (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "resvg") (r "^0.41.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11.4") (d #t) (k 0)) (d (n "usvg") (r "^0.41.0") (d #t) (k 0)) (d (n "webp") (r "^0.3.0") (d #t) (k 0)))) (h "1yzmy8w746phls58pial2579kiy38spchb71jlnf46argrkxi1xj")))
 
+(define-public crate-svg2webp-0.1.8 (c (n "svg2webp") (v "0.1.8") (d (list (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "resvg") (r "^0.42.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "tiny-skia") (r "^0.11.4") (d #t) (k 0)) (d (n "usvg") (r "^0.42.0") (d #t) (k 0)) (d (n "webp") (r "^0.3.0") (d #t) (k 0)))) (h "1kjmfb1hl5d8h4bg6s4yiw9x39wbwl461v03z4ny324jnh3ddgn6")))
+
