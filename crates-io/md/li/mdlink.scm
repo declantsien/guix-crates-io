@@ -28,3 +28,5 @@
 
 (define-public crate-mdlink-0.2.1 (c (n "mdlink") (v "0.2.1") (d (list (d (n "arboard") (r "^3.2.1") (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "format") (r "^0.2.4") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "joinery") (r "^3.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "url") (r "^2.4.1") (d #t) (k 0)))) (h "10qm8f8alyd7pjl1418qgaxcw22ikyxn2scqqx4ahbb3gyzny20n")))
 
+(define-public crate-mdlink-0.2.2 (c (n "mdlink") (v "0.2.2") (d (list (d (n "arboard") (r "^3.2.1") (k 0)) (d (n "clap") (r "^4.4.6") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "format") (r "^0.2.4") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "joinery") (r "^3.1.0") (d #t) (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "url") (r "^2.4.1") (d #t) (k 0)))) (h "0w1sk7lm7mpbxwk7lz6x9v0w7khc1wl9hz6vf5rfi10y68575glg")))
+
