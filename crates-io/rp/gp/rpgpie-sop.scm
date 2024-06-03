@@ -12,3 +12,5 @@
 
 (define-public crate-rpgpie-sop-0.3.2 (c (n "rpgpie-sop") (v "0.3.2") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "pgp") (r "^0.12.0-alpha.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)) (d (n "rpgpie") (r "^0.0.13") (d #t) (k 0)) (d (n "sop") (r "^0.7") (d #t) (k 0)))) (h "0xvbv28g48snns5yk7ai8v1hg6mhx3xqc70g80nr5yspcxd008gx")))
 
+(define-public crate-rpgpie-sop-0.3.3 (c (n "rpgpie-sop") (v "0.3.3") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "pgp") (r "^0.12.0-alpha.3") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "rand_core") (r "^0.6") (d #t) (k 0)) (d (n "rpgpie") (r "^0.0.14") (d #t) (k 0)) (d (n "sop") (r "^0.7") (d #t) (k 0)))) (h "1agl6d25fxr7x8awali6r5pa4kawvvcg60j34q62p2g3ivr797f3")))
+

@@ -12,3 +12,5 @@
 
 (define-public crate-rsop-0.3.2 (c (n "rsop") (v "0.3.2") (d (list (d (n "env_logger") (r "^0.11") (d #t) (k 0)) (d (n "rpgpie-sop") (r "^0.3") (d #t) (k 0)) (d (n "sop") (r "^0.7") (d #t) (k 0)))) (h "0qjc9jnpm59bsv0l4x9ixxmcp4vrsg14drz9bkp0hfyjq53zna47") (f (quote (("default" "cli") ("cli" "sop/cli"))))))
 
+(define-public crate-rsop-0.3.3 (c (n "rsop") (v "0.3.3") (d (list (d (n "env_logger") (r "^0.11") (d #t) (k 0)) (d (n "rpgpie-sop") (r "^0.3") (d #t) (k 0)) (d (n "sop") (r "^0.7") (d #t) (k 0)))) (h "0ix05wr6qhabrj5i4xzk2adwkxiz3c7sh8x0knjbkpz2gr01rdv5") (f (quote (("default" "cli") ("cli" "sop/cli"))))))
+

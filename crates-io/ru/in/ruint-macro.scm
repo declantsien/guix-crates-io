@@ -18,3 +18,5 @@
 
 (define-public crate-ruint-macro-1.2.0 (c (n "ruint-macro") (v "1.2.0") (h "0hr33vpl47n5f58gd7sf6d69lg2c55f9m1q90m9934i5a37m8s7q") (r "1.65")))
 
+(define-public crate-ruint-macro-1.2.1 (c (n "ruint-macro") (v "1.2.1") (h "065fmbmrpixy4y8qnz5ygb3dv50v6wjyra22knniaziplvc7pza8") (r "1.65")))
+

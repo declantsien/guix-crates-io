@@ -378,3 +378,5 @@
 
 (define-public crate-momento-protos-0.110.2 (c (n "momento-protos") (v "0.110.2") (d (list (d (n "prost") (r "^0.12") (d #t) (k 0)) (d (n "tonic") (r "^0.10") (d #t) (k 0)))) (h "1mya3p3rpf4c2cb5rpp9dyha4c196n5yrvqlmddn7f95j4za0v0l")))
 
+(define-public crate-momento-protos-0.111.0 (c (n "momento-protos") (v "0.111.0") (d (list (d (n "prost") (r "^0.12") (d #t) (k 0)) (d (n "tonic") (r "^0.10") (d #t) (k 0)))) (h "0m45w43fg9076xps8d4bjlh2gsd0k57b8n7khi6pcl7xnzyld6d8")))
+
