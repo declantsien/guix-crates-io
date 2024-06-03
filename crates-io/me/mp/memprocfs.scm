@@ -34,3 +34,5 @@
 
 (define-public crate-memprocfs-5.9.13 (c (n "memprocfs") (v "5.9.13") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0zanph2lh7qvyn70h4cn33lgi3yldn056q670ghpkzxwj8qq0rga")))
 
+(define-public crate-memprocfs-5.9.17 (c (n "memprocfs") (v "5.9.17") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0a4va6dj9i08hx7a55xacckpny05qbgd0ma6pnaff5pxxx0jb34i")))
+

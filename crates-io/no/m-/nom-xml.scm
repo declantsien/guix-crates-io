@@ -6,3 +6,5 @@
 
 (define-public crate-nom-xml-0.1.2-pre-alpha (c (n "nom-xml") (v "0.1.2-pre-alpha") (d (list (d (n "nom") (r "^7.1.1") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "02i1790jvybmjqibdgcn7jrglabhp65s02v42ww12pamhcqkygv3")))
 
+(define-public crate-nom-xml-0.2.0 (c (n "nom-xml") (v "0.2.0") (d (list (d (n "encoding_rs") (r "^0.8.32") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)) (d (n "rayon") (r "^1.7.0") (d #t) (k 0)))) (h "06lv6sshfalyg1jl02nnb4rg7kcajig122pda9qa131ky7qh9psh") (f (quote (("experimental"))))))
+
