@@ -12,3 +12,5 @@
 
 (define-public crate-scopegraphs-macros-0.2.6 (c (n "scopegraphs-macros") (v "0.2.6") (d (list (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "scopegraphs-regular-expressions") (r "^0.2.0") (f (quote ("rust-code-emitting" "dot"))) (d #t) (k 0)) (d (n "syn") (r "^2.0.29") (f (quote ("full"))) (d #t) (k 0)))) (h "0k3n07qplfw2cc750kf092xbaln0144l04pl7ws6sk53p3svqnfs") (f (quote (("dot" "scopegraphs-regular-expressions/dot")))) (r "1.75")))
 
+(define-public crate-scopegraphs-macros-0.2.11 (c (n "scopegraphs-macros") (v "0.2.11") (d (list (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "scopegraphs-regular-expressions") (r "^0.2") (f (quote ("dot"))) (d #t) (k 0)) (d (n "syn") (r "^2.0.29") (d #t) (k 0)))) (h "0hisxwvinrc2vidlx83cfrs8midby1xandhn1ba9wss77g1mrygi") (f (quote (("dot" "scopegraphs-regular-expressions/dot")))) (r "1.75")))
+
