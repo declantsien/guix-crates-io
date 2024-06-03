@@ -108,3 +108,5 @@
 
 (define-public crate-cosmwasm-check-1.4.5 (c (n "cosmwasm-check") (v "1.4.5") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "assert_cmd") (r "=2.0.10") (d #t) (k 2)) (d (n "clap") (r "^4") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "cosmwasm-std") (r "=1.4.5") (d #t) (k 0)) (d (n "cosmwasm-vm") (r "=1.4.5") (d #t) (k 0)) (d (n "predicates") (r "^3") (d #t) (k 2)))) (h "1d8pzxxzzs5n0iaz27jd23vp5w3x184zbgnzdk22kspq5knl1sl6")))
 
+(define-public crate-cosmwasm-check-2.0.4 (c (n "cosmwasm-check") (v "2.0.4") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.12") (d #t) (k 2)) (d (n "clap") (r "^4") (d #t) (k 0)) (d (n "colored") (r "^2") (d #t) (k 0)) (d (n "cosmwasm-std") (r "=2.0.4") (d #t) (k 0)) (d (n "cosmwasm-vm") (r "=2.0.4") (d #t) (k 0)) (d (n "predicates") (r "^3") (d #t) (k 2)))) (h "1ygcjgamqrm8x277gbx3ccfsgmimb2dhxk2fdzxmhc5wagq5izi0")))
+

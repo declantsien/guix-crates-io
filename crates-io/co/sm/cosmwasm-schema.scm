@@ -266,3 +266,5 @@
 
 (define-public crate-cosmwasm-schema-1.4.5 (c (n "cosmwasm-schema") (v "1.4.5") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 2)) (d (n "cosmwasm-schema-derive") (r "=1.4.5") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.4.5") (d #t) (k 2)) (d (n "schemars") (r "^0.8.3") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)))) (h "15j7cyg3w56qg5634jvr48w9i4sw8ncbxqqmrcc03m83qx0vrii6")))
 
+(define-public crate-cosmwasm-schema-2.0.4 (c (n "cosmwasm-schema") (v "2.0.4") (d (list (d (n "anyhow") (r "^1.0.57") (d #t) (k 2)) (d (n "cosmwasm-schema-derive") (r "=2.0.4") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^2.0.4") (d #t) (k 2)) (d (n "schemars") (r "^0.8.3") (d #t) (k 0)) (d (n "semver") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.40") (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.26") (d #t) (k 0)))) (h "0hzxmb9qwq1hk7ajv6xjwdx4h8h8bxk77gw4kfx4rlsbaqwhf78h")))
+

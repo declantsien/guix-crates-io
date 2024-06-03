@@ -1,0 +1,4 @@
+(define-module (crates-io ya ho yahoo-finance-symbols) #:use-module (crates-io))
+
+(define-public crate-yahoo-finance-symbols-0.1.0 (c (n "yahoo-finance-symbols") (v "0.1.0") (d (list (d (n "html-escape") (r "^0.2.13") (d #t) (k 1)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "r2d2") (r "^0.8.10") (d #t) (k 0)) (d (n "r2d2_sqlite") (r "^0.24.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json" "blocking"))) (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json" "blocking"))) (d #t) (k 1)) (d (n "rusqlite") (r "^0.31.0") (f (quote ("bundled"))) (d #t) (k 0)) (d (n "rusqlite") (r "^0.31.0") (f (quote ("bundled"))) (d #t) (k 1)) (d (n "scraper") (r "^0.19.0") (d #t) (k 1)) (d (n "serde") (r "^1.0.183") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.183") (f (quote ("derive"))) (d #t) (k 1)) (d (n "tokio") (r "^1.32.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0k15n2wzfq1xg0qf4d38bz2lmax29z4y68sbhmnh1zswr25cbg6a")))
+

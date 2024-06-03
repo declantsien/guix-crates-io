@@ -198,3 +198,5 @@
 
 (define-public crate-cosmwasm-derive-1.4.5 (c (n "cosmwasm-derive") (v "1.4.5") (d (list (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0xavcr5c8g5cwqgqad1yvibx9kinnkl0shnvsghxncdxq6mkzl1f") (f (quote (("default"))))))
 
+(define-public crate-cosmwasm-derive-2.0.4 (c (n "cosmwasm-derive") (v "2.0.4") (d (list (d (n "syn") (r "^1.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0pcjkk5lvmhhb9cqrrfd5yd6s98cxlsq2iq5zf03ia4lmykgwfvx") (f (quote (("default"))))))
+

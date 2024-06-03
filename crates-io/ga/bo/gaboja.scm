@@ -1,0 +1,4 @@
+(define-module (crates-io ga bo gaboja) #:use-module (crates-io))
+
+(define-public crate-gaboja-0.1.0 (c (n "gaboja") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "console") (r "^0.15.8") (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (f (quote ("history"))) (k 0)) (d (n "indicatif") (r "^0.17.8") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "similar") (r "^2.5.0") (f (quote ("inline"))) (d #t) (k 0)) (d (n "thirtyfour") (r "^0.32.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("time" "process" "rt"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.13") (d #t) (k 0)))) (h "1qc5ipi6gq3zgzmnjz6208yrasn2aj255k1bzwwy65rblcf8zrn5")))
+

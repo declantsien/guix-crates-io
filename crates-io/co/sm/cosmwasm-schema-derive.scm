@@ -108,3 +108,5 @@
 
 (define-public crate-cosmwasm-schema-derive-1.4.5 (c (n "cosmwasm-schema-derive") (v "1.4.5") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "printing" "extra-traits"))) (d #t) (k 0)))) (h "01xs013xkv4kcvs1izf7saxvla6phzcy4pndj8c12wx5imjjdcff")))
 
+(define-public crate-cosmwasm-schema-derive-2.0.4 (c (n "cosmwasm-schema-derive") (v "2.0.4") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "printing" "extra-traits"))) (d #t) (k 0)))) (h "1slmm68sm184b8hih36mg9la3g4mjbarwcax5kd7i10mc1gyfjyg")))
+
