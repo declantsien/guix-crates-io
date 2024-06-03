@@ -42,3 +42,5 @@
 
 (define-public crate-plotpy-0.6.3 (c (n "plotpy") (v "0.6.3") (h "1ribr9xm35im53y9wpr9ixjbdqkbnbvld3plrbnjcjn388ryaxx2")))
 
+(define-public crate-plotpy-0.7.0 (c (n "plotpy") (v "0.7.0") (h "0ml5jiz6kw9023pxy4khc1k272sxwbgp9zk433p9j2m3ih4n6k0z")))
+
