@@ -6,3 +6,5 @@
 
 (define-public crate-datafusion-iceberg-sql-0.3.0 (c (n "datafusion-iceberg-sql") (v "0.3.0") (d (list (d (n "arrow-schema") (r "^50.0.0") (d #t) (k 0)) (d (n "datafusion-common") (r "^36.0.0") (d #t) (k 0)) (d (n "datafusion-expr") (r "^36.0.0") (d #t) (k 0)) (d (n "datafusion-sql") (r "^36.0.0") (d #t) (k 0)) (d (n "iceberg-rust") (r "^0.3.0") (d #t) (k 0)))) (h "130z2psiizdqc14yxm91zbvf2a20gzjffajd84cfifgi4rvjq7yz")))
 
+(define-public crate-datafusion-iceberg-sql-0.4.0 (c (n "datafusion-iceberg-sql") (v "0.4.0") (d (list (d (n "arrow-schema") (r "^51.0.0") (d #t) (k 0)) (d (n "datafusion-common") (r "^38.0.0") (d #t) (k 0)) (d (n "datafusion-expr") (r "^38.0.0") (d #t) (k 0)) (d (n "datafusion-sql") (r "^38.0.0") (d #t) (k 0)) (d (n "iceberg-rust") (r "^0.4.0") (d #t) (k 0)))) (h "125pha6hdscad1b573rrkhvyqj8z059d9s3c4nsgdh91g50bzlwc")))
+

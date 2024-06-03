@@ -36,3 +36,5 @@
 
 (define-public crate-mosek-10.2.0 (c (n "mosek") (v "10.2.0") (d (list (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "12ypsq5ah0amr4yxg5pm7h08ic4dv2smp3ygna2kjw4di3kgbpsk") (r "1.59")))
 
+(define-public crate-mosek-10.2.1 (c (n "mosek") (v "10.2.1") (d (list (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)))) (h "0ad2gi777kgq6kv4pi0xjjpdma1xwv2zk67wj2y50zsw794pnkyi") (r "1.59")))
+
