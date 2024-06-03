@@ -20,3 +20,5 @@
 
 (define-public crate-earthwyrm-0.7.0 (c (n "earthwyrm") (v "0.7.0") (d (list (d (n "loam") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "muon-rs") (r "^0.2") (d #t) (k 0)) (d (n "mvt") (r "^0.9.2") (d #t) (k 0)) (d (n "osmpbfreader") (r "^0.16") (d #t) (k 0)) (d (n "pointy") (r "^0.6") (d #t) (k 0)) (d (n "rosewood") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "0m4bszx9q1gjsz49myxax7svzihywldd3k7g25i5jppz8w8b78kf")))
 
+(define-public crate-earthwyrm-0.8.0 (c (n "earthwyrm") (v "0.8.0") (d (list (d (n "loam") (r "^0.3") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "muon-rs") (r "^0.2") (d #t) (k 0)) (d (n "mvt") (r "^0.9.2") (d #t) (k 0)) (d (n "osmpbfreader") (r "^0.16") (d #t) (k 0)) (d (n "pointy") (r "^0.6") (d #t) (k 0)) (d (n "rosewood") (r "^0.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)))) (h "09xp7z3ww0w18kskayvb5qjjmr854h9w0yn9v0wd42dpabbjcip5")))
+

@@ -6,3 +6,5 @@
 
 (define-public crate-crunch64-cli-0.3.1 (c (n "crunch64-cli") (v "0.3.1") (d (list (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crunch64") (r "^0.3.0") (d #t) (k 0)))) (h "1ffq7rcz9qjm13k09rv52fv3nhpqmgi5jd81k8cy4ph6w259pqrh")))
 
+(define-public crate-crunch64-cli-0.4.0 (c (n "crunch64-cli") (v "0.4.0") (d (list (d (n "clap") (r "^4.4.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "crunch64") (r "^0.4.0") (d #t) (k 0)))) (h "0j9m4qa2hlgxmqbl26q6pzr6rlr91ia05417x0wggfmx04iwd88n")))
+

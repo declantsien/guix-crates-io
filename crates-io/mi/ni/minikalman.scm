@@ -10,3 +10,5 @@
 
 (define-public crate-minikalman-0.2.1 (c (n "minikalman") (v "0.2.1") (d (list (d (n "assert_float_eq") (r "^1.1.3") (d #t) (k 2)) (d (n "colored") (r "^2.1.0") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "micromath") (r "^2.1.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "stdint") (r "^1.0.0") (o #t) (k 0)))) (h "0dpz9imq2nfbv3h5kiq5wjnwvidj6931sqsfa95is0c1vin3cqnc") (f (quote (("unsafe") ("no_std" "micromath") ("default" "no_std")))) (s 2) (e (quote (("stdint" "dep:stdint" "stdint/std")))) (r "1.70.0")))
 
+(define-public crate-minikalman-0.2.2 (c (n "minikalman") (v "0.2.2") (d (list (d (n "assert_float_eq") (r "^1.1.3") (d #t) (k 2)) (d (n "colored") (r "^2.1.0") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "micromath") (r "^2.1.0") (o #t) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "stdint") (r "^1.0.0") (o #t) (k 0)))) (h "047s3l7ijcmcdk75niy3dclpzdvi82lyc0xqzg2kn94zrjv4vyx2") (f (quote (("unsafe") ("no_std" "micromath") ("default" "no_std")))) (s 2) (e (quote (("stdint" "dep:stdint" "stdint/std")))) (r "1.70.0")))
+
