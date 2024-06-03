@@ -20,3 +20,5 @@
 
 (define-public crate-rust_jsc-0.1.10 (c (n "rust_jsc") (v "0.1.10") (d (list (d (n "rust_jsc_macros") (r "^0.1.4") (d #t) (k 0)) (d (n "rust_jsc_sys") (r "^0.1.6") (f (quote ("patches"))) (d #t) (k 0)))) (h "1fmj7i6wqpy77hlk7qfvb1fj6q5x7wc2vcz8bqywqbwgqb95da1s")))
 
+(define-public crate-rust_jsc-0.1.12 (c (n "rust_jsc") (v "0.1.12") (d (list (d (n "rust_jsc_macros") (r "^0.1.6") (d #t) (k 0)) (d (n "rust_jsc_sys") (r "^0.1.12") (f (quote ("patches"))) (d #t) (k 0)))) (h "1s0cx1s6674apwccpljzm4z9s6hx15rccy289i5v86rl5pk8jcwg")))
+

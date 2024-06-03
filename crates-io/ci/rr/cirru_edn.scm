@@ -148,3 +148,5 @@
 
 (define-public crate-cirru_edn-0.6.9 (c (n "cirru_edn") (v "0.6.9") (d (list (d (n "bincode") (r "^2.0.0-rc.3") (d #t) (k 0)) (d (n "cirru_parser") (r "^0.1.30") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "0x19kfy21j24ghlv7ls35d55j6dpbvgcbfbw3y67bizhb01lazlx")))
 
+(define-public crate-cirru_edn-0.6.10 (c (n "cirru_edn") (v "0.6.10") (d (list (d (n "bincode") (r "^2.0.0-rc.3") (d #t) (k 0)) (d (n "cirru_parser") (r "^0.1.30") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "10x2yl7smm1gjwxdxws0jhf6prif5rgxymjdaq1f9kna0nq2xlg3")))
+

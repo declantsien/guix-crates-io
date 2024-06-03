@@ -20,3 +20,5 @@
 
 (define-public crate-hooker-0.1.9 (c (n "hooker") (v "0.1.9") (d (list (d (n "arrayvec") (r "^0.7.4") (k 0)) (d (n "region") (r "^3.0.1") (d #t) (k 2)) (d (n "thiserror-no-std") (r "^2.0.2") (d #t) (k 0)) (d (n "zydis-sys") (r "^0.1.2") (d #t) (k 0)))) (h "159lpi80gkxy81cl5yfvibii4avhzcqshj54lbccjzqyfzcgh933") (f (quote (("std" "thiserror-no-std/std" "arrayvec/std"))))))
 
+(define-public crate-hooker-0.1.10 (c (n "hooker") (v "0.1.10") (d (list (d (n "arrayvec") (r "^0.7.4") (k 0)) (d (n "region") (r "^3.0.1") (d #t) (k 2)) (d (n "thiserror-no-std") (r "^2.0.2") (d #t) (k 0)) (d (n "zydis-sys") (r "^0.1.2") (d #t) (k 0)))) (h "1xwsn2kwxc9scyr4d16sp824d5vyaym63jdpa14w1rgswpv26b9f") (f (quote (("std" "thiserror-no-std/std" "arrayvec/std"))))))
+
