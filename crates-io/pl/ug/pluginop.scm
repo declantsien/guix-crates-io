@@ -1,0 +1,4 @@
+(define-module (crates-io pl ug pluginop) #:use-module (crates-io))
+
+(define-public crate-pluginop-0.1.0 (c (n "pluginop") (v "0.1.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 2)) (d (n "fnv") (r "^1") (d #t) (k 0)) (d (n "getrandom") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "pluginop-common") (r "=0.1.0") (d #t) (k 0)) (d (n "pluginop-macro") (r "=0.1.0") (d #t) (k 0)) (d (n "pluginop-octets") (r "=0.1.0") (d #t) (k 0)) (d (n "pluginop-rawptr") (r "=0.1.0") (d #t) (k 0)) (d (n "postcard") (r "^1") (d #t) (k 0)) (d (n "unix-time") (r "^0.1") (d #t) (k 0)) (d (n "wasmer") (r "^4") (d #t) (k 0)) (d (n "wasmer-compiler-singlepass") (r "^4") (d #t) (k 0)))) (h "1zi6cswskvnz7vl1js6j2l7p7xp0dqiqjixj3bhc30r0bwgcrq25")))
+
