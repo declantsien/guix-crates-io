@@ -20,3 +20,5 @@
 
 (define-public crate-nu_plugin_dbus-0.6.1 (c (n "nu_plugin_dbus") (v "0.6.1") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.93.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.93.0") (f (quote ("plugin"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.6.0") (d #t) (k 0)))) (h "0838mlkm612y6bfyxkwpv7ijijm76gn4hkz6jn115z466gcwy900")))
 
+(define-public crate-nu_plugin_dbus-0.7.0 (c (n "nu_plugin_dbus") (v "0.7.0") (d (list (d (n "dbus") (r "^0.9.7") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.94.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.0") (f (quote ("plugin"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.196") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.6.0") (d #t) (k 0)))) (h "0w7gfv7qa8zmajmpkl732ddxfx5wk53awyb0kn9z10kd0v3nmrl9")))
+
