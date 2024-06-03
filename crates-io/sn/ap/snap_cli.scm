@@ -8,3 +8,5 @@
 
 (define-public crate-snap_cli-0.1.3 (c (n "snap_cli") (v "0.1.3") (h "07h9dzyqlfjxpb9mr8474kfcqfw6lagf4clpvczypkgcv3ajy5zv")))
 
+(define-public crate-snap_cli-0.1.4 (c (n "snap_cli") (v "0.1.4") (d (list (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "1xafk911cq2ybhkw9dsq45n541y71l4wyfz5jhwqlidjg043w1v2")))
+

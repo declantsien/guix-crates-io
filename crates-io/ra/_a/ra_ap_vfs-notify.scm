@@ -326,3 +326,5 @@
 
 (define-public crate-ra_ap_vfs-notify-0.0.217 (c (n "ra_ap_vfs-notify") (v "0.0.217") (d (list (d (n "crossbeam-channel") (r "^0.5.5") (d #t) (k 0)) (d (n "notify") (r "^6.1.1") (d #t) (k 0)) (d (n "paths") (r "=0.0.217") (d #t) (k 0) (p "ra_ap_paths")) (d (n "stdx") (r "=0.0.217") (d #t) (k 0) (p "ra_ap_stdx")) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "vfs") (r "=0.0.217") (d #t) (k 0) (p "ra_ap_vfs")) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "0khhvvlzxlnmiavc6p7xnd97832g0fnc5wwxavk2jq97vrj88pfd") (r "1.78")))
 
+(define-public crate-ra_ap_vfs-notify-0.0.218 (c (n "ra_ap_vfs-notify") (v "0.0.218") (d (list (d (n "crossbeam-channel") (r "^0.5.5") (d #t) (k 0)) (d (n "notify") (r "^6.1.1") (d #t) (k 0)) (d (n "paths") (r "=0.0.218") (d #t) (k 0) (p "ra_ap_paths")) (d (n "stdx") (r "=0.0.218") (d #t) (k 0) (p "ra_ap_stdx")) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "vfs") (r "=0.0.218") (d #t) (k 0) (p "ra_ap_vfs")) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1mmlsyvkm45rfb7ca034zimmqnw55sjsy6wa539b4frc0djkf4ch") (r "1.78")))
+

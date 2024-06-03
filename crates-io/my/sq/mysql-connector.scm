@@ -1,0 +1,4 @@
+(define-module (crates-io my sq mysql-connector) #:use-module (crates-io))
+
+(define-public crate-mysql-connector-0.0.1 (c (n "mysql-connector") (v "0.0.1") (d (list (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)) (d (n "btoi") (r "^0.4.3") (d #t) (k 0)) (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "crossbeam") (r "^0.8.4") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "mysql-connector-macros") (r "^0.0.1") (d #t) (k 0)) (d (n "paste") (r "^1.0.15") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (o #t) (d #t) (k 0)) (d (n "sha1") (r "^0.10.6") (d #t) (k 0)) (d (n "tokio") (r "^1.38.0") (f (quote ("sync" "io-util"))) (d #t) (k 0)))) (h "0n5z0i269d4g9c47fwl621wkimk1mk49m8w6ma3agwjfx8dgcw8z") (f (quote (("tcpstream" "tokio/net") ("default" "tcpstream")))) (s 2) (e (quote (("serde" "dep:serde"))))))
+
