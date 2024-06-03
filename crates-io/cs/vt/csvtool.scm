@@ -6,3 +6,5 @@
 
 (define-public crate-csvtool-0.0.3 (c (n "csvtool") (v "0.0.3") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)))) (h "05bkl3gsq2brv28wamb09rgal7zx5slk8ky9jqhhlhh17c7dhh38")))
 
+(define-public crate-csvtool-0.0.4 (c (n "csvtool") (v "0.0.4") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "csv") (r "^1.3.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)))) (h "00bv3bq3k3q8v08f9nan84q5wip4civwjy2bshw70g8ha8r1sah6")))
+
