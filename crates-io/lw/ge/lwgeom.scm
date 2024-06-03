@@ -12,3 +12,5 @@
 
 (define-public crate-lwgeom-0.0.7 (c (n "lwgeom") (v "0.0.7") (d (list (d (n "foreign-types") (r "^0.5") (k 0)) (d (n "libc") (r "^0.2") (k 0)) (d (n "lwgeom-sys") (r "^0.0.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1nqgpvwrzw7nl954ffjsypwgwvxjgp8hyq7ad8p44j878gd6qnlv")))
 
+(define-public crate-lwgeom-0.0.8 (c (n "lwgeom") (v "0.0.8") (d (list (d (n "libc") (r "^0.2") (k 0)) (d (n "lwgeom-sys") (r "^0.0.8") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "03cc6fv996cg03z1x27r5rlwndrw7p71fc5hk85zslrmbgv3a8z5")))
+
