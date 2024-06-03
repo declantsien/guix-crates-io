@@ -20,3 +20,5 @@
 
 (define-public crate-tiny-game-framework-0.0.134 (c (n "tiny-game-framework") (v "0.0.134") (d (list (d (n "gl") (r "^0.14.0") (d #t) (k 0)) (d (n "glam") (r "^0.27.0") (d #t) (k 0)) (d (n "glfw") (r "^0.55.0") (d #t) (k 0)) (d (n "imgui") (r "^0.12.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "1y9k1z1ygnkmfnxcr96czgv83z2j6pxmpz4hccw0pp273lxzpwmh")))
 
+(define-public crate-tiny-game-framework-0.0.14 (c (n "tiny-game-framework") (v "0.0.14") (d (list (d (n "freetype-rs") (r "^0.36.0") (d #t) (k 0)) (d (n "gl") (r "^0.14.0") (d #t) (k 0)) (d (n "glam") (r "^0.27.0") (d #t) (k 0)) (d (n "glfw") (r "^0.55.0") (d #t) (k 0)) (d (n "image") (r "^0.25.1") (d #t) (k 0)) (d (n "imgui") (r "^0.12.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "tobj") (r "^4.0.2") (d #t) (k 0)))) (h "1js5sxhlr361i8qlf5rhxkspab97dg4iccld5sw2hlp42zrhhi41")))
+

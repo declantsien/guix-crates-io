@@ -2,3 +2,5 @@
 
 (define-public crate-xlsynth-0.0.1 (c (n "xlsynth") (v "0.0.1") (d (list (d (n "libc") (r "^0.2.155") (d #t) (k 0)) (d (n "libloading") (r "^0.7") (d #t) (k 0)))) (h "00b3j4dgrkz9d3770zvianir8hshisq1lhsc8ckg3f7ax4y9n0v0")))
 
+(define-public crate-xlsynth-0.0.2 (c (n "xlsynth") (v "0.0.2") (d (list (d (n "curl") (r "^0.4") (d #t) (k 1)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.7") (d #t) (k 0)) (d (n "once_cell") (r "^1.19") (d #t) (k 0)))) (h "0l3wrf5db7ps12jhliy4qbswpmsn4629ik8p0h7fl9jyd165iwii")))
+
