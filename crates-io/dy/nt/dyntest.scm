@@ -8,3 +8,5 @@
 
 (define-public crate-dyntest-0.2.0 (c (n "dyntest") (v "0.2.0") (d (list (d (n "globset") (r "^0.4.14") (o #t) (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (o #t) (d #t) (k 0)))) (h "0mv86pg6k1bw3chwl1bbw6hk414fawa0h1844591rypx1kx92q2i") (f (quote (("default" "glob")))) (s 2) (e (quote (("glob" "dep:globset" "dep:walkdir"))))))
 
+(define-public crate-dyntest-0.2.1 (c (n "dyntest") (v "0.2.1") (d (list (d (n "globset") (r "^0.4.14") (o #t) (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (o #t) (d #t) (k 0)))) (h "02wv4f6njb1jm3rip283imd76m9vsj95n6sqq5560q3fh4bvfzxh") (f (quote (("default" "glob")))) (s 2) (e (quote (("glob" "dep:globset" "dep:walkdir"))))))
+
