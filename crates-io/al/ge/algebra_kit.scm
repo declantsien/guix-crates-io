@@ -8,3 +8,7 @@
 
 (define-public crate-algebra_kit-0.1.4 (c (n "algebra_kit") (v "0.1.4") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "07nbcrx1ddh2i3jfw1gilrfxmvkg6gxwlng8fr7hk1yzp8spwphh")))
 
+(define-public crate-algebra_kit-0.1.5 (c (n "algebra_kit") (v "0.1.5") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "0psiijmqbkp38gv0f1lfyzp9k8q7af9f26v6q8z27xaaraqwd0zp")))
+
+(define-public crate-algebra_kit-0.1.6 (c (n "algebra_kit") (v "0.1.6") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "0zzhsjsxfgaiqyx9icwgfplrvnm89lwzsrzaj5h6lwfryy1gx63v")))
+

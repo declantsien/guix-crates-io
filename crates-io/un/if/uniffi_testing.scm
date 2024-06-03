@@ -30,3 +30,5 @@
 
 (define-public crate-uniffi_testing-0.27.2 (c (n "uniffi_testing") (v "0.27.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "camino") (r "^1.0.8") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.15") (d #t) (k 0)) (d (n "fs-err") (r "^2.7.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)))) (h "14bcrx1g7vs4f1dmjsrk82rh4va80nf94cayfh958rd2hdy8bzic")))
 
+(define-public crate-uniffi_testing-0.27.3 (c (n "uniffi_testing") (v "0.27.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "camino") (r "^1.0.8") (d #t) (k 0)) (d (n "cargo_metadata") (r "^0.15") (d #t) (k 0)) (d (n "fs-err") (r "^2.7.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.12") (d #t) (k 0)))) (h "10a4sjnx97pj1kf0zbj4l777mz6s26y6ivifkmq9pplvr92315hk")))
+

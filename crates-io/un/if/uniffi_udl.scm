@@ -18,3 +18,5 @@
 
 (define-public crate-uniffi_udl-0.27.2 (c (n "uniffi_udl") (v "0.27.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "textwrap") (r "^0.16") (d #t) (k 0)) (d (n "uniffi_meta") (r "=0.27.2") (d #t) (k 0)) (d (n "uniffi_testing") (r "=0.27.2") (d #t) (k 0)) (d (n "weedle2") (r "^5.0.0") (d #t) (k 0)))) (h "0jpd73hwxxnsbm6x7jg0ifcrv6chf3rkgk9hxzsrl3d6s5fxs4dg")))
 
+(define-public crate-uniffi_udl-0.27.3 (c (n "uniffi_udl") (v "0.27.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "textwrap") (r "^0.16") (f (quote ("smawk"))) (k 0)) (d (n "uniffi_meta") (r "=0.27.3") (d #t) (k 0)) (d (n "uniffi_testing") (r "=0.27.3") (d #t) (k 0)) (d (n "weedle2") (r "^5.0.0") (d #t) (k 0)))) (h "15sszqhqh0011vxr0yjg04a0ga79w5iwkbjny9w6g86rn15rhbxr")))
+

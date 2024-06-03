@@ -100,3 +100,5 @@
 
 (define-public crate-uniffi_build-0.27.2 (c (n "uniffi_build") (v "0.27.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "camino") (r "^1.0.8") (d #t) (k 0)) (d (n "uniffi_bindgen") (r "=0.27.2") (k 0)))) (h "1r2x0xwgvqas1ib8b8hr6l9378q3c86qd8i8v3dxakh74gj92ws9") (f (quote (("default") ("builtin-bindgen"))))))
 
+(define-public crate-uniffi_build-0.27.3 (c (n "uniffi_build") (v "0.27.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "camino") (r "^1.0.8") (d #t) (k 0)) (d (n "uniffi_bindgen") (r "=0.27.3") (k 0)))) (h "0h7lsx9j52zk1md2vi9a0ns8fr7p35j7qa390nhz6pv8b5fvcn8w") (f (quote (("default") ("builtin-bindgen"))))))
+
