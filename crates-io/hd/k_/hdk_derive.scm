@@ -270,3 +270,5 @@
 
 (define-public crate-hdk_derive-0.4.0-dev.5 (c (n "hdk_derive") (v "0.4.0-dev.5") (d (list (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "heck") (r "^0.5") (d #t) (k 0)) (d (n "holochain_integrity_types") (r "^0.4.0-dev.5") (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "163aiyl5zws23wm1fimgbsf5n1jzajgh92fdb70j8dl8p7fsmbgn") (f (quote (("mock") ("default"))))))
 
+(define-public crate-hdk_derive-0.3.1-rc.1 (c (n "hdk_derive") (v "0.3.1-rc.1") (d (list (d (n "darling") (r "^0.14.1") (d #t) (k 0)) (d (n "heck") (r "^0.5") (d #t) (k 0)) (d (n "holochain_integrity_types") (r "^0.3.1-rc.1") (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "^1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^1") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "17ibjl5hbr4yl20xmr0dnjz3kw9in7af50dab6ka5b7armf9p626") (f (quote (("mock") ("default"))))))
+

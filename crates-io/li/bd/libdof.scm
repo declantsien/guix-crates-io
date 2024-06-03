@@ -66,3 +66,5 @@
 
 (define-public crate-libdof-0.16.0 (c (n "libdof") (v "0.16.0") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_with") (r "^3.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0s8y1bp8hnxksf9xhz2jgj9yh118nf1ym5wf5rnmnkg4jlw7a7k7")))
 
+(define-public crate-libdof-0.16.1 (c (n "libdof") (v "0.16.1") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "serde_with") (r "^3.6") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0c56kz41z6cv7d0lwpsdcmhj3x48kyzwhag5qjf2cf71i85chams")))
+

@@ -56,3 +56,5 @@
 
 (define-public crate-holochain_state_types-0.4.0-dev.5 (c (n "holochain_state_types") (v "0.4.0-dev.5") (d (list (d (n "holo_hash") (r "^0.4.0-dev.5") (d #t) (k 0)) (d (n "holochain_integrity_types") (r "^0.4.0-dev.5") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0lgv4y3d9fyvyzglj149af6v6xbq92qpknyp91vhr5qcx246dglw")))
 
+(define-public crate-holochain_state_types-0.3.1-rc.1 (c (n "holochain_state_types") (v "0.3.1-rc.1") (d (list (d (n "holo_hash") (r "^0.3.1-rc.1") (d #t) (k 0)) (d (n "holochain_integrity_types") (r "^0.3.1-rc.1") (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1n46xa7xs5vk5zqas75nf7xv5r1032z2hanrg1nfharjc0gzpj1a")))
+

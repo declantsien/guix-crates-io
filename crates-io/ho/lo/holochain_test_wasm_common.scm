@@ -310,3 +310,5 @@
 
 (define-public crate-holochain_test_wasm_common-0.4.0-dev.5 (c (n "holochain_test_wasm_common") (v "0.4.0-dev.5") (d (list (d (n "hdk") (r "^0.4.0-dev.5") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "1kk6fbigvzllqlf5nbhi4hmjp8nj3krblx0x4l0zpimsddmz2idr")))
 
+(define-public crate-holochain_test_wasm_common-0.3.1-rc.1 (c (n "holochain_test_wasm_common") (v "0.3.1-rc.1") (d (list (d (n "hdk") (r "^0.3.1-rc.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "05iiprw8iamkvlhlb2kxq1afs12m5hqqx5a36ak9p6q4hb71wvr7")))
+
