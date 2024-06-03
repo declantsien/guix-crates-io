@@ -46,3 +46,5 @@
 
 (define-public crate-liquid-derive-0.26.4 (c (n "liquid-derive") (v "0.26.4") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.28") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "0887ccqm50ddj0d9n74ls6bm3m7p5mzdyjqm0cw7l9dlkcdb8bzw") (r "1.65.0")))
 
+(define-public crate-liquid-derive-0.26.5 (c (n "liquid-derive") (v "0.26.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.28") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "0zi8il7zrh48rxld5bqnb01vrqyz5prh46aw43apr8k35456spwi") (r "1.74")))
+

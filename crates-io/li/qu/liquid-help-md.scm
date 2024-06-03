@@ -40,3 +40,5 @@
 
 (define-public crate-liquid-help-md-0.26.3 (c (n "liquid-help-md") (v "0.26.3") (d (list (d (n "liquid-core") (r "^0.26.3") (d #t) (k 0)))) (h "0q60jyw7hxk1lncrzw7xn0f8wl8yp39ijipagb5xk7rlwqjy1xmp") (r "1.65.0")))
 
+(define-public crate-liquid-help-md-0.26.4 (c (n "liquid-help-md") (v "0.26.4") (d (list (d (n "liquid-core") (r "^0.26.5") (d #t) (k 0)))) (h "15x7lgkl6sv9qz78nz3zcd835v9h136vhc260h6w7r6607rn33vw") (r "1.74")))
+

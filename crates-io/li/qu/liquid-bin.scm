@@ -42,3 +42,5 @@
 
 (define-public crate-liquid-bin-0.26.3 (c (n "liquid-bin") (v "0.26.3") (d (list (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99.2") (d #t) (k 0)) (d (n "liquid") (r "^0.26.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.157") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)))) (h "0bqf8zb71s52xrf0p345az808fwc9020jfh2z546p84fff0rlh2v") (r "1.65.0")))
 
+(define-public crate-liquid-bin-0.26.4 (c (n "liquid-bin") (v "0.26.4") (d (list (d (n "clap") (r "^4.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "derive_more") (r "^0.99.2") (d #t) (k 0)) (d (n "liquid") (r "^0.26.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.157") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)))) (h "1hrwbhjh4r4s09phk1xj7ir28f4p2k9gscf3sq0nd2y2fb7pdfkw") (r "1.74")))
+
