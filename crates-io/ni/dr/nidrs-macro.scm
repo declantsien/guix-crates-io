@@ -16,3 +16,5 @@
 
 (define-public crate-nidrs-macro-0.0.8 (c (n "nidrs-macro") (v "0.0.8") (d (list (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.79") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.53") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn-serde") (r "^0.3") (f (quote ("json"))) (d #t) (k 0)))) (h "0nrshwg0mlrv2kr9k3y3z6gml877mv70g0nxlcz7c5lxsp47s1rs")))
 
+(define-public crate-nidrs-macro-0.0.9 (c (n "nidrs-macro") (v "0.0.9") (d (list (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.79") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.53") (f (quote ("full"))) (d #t) (k 0)) (d (n "syn-serde") (r "^0.3") (f (quote ("json"))) (d #t) (k 0)))) (h "0x23iz07ik82ld7zmab36hkrkch4m7wl3zb8jn4k8kpbd0g99n9c")))
+

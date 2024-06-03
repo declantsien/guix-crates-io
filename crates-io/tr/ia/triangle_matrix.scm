@@ -16,3 +16,5 @@
 
 (define-public crate-triangle_matrix-0.3.0 (c (n "triangle_matrix") (v "0.3.0") (h "0y3sgznxkhixmj2bdrmzp1smkl0i1kycd8rgnlm7xdkzrc8y2bl3")))
 
+(define-public crate-triangle_matrix-0.4.0 (c (n "triangle_matrix") (v "0.4.0") (h "1w8z4i8f6siz6wvrqlh6apcw7jwyrz4jbni9gmjm14xkj6yicb0d")))
+

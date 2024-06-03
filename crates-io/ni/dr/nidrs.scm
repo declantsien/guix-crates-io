@@ -14,3 +14,5 @@
 
 (define-public crate-nidrs-0.0.8 (c (n "nidrs") (v "0.0.8") (d (list (d (n "nidrs-extern") (r "^0.0.8") (d #t) (k 0)) (d (n "nidrs-macro") (r "^0.0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)))) (h "1wamgi4ns4ah462qbyww7rdb4wllh6z3lkb40x2y63ykfgda1f6x")))
 
+(define-public crate-nidrs-0.0.9 (c (n "nidrs") (v "0.0.9") (d (list (d (n "nidrs-extern") (r "^0.0.9") (d #t) (k 0)) (d (n "nidrs-macro") (r "^0.0.9") (d #t) (k 0)))) (h "13gkjm65mdf8vy51wdnyfflwwg456gn6imzxyhbnsn38yf1gmqb9") (f (quote (("tower" "nidrs-extern/tower") ("serde" "nidrs-extern/serde") ("default" "tower" "serde"))))))
+

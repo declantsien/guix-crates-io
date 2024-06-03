@@ -22,3 +22,5 @@
 
 (define-public crate-bssl-cmake-sys-0.1.2405270 (c (n "bssl-cmake-sys") (v "0.1.2405270") (d (list (d (n "bindgen") (r "^0.69") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)))) (h "10h1zym1xs6r8m2ahlbp31vqssdnwcsj34xih9bwqlj2fbkjvjgg") (l "bssl")))
 
+(define-public crate-bssl-cmake-sys-0.1.2406030 (c (n "bssl-cmake-sys") (v "0.1.2406030") (d (list (d (n "bindgen") (r "^0.69") (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "cmake") (r "^0.1") (d #t) (k 1)))) (h "0dvm4p1vyp8z2sad7vn231qvh09n7bll4wnlip268gq9nyaw9by1") (l "bssl")))
+
