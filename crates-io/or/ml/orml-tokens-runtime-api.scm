@@ -22,3 +22,5 @@
 
 (define-public crate-orml-tokens-runtime-api-0.10.0 (c (n "orml-tokens-runtime-api") (v "0.10.0") (d (list (d (n "frame-support") (r "^32.0.0") (k 0)) (d (n "parity-scale-codec") (r "^3.0.0") (f (quote ("derive"))) (k 0)) (d (n "sp-api") (r "^30.0.0") (k 0)) (d (n "sp-runtime") (r "^35.0.0") (k 0)))) (h "194k2rmc9pbjivymf6nchv9f0i7vcqrnqmycq6i8c5g5hnr3pxk6") (f (quote (("std" "frame-support/std" "parity-scale-codec/std" "sp-api/std" "sp-runtime/std") ("default" "std"))))))
 
+(define-public crate-orml-tokens-runtime-api-0.12.0 (c (n "orml-tokens-runtime-api") (v "0.12.0") (d (list (d (n "frame-support") (r "^34.0.0") (k 0)) (d (n "parity-scale-codec") (r "^3.0.0") (f (quote ("derive"))) (k 0)) (d (n "sp-api") (r "^32.0.0") (k 0)) (d (n "sp-runtime") (r "^37.0.0") (k 0)))) (h "1ajg3jw1sdivz5zg13wpcsrbqbmn0qzf7j5sfmgky7rs08xkg75s") (f (quote (("std" "frame-support/std" "parity-scale-codec/std" "sp-api/std" "sp-runtime/std") ("default" "std"))))))
+

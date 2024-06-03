@@ -22,3 +22,5 @@
 
 (define-public crate-orml-oracle-runtime-api-0.10.0 (c (n "orml-oracle-runtime-api") (v "0.10.0") (d (list (d (n "parity-scale-codec") (r "^3.0.0") (f (quote ("derive"))) (k 0)) (d (n "sp-api") (r "^30.0.0") (k 0)) (d (n "sp-std") (r "^14.0.0") (k 0)))) (h "1qvyakjq34g4k3c8n8fg2yljim1yxsqjq3vyz9mm5mdmcm74l8a1") (f (quote (("std" "parity-scale-codec/std" "sp-api/std" "sp-std/std") ("default" "std"))))))
 
+(define-public crate-orml-oracle-runtime-api-0.12.0 (c (n "orml-oracle-runtime-api") (v "0.12.0") (d (list (d (n "parity-scale-codec") (r "^3.0.0") (f (quote ("derive"))) (k 0)) (d (n "sp-api") (r "^32.0.0") (k 0)) (d (n "sp-std") (r "^14.0.0") (k 0)))) (h "1qmchgzrfnl8gb8m84752pj8l58b3av3f5bca984c15jp91x9qv3") (f (quote (("std" "parity-scale-codec/std" "sp-api/std" "sp-std/std") ("default" "std"))))))
+

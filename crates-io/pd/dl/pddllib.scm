@@ -44,3 +44,7 @@
 
 (define-public crate-pddllib-0.1.21 (c (n "pddllib") (v "0.1.21") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "indexmap") (r "^2.2.6") (d #t) (k 0)) (d (n "itertools") (r "^0.13.0") (d #t) (k 0)) (d (n "pathfinding") (r "^4.9.1") (d #t) (k 2)) (d (n "pddlp") (r "^0.1.6") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "129dqhyjhazan9jfm32f2b2wvwka64zl4nkks8janhcryz6yfcmf") (f (quote (("default" "translation")))) (s 2) (e (quote (("translation" "dep:pddlp"))))))
 
+(define-public crate-pddllib-0.1.22 (c (n "pddllib") (v "0.1.22") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "indexmap") (r "^2.2.6") (d #t) (k 0)) (d (n "itertools") (r "^0.13.0") (d #t) (k 0)) (d (n "pathfinding") (r "^4.9.1") (d #t) (k 2)) (d (n "pddlp") (r "^0.1.6") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0fsq8rpm6w93byh8n7lqv9xflr2x582dn9wim9ibnnl71dybs444") (f (quote (("default" "translation")))) (s 2) (e (quote (("translation" "dep:pddlp"))))))
+
+(define-public crate-pddllib-0.1.23 (c (n "pddllib") (v "0.1.23") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "indexmap") (r "^2.2.6") (d #t) (k 0)) (d (n "itertools") (r "^0.13.0") (d #t) (k 0)) (d (n "pathfinding") (r "^4.9.1") (d #t) (k 2)) (d (n "pddlp") (r "^0.1.6") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0zi9i3yzbqlffzldpvil06x747qgc0m8q43kbk7g3s36w7s86vwz") (f (quote (("default" "translation")))) (s 2) (e (quote (("translation" "dep:pddlp"))))))
+

@@ -14,3 +14,5 @@
 
 (define-public crate-orml-build-script-utils-0.10.0 (c (n "orml-build-script-utils") (v "0.10.0") (d (list (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "0ijp5dnggn78facc04h00vb0vpbjl8klli142m2hv25krn7g4kx5")))
 
+(define-public crate-orml-build-script-utils-0.12.0 (c (n "orml-build-script-utils") (v "0.12.0") (d (list (d (n "walkdir") (r "^2") (d #t) (k 0)))) (h "070qxjm4wzbil6dkb8hqmhm1n3zidb1nhn9ijv1rw0rfx53fvqrd")))
+
