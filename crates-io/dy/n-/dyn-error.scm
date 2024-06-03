@@ -6,3 +6,5 @@
 
 (define-public crate-dyn-error-0.2.0 (c (n "dyn-error") (v "0.2.0") (h "1l5cib8701pdbjcsikqmvmbkprwrz8pj1qchnqf8gvavca1yplkx")))
 
+(define-public crate-dyn-error-0.2.1 (c (n "dyn-error") (v "0.2.1") (d (list (d (n "speculate2") (r "^0.2") (d #t) (k 2)))) (h "0rd9pdm1a957w0qlvy74yn3905v04fk707jk2mxxcnj1vak8k58b")))
+
