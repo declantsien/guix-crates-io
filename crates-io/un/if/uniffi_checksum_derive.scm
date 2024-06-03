@@ -32,3 +32,5 @@
 
 (define-public crate-uniffi_checksum_derive-0.27.2 (c (n "uniffi_checksum_derive") (v "0.27.2") (d (list (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("derive" "parsing"))) (d #t) (k 0)))) (h "1jf2lx1s52g4llw6ajxydrlbz17dpsxfqb8kp49blf618k6nrs4m") (f (quote (("nightly") ("default"))))))
 
+(define-public crate-uniffi_checksum_derive-0.27.3 (c (n "uniffi_checksum_derive") (v "0.27.3") (d (list (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("derive" "parsing"))) (d #t) (k 0)))) (h "0dfnr1zlca5zyi4zmd756prlmmligr00nz956jz1f7cxk8rh1i6m") (f (quote (("nightly") ("default"))))))
+

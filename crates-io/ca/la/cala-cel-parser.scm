@@ -20,3 +20,5 @@
 
 (define-public crate-cala-cel-parser-0.1.8 (c (n "cala-cel-parser") (v "0.1.8") (d (list (d (n "lalrpop") (r "^0.20") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.20") (f (quote ("lexer"))) (d #t) (k 0)))) (h "19xbngkgm6rqp905hadsc75czhnd3v6hlfdgnvl3lzycincalyd7") (f (quote (("fail-on-warnings"))))))
 
+(define-public crate-cala-cel-parser-0.1.9 (c (n "cala-cel-parser") (v "0.1.9") (d (list (d (n "lalrpop") (r "^0.20") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.20") (f (quote ("lexer"))) (d #t) (k 0)))) (h "0aj0x6rvpbx8h8via0zliv0882cnkfkhy0cx9bc8z5mrh3afgx5c") (f (quote (("fail-on-warnings"))))))
+

@@ -42,3 +42,5 @@
 
 (define-public crate-uniffi_meta-0.27.2 (c (n "uniffi_meta") (v "0.27.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^1.3") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)) (d (n "uniffi_checksum_derive") (r "^0.27.2") (d #t) (k 0)))) (h "1kyfxz4gdp161y366f9ivhky0k1mkbf9q7mgp7zrnjypf2ivss3r")))
 
+(define-public crate-uniffi_meta-0.27.3 (c (n "uniffi_meta") (v "0.27.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bytes") (r "^1.3") (d #t) (k 0)) (d (n "siphasher") (r "^0.3") (d #t) (k 0)) (d (n "uniffi_checksum_derive") (r "^0.27.3") (d #t) (k 0)))) (h "12c1h7qpn8ah2ki7nhmmvchdjnjmgrxbdy1jjwgnixdxy94snfsq")))
+
