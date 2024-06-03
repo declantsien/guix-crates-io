@@ -10,3 +10,5 @@
 
 (define-public crate-prople-crypto-0.2.2 (c (n "prople-crypto") (v "0.2.2") (d (list (d (n "rst-common") (r "^1.1.0") (f (quote ("standard" "with-errors" "with-cryptography"))) (d #t) (k 0)))) (h "1ij72lc511i4i7a6hm5z87n1z2xf0z2dn0b42x2ifhrrw5iw4gfl") (r "1.74")))
 
+(define-public crate-prople-crypto-0.2.3 (c (n "prople-crypto") (v "0.2.3") (d (list (d (n "rst-common") (r "^1.1.0") (f (quote ("standard" "with-errors" "with-cryptography"))) (d #t) (k 0)))) (h "1kwnqcbdha3ca54pk2sf2h5h9h4qi51c5p8hi4y0bn7m2vzj0s3c") (r "1.74")))
+

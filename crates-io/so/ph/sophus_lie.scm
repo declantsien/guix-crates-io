@@ -6,3 +6,5 @@
 
 (define-public crate-sophus_lie-0.6.0 (c (n "sophus_lie") (v "0.6.0") (d (list (d (n "approx") (r "^0.5") (d #t) (k 0)) (d (n "assertables") (r "^7.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (f (quote ("rand"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "sophus_core") (r "^0.6.0") (d #t) (k 0)))) (h "04xp48dkyv3vc9gbrila5dnqg71zhvxsm3hrvhphfayxszb1h2gh")))
 
+(define-public crate-sophus_lie-0.6.1 (c (n "sophus_lie") (v "0.6.1") (d (list (d (n "approx") (r "^0.5") (d #t) (k 0)) (d (n "assertables") (r "^7.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (f (quote ("rand"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "sophus_core") (r "^0.6.1") (d #t) (k 0)))) (h "0p25ilmghqrggxgnhqk83a6lif23i85rfx0fpj91ggsa7lkin509")))
+

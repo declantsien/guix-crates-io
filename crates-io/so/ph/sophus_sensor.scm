@@ -6,3 +6,5 @@
 
 (define-public crate-sophus_sensor-0.6.0 (c (n "sophus_sensor") (v "0.6.0") (d (list (d (n "approx") (r "^0.5") (d #t) (k 0)) (d (n "assertables") (r "^7.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (f (quote ("rand"))) (d #t) (k 0)) (d (n "ndarray") (r "^0.15") (f (quote ("approx-0_5"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "sophus_core") (r "^0.6.0") (d #t) (k 0)) (d (n "sophus_image") (r "^0.6.0") (d #t) (k 0)))) (h "1kd65siz3x6bn5xrlcv5cc8gmmpvj6kz6ks5x6wilsyjkmm8a2rl")))
 
+(define-public crate-sophus_sensor-0.6.1 (c (n "sophus_sensor") (v "0.6.1") (d (list (d (n "approx") (r "^0.5") (d #t) (k 0)) (d (n "assertables") (r "^7.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (f (quote ("rand"))) (d #t) (k 0)) (d (n "ndarray") (r "^0.15") (f (quote ("approx-0_5"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "sophus_core") (r "^0.6.1") (d #t) (k 0)) (d (n "sophus_image") (r "^0.6.1") (d #t) (k 0)))) (h "09rldsdwb3dm4qd5aln3vh8wcgmc26chy08af778ajfrgsw2z4m3")))
+

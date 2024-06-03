@@ -112,3 +112,5 @@
 
 (define-public crate-license-3.3.1 (c (n "license") (v "3.3.1") (d (list (d (n "reword") (r "^7") (d #t) (k 1)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1") (d #t) (k 1)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "1r52ydyhgcj5gg1gfd0z747dflfqkj9mhmjnx95ws4qxxq12zfiv") (f (quote (("offline") ("default"))))))
 
+(define-public crate-license-3.4.0+3.24.0 (c (n "license") (v "3.4.0+3.24.0") (d (list (d (n "reword") (r "^7") (d #t) (k 1)) (d (n "serde") (r "^1") (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1") (d #t) (k 1)) (d (n "serde_json") (r "^1") (d #t) (k 2)))) (h "0drbj4xfsgx2ls09ayrcq9ghvp5032lh3wp5kyd2kbszhh6ixnm7") (f (quote (("offline") ("default"))))))
+

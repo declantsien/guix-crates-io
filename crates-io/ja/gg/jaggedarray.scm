@@ -10,3 +10,5 @@
 
 (define-public crate-jaggedarray-0.2.2 (c (n "jaggedarray") (v "0.2.2") (d (list (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "generic-array") (r "^1.0.0") (d #t) (k 0)) (d (n "num") (r "^0.4.3") (d #t) (k 0)) (d (n "tinyvec") (r "^1.6.0") (d #t) (k 0)) (d (n "typenum") (r "^1.17.0") (d #t) (k 0)))) (h "14xjishy1iglm2f9dl12ykv5adlpm84mfny4wzs4918s2aycjkz1")))
 
+(define-public crate-jaggedarray-0.2.3 (c (n "jaggedarray") (v "0.2.3") (d (list (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "generic-array") (r "^1.0.0") (d #t) (k 0)) (d (n "num") (r "^0.4.3") (d #t) (k 0)) (d (n "tinyvec") (r "^1.6.0") (d #t) (k 0)) (d (n "typenum") (r "^1.17.0") (d #t) (k 0)))) (h "0wacgy3gr73jzz7fb9vx6r2ny7lsyg0mnxklv0myh4glfmp0mxi0")))
+

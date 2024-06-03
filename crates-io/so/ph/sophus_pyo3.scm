@@ -6,3 +6,5 @@
 
 (define-public crate-sophus_pyo3-0.6.0 (c (n "sophus_pyo3") (v "0.6.0") (d (list (d (n "nalgebra") (r "^0.32") (f (quote ("rand"))) (d #t) (k 0)) (d (n "numpy") (r "^0.21") (d #t) (k 0)) (d (n "pyo3") (r "^0.21.2") (f (quote ("abi3-py38"))) (d #t) (k 0)) (d (n "sophus_core") (r "^0.6.0") (d #t) (k 0)) (d (n "sophus_lie") (r "^0.6.0") (d #t) (k 0)))) (h "140bg0x630y65rbshw3jf689lalplimp38xbh2b951hx4h1nrs91")))
 
+(define-public crate-sophus_pyo3-0.6.1 (c (n "sophus_pyo3") (v "0.6.1") (d (list (d (n "nalgebra") (r "^0.32") (f (quote ("rand"))) (d #t) (k 0)) (d (n "numpy") (r "^0.21") (d #t) (k 0)) (d (n "pyo3") (r "^0.21.2") (f (quote ("abi3-py38"))) (d #t) (k 0)) (d (n "sophus_core") (r "^0.6.1") (d #t) (k 0)) (d (n "sophus_lie") (r "^0.6.1") (d #t) (k 0)))) (h "08f0lk6x6qilryd29q6jcbc5pzpwf4982iywcfxym3k3m3whk2wf")))
+

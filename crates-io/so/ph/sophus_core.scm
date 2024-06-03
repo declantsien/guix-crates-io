@@ -4,3 +4,5 @@
 
 (define-public crate-sophus_core-0.6.0 (c (n "sophus_core") (v "0.6.0") (d (list (d (n "approx") (r "^0.5") (d #t) (k 0)) (d (n "assertables") (r "^7.0") (d #t) (k 0)) (d (n "concat-arrays") (r "^0.1") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (f (quote ("rand"))) (d #t) (k 0)) (d (n "ndarray") (r "^0.15") (f (quote ("approx-0_5"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "sleef") (r "^0.3") (d #t) (k 0)) (d (n "typenum") (r "^1.17") (f (quote ("const-generics"))) (d #t) (k 0)))) (h "0nclylyg4jbcmr77b1w1jpn68crd5kv7kpa81d1bj73ff1yry5c2")))
 
+(define-public crate-sophus_core-0.6.1 (c (n "sophus_core") (v "0.6.1") (d (list (d (n "approx") (r "^0.5") (d #t) (k 0)) (d (n "assertables") (r "^7.0") (d #t) (k 0)) (d (n "concat-arrays") (r "^0.1") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32") (f (quote ("rand"))) (d #t) (k 0)) (d (n "ndarray") (r "^0.15") (f (quote ("approx-0_5"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "sleef") (r "^0.3") (d #t) (k 0)) (d (n "typenum") (r "^1.17") (f (quote ("const-generics"))) (d #t) (k 0)))) (h "15ak4mwpa38x56g0prxrvww3mvaslc2n9sfnk8qa821540l8j86p")))
+

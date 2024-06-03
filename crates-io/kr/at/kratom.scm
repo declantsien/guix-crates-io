@@ -4,3 +4,5 @@
 
 (define-public crate-kratom-1.0.0 (c (n "kratom") (v "1.0.0") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "154720az1aknvsnxim6yq5jwff4xdl1f9x6n7fn2rqq9cha98ihv")))
 
+(define-public crate-kratom-1.0.1 (c (n "kratom") (v "1.0.1") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "1spzf0cayxn2x7z7rll717xjkpg9h2hndrk5f6j0pgqlfik2qazp")))
+
