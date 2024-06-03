@@ -16,3 +16,5 @@
 
 (define-public crate-rl_model-rs-0.1.8 (c (n "rl_model-rs") (v "0.1.8") (d (list (d (n "clap") (r "^4.0.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.8.4") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.7") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.7") (f (quote ("lexer"))) (d #t) (k 0)) (d (n "line-col") (r "^0.2.1") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0z46ghq6677wk703ik1lrib1qy2p63wlhjrkgk8y1i0ggp6a5r5l")))
 
+(define-public crate-rl_model-rs-0.2.1 (c (n "rl_model-rs") (v "0.2.1") (d (list (d (n "clap") (r "^4.0.11") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.8.4") (d #t) (k 0)) (d (n "lalrpop") (r "^0.19.7") (f (quote ("lexer"))) (d #t) (k 1)) (d (n "lalrpop-util") (r "^0.19.7") (f (quote ("lexer"))) (d #t) (k 0)) (d (n "line-col") (r "^0.2.1") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)))) (h "0ja0qy11ifnwgm0ad007j014yiw9rgvr92dwyqg6fapgp84pimy9")))
+
