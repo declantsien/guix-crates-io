@@ -100,3 +100,5 @@
 
 (define-public crate-fuel-storage-0.50.0 (c (n "fuel-storage") (v "0.50.0") (h "0m9h29r0hzdf418q5yr7wxa8gj55pg313xmbyrzfh601qh95zvxy")))
 
+(define-public crate-fuel-storage-0.51.0 (c (n "fuel-storage") (v "0.51.0") (h "17aif51cnmj4mvh0sg8np2s2mf0qxq4f2759lvvshiqq2k7nsy0c")))
+

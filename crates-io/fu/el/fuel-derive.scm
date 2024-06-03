@@ -40,3 +40,5 @@
 
 (define-public crate-fuel-derive-0.50.0 (c (n "fuel-derive") (v "0.50.0") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)) (d (n "synstructure") (r "^0.13") (d #t) (k 0)))) (h "0aajghiihpix9029ndb9ypy123l881n1qan181k93sv83dnydmnq")))
 
+(define-public crate-fuel-derive-0.51.0 (c (n "fuel-derive") (v "0.51.0") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)) (d (n "synstructure") (r "^0.13") (d #t) (k 0)))) (h "04lv9l6l54a3ffrad7jg18r8w56zv9v94n7hfrw3had3rqrqm1i3")))
+

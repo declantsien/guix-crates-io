@@ -12,3 +12,5 @@
 
 (define-public crate-algebra_kit-0.1.6 (c (n "algebra_kit") (v "0.1.6") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "0zzhsjsxfgaiqyx9icwgfplrvnm89lwzsrzaj5h6lwfryy1gx63v")))
 
+(define-public crate-algebra_kit-0.1.7 (c (n "algebra_kit") (v "0.1.7") (d (list (d (n "rand") (r "^0.8.5") (d #t) (k 0)))) (h "1y2wjzccy5vfv6v39vmbc9mjcs4fg36dziv84hlrzc8swvbb98wd")))
+
