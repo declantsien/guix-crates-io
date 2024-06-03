@@ -22,3 +22,5 @@
 
 (define-public crate-nuts-bytes-derive-0.6.2 (c (n "nuts-bytes-derive") (v "0.6.2") (d (list (d (n "proc-macro2") (r "^1.0.83") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.65") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1al613vsbvxg6jgy7xiyg2sl5549ds5sqk7vkwwhy2czhndbkbx2")))
 
+(define-public crate-nuts-bytes-derive-0.6.3 (c (n "nuts-bytes-derive") (v "0.6.3") (d (list (d (n "proc-macro2") (r "^1.0.83") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.65") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1qy031j76ynirc4nk20h3scdlvxl4dn37vjdbyxswgpynzs5xbzz")))
+

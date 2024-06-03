@@ -28,3 +28,5 @@
 
 (define-public crate-nuts-directory-0.6.2 (c (n "nuts-directory") (v "0.6.2") (d (list (d (n "getrandom") (r "^0.2.15") (f (quote ("std"))) (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "nuts-backend") (r "=0.6.2") (d #t) (k 0)) (d (n "nuts-tool-api") (r "=0.6.2") (o #t) (d #t) (k 0)))) (h "00qz0r5m8hlzrfxs31ry9ggzsd5ychmlx702fy0rg3zgjrifi0x6") (s 2) (e (quote (("plugin" "dep:nuts-tool-api"))))))
 
+(define-public crate-nuts-directory-0.6.3 (c (n "nuts-directory") (v "0.6.3") (d (list (d (n "getrandom") (r "^0.2.15") (f (quote ("std"))) (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "nuts-backend") (r "=0.6.3") (d #t) (k 0)) (d (n "nuts-tool-api") (r "=0.6.3") (o #t) (d #t) (k 0)))) (h "1lxm57qgmxa7rlcbr5s26l1mmz5s41lb2xxh5wv7flmqjf1jr8hy") (s 2) (e (quote (("plugin" "dep:nuts-tool-api"))))))
+

@@ -26,3 +26,5 @@
 
 (define-public crate-nuts-container-0.6.2 (c (n "nuts-container") (v "0.6.2") (d (list (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "nuts-backend") (r "=0.6.2") (d #t) (k 0)) (d (n "nuts-memory") (r "=0.6.2") (d #t) (k 2)) (d (n "openssl") (r "^0.10.64") (d #t) (k 0)) (d (n "openssl-sys") (r "^0.9.102") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0a9qlx8g0wf8k6yg0y16wbqmy93nbawva34n7k2zr4dpsm6w2zym") (f (quote (("default") ("debug-plain-keys"))))))
 
+(define-public crate-nuts-container-0.6.3 (c (n "nuts-container") (v "0.6.3") (d (list (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "nuts-backend") (r "=0.6.3") (d #t) (k 0)) (d (n "nuts-memory") (r "=0.6.3") (d #t) (k 2)) (d (n "openssl") (r "^0.10.64") (d #t) (k 0)) (d (n "openssl-sys") (r "^0.9.102") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "161qpa3llm7mdahdig4vlhliafx5d3cz4rp13wiw58nmj28flxdm") (f (quote (("default") ("debug-plain-keys"))))))
+

@@ -26,3 +26,5 @@
 
 (define-public crate-nuts-bytes-0.6.2 (c (n "nuts-bytes") (v "0.6.2") (d (list (d (n "nuts-bytes-derive") (r "=0.6.2") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0x4hjr8pw7k68x5xw7n722janvm3ik2xd7bbr19xlkzshgyfjxmp") (s 2) (e (quote (("derive" "dep:nuts-bytes-derive"))))))
 
+(define-public crate-nuts-bytes-0.6.3 (c (n "nuts-bytes") (v "0.6.3") (d (list (d (n "nuts-bytes-derive") (r "=0.6.3") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "1c7x2mb145xgpd0xd742m990k1s6gg7kdwwpmlnv3hzq4c3lzgb5") (s 2) (e (quote (("derive" "dep:nuts-bytes-derive"))))))
+

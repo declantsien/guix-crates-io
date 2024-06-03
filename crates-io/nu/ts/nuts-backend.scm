@@ -16,3 +16,5 @@
 
 (define-public crate-nuts-backend-0.6.2 (c (n "nuts-backend") (v "0.6.2") (h "1bia79ajabahk7j6k9yzwl8hnfg3xkmgimb1afsfn30li7imp7wj")))
 
+(define-public crate-nuts-backend-0.6.3 (c (n "nuts-backend") (v "0.6.3") (h "0375r6hiin0qh2pvvii6gs65qs281l2szarzw8pb2194xcvd7r4v")))
+

@@ -16,3 +16,5 @@
 
 (define-public crate-nuts-memory-0.6.2 (c (n "nuts-memory") (v "0.6.2") (d (list (d (n "nuts-backend") (r "=0.6.2") (d #t) (k 0)) (d (n "nuts-bytes") (r "=0.6.2") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0glpr4d4xp4468vl8kmfwqbllhnaa8i6lmqg4ghzg638pbx2a8k0")))
 
+(define-public crate-nuts-memory-0.6.3 (c (n "nuts-memory") (v "0.6.3") (d (list (d (n "nuts-backend") (r "=0.6.3") (d #t) (k 0)) (d (n "nuts-bytes") (r "=0.6.3") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0w79c9lj0dy2d0raf7frhy56hfsxxk6rfhw0mnikq0l3h4w6vlp2")))
+
