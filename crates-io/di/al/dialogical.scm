@@ -38,3 +38,5 @@
 
 (define-public crate-dialogical-0.10.0 (c (n "dialogical") (v "0.10.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "map-macro") (r "^0.2.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1wjl9kk74yqj1vbgwy32v4capp94qf4mrxsi3hxszs65rdfv8n2s")))
 
+(define-public crate-dialogical-0.11.0 (c (n "dialogical") (v "0.11.0") (d (list (d (n "bincode") (r "^1.3.3") (d #t) (k 0)) (d (n "clap") (r "^4.4.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "map-macro") (r "^0.2.6") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (f (quote ("derive"))) (d #t) (k 0)) (d (n "shlex") (r "^1.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0gm3dmv7jhw4z3ja2327cj4j8rysxx6czqmwna7m30vc6mh60dl7")))
+

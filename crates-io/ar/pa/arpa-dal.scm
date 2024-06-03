@@ -1,0 +1,4 @@
+(define-module (crates-io ar pa arpa-dal) #:use-module (crates-io))
+
+(define-public crate-arpa-dal-0.2.0 (c (n "arpa-dal") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "arpa-core") (r "^0.2.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.35") (d #t) (k 0)) (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "dkg-core") (r "^0.2.0") (d #t) (k 0)) (d (n "ethers-core") (r "^2.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log-mdc") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.53") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.15") (d #t) (k 0)) (d (n "threshold-bls") (r "^0.2.0") (f (quote ("bn254"))) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "12q4lqls3m36ld1dg9rbz5lf7mwbxqrrw7af0sgwal7ma9904ysd")))
+
