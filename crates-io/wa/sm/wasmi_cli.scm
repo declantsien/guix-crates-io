@@ -66,5 +66,7 @@
 
 (define-public crate-wasmi_cli-0.32.0 (c (n "wasmi_cli") (v "0.32.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.7") (d #t) (k 2)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasmi") (r "^0.32.0") (k 0)) (d (n "wasmi_wasi") (r "^0.32.0") (f (quote ("sync"))) (k 0)) (d (n "wat") (r "^1") (d #t) (k 0)))) (h "0jsyrhv1ff7b9kia5a542agjs0idwhbz5c9lab61z3x8j7sm64xy") (y #t) (r "1.77")))
 
-(define-public crate-wasmi_cli-0.32.1 (c (n "wasmi_cli") (v "0.32.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.7") (d #t) (k 2)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasmi") (r "^0.32.1") (k 0)) (d (n "wasmi_wasi") (r "^0.32.1") (f (quote ("sync"))) (k 0)) (d (n "wat") (r "^1") (d #t) (k 0)))) (h "0zdhvw7ayc2kv3g90rggihmbmpg3b6kaf4frbd4px2a25pki0mqd") (r "1.77")))
+(define-public crate-wasmi_cli-0.32.1 (c (n "wasmi_cli") (v "0.32.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.7") (d #t) (k 2)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasmi") (r "^0.32.1") (k 0)) (d (n "wasmi_wasi") (r "^0.32.1") (f (quote ("sync"))) (k 0)) (d (n "wat") (r "^1") (d #t) (k 0)))) (h "0zdhvw7ayc2kv3g90rggihmbmpg3b6kaf4frbd4px2a25pki0mqd") (y #t) (r "1.77")))
+
+(define-public crate-wasmi_cli-0.32.2 (c (n "wasmi_cli") (v "0.32.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.7") (d #t) (k 2)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "wasmi") (r "^0.32.2") (k 0)) (d (n "wasmi_wasi") (r "^0.32.2") (f (quote ("sync"))) (k 0)) (d (n "wat") (r "^1") (d #t) (k 0)))) (h "16shr9kh5p63rgca6isc7a8qc8g3cjvdyrd9klrbaihv768d0xjs") (r "1.77")))
 

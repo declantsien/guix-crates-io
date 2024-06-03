@@ -28,3 +28,5 @@
 
 (define-public crate-wasmedge-types-0.5.0 (c (n "wasmedge-types") (v "0.5.0") (d (list (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "wat") (r "^1.0") (d #t) (k 0)))) (h "0pvcnkifzmx83w3ywdkg47k420n0rk4rrym82ch8swakh9agr2vw")))
 
+(define-public crate-wasmedge-types-0.6.0 (c (n "wasmedge-types") (v "0.6.0") (d (list (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "wat") (r "^1.0") (d #t) (k 0)))) (h "1i692ncg58y8ij4ys43ap2m30barfx0qfnqqzh0zxg165mamyc8p")))
+

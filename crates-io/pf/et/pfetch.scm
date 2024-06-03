@@ -32,3 +32,5 @@
 
 (define-public crate-pfetch-2.9.1 (c (n "pfetch") (v "2.9.1") (d (list (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.6") (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "globset") (r "^0.4.10") (d #t) (k 0)) (d (n "libmacchina") (r "^7.2.1") (d #t) (k 0)) (d (n "os-release") (r "^0.1.0") (d #t) (k 0)) (d (n "pfetch-extractor") (r "^0.2.0") (d #t) (k 0)) (d (n "pfetch-logo-parser") (r "^0.1.0") (d #t) (k 0)) (d (n "which") (r "^4.4.0") (d #t) (k 0)))) (h "1ifwmlq39m60607rxmycn42vyc87qn03jzwkgvp6h2zkk0sjagrf")))
 
+(define-public crate-pfetch-2.9.2 (c (n "pfetch") (v "2.9.2") (d (list (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "dotenvy") (r "^0.15.6") (d #t) (k 0)) (d (n "glob") (r "^0.3.1") (d #t) (k 0)) (d (n "globset") (r "^0.4.10") (d #t) (k 0)) (d (n "libmacchina") (r "^7.2.3") (d #t) (k 0)) (d (n "os-release") (r "^0.1.0") (d #t) (k 0)) (d (n "pfetch-extractor") (r "^0.2.0") (d #t) (k 0)) (d (n "pfetch-logo-parser") (r "^0.1.0") (d #t) (k 0)) (d (n "which") (r "^4.4.0") (d #t) (k 0)))) (h "1phph1rvf1wza5jgc7zj1bi34fgb15i6im4jmkf2fhxcik6ra6x0")))
+
