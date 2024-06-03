@@ -46,3 +46,5 @@
 
 (define-public crate-sequoia-sop-0.33.0 (c (n "sequoia-sop") (v "0.33.0") (d (list (d (n "anyhow") (r "^1.0.18") (d #t) (k 0)) (d (n "sequoia-openpgp") (r "^1.20") (k 0)) (d (n "sop") (r "^0.7") (d #t) (k 0)) (d (n "sop") (r "^0.7") (d #t) (k 1)))) (h "1461hnwmj91dq208d9j97yzwl4h8g6f6zxaxsdnvajz92bzbvxqh") (f (quote (("default" "sequoia-openpgp/default") ("cli" "sop/cli"))))))
 
+(define-public crate-sequoia-sop-0.34.0 (c (n "sequoia-sop") (v "0.34.0") (d (list (d (n "anyhow") (r "^1.0.18") (d #t) (k 0)) (d (n "sequoia-openpgp") (r "^1.20") (k 0)) (d (n "sop") (r "^0.7.1") (d #t) (k 0)) (d (n "sop") (r "^0.7.1") (d #t) (k 1)))) (h "08xrrlwhsvpzm75dib54kk5afm1ns3kpxhi2fkwwgvlkngfjfaz3") (f (quote (("default" "sequoia-openpgp/default") ("cli" "sop/cli"))))))
+
