@@ -18,3 +18,5 @@
 
 (define-public crate-rxr-0.1.8 (c (n "rxr") (v "0.1.8") (d (list (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread" "sync" "macros" "time"))) (d #t) (k 0)))) (h "0q63f87khc030b2layf8dd0g8m5ynkl39y0b8sxg0fnp1mkq351w") (r "1.70")))
 
+(define-public crate-rxr-0.1.9 (c (n "rxr") (v "0.1.9") (d (list (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread" "sync" "macros" "time"))) (d #t) (k 0)))) (h "18j2yp1bgy7xqcsg1w8lz0680m53k0pzv08yzf0kyzfyn15qqzr0") (r "1.70")))
+

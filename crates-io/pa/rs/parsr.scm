@@ -32,3 +32,5 @@
 
 (define-public crate-parsr-0.5.0 (c (n "parsr") (v "0.5.0") (h "0cla48rhaqns7xfn5kzj9hfn8i5a99h6bd04f0j0jxc3zkijd1bh")))
 
+(define-public crate-parsr-0.5.1 (c (n "parsr") (v "0.5.1") (h "1kc90rrk4dvprcn136fchmd09g3f25zq99i60f0irxd67g3zqhz3")))
+

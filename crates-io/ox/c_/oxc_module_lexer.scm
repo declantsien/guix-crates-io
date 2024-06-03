@@ -6,3 +6,5 @@
 
 (define-public crate-oxc_module_lexer-0.13.1 (c (n "oxc_module_lexer") (v "0.13.1") (d (list (d (n "oxc_allocator") (r "^0.13.1") (d #t) (k 2)) (d (n "oxc_ast") (r "^0.13.1") (d #t) (k 0)) (d (n "oxc_parser") (r "^0.13.1") (d #t) (k 2)) (d (n "oxc_span") (r "^0.13.1") (d #t) (k 0)))) (h "1pdrwzw5bscx79ybbas8hh96vihaz46wyr6rsh9zr6x93hllvwqq") (r "1.74")))
 
+(define-public crate-oxc_module_lexer-0.13.2 (c (n "oxc_module_lexer") (v "0.13.2") (d (list (d (n "oxc_allocator") (r "^0.13.2") (d #t) (k 2)) (d (n "oxc_ast") (r "^0.13.2") (d #t) (k 0)) (d (n "oxc_parser") (r "^0.13.2") (d #t) (k 2)) (d (n "oxc_span") (r "^0.13.2") (d #t) (k 0)))) (h "1wm1x09ydvv6ykgrfz5pb7y5r3dim7c5bn9ncl4bbzydb7gyfzdg") (r "1.74")))
+
