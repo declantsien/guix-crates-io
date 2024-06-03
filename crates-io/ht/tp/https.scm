@@ -76,3 +76,5 @@
 
 (define-public crate-https-2.0.1 (c (n "https") (v "2.0.1") (h "0s0nvdz2hrhy6lpzviwjcnsq43y5nyb9dwckihpagzjrj369dips")))
 
+(define-public crate-https-2.0.2 (c (n "https") (v "2.0.2") (h "1sjibs3vicihydxn6kgclbzcj28xbvn5a3f80gbr44bnc9rw2j01")))
+
