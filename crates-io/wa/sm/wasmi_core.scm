@@ -54,3 +54,5 @@
 
 (define-public crate-wasmi_core-0.32.0 (c (n "wasmi_core") (v "0.32.0") (d (list (d (n "downcast-rs") (r "^1.2") (k 0)) (d (n "libm") (r "^0.2.8") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.8") (k 0)) (d (n "paste") (r "^1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "19dh4hd1i1w5j84kppbhs7ni1qcd9klvp2yl14iiczwk4gps9k11") (f (quote (("std" "num-traits/std" "downcast-rs/std") ("default" "std")))) (r "1.77")))
 
+(define-public crate-wasmi_core-0.32.1 (c (n "wasmi_core") (v "0.32.1") (d (list (d (n "downcast-rs") (r "^1.2") (k 0)) (d (n "libm") (r "^0.2.8") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.8") (k 0)) (d (n "paste") (r "^1") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "1fyphpydm2pzjq607c6pza2nc1bl218cx5m87nlji68xmdhj0nym") (f (quote (("std" "num-traits/std" "downcast-rs/std") ("default" "std")))) (r "1.77")))
+

@@ -58,3 +58,5 @@
 
 (define-public crate-wasmi_wasi-0.32.0 (c (n "wasmi_wasi") (v "0.32.0") (d (list (d (n "wasi-cap-std-sync") (r "^2.0") (d #t) (k 0)) (d (n "wasi-common") (r "^2.0") (d #t) (k 0)) (d (n "wasmi") (r "^0.32.0") (f (quote ("std"))) (k 0)) (d (n "wat") (r "^1.0.50") (d #t) (k 2)) (d (n "wiggle") (r "^2.0") (f (quote ("wiggle_metadata"))) (k 0)))) (h "1ppxhnb0pj4nx1vkl74rs82f5gvrrrbg01dj11d185d5zkx75602") (f (quote (("sync") ("default" "sync")))) (r "1.77")))
 
+(define-public crate-wasmi_wasi-0.32.1 (c (n "wasmi_wasi") (v "0.32.1") (d (list (d (n "wasi-cap-std-sync") (r "^2.0") (d #t) (k 0)) (d (n "wasi-common") (r "^2.0") (d #t) (k 0)) (d (n "wasmi") (r "^0.32.1") (f (quote ("std"))) (k 0)) (d (n "wat") (r "^1.0.50") (d #t) (k 2)) (d (n "wiggle") (r "^2.0") (f (quote ("wiggle_metadata"))) (k 0)))) (h "1zg19c6jr74dvc0ksaa6mzqcdivlyw7pkipszm86s8hcpgs4gfmh") (f (quote (("sync") ("default" "sync")))) (r "1.77")))
+

@@ -14,3 +14,5 @@
 
 (define-public crate-wasmi_collections-0.32.0 (c (n "wasmi_collections") (v "0.32.0") (d (list (d (n "ahash") (r "^0.8.11") (k 0)) (d (n "hashbrown") (r "^0.14") (f (quote ("ahash" "inline-more"))) (k 0)) (d (n "string-interner") (r "^0.17") (f (quote ("inline-more" "backends"))) (k 0)))) (h "1bpwd0sxkzh34z8vq2wkj657434wz0xx3q5ciqj74gqd9b54jrm0") (f (quote (("std" "string-interner/std") ("no-hash-maps") ("default" "std")))) (r "1.77")))
 
+(define-public crate-wasmi_collections-0.32.1 (c (n "wasmi_collections") (v "0.32.1") (d (list (d (n "ahash") (r "^0.8.11") (k 0)) (d (n "hashbrown") (r "^0.14") (f (quote ("ahash" "inline-more"))) (k 0)) (d (n "string-interner") (r "^0.17") (f (quote ("inline-more" "backends"))) (k 0)))) (h "19gqxz39k39b07zlpg83yqws3a9cx5i50scp2hi1zvchh74vf4b6") (f (quote (("std" "string-interner/std") ("no-hash-maps") ("default" "std")))) (r "1.77")))
+
