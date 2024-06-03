@@ -4,3 +4,5 @@
 
 (define-public crate-oxc_ast_macros-0.13.1 (c (n "oxc_ast_macros") (v "0.13.1") (h "00vx19ffnc0xc39qz6yvw0x4nycnv9hdrcw2cgkpink72a2r1vvx") (r "1.74")))
 
+(define-public crate-oxc_ast_macros-0.13.2 (c (n "oxc_ast_macros") (v "0.13.2") (h "1rcfl3317mpnqw7x1in4wphbxr3cvmzsjaqfqjlfhxkkza0rvzw2") (r "1.74")))
+

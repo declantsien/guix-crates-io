@@ -14,3 +14,5 @@
 
 (define-public crate-disarm64_defn-0.1.7 (c (n "disarm64_defn") (v "0.1.7") (d (list (d (n "bitflags") (r "^2.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "strum") (r "^0.26") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26") (d #t) (k 0)))) (h "1frbbs5v5a7v3d3bakp8gfp99d0wdr437wfvpf1bp74x87mr2q2j") (f (quote (("std") ("default" "std"))))))
 
+(define-public crate-disarm64_defn-0.1.8 (c (n "disarm64_defn") (v "0.1.8") (d (list (d (n "bitflags") (r "^2.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "strum") (r "^0.26") (d #t) (k 0)) (d (n "strum_macros") (r "^0.26") (d #t) (k 0)))) (h "0m7kadyk523r0xbr3wyz6n92lqq1d3jl0lf3gxs2y5h8sii2jpzm") (f (quote (("std") ("default" "std"))))))
+
