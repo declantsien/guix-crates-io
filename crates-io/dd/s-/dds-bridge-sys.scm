@@ -26,3 +26,5 @@
 
 (define-public crate-dds-bridge-sys-1.2.0 (c (n "dds-bridge-sys") (v "1.2.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 1)) (d (n "bindgen") (r "^0.69.4") (d #t) (k 1)) (d (n "cc") (r "^1.0.98") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "glob") (r "^0.3.1") (d #t) (k 1)) (d (n "openmp-sys") (r "^1.2.3") (o #t) (d #t) (k 0)))) (h "0i7pacv06vvzgf9byj2sk1yqy5lfjw9rr885naf2x6myikjdszb4") (f (quote (("default" "openmp")))) (s 2) (e (quote (("openmp" "dep:openmp-sys"))))))
 
+(define-public crate-dds-bridge-sys-2.0.0 (c (n "dds-bridge-sys") (v "2.0.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 1)) (d (n "bindgen") (r "^0.69.4") (d #t) (k 1)) (d (n "cc") (r "^1.0.98") (f (quote ("parallel"))) (d #t) (k 1)) (d (n "glob") (r "^0.3.1") (d #t) (k 1)))) (h "0fdnjpvbmm4y698626hvvmg994rkyk5qp83pdav6qrqhxx9q3sj8")))
+
