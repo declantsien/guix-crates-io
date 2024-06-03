@@ -112,3 +112,5 @@
 
 (define-public crate-wide-0.7.21 (c (n "wide") (v "0.7.21") (d (list (d (n "bytemuck") (r "^1") (d #t) (k 0)) (d (n "safe_arch") (r "^0.7") (f (quote ("bytemuck"))) (d #t) (k 0)))) (h "1z6pfk6pkxribm9d9ikbgjdx0ppfq3ss8r1hb8jkqgxhl54wg3fd") (f (quote (("std") ("default" "std")))) (r "1.56")))
 
+(define-public crate-wide-0.7.22 (c (n "wide") (v "0.7.22") (d (list (d (n "bytemuck") (r "^1") (d #t) (k 0)) (d (n "safe_arch") (r "^0.7") (f (quote ("bytemuck"))) (d #t) (k 0)))) (h "1q8mxbfb0gnqsnddiq1s4n9fc4q60lppkfkj6853amgyfhnb6p1c") (f (quote (("std") ("default" "std")))) (r "1.56")))
+

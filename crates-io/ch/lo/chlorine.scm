@@ -24,3 +24,5 @@
 
 (define-public crate-chlorine-1.0.11 (c (n "chlorine") (v "1.0.11") (h "1a66cbnn6x6ml9cl8gg088zza9d2ylcws12rjpvynq2w9ff3h7cx") (f (quote (("int_extras"))))))
 
+(define-public crate-chlorine-1.0.12 (c (n "chlorine") (v "1.0.12") (h "0jcsm5bfikdw0q1ha321qislhb8p2l8nazadcvvqx9vckxbff40y") (f (quote (("int_extras"))))))
+

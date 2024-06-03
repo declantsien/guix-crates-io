@@ -196,3 +196,5 @@
 
 (define-public crate-dittolive-ditto-sys-4.5.5-alpha.1 (c (n "dittolive-ditto-sys") (v "4.5.5-alpha.1") (d (list (d (n "macro_rules_attribute") (r "^0.0.2") (d #t) (k 0)) (d (n "paste") (r "^1.0.7") (d #t) (k 0)) (d (n "safer-ffi") (r "^0.1.4") (f (quote ("tokio"))) (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 0)))) (h "1ykbpk3d9hjrppx6z73wgqnlm2335whm1sdbxpzjajwqc015yabf") (f (quote (("in-memory-storage") ("fs-storage") ("download") ("default")))) (l "dittoffi")))
 
+(define-public crate-dittolive-ditto-sys-4.7.2-rc.2 (c (n "dittolive-ditto-sys") (v "4.7.2-rc.2") (d (list (d (n "macro_rules_attribute") (r "^0.0.2") (d #t) (k 0)) (d (n "paste") (r "^1.0.7") (d #t) (k 0)) (d (n "safer-ffi") (r "^0.1.5") (f (quote ("tokio"))) (d #t) (k 0)) (d (n "tokio") (r "^1.21.2") (f (quote ("full"))) (d #t) (k 0)))) (h "152kdq6dl07zdwhizmzw4m3ml3mmky1wv09wh56w81mrhki6nks6") (f (quote (("in-memory-storage") ("fs-storage") ("download") ("default")))) (l "dittoffi")))
+

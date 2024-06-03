@@ -16,3 +16,5 @@
 
 (define-public crate-citrus-cli-0.1.7 (c (n "citrus-cli") (v "0.1.7") (d (list (d (n "citrus-core") (r "^0.1.0") (d #t) (k 0)) (d (n "citrus-migrations") (r "^0.1.1") (d #t) (k 0)) (d (n "clap") (r "^3") (d #t) (k 0)))) (h "013x5xwh9j9gn1dv4qb14nq2g6anlj8zaxq2nrfdgf7y998mj8cf") (r "1.70")))
 
+(define-public crate-citrus-cli-0.1.8 (c (n "citrus-cli") (v "0.1.8") (d (list (d (n "citrus-core") (r "^0.1.1") (d #t) (k 0)) (d (n "citrus-migrations") (r "^0.1.1") (d #t) (k 0)) (d (n "clap") (r "^3") (d #t) (k 0)))) (h "18p1lnal13dzfcqya8d0hkk9y7qyrn3zbx7pdwq0vkrdv0gr1jyv") (r "1.70")))
+
