@@ -34,3 +34,5 @@
 
 (define-public crate-thermolib-0.3.1 (c (n "thermolib") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.20.0") (f (quote ("anyhow"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.110") (d #t) (k 0)) (d (n "slint") (r "^1.5.0") (d #t) (k 0)) (d (n "slint-build") (r "^1.5.0") (d #t) (k 1)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "149iv7jr8ldrm8pz4vncayyi23c2n024fcd85pg69c76z3fzbw5i")))
 
+(define-public crate-thermolib-0.3.2 (c (n "thermolib") (v "0.3.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "pyo3") (r "^0.20.0") (f (quote ("anyhow"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.195") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.110") (d #t) (k 0)) (d (n "slint") (r "^1.5.0") (d #t) (k 0)) (d (n "slint-build") (r "^1.5.0") (d #t) (k 1)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "18ckp1r4d5wlyr1vmyfqy966pf28fyg2dcmlkdzlk6ikp48c6lxw")))
+

@@ -2,3 +2,5 @@
 
 (define-public crate-gf-core-0.0.0-reserved (c (n "gf-core") (v "0.0.0-reserved") (h "0bg2pqcci137fi3ng63n17xdxyh3mnlw35dg600qajpagnfmrhv0")))
 
+(define-public crate-gf-core-0.0.1 (c (n "gf-core") (v "0.0.1") (h "1nlv0dpqqs4pqr78iz5hjb8lygnr595mhzlfsvzs8xgsbyplsq0j")))
+
