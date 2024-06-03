@@ -132,3 +132,5 @@
 
 (define-public crate-nu-engine-0.94.1 (c (n "nu-engine") (v "0.94.1") (d (list (d (n "nu-glob") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-path") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.1") (f (quote ("plugin"))) (d #t) (k 0)) (d (n "nu-utils") (r "^0.94.1") (d #t) (k 0)))) (h "1a08nhvvkpz5xydf0qrn958kl4prjh3had78b4902kk5c3a3pyr2") (f (quote (("plugin"))))))
 
+(define-public crate-nu-engine-0.94.2 (c (n "nu-engine") (v "0.94.2") (d (list (d (n "nu-glob") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-path") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.2") (f (quote ("plugin"))) (d #t) (k 0)) (d (n "nu-utils") (r "^0.94.2") (d #t) (k 0)))) (h "1pyl0jcf764hpy62mq4nn4561pdk6fcgwbsgzr488ilzfq7583f3") (f (quote (("plugin"))))))
+

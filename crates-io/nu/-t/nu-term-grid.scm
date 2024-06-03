@@ -94,3 +94,5 @@
 
 (define-public crate-nu-term-grid-0.94.1 (c (n "nu-term-grid") (v "0.94.1") (d (list (d (n "nu-utils") (r "^0.94.1") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "1hxvkdm71m3hiyl98dq6lq8vj8d6vl3z80qji7qwx61b58vf82y7")))
 
+(define-public crate-nu-term-grid-0.94.2 (c (n "nu-term-grid") (v "0.94.2") (d (list (d (n "nu-utils") (r "^0.94.2") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1") (d #t) (k 0)))) (h "1w08ypa8jl6249ks111h98jy6yvxpn5a181ck6qa8hvs82pc10b4")))
+

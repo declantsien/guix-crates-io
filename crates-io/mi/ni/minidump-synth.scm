@@ -38,3 +38,5 @@
 
 (define-public crate-minidump-synth-0.21.1 (c (n "minidump-synth") (v "0.21.1") (d (list (d (n "minidump-common") (r "^0.21.1") (d #t) (k 0)) (d (n "scroll") (r "^0.12.0") (d #t) (k 0)) (d (n "test-assembler") (r "^0.1.5") (d #t) (k 0)))) (h "0z2129fs0ypv3f7apnxvcz30gvacry1d62qc2mpqdswbj2krdrz2")))
 
+(define-public crate-minidump-synth-0.21.2 (c (n "minidump-synth") (v "0.21.2") (d (list (d (n "minidump-common") (r "^0.21.2") (d #t) (k 0)) (d (n "scroll") (r "^0.12.0") (d #t) (k 0)) (d (n "test-assembler") (r "^0.1.5") (d #t) (k 0)))) (h "1cxcqlj03xb81da0gfg5b4hfbpfkgxdk2hlxnk2pgj8cxfa9d2p2")))
+

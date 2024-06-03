@@ -58,3 +58,5 @@
 
 (define-public crate-minidump-common-0.21.1 (c (n "minidump-common") (v "0.21.1") (d (list (d (n "arbitrary") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "debugid") (r "^0.8.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "range-map") (r "^0.2") (d #t) (k 0)) (d (n "scroll") (r "^0.12.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smart-default") (r "^0.7.0") (d #t) (k 0)))) (h "05v77jyq1mi4ldx8rbj2r6jacb0cwkr1qwmfwrcglw67ikwfmdhv")))
 
+(define-public crate-minidump-common-0.21.2 (c (n "minidump-common") (v "0.21.2") (d (list (d (n "arbitrary") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "bitflags") (r "^2") (d #t) (k 0)) (d (n "debugid") (r "^0.8.0") (d #t) (k 0)) (d (n "num-derive") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "range-map") (r "^0.2") (d #t) (k 0)) (d (n "scroll") (r "^0.12.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "smart-default") (r "^0.7.0") (d #t) (k 0)))) (h "0xqf6jakppxg5p5h1s9l1j3ccr53ma008003b8bfvlqgray18kaw")))
+

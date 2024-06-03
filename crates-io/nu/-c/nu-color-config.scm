@@ -92,3 +92,5 @@
 
 (define-public crate-nu-color-config-0.94.1 (c (n "nu-color-config") (v "0.94.1") (d (list (d (n "nu-ansi-term") (r "^0.50.0") (d #t) (k 0)) (d (n "nu-engine") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-json") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-test-support") (r "^0.94.1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)))) (h "0snyyap68mcmjicgg9d2s4rnj03fwkz8s121vn1pwrharnkl4pjr")))
 
+(define-public crate-nu-color-config-0.94.2 (c (n "nu-color-config") (v "0.94.2") (d (list (d (n "nu-ansi-term") (r "^0.50.0") (d #t) (k 0)) (d (n "nu-engine") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-json") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-test-support") (r "^0.94.2") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)))) (h "066apn9g7vq95jrysbmf4gz9zvkmdbcxfq2a33zz52c60kv7w6rd")))
+

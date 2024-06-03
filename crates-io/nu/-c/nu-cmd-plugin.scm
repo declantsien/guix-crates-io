@@ -6,3 +6,5 @@
 
 (define-public crate-nu-cmd-plugin-0.94.1 (c (n "nu-cmd-plugin") (v "0.94.1") (d (list (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "nu-engine") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-path") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-plugin-engine") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.1") (f (quote ("plugin"))) (d #t) (k 0)))) (h "1b2jpvv46a77kgfyhd8b1h69ngw95nacl0whmjf3bkz0dfpivmfk")))
 
+(define-public crate-nu-cmd-plugin-0.94.2 (c (n "nu-cmd-plugin") (v "0.94.2") (d (list (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "nu-engine") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-path") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-plugin-engine") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.2") (f (quote ("plugin"))) (d #t) (k 0)))) (h "10q5z40zjk6fkfwrkd0ixb0kpsc6gw8p3n2gni032qn969bjpwlp")))
+

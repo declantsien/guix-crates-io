@@ -158,3 +158,5 @@
 
 (define-public crate-nu-table-0.94.1 (c (n "nu-table") (v "0.94.1") (d (list (d (n "fancy-regex") (r "^0.13") (d #t) (k 0)) (d (n "nu-ansi-term") (r "^0.50.0") (d #t) (k 0)) (d (n "nu-color-config") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-engine") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-utils") (r "^0.94.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "tabled") (r "^0.14.0") (f (quote ("color"))) (k 0)))) (h "0x7r2h0brlq225zgrixbhvmxx6mm6vxiccwl8v6sizrvg4g1byl8")))
 
+(define-public crate-nu-table-0.94.2 (c (n "nu-table") (v "0.94.2") (d (list (d (n "fancy-regex") (r "^0.13") (d #t) (k 0)) (d (n "nu-ansi-term") (r "^0.50.0") (d #t) (k 0)) (d (n "nu-color-config") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-engine") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-utils") (r "^0.94.2") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "tabled") (r "^0.14.0") (f (quote ("color"))) (k 0)))) (h "0vn1crlxsya41ff9jgnhq6nbs15wgas5hwqbxh0m8l9b563kr3af")))
+

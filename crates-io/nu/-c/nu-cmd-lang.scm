@@ -50,3 +50,5 @@
 
 (define-public crate-nu-cmd-lang-0.94.1 (c (n "nu-cmd-lang") (v "0.94.1") (d (list (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "nu-engine") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-parser") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-utils") (r "^0.94.1") (d #t) (k 0)) (d (n "shadow-rs") (r "^0.28") (k 0)) (d (n "shadow-rs") (r "^0.28") (k 1)))) (h "1wx1ywhljb95bwaf19lc2ddsayv2jh5gw04n2syylg6cx2r6ydn9") (f (quote (("which-support") ("trash-support") ("system-clipboard") ("static-link-openssl") ("sqlite") ("mimalloc"))))))
 
+(define-public crate-nu-cmd-lang-0.94.2 (c (n "nu-cmd-lang") (v "0.94.2") (d (list (d (n "itertools") (r "^0.12") (d #t) (k 0)) (d (n "nu-engine") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-parser") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-utils") (r "^0.94.2") (d #t) (k 0)) (d (n "shadow-rs") (r "^0.28") (k 0)) (d (n "shadow-rs") (r "^0.28") (k 1)))) (h "0d3x64x45qs6gqw1hbavy4wxzgv49pyzfrp5f17mapxhwrr5v074") (f (quote (("which-support") ("trash-support") ("system-clipboard") ("static-link-openssl") ("sqlite") ("mimalloc"))))))
+

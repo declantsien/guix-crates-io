@@ -6,3 +6,5 @@
 
 (define-public crate-nu-plugin-protocol-0.94.1 (c (n "nu-plugin-protocol") (v "0.94.1") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.1") (f (quote ("plugin"))) (d #t) (k 0)) (d (n "nu-utils") (r "^0.94.1") (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "typetag") (r "^0.2") (d #t) (k 0)))) (h "1dcjfqa1w63q51fxmkx0ys047y7p4zjmfd0n0g9fajdff08dmw29") (f (quote (("local-socket") ("default" "local-socket"))))))
 
+(define-public crate-nu-plugin-protocol-0.94.2 (c (n "nu-plugin-protocol") (v "0.94.2") (d (list (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.2") (f (quote ("plugin"))) (d #t) (k 0)) (d (n "nu-utils") (r "^0.94.2") (d #t) (k 0)) (d (n "semver") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (k 0)) (d (n "typetag") (r "^0.2") (d #t) (k 0)))) (h "0f9dj1h5dj9pxnvkqbi5p42azj9wc7cd9za2ngbgfdpsz2wv046p") (f (quote (("local-socket") ("default" "local-socket"))))))
+

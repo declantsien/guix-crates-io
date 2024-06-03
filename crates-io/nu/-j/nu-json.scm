@@ -144,3 +144,5 @@
 
 (define-public crate-nu-json-0.94.1 (c (n "nu-json") (v "0.94.1") (d (list (d (n "linked-hash-map") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0vwb8x3bd7lw7kjc49xcmjvw4x2jmv4rbc0zsl7862lyihvlans6") (f (quote (("preserve_order" "linked-hash-map" "linked-hash-map/serde_impl") ("default" "preserve_order"))))))
 
+(define-public crate-nu-json-0.94.2 (c (n "nu-json") (v "0.94.2") (d (list (d (n "linked-hash-map") (r "^0.5") (o #t) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "01z4p9fcq2sbf1xi4avh8ygmxy10kqqkm7ippl70hj5qzxm26xqj") (f (quote (("preserve_order" "linked-hash-map" "linked-hash-map/serde_impl") ("default" "preserve_order"))))))
+

@@ -12,3 +12,5 @@
 
 (define-public crate-rust_jsc_sys-0.1.6 (c (n "rust_jsc_sys") (v "0.1.6") (d (list (d (n "pkg-config") (r "^0.3.19") (d #t) (k 1)))) (h "1qs6rcnswk0a353160mkj0i7rmr6w7ap2s5637gpwhlyawpvnhhv") (f (quote (("patches") ("default" "patches"))))))
 
+(define-public crate-rust_jsc_sys-0.1.12 (c (n "rust_jsc_sys") (v "0.1.12") (d (list (d (n "pkg-config") (r "^0.3.19") (d #t) (k 1)))) (h "020z1z65b1rv2nd23x3s8pj3ylja6qihm231w7rxl3rxmiccjal0") (f (quote (("patches") ("default" "patches"))))))
+

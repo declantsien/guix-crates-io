@@ -38,3 +38,5 @@
 
 (define-public crate-nu-cmd-base-0.94.1 (c (n "nu-cmd-base") (v "0.94.1") (d (list (d (n "indexmap") (r "^2.2") (d #t) (k 0)) (d (n "miette") (r "^7.2") (d #t) (k 0)) (d (n "nu-engine") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-parser") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-path") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.1") (d #t) (k 0)))) (h "09yn9n4bxvc4q9wc1qzb0fg7qb8m4kxdc9ysgilqqdwsxsq5v2v2")))
 
+(define-public crate-nu-cmd-base-0.94.2 (c (n "nu-cmd-base") (v "0.94.2") (d (list (d (n "indexmap") (r "^2.2") (d #t) (k 0)) (d (n "miette") (r "^7.2") (d #t) (k 0)) (d (n "nu-engine") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-parser") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-path") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.2") (d #t) (k 0)))) (h "1dfny4iasp8mcb5m89w8x6cnlc957ywjv31bjknvxqvi3vyap1a4")))
+

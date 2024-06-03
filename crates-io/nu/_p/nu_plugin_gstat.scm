@@ -92,3 +92,5 @@
 
 (define-public crate-nu_plugin_gstat-0.94.1 (c (n "nu_plugin_gstat") (v "0.94.1") (d (list (d (n "git2") (r "^0.18") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.94.1") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.1") (d #t) (k 0)))) (h "0wkdpbw30wirabnw4bmr5a17f9jgj6nsm6sv2jj834ljip5br23q")))
 
+(define-public crate-nu_plugin_gstat-0.94.2 (c (n "nu_plugin_gstat") (v "0.94.2") (d (list (d (n "git2") (r "^0.18") (d #t) (k 0)) (d (n "nu-plugin") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.2") (d #t) (k 0)))) (h "18idak7cg28lfj4wszmrqwrjah66rrlq4x6a00fmrdvb23kq83g4")))
+

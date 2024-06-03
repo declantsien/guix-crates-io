@@ -122,3 +122,5 @@
 
 (define-public crate-nu-pretty-hex-0.94.1 (c (n "nu-pretty-hex") (v "0.94.1") (d (list (d (n "heapless") (r "^0.8") (k 2)) (d (n "nu-ansi-term") (r "^0.50.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "0fl6y252xyjd7livmk2gmsvdrv4v7d69irrprq343j5xkmkczl0i")))
 
+(define-public crate-nu-pretty-hex-0.94.2 (c (n "nu-pretty-hex") (v "0.94.2") (d (list (d (n "heapless") (r "^0.8") (k 2)) (d (n "nu-ansi-term") (r "^0.50.0") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "0ldmbm4adm678j8f23hynay7zzi9gp7ag99qshnfm2xm7x41hbkn")))
+
