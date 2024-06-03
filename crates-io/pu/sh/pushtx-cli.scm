@@ -12,3 +12,5 @@
 
 (define-public crate-pushtx-cli-0.3.0 (c (n "pushtx-cli") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "pushtx") (r "^0.3.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0kbwc644i34wj0890sjvrnwvvq8ycpcyxamd5a7g3p1v3q9a0d6p")))
 
+(define-public crate-pushtx-cli-0.4.0 (c (n "pushtx-cli") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.11.3") (k 0)) (d (n "log") (r "^0.4.20") (d #t) (k 0)) (d (n "pushtx") (r "^0.4.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0298jz5hz1qssa84fddb9rrga4ishmd5mbzjsv9pgf21qw0lfj89")))
+

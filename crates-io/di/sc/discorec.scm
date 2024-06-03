@@ -8,3 +8,5 @@
 
 (define-public crate-discorec-0.2.0 (c (n "discorec") (v "0.2.0") (h "1cwyhmchsxj768rv14kmcg2z0gz1xfg89gnirq48j9b2h0vl124d") (r "1.56.0")))
 
+(define-public crate-discorec-0.2.1 (c (n "discorec") (v "0.2.1") (h "14qbw48xl31l5zfh5wv4pjhvf7ba2y202427f1sbz95nzd1w2i1r") (r "1.56.0")))
+
