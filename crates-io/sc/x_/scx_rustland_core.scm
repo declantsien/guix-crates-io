@@ -8,3 +8,5 @@
 
 (define-public crate-scx_rustland_core-0.4.0 (c (n "scx_rustland_core") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "buddy-alloc") (r "^0.5.1") (d #t) (k 0)) (d (n "libbpf-rs") (r "^0.23") (d #t) (k 0)) (d (n "libc") (r "^0.2.137") (d #t) (k 0)) (d (n "scx_utils") (r "^0.8") (d #t) (k 0)) (d (n "scx_utils") (r "^0.8") (d #t) (k 1)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "walkdir") (r "^2.4") (d #t) (k 1)))) (h "14a7f9aq8rb47lc817yn6zysvh6gp9jjldmqfwn5bcnrc5cp0cr3")))
 
+(define-public crate-scx_rustland_core-0.5.0 (c (n "scx_rustland_core") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "buddy-alloc") (r "^0.5.1") (d #t) (k 0)) (d (n "libbpf-rs") (r "^0.23.1") (d #t) (k 0)) (d (n "libc") (r "^0.2.137") (d #t) (k 0)) (d (n "plain") (r "^0.2.3") (d #t) (k 0)) (d (n "scx_utils") (r "^0.8.1") (d #t) (k 0)) (d (n "scx_utils") (r "^0.8.1") (d #t) (k 1)) (d (n "tar") (r "^0.4") (d #t) (k 1)) (d (n "walkdir") (r "^2.4") (d #t) (k 1)))) (h "0w9f4v3zga73fla33aagh62h77j48zyxwvrbk0408q9zzfzi5b4r")))
+

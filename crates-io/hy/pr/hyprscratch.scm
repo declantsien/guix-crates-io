@@ -46,3 +46,5 @@
 
 (define-public crate-hyprscratch-0.3.2 (c (n "hyprscratch") (v "0.3.2") (d (list (d (n "hyprland") (r "^0.4.0-alpha.2") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)))) (h "0lx07lisayhmv8ac2sam4zgylfllvwhw48mqi8max1xzwg75hg8p")))
 
+(define-public crate-hyprscratch-0.4.0 (c (n "hyprscratch") (v "0.4.0") (d (list (d (n "hyprland") (r "^0.4.0-alpha.2") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)))) (h "17l32j9qqcn7jv1zr2z0h1q1nkwxnic3xc1ds3jzmwlzsvx5828f")))
+

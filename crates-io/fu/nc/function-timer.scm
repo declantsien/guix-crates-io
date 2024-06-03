@@ -14,3 +14,5 @@
 
 (define-public crate-function-timer-0.7.0 (c (n "function-timer") (v "0.7.0") (d (list (d (n "function-timer-macro") (r "^0.6") (d #t) (k 0)) (d (n "futures-test") (r "^0.3") (d #t) (k 2)) (d (n "metrics") (r "^0.22") (d #t) (k 0)) (d (n "metrics-exporter-prometheus") (r "^0.13") (k 2)) (d (n "metrics-util") (r "^0.16") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "035ra9l5p4nip09mi9h360al3qzdwdd2w32jvrbysvk0nwa14ifw")))
 
+(define-public crate-function-timer-0.8.0 (c (n "function-timer") (v "0.8.0") (d (list (d (n "function-timer-macro") (r "^0.6") (d #t) (k 0)) (d (n "futures-test") (r "^0.3") (d #t) (k 2)) (d (n "metrics") (r "^0.23") (d #t) (k 0)) (d (n "metrics-exporter-prometheus") (r "^0.15") (k 2)) (d (n "metrics-util") (r "^0.17") (d #t) (k 2)) (d (n "trybuild") (r "^1.0") (d #t) (k 2)))) (h "0a2nzfqv84n8wazwfnzdhfzhzwvzgzmfn04nzb9llhwy42nygd5v") (r "1.65.0")))
+
