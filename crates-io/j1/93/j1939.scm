@@ -38,3 +38,5 @@
 
 (define-public crate-j1939-0.1.31 (c (n "j1939") (v "0.1.31") (h "1ab9zgbs72j807ry4ix1qkwf9k7r1cvw3cimg14g7p279jcp9bnb")))
 
+(define-public crate-j1939-0.1.32 (c (n "j1939") (v "0.1.32") (d (list (d (n "chrono") (r "^0.4.38") (o #t) (k 0)))) (h "1886ji149cffdf3zg26qwqbsx0svi5jkds80rqkkjb0db2y8vd6r") (f (quote (("default" "chrono")))) (s 2) (e (quote (("chrono" "dep:chrono"))))))
+
