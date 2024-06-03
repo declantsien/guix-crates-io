@@ -16,3 +16,5 @@
 
 (define-public crate-js-source-scopes-0.4.0 (c (n "js-source-scopes") (v "0.4.0") (d (list (d (n "indexmap") (r "^2.0.0") (d #t) (k 0)) (d (n "sourcemap") (r "^7.0.0") (d #t) (k 0)) (d (n "swc_common") (r "^0.32.1") (d #t) (k 0)) (d (n "swc_ecma_parser") (r "^0.140.0") (d #t) (k 0)) (d (n "swc_ecma_visit") (r "^0.95.1") (f (quote ("path"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)))) (h "14qsr60rbwq9z8d4zhkzryrhanq7dwg61p32yq1ggs00s31dw5z1")))
 
+(define-public crate-js-source-scopes-0.5.0 (c (n "js-source-scopes") (v "0.5.0") (d (list (d (n "indexmap") (r "^2.0.0") (d #t) (k 0)) (d (n "sourcemap") (r "^8.0.1") (d #t) (k 0)) (d (n "swc_common") (r "^0.33.26") (d #t) (k 0)) (d (n "swc_ecma_parser") (r "^0.144.1") (d #t) (k 0)) (d (n "swc_ecma_visit") (r "^0.99.1") (f (quote ("path"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.32") (d #t) (k 0)) (d (n "tracing") (r "^0.1.36") (d #t) (k 0)))) (h "0h4siscxicc5af64yg0gd4jvh86rgxc18gxaqcrjpf6ci19c5zdd")))
+

@@ -1,0 +1,4 @@
+(define-module (crates-io os h_ osh_dir_std_cli) #:use-module (crates-io))
+
+(define-public crate-osh_dir_std_cli-0.8.3 (c (n "osh_dir_std_cli") (v "0.8.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("std" "cargo" "help"))) (k 0)) (d (n "cli_utils") (r "^0.7") (d #t) (k 0) (p "cli_utils_hoijui")) (d (n "const_format") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.19") (d #t) (k 0)) (d (n "osh_dir_std") (r "^0.8") (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("alloc"))) (k 0)) (d (n "tracing") (r "^0.1") (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "0xln4yx6z92j3cxvr69k68rgwym8h0qg0d5s68lcgy8zrnsjgf31")))
+
