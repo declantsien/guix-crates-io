@@ -14,3 +14,5 @@
 
 (define-public crate-rec23-rs-0.1.6 (c (n "rec23-rs") (v "0.1.6") (d (list (d (n "bb8-postgres") (r "^0.8.1") (f (quote ("with-chrono-0_4"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (d #t) (k 0)))) (h "1wj615hyxhq0jb1f29cvzk4kjy4p9vz3i5077r9rijqhwhbgyrhk")))
 
+(define-public crate-rec23-rs-0.1.7 (c (n "rec23-rs") (v "0.1.7") (d (list (d (n "bb8-postgres") (r "^0.8.1") (f (quote ("with-chrono-0_4"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (d #t) (k 0)))) (h "1jsq4fygx95h3s9zpg6yz5ld0k0cknazic698haxbqp0apfk8skx")))
+
