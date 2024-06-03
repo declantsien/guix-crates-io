@@ -14,3 +14,5 @@
 
 (define-public crate-robuild-0.0.7 (c (n "robuild") (v "0.0.7") (h "08amrd14p533gxql9p4ak1x3jmbjxaa8iz8ryc5z47nb4w43x3q6") (f (quote (("mingw32") ("gxx") ("gcc") ("clangxx") ("clang")))) (r "1.56.0")))
 
+(define-public crate-robuild-0.0.8 (c (n "robuild") (v "0.0.8") (h "18pf9fcjg1bngk5inw09jkr0qkkr4ml02353bxgc1gc5z5j702s0") (f (quote (("mingw32") ("gxx") ("gcc") ("clangxx") ("clang")))) (r "1.56.0")))
+
