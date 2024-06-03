@@ -16,3 +16,5 @@
 
 (define-public crate-digit-sequence-0.3.4 (c (n "digit-sequence") (v "0.3.4") (d (list (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 2)) (d (n "speculate2") (r "^0.2") (d #t) (k 2)))) (h "0gzv74n4jr6s4k51r5f7a1sci4bi30nz3sifncpk7sxy529wvxfj")))
 
+(define-public crate-digit-sequence-0.3.5 (c (n "digit-sequence") (v "0.3.5") (d (list (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 2)) (d (n "speculate2") (r "^0.2") (d #t) (k 2)))) (h "1pi1r0vn3qpppb52593z0xc7v3qvmk48i53lmmh3gb9knkzp9m8k")))
+

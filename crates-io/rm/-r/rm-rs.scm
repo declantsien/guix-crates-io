@@ -6,3 +6,5 @@
 
 (define-public crate-rm-rs-0.2.2 (c (n "rm-rs") (v "0.2.2") (d (list (d (n "assert_cmd") (r "^2.0.14") (d #t) (k 2)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "path-absolutize") (r "^3.1.1") (d #t) (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 2)))) (h "0ym1cjdzsgkdbypxcv4h62vbxmbxrqczrdzbn33m8qx798amxvkc")))
 
+(define-public crate-rm-rs-0.2.3 (c (n "rm-rs") (v "0.2.3") (d (list (d (n "assert_cmd") (r "^2.0.14") (d #t) (k 2)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "path-absolutize") (r "^3.1.1") (d #t) (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 2)))) (h "1nwvls18bfm9pvn8ghcgxsc6h87f932j95z0dv9pq5abk5f5bjqi")))
+
