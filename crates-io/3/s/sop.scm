@@ -22,3 +22,5 @@
 
 (define-public crate-sop-0.7.0 (c (n "sop") (v "0.7.0") (d (list (d (n "anyhow") (r "^1") (o #t) (d #t) (k 0)) (d (n "chrono") (r "^0.4.10") (o #t) (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("std" "derive" "help" "wrap_help"))) (o #t) (k 0)) (d (n "clap_complete") (r "^4") (o #t) (k 0)) (d (n "memsec") (r ">=0.5") (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1gwsadqsgl5nw140m0yjr58sw5klwh1smdb2sw64dpqy2vw6ifyz") (f (quote (("default") ("cli" "anyhow" "chrono" "clap" "clap_complete"))))))
 
+(define-public crate-sop-0.7.1 (c (n "sop") (v "0.7.1") (d (list (d (n "anyhow") (r "^1") (o #t) (d #t) (k 0)) (d (n "chrono") (r "^0.4.10") (o #t) (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("std" "derive" "help" "wrap_help"))) (o #t) (k 0)) (d (n "clap_complete") (r "^4") (o #t) (k 0)) (d (n "memsec") (r ">=0.5") (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "053sbms8drciyk59afwf4gaxg92nhpnjf4ksq7fdvnzz1j37h0ky") (f (quote (("default") ("cli" "anyhow" "chrono" "clap" "clap_complete"))))))
+
