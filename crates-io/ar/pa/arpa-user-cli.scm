@@ -1,0 +1,4 @@
+(define-module (crates-io ar pa arpa-user-cli) #:use-module (crates-io))
+
+(define-public crate-arpa-user-cli-0.2.0 (c (n "arpa-user-cli") (v "0.2.0") (d (list (d (n "anyhow") (r "^1.0.31") (d #t) (k 0)) (d (n "arpa-contract-client") (r "^0.2.0") (d #t) (k 0)) (d (n "arpa-core") (r "^0.2.0") (d #t) (k 0)) (d (n "bincode") (r "^1.2.1") (d #t) (k 0)) (d (n "ethers") (r "^2.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reedline-repl-rs") (r "^1.0") (f (quote ("async"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.106") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.8") (d #t) (k 0)) (d (n "structopt") (r "^0.3") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.15") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1dsh2y36h0s24p9xcqvvxlx6dym9zl7fi93jj0pgh0dg6fd0kvsy")))
+
