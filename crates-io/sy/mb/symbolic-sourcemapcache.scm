@@ -60,3 +60,5 @@
 
 (define-public crate-symbolic-sourcemapcache-12.8.0 (c (n "symbolic-sourcemapcache") (v "12.8.0") (d (list (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "js-source-scopes") (r "^0.4.0") (d #t) (k 0)) (d (n "sourcemap") (r "^7.0.0") (d #t) (k 0)) (d (n "symbolic-common") (r "^12.8.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "watto") (r "^0.1.0") (f (quote ("writer" "strings"))) (d #t) (k 0)))) (h "0zcmf0x3l0h09fr0ymgx9xgksclr1gsrh7gvrj4d1fyszmzmj1qs")))
 
+(define-public crate-symbolic-sourcemapcache-12.9.1 (c (n "symbolic-sourcemapcache") (v "12.9.1") (d (list (d (n "itertools") (r "^0.13.0") (d #t) (k 0)) (d (n "js-source-scopes") (r "^0.5.0") (d #t) (k 0)) (d (n "sourcemap") (r "^8.0.1") (d #t) (k 0)) (d (n "symbolic-common") (r "^12.9.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "tracing") (r "^0.1.34") (d #t) (k 0)) (d (n "watto") (r "^0.1.0") (f (quote ("writer" "strings"))) (d #t) (k 0)))) (h "125y50w2c8hapyhccazfpf9kckajg7hg61bf5mfc6yz9aa8gwnay")))
+

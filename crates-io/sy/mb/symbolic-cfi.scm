@@ -72,3 +72,5 @@
 
 (define-public crate-symbolic-cfi-12.8.0 (c (n "symbolic-cfi") (v "12.8.0") (d (list (d (n "insta") (r "^1.28.0") (f (quote ("yaml"))) (d #t) (k 2)) (d (n "similar-asserts") (r "^1.4.2") (d #t) (k 2)) (d (n "symbolic-common") (r "^12.8.0") (d #t) (k 0)) (d (n "symbolic-debuginfo") (r "^12.8.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)))) (h "1n9s51znbkvi716xwlgfxspx14zx4m3yhbd3il1k3rd3s78j8dqa")))
 
+(define-public crate-symbolic-cfi-12.9.1 (c (n "symbolic-cfi") (v "12.9.1") (d (list (d (n "insta") (r "^1.28.0") (f (quote ("yaml"))) (d #t) (k 2)) (d (n "similar-asserts") (r "^1.4.2") (d #t) (k 2)) (d (n "symbolic-common") (r "^12.9.1") (d #t) (k 0)) (d (n "symbolic-debuginfo") (r "^12.9.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)))) (h "0ismcdhx8k9pxknw8n6rascbdlhq3l402jggy823ypsyf5gj8bvg")))
+

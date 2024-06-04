@@ -70,3 +70,5 @@
 
 (define-public crate-symbolic-ppdb-12.8.0 (c (n "symbolic-ppdb") (v "12.8.0") (d (list (d (n "flate2") (r "^1.0.25") (f (quote ("rust_backend"))) (k 0)) (d (n "indexmap") (r "^2.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.171") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.102") (d #t) (k 0)) (d (n "symbolic-common") (r "^12.8.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (d #t) (k 0)) (d (n "watto") (r "^0.1.0") (f (quote ("writer" "strings"))) (d #t) (k 0)))) (h "134gdhycliy9gpbw9avnh9zv3x0sm3i3c348zj36i4nc7ii89kns")))
 
+(define-public crate-symbolic-ppdb-12.9.1 (c (n "symbolic-ppdb") (v "12.9.1") (d (list (d (n "flate2") (r "^1.0.25") (f (quote ("rust_backend"))) (k 0)) (d (n "indexmap") (r "^2.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.171") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.102") (d #t) (k 0)) (d (n "symbolic-common") (r "^12.9.1") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.39") (d #t) (k 0)) (d (n "uuid") (r "^1.3.0") (d #t) (k 0)) (d (n "watto") (r "^0.1.0") (f (quote ("writer" "strings"))) (d #t) (k 0)))) (h "1kjby03ggl8yrskzizrnyqzs9dpfzi06gm3lhd4h8b1xfscvaa4l")))
+

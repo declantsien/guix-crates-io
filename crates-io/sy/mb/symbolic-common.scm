@@ -226,3 +226,5 @@
 
 (define-public crate-symbolic-common-12.8.0 (c (n "symbolic-common") (v "12.8.0") (d (list (d (n "debugid") (r "^0.8.0") (d #t) (k 0)) (d (n "memmap2") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.154") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "similar-asserts") (r "^1.4.2") (d #t) (k 2)) (d (n "stable_deref_trait") (r "^1.2.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.4.0") (d #t) (k 2)) (d (n "uuid") (r "^1.3.0") (d #t) (k 0)))) (h "1zhda5h4qykrb38x9yb6s846hpq59mzhglkclb9v4fxvqvxzzk0w") (s 2) (e (quote (("serde" "dep:serde" "debugid/serde"))))))
 
+(define-public crate-symbolic-common-12.9.1 (c (n "symbolic-common") (v "12.9.1") (d (list (d (n "debugid") (r "^0.8.0") (d #t) (k 0)) (d (n "memmap2") (r "^0.9.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.171") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "similar-asserts") (r "^1.4.2") (d #t) (k 2)) (d (n "stable_deref_trait") (r "^1.2.0") (d #t) (k 0)) (d (n "tempfile") (r "^3.4.0") (d #t) (k 2)) (d (n "uuid") (r "^1.3.0") (d #t) (k 0)))) (h "0kvkqgzfprcj4ribw84dsw75ggdgb23i8d138y6f6qhgyvqaxll9") (s 2) (e (quote (("serde" "dep:serde" "debugid/serde"))))))
+

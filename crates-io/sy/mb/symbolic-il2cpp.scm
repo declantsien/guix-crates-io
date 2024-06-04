@@ -80,3 +80,5 @@
 
 (define-public crate-symbolic-il2cpp-12.8.0 (c (n "symbolic-il2cpp") (v "12.8.0") (d (list (d (n "indexmap") (r "^2.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.94") (d #t) (k 0)) (d (n "symbolic-common") (r "^12.8.0") (d #t) (k 0)) (d (n "symbolic-debuginfo") (r "^12.8.0") (d #t) (k 0)))) (h "1n9kxq0qps2kykw7cr3s9zba0jm933zsgfgwvgbyngw57hylb39g")))
 
+(define-public crate-symbolic-il2cpp-12.9.1 (c (n "symbolic-il2cpp") (v "12.9.1") (d (list (d (n "indexmap") (r "^2.0.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.102") (d #t) (k 0)) (d (n "symbolic-common") (r "^12.9.1") (d #t) (k 0)) (d (n "symbolic-debuginfo") (r "^12.9.1") (d #t) (k 0)))) (h "038jykyngpyj9d8q7jyxjps4kiw5060riphvfqcznvfaw7bbg4ad")))
+
