@@ -64,3 +64,5 @@
 
 (define-public crate-dbn-macros-0.18.0 (c (n "dbn-macros") (v "0.18.0") (d (list (d (n "csv") (r "^1") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^3.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.51") (f (quote ("full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.89") (d #t) (k 2)))) (h "049hh2n4w9njfd9pyjbw4dk59xkfi5grdm50driaay4crhlfl7wa")))
 
+(define-public crate-dbn-macros-0.18.1 (c (n "dbn-macros") (v "0.18.1") (d (list (d (n "csv") (r "^1.3") (d #t) (k 2)) (d (n "proc-macro-crate") (r "^3.1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.85") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (f (quote ("full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.96") (d #t) (k 2)))) (h "02iv22vlkkkqch9pjd8xl0zijr2ndbqvn29r08745crfnhlm1xd4")))
+

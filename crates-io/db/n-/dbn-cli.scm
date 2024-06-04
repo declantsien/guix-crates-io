@@ -68,3 +68,5 @@
 
 (define-public crate-dbn-cli-0.18.0 (c (n "dbn-cli") (v "0.18.0") (d (list (d (n "anyhow") (r "^1.0.80") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.14") (d #t) (k 2)) (d (n "clap") (r "^4.5") (f (quote ("derive" "wrap_help"))) (d #t) (k 0)) (d (n "dbn") (r "=0.18.0") (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 2)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive" "derive"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 2)) (d (n "zstd") (r "^0.13") (d #t) (k 0)))) (h "1kz97qwnsbpn0kjs8qs1ifzbcgk39mcd1kh0xzapbsrifq8n58c6")))
 
+(define-public crate-dbn-cli-0.18.1 (c (n "dbn-cli") (v "0.18.1") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "assert_cmd") (r "^2.0.14") (d #t) (k 2)) (d (n "clap") (r "^4.5") (f (quote ("derive" "wrap_help"))) (d #t) (k 0)) (d (n "dbn") (r "=0.18.1") (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 2)) (d (n "rstest") (r "^0.21.0") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive" "derive"))) (d #t) (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)) (d (n "zstd") (r "^0.13") (d #t) (k 0)))) (h "0rh61vdd0m0v2ya91qzy31k17a3gka76y7yv47f233m1d9v0za7r")))
+

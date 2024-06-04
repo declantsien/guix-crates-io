@@ -8,3 +8,5 @@
 
 (define-public crate-jams-cli-0.1.4 (c (n "jams-cli") (v "0.1.4") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "jams-core") (r "^0.1") (d #t) (k 0)))) (h "1jiqrh6l2x6nfn98c2ar4w5fhyv8aq3aaknj8v2a75cjjpz6i6wx")))
 
+(define-public crate-jams-cli-0.1.5 (c (n "jams-cli") (v "0.1.5") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "jams-core") (r "^0.1") (d #t) (k 0)))) (h "01kpvmyg0sa45b696cg00c6h6gxsvf2q51dk62x8p8qccccdcgs8")))
+
