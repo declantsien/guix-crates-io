@@ -124,3 +124,5 @@
 
 (define-public crate-cynic-proc-macros-3.7.2 (c (n "cynic-proc-macros") (v "3.7.2") (d (list (d (n "cynic-codegen") (r "^3.7.2") (d #t) (k 0)) (d (n "darling") (r "^0.20") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "09l4zji3igjjg35n2vcs5k2l6bvxg8kyqg0gfvfswmhdxkf1rjfq") (f (quote (("rkyv" "cynic-codegen/rkyv") ("default")))) (r "1.72")))
 
+(define-public crate-cynic-proc-macros-3.7.3 (c (n "cynic-proc-macros") (v "3.7.3") (d (list (d (n "cynic-codegen") (r "^3.7.3") (d #t) (k 0)) (d (n "darling") (r "^0.20") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "169qzzvbs2lg84pwycw770sjijwcpj8f538c3knhy4dayk6rx9i5") (f (quote (("rkyv" "cynic-codegen/rkyv") ("default")))) (r "1.72")))
+

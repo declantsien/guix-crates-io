@@ -74,3 +74,5 @@
 
 (define-public crate-cynic-querygen-3.7.2 (c (n "cynic-querygen") (v "3.7.2") (d (list (d (n "Inflector") (r "^0.11.4") (k 0)) (d (n "assert_matches") (r "^1.4") (d #t) (k 2)) (d (n "graphql-parser") (r "^0.4") (d #t) (k 0)) (d (n "insta") (r "^1.17.1") (d #t) (k 2)) (d (n "once_cell") (r "^1.9") (d #t) (k 0)) (d (n "rstest") (r "^0.18") (d #t) (k 2)) (d (n "rust_decimal") (r "^1.22") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1r0abqsk27f8dc0mnzlwgjscqbw35nym4vbjv5yb63vd37aab3vr") (r "1.72")))
 
+(define-public crate-cynic-querygen-3.7.3 (c (n "cynic-querygen") (v "3.7.3") (d (list (d (n "Inflector") (r "^0.11.4") (k 0)) (d (n "assert_matches") (r "^1.4") (d #t) (k 2)) (d (n "graphql-parser") (r "^0.4") (d #t) (k 0)) (d (n "insta") (r "^1.17.1") (d #t) (k 2)) (d (n "once_cell") (r "^1.9") (d #t) (k 0)) (d (n "rstest") (r "^0.21") (d #t) (k 2)) (d (n "rust_decimal") (r "^1.22") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.30") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 0)))) (h "137bhh7hv2f18v6jwg4hzg4gh14xlz3rf9ig63756cn0xfm6f8rg") (r "1.72")))
+
