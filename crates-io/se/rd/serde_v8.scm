@@ -388,3 +388,5 @@
 
 (define-public crate-serde_v8-0.192.0 (c (n "serde_v8") (v "0.192.0") (d (list (d (n "bencher") (r "^0.1") (d #t) (k 2)) (d (n "num-bigint") (r "^0.4") (f (quote ("rand"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "smallvec") (r "^1.8") (f (quote ("union"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "v8") (r "^0.92.0") (k 0)))) (h "0fap3plz2wa9vqrjwl9j87yypsvmj48zxjq3slyn9xagdkgiddpp")))
 
+(define-public crate-serde_v8-0.193.0 (c (n "serde_v8") (v "0.193.0") (d (list (d (n "bencher") (r "^0.1") (d #t) (k 2)) (d (n "num-bigint") (r "^0.4") (f (quote ("rand"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_bytes") (r "^0.11") (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "smallvec") (r "^1.8") (f (quote ("union"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "v8") (r "^0.92.0") (k 0)))) (h "0xkflsp36yamfg8lp76pw6zpnqsyn8aq0pj0nlq07dvszhnn3v11")))
+

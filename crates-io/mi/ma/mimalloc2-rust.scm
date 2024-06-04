@@ -4,3 +4,5 @@
 
 (define-public crate-mimalloc2-rust-0.3.1 (c (n "mimalloc2-rust") (v "0.3.1") (d (list (d (n "cty") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "mimalloc2-rust-sys") (r "^2.1.4-source") (d #t) (k 0)))) (h "0x4f0d6gw1gl8ml7vzvxp54i1r991cn4z3jwih5zis8ixjnicixf") (f (quote (("unstable") ("skip-collect-on-exit" "mimalloc2-rust-sys/skip-collect-on-exit") ("secure" "mimalloc2-rust-sys/secure") ("local-dynamic-tls" "mimalloc2-rust-sys/local-dynamic-tls") ("asm" "mimalloc2-rust-sys/asm"))))))
 
+(define-public crate-mimalloc2-rust-0.3.2 (c (n "mimalloc2-rust") (v "0.3.2") (d (list (d (n "cty") (r "^0.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "mimalloc2-rust-sys") (r "^2.1.7-source") (d #t) (k 0)))) (h "0y0pyi5jy8c1fri574zq6z7dwa7llnn40hmjrjv6hwgilfh50ni6") (f (quote (("unstable") ("skip-collect-on-exit" "mimalloc2-rust-sys/skip-collect-on-exit") ("secure" "mimalloc2-rust-sys/secure") ("local-dynamic-tls" "mimalloc2-rust-sys/local-dynamic-tls") ("asm" "mimalloc2-rust-sys/asm"))))))
+

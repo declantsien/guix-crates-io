@@ -8,3 +8,5 @@
 
 (define-public crate-num-quaternion-0.2.0 (c (n "num-quaternion") (v "0.2.0") (d (list (d (n "num-integer") (r "^0.1.46") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)))) (h "1ynkk3wl9dnjv0fc36ib4a2wj83xsmcpyx5br6y56zjaxrwg1s89") (f (quote (("std" "num-traits/std") ("libm" "num-traits/libm") ("default" "std")))) (r "1.60.0")))
 
+(define-public crate-num-quaternion-0.2.1 (c (n "num-quaternion") (v "0.2.1") (d (list (d (n "num-integer") (r "^0.1.46") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (k 0)))) (h "1vhj8m2bjci5qgj170k27xjzizx0n677syr8m14j12l9gai3kpvg") (f (quote (("std" "num-traits/std") ("libm" "num-traits/libm") ("default" "std")))) (r "1.60.0")))
+
