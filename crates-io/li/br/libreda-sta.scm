@@ -1,0 +1,4 @@
+(define-module (crates-io li br libreda-sta) #:use-module (crates-io))
+
+(define-public crate-libreda-sta-0.0.1 (c (n "libreda-sta") (v "0.0.1") (d (list (d (n "blanket") (r "^0.3.0") (d #t) (k 0)) (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "liberty-io") (r "^0.0.3") (d #t) (k 0)) (d (n "libreda-db") (r "^0.0.11") (d #t) (k 0)) (d (n "libreda-interp") (r "^0.0.3") (d #t) (k 0)) (d (n "libreda-logic") (r "^0.0.3") (d #t) (k 0)) (d (n "libreda-structural-verilog") (r "^0.0.4") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "ndarray") (r "^0.15") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "pargraph") (r "^0.1.3") (d #t) (k 0)) (d (n "petgraph") (r "^0.6") (d #t) (k 0)) (d (n "smallvec") (r "^1.10") (d #t) (k 0)) (d (n "uom") (r "^0.34") (d #t) (k 0)))) (h "04slwqa8q281nkwg4zqgz4ggsnpbwiyq4yhp47b9nx273gln02b4")))
+

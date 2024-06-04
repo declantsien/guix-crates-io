@@ -6,3 +6,5 @@
 
 (define-public crate-fileql-0.3.0 (c (n "fileql") (v "0.3.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.16.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.18.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.18.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.17.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "0260xq0l8ngcxa5p2dg4pvrqaayg0c0zmqcqzf0mns8xbb3ma5aw")))
 
+(define-public crate-fileql-0.4.0 (c (n "fileql") (v "0.4.0") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "gitql-ast") (r "^0.18.0") (d #t) (k 0)) (d (n "gitql-cli") (r "^0.20.0") (d #t) (k 0)) (d (n "gitql-core") (r "^0.1.0") (d #t) (k 0)) (d (n "gitql-engine") (r "^0.20.0") (d #t) (k 0)) (d (n "gitql-parser") (r "^0.19.0") (d #t) (k 0)) (d (n "gitql-std") (r "^0.1.0") (d #t) (k 0)))) (h "11avarl9lklr8gzypk951jxpsnzzdvrsg4xs8zi49lsxmdnpiiqz")))
+
