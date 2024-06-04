@@ -150,3 +150,5 @@
 
 (define-public crate-openssl-src-111.28.2+1.1.1w (c (n "openssl-src") (v "111.28.2+1.1.1w") (d (list (d (n "cc") (r "^1.0.79") (d #t) (k 0)))) (h "03wjaxw5h1k744fbrnmpbin3qv536v8c3a4ci757baa81bi3065v") (f (quote (("weak-crypto") ("seed") ("idea") ("force-engine") ("default") ("camellia"))))))
 
+(define-public crate-openssl-src-300.3.1+3.3.1 (c (n "openssl-src") (v "300.3.1+3.3.1") (d (list (d (n "cc") (r "^1.0.79") (d #t) (k 0)))) (h "14cbc0i3ly3msl7bkhj3rrnlv4g1m0qbswxxzcvz26x888yranbj") (f (quote (("weak-crypto") ("seed") ("legacy") ("ktls") ("idea") ("force-engine") ("default") ("camellia"))))))
+
