@@ -22,3 +22,7 @@
 
 (define-public crate-winwin-0.0.11 (c (n "winwin") (v "0.0.11") (d (list (d (n "windows") (r "^0.56.0") (f (quote ("Win32_Graphics_Gdi" "Win32_System_LibraryLoader" "Win32_UI_WindowsAndMessaging"))) (d #t) (k 0)))) (h "1rw8sspdb14p71ib81jd8l7ri1mqy56l3nsyhb0x5v7ckndpcmv8")))
 
+(define-public crate-winwin-0.0.12 (c (n "winwin") (v "0.0.12") (d (list (d (n "raw-window-handle") (r "^0.6.2") (d #t) (k 0)) (d (n "windows") (r "^0.56.0") (f (quote ("Win32_Graphics_Gdi" "Win32_System_LibraryLoader" "Win32_UI_WindowsAndMessaging"))) (d #t) (k 0)))) (h "1sdnakpbwsykirhpxiif1fmrfi3x7j97jknqyca9yawjqqp6ldbf")))
+
+(define-public crate-winwin-0.0.13 (c (n "winwin") (v "0.0.13") (d (list (d (n "raw-window-handle") (r "^0.6.2") (d #t) (k 0)) (d (n "windows") (r "^0.56.0") (f (quote ("Win32_Graphics_Gdi" "Win32_System_LibraryLoader" "Win32_UI_WindowsAndMessaging"))) (d #t) (k 0)))) (h "0wf1wi90zrx2ib62vxbjlw011pa9sdcpypvhd1i0z8kjz84q6kqp")))
+
