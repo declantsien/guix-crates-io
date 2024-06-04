@@ -60,3 +60,5 @@
 
 (define-public crate-fil_actor_eam_state-13.0.0 (c (n "fil_actor_eam_state") (v "13.0.0") (d (list (d (n "fvm_shared3") (r "~3.6") (k 0) (p "fvm_shared")) (d (n "fvm_shared4") (r "~4.1.2") (k 0) (p "fvm_shared")) (d (n "num-derive") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)))) (h "0zb6a0b9lgskdwc5pinvd27j2040ghha63krkpiihpy6ly0dim30")))
 
+(define-public crate-fil_actor_eam_state-13.1.0 (c (n "fil_actor_eam_state") (v "13.1.0") (d (list (d (n "fvm_shared3") (r "~3.6") (k 0) (p "fvm_shared")) (d (n "fvm_shared4") (r "~4.1.2") (k 0) (p "fvm_shared")) (d (n "num-derive") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)))) (h "1g3p8ip7mih21nb6mlqvpdwxmwrs0fj864b83lbv1j1zm9dfci42")))
+

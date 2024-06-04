@@ -24,3 +24,5 @@
 
 (define-public crate-hexo-0.6.2 (c (n "hexo") (v "0.6.2") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.8") (d #t) (k 0)) (d (n "notify") (r "^6.1.1") (d #t) (k 0)) (d (n "pest") (r "^2.7.9") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7.9") (d #t) (k 0)))) (h "1663fzwv7s46pc1wsl0pccmjyisqdc5q6lwv6dw98l3bkpcgy4cd")))
 
+(define-public crate-hexo-0.7.0 (c (n "hexo") (v "0.7.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "console") (r "^0.15.8") (d #t) (k 0)) (d (n "notify") (r "^6.1.1") (d #t) (k 0)) (d (n "pest") (r "^2.7.9") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7.9") (d #t) (k 0)))) (h "184lzrv55j4fzxifxhl3rl21dmlbfpnpwa459bbbmcij4m4z60jd")))
+

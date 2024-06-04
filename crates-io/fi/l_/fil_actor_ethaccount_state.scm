@@ -60,3 +60,5 @@
 
 (define-public crate-fil_actor_ethaccount_state-13.0.0 (c (n "fil_actor_ethaccount_state") (v "13.0.0") (d (list (d (n "fvm_ipld_encoding") (r "^0.4") (d #t) (k 0)) (d (n "fvm_shared3") (r "~3.6") (k 0) (p "fvm_shared")) (d (n "fvm_shared4") (r "~4.1.2") (k 0) (p "fvm_shared")) (d (n "num-derive") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0alkqxg25rbf61yaan58s4l8rkgrj0ql86fhjq87rp44c609zs65")))
 
+(define-public crate-fil_actor_ethaccount_state-13.1.0 (c (n "fil_actor_ethaccount_state") (v "13.1.0") (d (list (d (n "fvm_ipld_encoding") (r "^0.4") (d #t) (k 0)) (d (n "fvm_shared3") (r "~3.6") (k 0) (p "fvm_shared")) (d (n "fvm_shared4") (r "~4.1.2") (k 0) (p "fvm_shared")) (d (n "num-derive") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0krwsmyrvnpwplqs7balcz2nmc72kn32w3mw3yry6yymgp4l7zay")))
+
