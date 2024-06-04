@@ -66,3 +66,7 @@
 
 (define-public crate-subnetwork-0.4.1 (c (n "subnetwork") (v "0.4.1") (h "1v3yzad7qcw5wkxwpj0sviw5r06161qr21kzga6j3dgjw2ipza0h")))
 
+(define-public crate-subnetwork-0.4.2 (c (n "subnetwork") (v "0.4.2") (h "0lqzp92y4waqakb8jsv0xrpx7gknq9vgrdd975v6a9vb295ca9y9")))
+
+(define-public crate-subnetwork-0.4.3 (c (n "subnetwork") (v "0.4.3") (h "1sqzbbjrlgzilpk01lhhh9af5pzf4yl9bsl49frdnjq9apx7b988")))
+
