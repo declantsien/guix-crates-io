@@ -36,3 +36,5 @@
 
 (define-public crate-FerriteChatter-2.8.0 (c (n "FerriteChatter") (v "2.8.0") (d (list (d (n "anyhow") (r "^1.0.70") (d #t) (k 0)) (d (n "clap") (r "^4.2.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "inquire") (r "^0.7.5") (f (quote ("editor"))) (d #t) (k 0)) (d (n "openai") (r "^1.0.0-alpha.8") (d #t) (k 0)) (d (n "tokio") (r "^1.27.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0agyxg361qw0bs0phb0dh539nyl7z3i0q93mlysbx1ban2i8kj93")))
 
+(define-public crate-FerriteChatter-2.8.1 (c (n "FerriteChatter") (v "2.8.1") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "clap") (r "^4.2.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "inquire") (r "^0.7.5") (f (quote ("editor"))) (d #t) (k 0)) (d (n "openai-fork") (r "^1.0.0-alpha.15") (d #t) (k 0)) (d (n "tokio") (r "^1.38.0") (f (quote ("full"))) (d #t) (k 0)))) (h "13hsn145icgyh0nb3a2lg483nkrlxzqi50f3281n8wdjrwh0xphc")))
+
