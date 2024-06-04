@@ -10,3 +10,5 @@
 
 (define-public crate-futures-bounded-0.2.3 (c (n "futures-bounded") (v "0.2.3") (d (list (d (n "futures") (r "^0.3.28") (d #t) (k 2)) (d (n "futures-timer") (r "^3.0.2") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.29") (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("macros" "rt" "sync"))) (d #t) (k 2)))) (h "0wz1rrii9wklc6ja7dkcblja6vzq82mz87ry7ppriq84q567gqp1") (r "1.73.0")))
 
+(define-public crate-futures-bounded-0.2.4 (c (n "futures-bounded") (v "0.2.4") (d (list (d (n "futures") (r "^0.3.30") (d #t) (k 2)) (d (n "futures-timer") (r "^3.0.2") (d #t) (k 0)) (d (n "futures-util") (r "^0.3.30") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("macros" "rt" "sync"))) (d #t) (k 2)))) (h "0bjlzysrfkm5jcc4v5rgr641hvfg817s7digj4rchpw4zgkjiwwi")))
+

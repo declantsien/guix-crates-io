@@ -6,3 +6,5 @@
 
 (define-public crate-m-bus-parser-cli-0.0.3 (c (n "m-bus-parser-cli") (v "0.0.3") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "m-bus-parser") (r "^0.0.8") (f (quote ("std"))) (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10") (d #t) (k 0)))) (h "0yqbcjhpy35z93ly1cp40c6vi3dfmy1waz3p9xgfg9f4brpzdpmi")))
 
+(define-public crate-m-bus-parser-cli-0.0.4 (c (n "m-bus-parser-cli") (v "0.0.4") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "m-bus-parser") (r "^0.0.9") (f (quote ("std"))) (d #t) (k 0)) (d (n "prettytable-rs") (r "^0.10") (d #t) (k 0)))) (h "16c00fs3kv2vqmky0nljd0ijknx7dnlx60nsj8lnjbvkrzq23iz2")))
+
