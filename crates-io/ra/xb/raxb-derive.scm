@@ -8,3 +8,5 @@
 
 (define-public crate-raxb-derive-0.3.1 (c (n "raxb-derive") (v "0.3.1") (d (list (d (n "darling") (r "^0.20") (d #t) (k 0)) (d (n "heck") (r "^0.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.26") (f (quote ("derive"))) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)))) (h "1ybsx39yvf90xdklcyhjpvkhhfa6vcb9wg5blj6bm479nipckimh") (r "1.78.0")))
 
+(define-public crate-raxb-derive-0.3.3 (c (n "raxb-derive") (v "0.3.3") (d (list (d (n "darling") (r "^0.20") (d #t) (k 0)) (d (n "heck") (r "^0.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.26") (f (quote ("derive"))) (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "extra-traits" "visit" "visit-mut"))) (d #t) (k 0)))) (h "04ibhkq11c5i868b2pvadhkjx7y8q7j26y78fw3py2qyk8sxxdkh") (r "1.78.0")))
+

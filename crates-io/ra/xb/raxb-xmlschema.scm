@@ -8,3 +8,5 @@
 
 (define-public crate-raxb-xmlschema-0.3.1 (c (n "raxb-xmlschema") (v "0.3.1") (h "1n5jlljqn06c6mfa4q1k26d8dlvxsxk39whmzvl0wzakscls31i2") (r "1.78.0")))
 
+(define-public crate-raxb-xmlschema-0.3.3 (c (n "raxb-xmlschema") (v "0.3.3") (d (list (d (n "byteorder") (r "^1.5") (d #t) (k 0)) (d (n "lz4_flex") (r "^0.11") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("blocking"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)) (d (n "uuid") (r "^1.8") (f (quote ("v5"))) (d #t) (k 0)))) (h "0qripdhbwjfb6ky5s26967fjf8snzispxc03i9kr15r97x6k13yh") (f (quote (("writer" "reqwest") ("reader") ("default" "reader" "writer")))) (r "1.78.0")))
+

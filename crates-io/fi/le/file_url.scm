@@ -4,3 +4,5 @@
 
 (define-public crate-file_url-0.1.1 (c (n "file_url") (v "0.1.1") (d (list (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.3.1") (d #t) (k 0)) (d (n "rstest") (r "^0.19.0") (d #t) (k 2)) (d (n "typed-path") (r "^0.8.0") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "0clhwgq8a44zhv51b2d064892cdzgvhbqpk1j28858f7l2lf3l0w")))
 
+(define-public crate-file_url-0.1.2 (c (n "file_url") (v "0.1.2") (d (list (d (n "itertools") (r "^0.12.1") (d #t) (k 0)) (d (n "percent-encoding") (r "^2.3.1") (d #t) (k 0)) (d (n "rstest") (r "^0.19.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)) (d (n "typed-path") (r "^0.8.0") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)))) (h "14b5kqbkvxgif97mf24vz6bdfq14za2hkkcw2f559kzjr7ywahhh")))
+

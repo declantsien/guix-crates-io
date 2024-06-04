@@ -8,3 +8,5 @@
 
 (define-public crate-raxb-validate-0.3.1 (c (n "raxb-validate") (v "0.3.1") (h "0hmwcx8vnsgbxbz0mlf87ik885sc744ppqszqdd6dh735q4dplhr") (r "1.78.0")))
 
+(define-public crate-raxb-validate-0.3.3 (c (n "raxb-validate") (v "0.3.3") (d (list (d (n "byteorder") (r "^1.5") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "lz4_flex") (r "^0.11") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "raxb-libxml2-sys") (r "^0.3.3") (d #t) (k 0)) (d (n "raxb-xmlschema") (r "^0.3.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2.5.0") (d #t) (k 0)) (d (n "uuid") (r "^1.8") (f (quote ("v5"))) (d #t) (k 0)))) (h "1lidbr10f8rlcxg5s34na3w2j9067f0xmlxvs5i4frqzzrdcil2y") (r "1.78.0")))
+
