@@ -10,3 +10,5 @@
 
 (define-public crate-axolotlsay-0.2.3 (c (n "axolotlsay") (v "0.2.3") (d (list (d (n "assert_cmd") (r "^2.0.8") (d #t) (k 2)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.10") (d #t) (k 0)))) (h "07q9fdigxyj8ypdh6ysjyyw8bx4s451dyf7y6lbhixfcp32x6956")))
 
+(define-public crate-axolotlsay-0.2.4 (c (n "axolotlsay") (v "0.2.4") (d (list (d (n "assert_cmd") (r "^2.0.8") (d #t) (k 2)) (d (n "clap") (r "^4.1.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.10") (d #t) (k 0)))) (h "0zs64b260jxfs4vlawvdk1jya0hglj6fv72ffky4in3f99naa67i")))
+

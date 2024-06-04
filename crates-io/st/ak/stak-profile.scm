@@ -18,3 +18,5 @@
 
 (define-public crate-stak-profile-0.1.9 (c (n "stak-profile") (v "0.1.9") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "main_error") (r "^0.1.2") (d #t) (k 0)) (d (n "stak-configuration") (r "^0.1.35") (d #t) (k 0)) (d (n "stak-device") (r "^0.2.39") (f (quote ("std"))) (d #t) (k 0)) (d (n "stak-primitive") (r "^0.2.40") (f (quote ("std"))) (d #t) (k 0)) (d (n "stak-profiler") (r "^0.1.8") (d #t) (k 0)) (d (n "stak-vm") (r "^0.4.9") (f (quote ("profile" "std"))) (d #t) (k 0)))) (h "0gvm0iifcw9lsdsmy8fdn6k9b5dbv0szbmbj80bjr3y3qiscbnwb")))
 
+(define-public crate-stak-profile-0.1.10 (c (n "stak-profile") (v "0.1.10") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "main_error") (r "^0.1.2") (d #t) (k 0)) (d (n "stak-configuration") (r "^0.1.36") (d #t) (k 0)) (d (n "stak-device") (r "^0.2.40") (f (quote ("std"))) (d #t) (k 0)) (d (n "stak-primitive") (r "^0.2.41") (f (quote ("std"))) (d #t) (k 0)) (d (n "stak-profiler") (r "^0.1.9") (d #t) (k 0)) (d (n "stak-vm") (r "^0.4.10") (f (quote ("profile" "std"))) (d #t) (k 0)))) (h "0psyi0jzw32157avfww3370asabh6cx2vsxshmp1xkgamlr7vrgx")))
+

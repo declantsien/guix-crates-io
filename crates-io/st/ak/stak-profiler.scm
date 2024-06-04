@@ -18,3 +18,5 @@
 
 (define-public crate-stak-profiler-0.1.8 (c (n "stak-profiler") (v "0.1.8") (d (list (d (n "indoc") (r "^2.0.5") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "stak-vm") (r "^0.4.9") (d #t) (k 0)))) (h "0r0wvb4adcdyihzq2i18924k0pkl9kck6c0c88zpzp5rqk3c5xwd")))
 
+(define-public crate-stak-profiler-0.1.9 (c (n "stak-profiler") (v "0.1.9") (d (list (d (n "indoc") (r "^2.0.5") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "stak-vm") (r "^0.4.10") (d #t) (k 0)))) (h "1262sjyw4zi4k3grc8q0szpg9251n0mlzq0gb0zr4pynqdxb69rr")))
+

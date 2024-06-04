@@ -36,3 +36,5 @@
 
 (define-public crate-stak-minify-0.1.17 (c (n "stak-minify") (v "0.1.17") (d (list (d (n "stak-sac") (r "^0.1.41") (d #t) (k 0)))) (h "1698iwdcckcsi4zi7glsndf77yh26baa05pbwp7py0jzi7r36lw8")))
 
+(define-public crate-stak-minify-0.1.18 (c (n "stak-minify") (v "0.1.18") (d (list (d (n "stak-sac") (r "^0.1.42") (d #t) (k 0)))) (h "1r9s1458sxy8jkjzllfayvrx8bc50b1f4n3ndz7cdcmq4v0vb9in")))
+

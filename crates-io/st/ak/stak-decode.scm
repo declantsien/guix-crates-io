@@ -90,3 +90,5 @@
 
 (define-public crate-stak-decode-0.1.44 (c (n "stak-decode") (v "0.1.44") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "main_error") (r "^0.1.2") (d #t) (k 0)) (d (n "stak-code") (r "^0.2") (f (quote ("alloc" "std"))) (d #t) (k 0)))) (h "0mcwvk7kg0d1yg7ls6bl6w59wkb11d3axqkdpaijr0gj491fiynd")))
 
+(define-public crate-stak-decode-0.1.45 (c (n "stak-decode") (v "0.1.45") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "main_error") (r "^0.1.2") (d #t) (k 0)) (d (n "stak-code") (r "^0.2") (f (quote ("alloc" "std"))) (d #t) (k 0)))) (h "1q0k6l10vav25937bkqpqf9gyrsd4ajbdcnm419rhr5cpz27gyh9")))
+

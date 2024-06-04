@@ -84,3 +84,5 @@
 
 (define-public crate-stak-compile-0.1.43 (c (n "stak-compile") (v "0.1.43") (d (list (d (n "stak-sac") (r "^0.1") (d #t) (k 0)))) (h "09ymxwz3chkv9mrwisc1nc219zl8qlcdgvz2jgslmlywqb8m09m5")))
 
+(define-public crate-stak-compile-0.1.44 (c (n "stak-compile") (v "0.1.44") (d (list (d (n "stak-sac") (r "^0.1") (d #t) (k 0)))) (h "1sdq1s93c90fjqsaffhb5pc9az368f6ndasjwjqddf9c0m8p7jkc")))
+

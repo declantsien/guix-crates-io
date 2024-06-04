@@ -28,3 +28,5 @@
 
 (define-public crate-unicode-width-0.1.12 (c (n "unicode-width") (v "0.1.12") (d (list (d (n "compiler_builtins") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "core") (r "^1.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-core")) (d (n "std") (r "^1.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-std")) (d (n "unicode-normalization") (r "^0.1.23") (d #t) (k 2)))) (h "1mk6mybsmi5py8hf8zy9vbgs4rw4gkdqdq3gzywd9kwf2prybxb8") (f (quote (("rustc-dep-of-std" "std" "core" "compiler_builtins") ("no_std") ("default"))))))
 
+(define-public crate-unicode-width-0.1.13 (c (n "unicode-width") (v "0.1.13") (d (list (d (n "compiler_builtins") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "core") (r "^1.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-core")) (d (n "std") (r "^1.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-std")))) (h "0p92vl8n7qc8mxz45xn6qbgi0259z96n32a158l6vj5bywwdadh3") (f (quote (("rustc-dep-of-std" "std" "core" "compiler_builtins") ("no_std") ("default"))))))
+

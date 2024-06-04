@@ -32,3 +32,5 @@
 
 (define-public crate-matreex-0.9.0 (c (n "matreex") (v "0.9.0") (d (list (d (n "rayon") (r "^1.10.0") (o #t) (d #t) (k 0)))) (h "1vkb818vysq2xscvcbb8xjrqgm5zihl8a4m6x5wjwzzpqizhiqp5") (f (quote (("default")))) (s 2) (e (quote (("rayon" "dep:rayon"))))))
 
+(define-public crate-matreex-0.10.0 (c (n "matreex") (v "0.10.0") (d (list (d (n "rayon") (r "^1.10.0") (o #t) (d #t) (k 0)))) (h "128ah71pkfk5sq9dk9jvbgj1lx8jqxi1lfbz75l7k13l5l01l0ma") (f (quote (("default")))) (s 2) (e (quote (("rayon" "dep:rayon"))))))
+
