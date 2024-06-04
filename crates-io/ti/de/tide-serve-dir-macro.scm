@@ -6,3 +6,5 @@
 
 (define-public crate-tide-serve-dir-macro-0.1.2 (c (n "tide-serve-dir-macro") (v "0.1.2") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "12vfik810b4nkdqvrqxhgi86hry3wp108hdjgc2fi1fn2inqfs85")))
 
+(define-public crate-tide-serve-dir-macro-0.2.0 (c (n "tide-serve-dir-macro") (v "0.2.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)) (d (n "walkdir") (r "^2.3.2") (d #t) (k 0)))) (h "1dd4fg93d4ixjx90rxvwirzsbyixx9lhnm7ay37y5646094faap3")))
+
