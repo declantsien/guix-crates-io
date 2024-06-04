@@ -94,3 +94,5 @@
 
 (define-public crate-stak-code-0.2.38 (c (n "stak-code") (v "0.2.38") (d (list (d (n "insta") (r "^1.39.0") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)))) (h "1c042valcyc6lzl9dg00k8ihvxvv9nkd9iv908fqswz966b0l967") (f (quote (("std") ("alloc"))))))
 
+(define-public crate-stak-code-0.2.39 (c (n "stak-code") (v "0.2.39") (d (list (d (n "insta") (r "^1.39.0") (d #t) (k 2)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)))) (h "1chvy6hk5i8pbp4ccyjcyanra36ljzyql0ghsj96s5gk23pj78ra") (f (quote (("std") ("alloc"))))))
+

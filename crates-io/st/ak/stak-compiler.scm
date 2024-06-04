@@ -86,3 +86,5 @@
 
 (define-public crate-stak-compiler-0.1.43 (c (n "stak-compiler") (v "0.1.43") (d (list (d (n "indoc") (r "^2.0.5") (d #t) (k 2)) (d (n "stak-configuration") (r "^0.1.35") (d #t) (k 0)) (d (n "stak-device") (r "^0.2") (f (quote ("std"))) (d #t) (k 0)) (d (n "stak-primitive") (r "^0.2") (f (quote ("std"))) (d #t) (k 0)) (d (n "stak-vm") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)))) (h "120dxib12n3i2c4d7w6kwhgydkjxkf8zs8h2a52irijd04c24frl")))
 
+(define-public crate-stak-compiler-0.1.44 (c (n "stak-compiler") (v "0.1.44") (d (list (d (n "indoc") (r "^2.0.5") (d #t) (k 2)) (d (n "stak-configuration") (r "^0.1.36") (d #t) (k 0)) (d (n "stak-device") (r "^0.2") (f (quote ("std"))) (d #t) (k 0)) (d (n "stak-primitive") (r "^0.2") (f (quote ("std"))) (d #t) (k 0)) (d (n "stak-vm") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)))) (h "09fc8d3s9lxn590rhpy4ljp1wkdk7mfaxv7zfxvjj28a187qx02l")))
+

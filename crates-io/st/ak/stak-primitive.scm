@@ -88,3 +88,5 @@
 
 (define-public crate-stak-primitive-0.2.40 (c (n "stak-primitive") (v "0.2.40") (d (list (d (n "stak-device") (r "^0.2") (d #t) (k 0)) (d (n "stak-vm") (r "^0.4") (d #t) (k 0)))) (h "1xq70pkzcy7imypryk27vj0z1phfdi23jl8kazglflivw02484rg") (f (quote (("std"))))))
 
+(define-public crate-stak-primitive-0.2.41 (c (n "stak-primitive") (v "0.2.41") (d (list (d (n "stak-device") (r "^0.2") (d #t) (k 0)) (d (n "stak-vm") (r "^0.4") (d #t) (k 0)))) (h "0rjgjfbdypcl4pszqiwilxv1fddx9lvmd299rq94m934gpd32xmx") (f (quote (("std"))))))
+

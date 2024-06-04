@@ -34,3 +34,5 @@
 
 (define-public crate-stak-macro-util-0.1.16 (c (n "stak-macro-util") (v "0.1.16") (d (list (d (n "proc-macro2") (r "^1.0.84") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (d #t) (k 0)))) (h "0cxjzc4rk2bvaqkk8fgjxf0fivk8zlpagxhxab9hadn0481x8xca")))
 
+(define-public crate-stak-macro-util-0.1.17 (c (n "stak-macro-util") (v "0.1.17") (d (list (d (n "proc-macro2") (r "^1.0.85") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (d #t) (k 0)))) (h "0f7rkpjcpgfhl37xf0b5sij6fr7pcgy5c038gcnqy6zkj0phyqcq")))
+

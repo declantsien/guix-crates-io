@@ -96,3 +96,5 @@
 
 (define-public crate-stak-vm-0.4.9 (c (n "stak-vm") (v "0.4.9") (d (list (d (n "insta") (r "^1.39.0") (d #t) (k 2)) (d (n "stak-code") (r "^0.2") (d #t) (k 0)))) (h "0sfzhv8wp15x5r93w4yqcw601p8smxmpfbwm9h3ndki4sbvx1c7c") (f (quote (("trace_instruction") ("trace_heap") ("std") ("profile") ("gc_always"))))))
 
+(define-public crate-stak-vm-0.4.10 (c (n "stak-vm") (v "0.4.10") (d (list (d (n "insta") (r "^1.39.0") (d #t) (k 2)) (d (n "stak-code") (r "^0.2") (d #t) (k 0)))) (h "10d49vd8rqnvhddzpywkia1bwm1icpqn1f6rrpwq4808l7rvlj9x") (f (quote (("trace_instruction") ("trace_heap") ("std") ("profile") ("gc_always"))))))
+

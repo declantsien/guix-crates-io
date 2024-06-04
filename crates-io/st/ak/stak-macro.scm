@@ -82,3 +82,5 @@
 
 (define-public crate-stak-macro-0.1.40 (c (n "stak-macro") (v "0.1.40") (d (list (d (n "proc-macro2") (r "^1.0.84") (f (quote ("proc-macro"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "stak-compiler") (r "^0.1") (d #t) (k 0)) (d (n "stak-macro-util") (r "^0.1.16") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (d #t) (k 0)))) (h "1r6lxrhmrnaxhps3dzmpz0r8vdf32hvgka7j7np9nl4jm0viin20")))
 
+(define-public crate-stak-macro-0.1.41 (c (n "stak-macro") (v "0.1.41") (d (list (d (n "proc-macro2") (r "^1.0.85") (f (quote ("proc-macro"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "stak-compiler") (r "^0.1") (d #t) (k 0)) (d (n "stak-macro-util") (r "^0.1.17") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (d #t) (k 0)))) (h "0rxccz3k5b0isvrk9bzhp3i9fbfk4f68k2qadbi1bfxsgr21ishm")))
+

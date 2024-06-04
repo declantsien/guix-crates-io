@@ -44,3 +44,5 @@
 
 (define-public crate-rattler_index-0.19.15 (c (n "rattler_index") (v "0.19.15") (d (list (d (n "fs-err") (r "^2.11.0") (d #t) (k 0)) (d (n "rattler_conda_types") (r "^0.25.1") (k 0)) (d (n "rattler_digest") (r "^0.19.4") (k 0)) (d (n "rattler_package_streaming") (r "^0.21.2") (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)))) (h "1hknsvz3xl4r4w7d1pnssnk1y5z6y9vqj16q8qy0nglbnzcq2wnc")))
 
+(define-public crate-rattler_index-0.19.16 (c (n "rattler_index") (v "0.19.16") (d (list (d (n "fs-err") (r "^2.11.0") (d #t) (k 0)) (d (n "rattler_conda_types") (r "^0.25.2") (k 0)) (d (n "rattler_digest") (r "^0.19.4") (k 0)) (d (n "rattler_package_streaming") (r "^0.21.3") (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "walkdir") (r "^2.5.0") (d #t) (k 0)))) (h "0z2ssgvkw42cz248w9wmfv1xlyxm4pc4hc19zx5zvf3irig8rsc4")))
+

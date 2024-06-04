@@ -4,3 +4,5 @@
 
 (define-public crate-surt-rs-0.1.1 (c (n "surt-rs") (v "0.1.1") (d (list (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 2)) (d (n "url") (r "^2.5.0") (d #t) (k 0)) (d (n "url-escape") (r "^0.1.1") (d #t) (k 0)))) (h "1xrcg3piqc5z0l1x7315b7i3qdvqfi2hhq205hhlfm9lgawf1fc4")))
 
+(define-public crate-surt-rs-0.1.2 (c (n "surt-rs") (v "0.1.2") (d (list (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 2)) (d (n "url") (r "^2.5.0") (d #t) (k 0)) (d (n "url-escape") (r "^0.1.1") (d #t) (k 0)))) (h "13khvwca7mv8jdkn8hkx0c7rxv74lcdyi4qs3y4q9phgap4h3gf7")))
+

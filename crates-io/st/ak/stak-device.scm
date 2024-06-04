@@ -94,3 +94,5 @@
 
 (define-public crate-stak-device-0.2.39 (c (n "stak-device") (v "0.2.39") (d (list (d (n "libc") (r "^0.2") (o #t) (k 0)))) (h "0v1d8rqyl4ywkrlrlidgz76lpqxxacc0bj9xyfg6l8rxzm4rdsvi") (f (quote (("std")))) (s 2) (e (quote (("libc" "dep:libc"))))))
 
+(define-public crate-stak-device-0.2.40 (c (n "stak-device") (v "0.2.40") (d (list (d (n "libc") (r "^0.2") (o #t) (k 0)))) (h "1wl2mqsm22v00wyxzywzzwl81cszmdpiwmj8cjmbmh5ky1jqwcl3") (f (quote (("std")))) (s 2) (e (quote (("libc" "dep:libc"))))))
+

@@ -72,3 +72,5 @@
 
 (define-public crate-stak-configuration-0.1.35 (c (n "stak-configuration") (v "0.1.35") (h "19bmxaa9zbsi8j6c6d9vhvhdgpwafahn1cmyzxnpi9kphxxrr40p")))
 
+(define-public crate-stak-configuration-0.1.36 (c (n "stak-configuration") (v "0.1.36") (h "0yivzjclhhhhvaiys2yhmb1bb8mfy8j1dsck98y7adxpfznm3aqz")))
+
