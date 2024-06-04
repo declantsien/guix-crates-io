@@ -16,3 +16,5 @@
 
 (define-public crate-deltachat_message_parser-0.10.0 (c (n "deltachat_message_parser") (v "0.10.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.126") (d #t) (k 0)) (d (n "unic-idna-punycode") (r "^0.9.0") (d #t) (k 0)))) (h "1l4km1d5qwcykyg8dqwx333fjv7d8zri0f1zdy1css5p1k1sampq")))
 
+(define-public crate-deltachat_message_parser-0.11.0 (c (n "deltachat_message_parser") (v "0.11.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "serde") (r "^1.0.126") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.126") (d #t) (k 0)) (d (n "unic-idna-punycode") (r "^0.9.0") (d #t) (k 0)))) (h "07g63a8rlcyywpmfrbkw71drm6hky3yjnldzkyqglr5qiqy2s03r")))
+

@@ -626,3 +626,5 @@
 
 (define-public crate-mit-hook-test-helper-5.12.203 (c (n "mit-hook-test-helper") (v "5.12.203") (d (list (d (n "git2") (r "^0.18.2") (d #t) (k 0)) (d (n "openssl") (r "^0.10.63") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 0)))) (h "044ij0h6bqb42xjy0n01xy7arzi0w9cg6vb3dxahr5fvfqlks6j7") (f (quote (("vendored-openssl" "openssl/vendored") ("default"))))))
 
+(define-public crate-mit-hook-test-helper-5.12.204 (c (n "mit-hook-test-helper") (v "5.12.204") (d (list (d (n "git2") (r "^0.18.2") (d #t) (k 0)) (d (n "openssl") (r "^0.10.63") (o #t) (d #t) (k 0)) (d (n "tempfile") (r "^3.10.0") (d #t) (k 0)))) (h "033k1vqrzfbmhzpbyi8d8498zw2pmnx4nsr6n13k5pahfapi44f1") (f (quote (("vendored-openssl" "openssl/vendored") ("default"))))))
+
