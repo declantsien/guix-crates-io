@@ -40,3 +40,5 @@
 
 (define-public crate-witchcraft-server-macros-4.0.0-rc1 (c (n "witchcraft-server-macros") (v "4.0.0-rc1") (d (list (d (n "conjure-error") (r "^4.0.0-rc4") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "refreshable") (r "^2") (d #t) (k 2)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)) (d (n "witchcraft-server") (r "^4.0.0-rc1") (d #t) (k 2)))) (h "0wl2naj95xyyacwb74ax02i957jblyd6svv956q8r6mh3qcs6ryz")))
 
+(define-public crate-witchcraft-server-macros-4.0.0 (c (n "witchcraft-server-macros") (v "4.0.0") (d (list (d (n "conjure-error") (r "^4") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "refreshable") (r "^2") (d #t) (k 2)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)) (d (n "witchcraft-server") (r "^4.0.0") (d #t) (k 2)))) (h "0qx1v7ryk6di87qxvxk7am1bn21b3gzxxknas4vliqk30sm93x7k")))
+

@@ -12,3 +12,5 @@
 
 (define-public crate-nu_plugin_net-1.4.1 (c (n "nu_plugin_net") (v "1.4.1") (d (list (d (n "nu-plugin") (r "^0.93.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.93.0") (f (quote ("plugin"))) (d #t) (k 0)) (d (n "pnet") (r "^0.34") (f (quote ("std"))) (d #t) (k 0)))) (h "0himvxkgmfdwjxa4a07bfpxjrm7j747cfnbm0znd669ii4q8rgx4")))
 
+(define-public crate-nu_plugin_net-1.5.0 (c (n "nu_plugin_net") (v "1.5.0") (d (list (d (n "nu-plugin") (r "^0.94.2") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.2") (f (quote ("plugin"))) (d #t) (k 0)) (d (n "pnet") (r "^0.34") (f (quote ("std"))) (d #t) (k 0)))) (h "1szd4wwwd2kjh7p4rv8haw1ixi0anz19859ai94yfl0aqf9rngkc")))
+

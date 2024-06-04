@@ -40,3 +40,5 @@
 
 (define-public crate-witchcraft-server-config-4.0.0-rc1 (c (n "witchcraft-server-config") (v "4.0.0-rc1") (d (list (d (n "conjure-runtime-config") (r "^5.0.0-rc1") (d #t) (k 0)) (d (n "humantime-serde") (r "^1") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "staged-builder") (r "^0.2.0") (d #t) (k 0)) (d (n "witchcraft-log") (r "^4.0.0-rc1") (d #t) (k 0)))) (h "02pz358aw62r8jspc13rd2vzy4bqfhvwfgbwwkx4mp3q0gq3y6zx")))
 
+(define-public crate-witchcraft-server-config-4.0.0 (c (n "witchcraft-server-config") (v "4.0.0") (d (list (d (n "conjure-runtime-config") (r "^5") (d #t) (k 0)) (d (n "humantime-serde") (r "^1") (d #t) (k 0)) (d (n "num_cpus") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "staged-builder") (r "^0.2.0") (d #t) (k 0)) (d (n "witchcraft-log") (r "^4") (d #t) (k 0)))) (h "1xpjcrh23z0wvks235b6x0ip1bs7g0k3jdq1b8hgm7pj5fascajs")))
+

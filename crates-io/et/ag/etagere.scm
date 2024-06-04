@@ -24,3 +24,5 @@
 
 (define-public crate-etagere-0.2.10 (c (n "etagere") (v "0.2.10") (d (list (d (n "euclid") (r "^0.22") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "svg_fmt") (r "^0.4") (d #t) (k 0)))) (h "0kiy6k3683qb126kvrnks048qha1li179w5psq6vsikc3n460s9h") (f (quote (("serialization" "serde" "euclid/serde") ("checks"))))))
 
+(define-public crate-etagere-0.2.11 (c (n "etagere") (v "0.2.11") (d (list (d (n "euclid") (r "^0.22") (d #t) (k 0)) (d (n "serde") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "svg_fmt") (r "^0.4") (d #t) (k 0)))) (h "0ydf27kqii2mac6a0rz07zfl38alqqq2jnhs4bj60cxabj6bqq24") (f (quote (("serialization" "serde" "euclid/serde") ("checks"))))))
+
