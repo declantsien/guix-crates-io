@@ -20,3 +20,5 @@
 
 (define-public crate-serde-toml-merge-0.3.7 (c (n "serde-toml-merge") (v "0.3.7") (d (list (d (n "toml") (r "^0.8") (d #t) (k 0)))) (h "09m24wm4n6xnj3jl5i20865mlhrw97xi6kms60fic5bjaxn6nnp7")))
 
+(define-public crate-serde-toml-merge-0.3.8 (c (n "serde-toml-merge") (v "0.3.8") (d (list (d (n "toml") (r "^0.8") (d #t) (k 0)))) (h "0s1rbvgwff7x9fl9034s0v5rfjadifdwljc6wkjqkydzsqay9d4k")))
+
