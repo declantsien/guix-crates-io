@@ -94,3 +94,5 @@
 
 (define-public crate-ckb-systemtime-0.116.1 (c (n "ckb-systemtime") (v "0.116.1") (h "1vwna8znnpdi37h992z0zvlqpi9r46rxmjl5y86cp7ksz9q9pp6l") (f (quote (("enable_faketime") ("default"))))))
 
+(define-public crate-ckb-systemtime-0.117.0-rc1 (c (n "ckb-systemtime") (v "0.117.0-rc1") (h "049wda0cq0690l0vwvsmk51n2q1qqhs1478k0h8ampqzilv399kp") (f (quote (("enable_faketime") ("default"))))))
+

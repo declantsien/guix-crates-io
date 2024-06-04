@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-logger-0.116.1 (c (n "ckb-logger") (v "0.116.1") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "0z986nk5yadwa1bm2d9byyyq1ydpnrk9xhxmvhxlbjwsdkayrssr")))
 
+(define-public crate-ckb-logger-0.117.0-rc1 (c (n "ckb-logger") (v "0.117.0-rc1") (d (list (d (n "log") (r "^0.4") (d #t) (k 0)))) (h "0da9d1zhzm4xjb6f04vz7sn34aic8jz7lrmbimk34n01qy014ph4")))
+

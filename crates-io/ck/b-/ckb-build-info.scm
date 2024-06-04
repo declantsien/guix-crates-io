@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-build-info-0.116.1 (c (n "ckb-build-info") (v "0.116.1") (h "0d49h45p01km5w24vy34q6mg31amb799v0nh4i2jqf5d2b5f72c5")))
 
+(define-public crate-ckb-build-info-0.117.0-rc1 (c (n "ckb-build-info") (v "0.117.0-rc1") (h "0m3lab3106cm9dahf11pb98gvcdw9sbid4g50dhwrl3s1jyw7dx1")))
+

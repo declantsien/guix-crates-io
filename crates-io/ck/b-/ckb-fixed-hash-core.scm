@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-fixed-hash-core-0.116.1 (c (n "ckb-fixed-hash-core") (v "0.116.1") (d (list (d (n "faster-hex") (r "^0.6") (d #t) (k 0)) (d (n "schemars") (r "^0.8.19") (d #t) (k 0) (p "ckb_schemars")) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)))) (h "1y0cqx2gr2nha525svalv8lv1dmcqlypvd0dzlnf9dmrxlzzc2cm")))
 
+(define-public crate-ckb-fixed-hash-core-0.117.0-rc1 (c (n "ckb-fixed-hash-core") (v "0.117.0-rc1") (d (list (d (n "faster-hex") (r "^0.6") (d #t) (k 0)) (d (n "schemars") (r "^0.8.19") (d #t) (k 0) (p "ckb_schemars")) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)))) (h "0aksk7adqazjshgspzd5bxxnkyskbnl2i0fcbcvhq1z6jpy5rny5")))
+

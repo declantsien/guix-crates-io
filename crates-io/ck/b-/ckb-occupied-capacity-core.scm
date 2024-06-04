@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-occupied-capacity-core-0.116.1 (c (n "ckb-occupied-capacity-core") (v "0.116.1") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0xp1i4c4py5dw5160lp4lks978h2s0py52mcslkan95sjq4xjgm6")))
 
+(define-public crate-ckb-occupied-capacity-core-0.117.0-rc1 (c (n "ckb-occupied-capacity-core") (v "0.117.0-rc1") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1lq8qn91xk9h2makyjj3g62zf3h44risjwv59j8hrjl8z4vdxm1a")))
+

@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-channel-0.116.1 (c (n "ckb-channel") (v "0.116.1") (d (list (d (n "crossbeam-channel") (r "^0.5.1") (d #t) (k 0)))) (h "17c86nrvl6xxsgc4z1wwhn28k55fbwwarhc7vicdhngzj0g5cgw5")))
 
+(define-public crate-ckb-channel-0.117.0-rc1 (c (n "ckb-channel") (v "0.117.0-rc1") (d (list (d (n "crossbeam-channel") (r "^0.5.1") (d #t) (k 0)))) (h "1pzgdwc2ixjqwpidhyqjq3hyam9n0zfsfqjqds0pql7k1hfwr3ma")))
+

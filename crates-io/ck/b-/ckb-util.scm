@@ -166,3 +166,5 @@
 
 (define-public crate-ckb-util-0.116.1 (c (n "ckb-util") (v "0.116.1") (d (list (d (n "linked-hash-map") (r "^0.5") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "regex") (r "^1.1.6") (d #t) (k 0)))) (h "0nsfyq32rnp8hq0iplvia10kn7llrfkqyq0wg5pzr0hx0i58d2lc") (f (quote (("deadlock_detection" "parking_lot/deadlock_detection"))))))
 
+(define-public crate-ckb-util-0.117.0-rc1 (c (n "ckb-util") (v "0.117.0-rc1") (d (list (d (n "linked-hash-map") (r "^0.5") (f (quote ("serde_impl"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "regex") (r "^1.1.6") (d #t) (k 0)))) (h "08iyy6zyclar4226g6f105y7jsp96s3h2qlan6ahyvywl2qvvnfp") (f (quote (("deadlock_detection" "parking_lot/deadlock_detection"))))))
+
