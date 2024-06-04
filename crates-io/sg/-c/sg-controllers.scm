@@ -128,3 +128,5 @@
 
 (define-public crate-sg-controllers-3.13.0 (c (n "sg-controllers") (v "3.13.0") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2.1") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^1.1.0") (d #t) (k 0)) (d (n "cw-utils") (r "^1.0.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (k 0)) (d (n "sg-std") (r "^3.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1kxjrg96zn2r44xxryysnff1v7jm54izssiplyxjpsrmvycc60jb")))
 
+(define-public crate-sg-controllers-3.14.0 (c (n "sg-controllers") (v "3.14.0") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2.1") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^1.1.0") (d #t) (k 0)) (d (n "cw-utils") (r "^1.0.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (k 0)) (d (n "sg-std") (r "^3.2.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1n0p37kb9id77la78p41d0ffrcgdi41bwmllip2g9vnk8d7hl5k4")))
+

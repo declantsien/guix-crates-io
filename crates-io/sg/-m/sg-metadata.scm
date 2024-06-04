@@ -118,3 +118,5 @@
 
 (define-public crate-sg-metadata-3.13.0 (c (n "sg-metadata") (v "3.13.0") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (k 0)))) (h "1vnv03747dl1ymn5mmdg1gkqv062cb1mkhlpfvwxz74wrk61kz0f")))
 
+(define-public crate-sg-metadata-3.14.0 (c (n "sg-metadata") (v "3.14.0") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (k 0)))) (h "159f136zdvm7la70kxz2i56zayl5vm8ap3n06fzwjfxnb5ylb75p")))
+

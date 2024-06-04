@@ -124,3 +124,5 @@
 
 (define-public crate-sg4-3.13.0 (c (n "sg4") (v "3.13.0") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "0sfk1sqzh9smqamm8aj37g9z7wn5xmlsmm93ag3mcqisapmv5wj2")))
 
+(define-public crate-sg4-3.14.0 (c (n "sg4") (v "3.14.0") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "0xxgm2rrna5pxgrgjlm47fj07a6n1ymrpr9q44axa8w5f94awgjh")))
+

@@ -122,3 +122,5 @@
 
 (define-public crate-sg2-3.13.0 (c (n "sg2") (v "3.13.0") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2.1") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^1.1.0") (d #t) (k 0)) (d (n "cw-utils") (r "^1.0.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (k 0)) (d (n "sg721") (r "^3.13.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "1razaszl4hjgf654zihhk73nyjnhhhms248sa2z5ccrjag2hgvhx")))
 
+(define-public crate-sg2-3.14.0 (c (n "sg2") (v "3.14.0") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2.1") (d #t) (k 0)) (d (n "cw-storage-plus") (r "^1.1.0") (d #t) (k 0)) (d (n "cw-utils") (r "^1.0.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.11") (d #t) (k 0)) (d (n "serde") (r "^1.0.145") (f (quote ("derive"))) (k 0)) (d (n "sg721") (r "^3.14.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.31") (d #t) (k 0)))) (h "04nkrqbcmvd6sybsl88m9lgjwncbwymzvl5hd98n8v4ymm6ai42y")))
+

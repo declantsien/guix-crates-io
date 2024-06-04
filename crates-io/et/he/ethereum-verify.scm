@@ -92,3 +92,5 @@
 
 (define-public crate-ethereum-verify-3.13.0 (c (n "ethereum-verify") (v "3.13.0") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2.1") (f (quote ("staking"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (k 0)) (d (n "sha3") (r "^0.10") (d #t) (k 0)))) (h "1cr5r4rzyb9wfcj7ngd3xz5m8ai4j2axv50r927hj3fr0i4yni3c")))
 
+(define-public crate-ethereum-verify-3.14.0 (c (n "ethereum-verify") (v "3.14.0") (d (list (d (n "cosmwasm-schema") (r "^1.2.1") (d #t) (k 0)) (d (n "cosmwasm-std") (r "^1.2.1") (f (quote ("staking"))) (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "sha2") (r "^0.10.2") (k 0)) (d (n "sha3") (r "^0.10") (d #t) (k 0)))) (h "0cc1h6rlic32wvk9fl15wqym4j0d8bysvpcb6xmj755796x5ydp8")))
+
