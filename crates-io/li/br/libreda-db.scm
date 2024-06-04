@@ -10,3 +10,5 @@
 
 (define-public crate-libreda-db-0.0.10 (c (n "libreda-db") (v "0.0.10") (d (list (d (n "fnv") (r "^1.0.7") (d #t) (k 0)) (d (n "iron-shapes") (r "^0.0.8") (f (quote ("serde"))) (d #t) (k 0)) (d (n "iron-shapes-booleanop") (r "^0.0.3") (d #t) (k 0)) (d (n "itertools") (r "^0.10.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive" "rc"))) (o #t) (d #t) (k 0)))) (h "0341hikp2dbw9q74zi7kj4ycfcq08yw7m4ihr7k3j293k0c3426w")))
 
+(define-public crate-libreda-db-0.0.11 (c (n "libreda-db") (v "0.0.11") (d (list (d (n "fnv") (r "^1.0") (d #t) (k 0)) (d (n "iron-shapes") (r "^0.1") (f (quote ("serde"))) (d #t) (k 0)) (d (n "iron-shapes-booleanop") (r "^0.1") (d #t) (k 0)) (d (n "itertools") (r "^0.13") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num-derive") (r "^0.3") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "portrait") (r "^0.2.3") (d #t) (k 0)) (d (n "rstar") (r "^0.9") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive" "rc"))) (o #t) (d #t) (k 0)))) (h "0mz4rns9s27xhs24qnmasciz07d0ijh8vq092g5s2apqjs3xd954")))
+

@@ -8,3 +8,5 @@
 
 (define-public crate-palm_api-0.2.1 (c (n "palm_api") (v "0.2.1") (d (list (d (n "reqwest") (r "^0.11.18") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.171") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.102") (d #t) (k 0)))) (h "1pmvz6nmc2d51adz8hg79n9j6lillsszkzk2jqwn2laqnxb2b7i0")))
 
+(define-public crate-palm_api-0.2.2 (c (n "palm_api") (v "0.2.2") (d (list (d (n "reqwest") (r "^0.12") (f (quote ("blocking" "json"))) (k 0)) (d (n "serde") (r "^1.0.171") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.102") (d #t) (k 0)))) (h "0shh9d4v1hv2brsm02d1vj4ippm9nhfy1998iyc7p2frsa8ckka6") (f (quote (("rustls-tls" "reqwest/rustls-tls") ("default" "reqwest/default"))))))
+

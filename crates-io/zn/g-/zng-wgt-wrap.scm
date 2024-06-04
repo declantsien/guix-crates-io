@@ -26,3 +26,5 @@
 
 (define-public crate-zng-wgt-wrap-0.3.4 (c (n "zng-wgt-wrap") (v "0.3.4") (d (list (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zng-app") (r "^0.5.2") (d #t) (k 0)) (d (n "zng-ext-font") (r "^0.3.10") (d #t) (k 0)) (d (n "zng-layout") (r "^0.2.11") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)) (d (n "zng-wgt-text") (r "^0.3.4") (d #t) (k 0)))) (h "01x80mwfxmf5j6zzrnwl7dbhwlhi7nlps8jdny7yf9b10vk0ff1i")))
 
+(define-public crate-zng-wgt-wrap-0.3.5 (c (n "zng-wgt-wrap") (v "0.3.5") (d (list (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zng-app") (r "^0.6.0") (d #t) (k 0)) (d (n "zng-ext-font") (r "^0.3.11") (d #t) (k 0)) (d (n "zng-layout") (r "^0.2.12") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.5") (d #t) (k 0)) (d (n "zng-wgt-text") (r "^0.3.5") (d #t) (k 0)))) (h "1zv6kvk5622b5wplmhkhl41p8cc4kd1mqimka0i3j2iprchii5gh")))
+

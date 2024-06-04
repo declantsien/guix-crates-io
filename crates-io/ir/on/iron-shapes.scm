@@ -8,3 +8,5 @@
 
 (define-public crate-iron-shapes-0.0.8 (c (n "iron-shapes") (v "0.0.8") (d (list (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-rational") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "096p145kkzw0dp1r9z1anc8p20kfzhyhcpgflqm5nkv07ynp1rm6")))
 
+(define-public crate-iron-shapes-0.1.0 (c (n "iron-shapes") (v "0.1.0") (d (list (d (n "itertools") (r "^0.13") (d #t) (k 0)) (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-rational") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1mfbdqngv4cg809g72s433hah2d1dpclaxd4vj4c35l7ihcgz2cz")))
+
