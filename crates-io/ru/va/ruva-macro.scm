@@ -118,3 +118,5 @@
 
 (define-public crate-ruva-macro-0.3.26 (c (n "ruva-macro") (v "0.3.26") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "12a5p54127zb95jsaryv6a6ywn78pavdp2qz6b3k8qic23phy6yz")))
 
+(define-public crate-ruva-macro-0.3.27 (c (n "ruva-macro") (v "0.3.27") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "0c8xj894b5a07dysjkwjb8msn4qpb98cpy585zy54xkfybxzcwvp")))
+

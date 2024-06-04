@@ -50,3 +50,5 @@
 
 (define-public crate-ruva-es-0.3.26 (c (n "ruva-es") (v "0.3.26") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "ruva-core") (r "^0.3.26") (d #t) (k 0)))) (h "04x3vbvsdzy033rkjpw21sqqwlzmk3arwl28b5igiy75kqwddjcb") (f (quote (("sqlx-postgres" "ruva-core/sqlx-postgres"))))))
 
+(define-public crate-ruva-es-0.3.27 (c (n "ruva-es") (v "0.3.27") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "ruva-core") (r "^0.3.27") (d #t) (k 0)))) (h "1q6y1x8hab0igdwkbqs60amrf0b4p42g3sh8pqjapbj6g2wh98jh") (f (quote (("sqlx-postgres" "ruva-core/sqlx-postgres"))))))
+
