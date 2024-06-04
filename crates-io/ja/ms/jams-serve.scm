@@ -1,0 +1,4 @@
+(define-module (crates-io ja ms jams-serve) #:use-module (crates-io))
+
+(define-public crate-jams-serve-0.1.0 (c (n "jams-serve") (v "0.1.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "axum") (r "^0.7") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "jams-core") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4.21") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("rt" "rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (d #t) (k 0)))) (h "1qb88gjdpfa0y7rrxbah1i5ps9izv1n017jwd5yndzz0s3hvqdj0")))
+
