@@ -918,3 +918,5 @@
 
 (define-public crate-spider_worker-1.97.1 (c (n "spider_worker") (v "1.97.1") (d (list (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "spider") (r "^1.97.1") (f (quote ("serde" "flexbuffers"))) (d #t) (k 0)) (d (n "warp") (r "^0.3.7") (d #t) (k 0)))) (h "0gz4r988v1il1bhppyddk9w5xc8vmhbqjmydazj0jyrp3pn54xiq") (f (quote (("tls" "warp/tls") ("scrape") ("headers" "spider/decentralized_headers" "spider/headers") ("full_resources" "spider/full_resources") ("default") ("cache" "spider/cache"))))))
 
+(define-public crate-spider_worker-1.97.2 (c (n "spider_worker") (v "1.97.2") (d (list (d (n "env_logger") (r "^0.11.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "spider") (r "^1.97.2") (f (quote ("serde" "flexbuffers"))) (d #t) (k 0)) (d (n "warp") (r "^0.3.7") (d #t) (k 0)))) (h "1ml8x4dwnrdm0jv13qlil1x2yl782lj2rr89ygbakzw7cvn9qcb1") (f (quote (("tls" "warp/tls") ("scrape") ("headers" "spider/decentralized_headers" "spider/headers") ("full_resources" "spider/full_resources") ("default") ("cache" "spider/cache"))))))
+
