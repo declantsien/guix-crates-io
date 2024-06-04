@@ -44,3 +44,5 @@
 
 (define-public crate-jsonpath-rust-0.5.1 (c (n "jsonpath-rust") (v "0.5.1") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pest") (r "^2.0") (d #t) (k 0)) (d (n "pest_derive") (r "^2.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0032bp43w6k1bl8h55m126cdf8xljj8p736f65gp3zvhpn2zxn0r")))
 
+(define-public crate-jsonpath-rust-0.6.0 (c (n "jsonpath-rust") (v "0.6.0") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.0") (d #t) (k 2)) (d (n "pest") (r "^2.0") (d #t) (k 0)) (d (n "pest_derive") (r "^2.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "02wmv2lahgwx9rn9dp6iw8w52x81b5hlvvp6z6msnqydwy68jifw")))
+

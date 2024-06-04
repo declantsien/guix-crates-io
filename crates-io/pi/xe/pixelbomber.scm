@@ -38,3 +38,5 @@
 
 (define-public crate-pixelbomber-0.6.0 (c (n "pixelbomber") (v "0.6.0") (d (list (d (n "bufstream") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.24") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)))) (h "0539yi6mv08p93y28fv0704cn09scbd9vd66q7dsprankhnkr8x7")))
 
+(define-public crate-pixelbomber-0.7.0 (c (n "pixelbomber") (v "0.7.0") (d (list (d (n "bufstream") (r "^0.1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "image") (r "^0.25") (d #t) (k 0)) (d (n "net2") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 0)))) (h "14rpzqydvwbfwqw3fl8fjlz4q8146gpx4x7nrxvfz1xyl1zils2z")))
+
