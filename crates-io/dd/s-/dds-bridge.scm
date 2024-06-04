@@ -16,3 +16,5 @@
 
 (define-public crate-dds-bridge-0.5.2 (c (n "dds-bridge") (v "0.5.2") (d (list (d (n "arrayvec") (r "^0.7.4") (d #t) (k 0)) (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)) (d (n "dds-bridge-sys") (r "^2.0.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "03zn7k3ip3m6gk15q56psy9ylmjfzkcypcp5z8a91qyq8v1qffn0")))
 
+(define-public crate-dds-bridge-0.5.3 (c (n "dds-bridge") (v "0.5.3") (d (list (d (n "arrayvec") (r "^0.7.4") (d #t) (k 0)) (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)) (d (n "dds-bridge-sys") (r "^2.0.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0sb514ymbqksm5c7w640p2qcr2rfq0764q79axqwrz4bjcibnr74")))
+

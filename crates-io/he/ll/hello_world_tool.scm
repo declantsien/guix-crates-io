@@ -4,3 +4,5 @@
 
 (define-public crate-hello_world_tool-0.1.1 (c (n "hello_world_tool") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "axum") (r "^0.7.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (d #t) (k 0)) (d (n "tokio") (r "^1.38.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1bqgr8v25xwshdrqnzxjk6vp71m0wjggwaw6gprjnnkjvfrknb5p")))
 
+(define-public crate-hello_world_tool-0.1.3 (c (n "hello_world_tool") (v "0.1.3") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "axum") (r "^0.7.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (d #t) (k 0)) (d (n "tokio") (r "^1.38.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1shpj8s5fqc456yd5r6zwagrwygdiwy8mxnb39pp6z7ydz3hrw5n")))
+
