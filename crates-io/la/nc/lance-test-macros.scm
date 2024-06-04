@@ -118,3 +118,5 @@
 
 (define-public crate-lance-test-macros-0.11.1 (c (n "lance-test-macros") (v "0.11.1") (d (list (d (n "proc-macro2") (r "^1.0.67") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full"))) (d #t) (k 0)))) (h "1prc0z31l1y3v1rgiwbd0bxnyaf27axa3r9xfa06x75yrx3imb2w")))
 
+(define-public crate-lance-test-macros-0.12.0 (c (n "lance-test-macros") (v "0.12.0") (d (list (d (n "proc-macro2") (r "^1.0.67") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.37") (f (quote ("full"))) (d #t) (k 0)))) (h "0k217bjybjaswa8j18vzvsjdpzb415nvp2xkj99r2cnnqijmrrdz")))
+

@@ -94,3 +94,5 @@
 
 (define-public crate-claudiofsr_lib-0.6.5 (c (n "claudiofsr_lib") (v "0.6.5") (d (list (d (n "blake3") (r "^1.5") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "ilog") (r "^1.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.17") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.19") (d #t) (k 0)) (d (n "rayon") (r "^1.10") (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)))) (h "0pc8c4bb3kvcyc9dqw9c543h1cqqx6swj8rvbmi5rbwsm7pjawd7") (r "1.75")))
 
+(define-public crate-claudiofsr_lib-0.7.0 (c (n "claudiofsr_lib") (v "0.7.0") (d (list (d (n "blake3") (r "^1.5") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4") (f (quote ("serde"))) (d #t) (k 0)) (d (n "ilog") (r "^1.0") (d #t) (k 0)) (d (n "indicatif") (r "^0.17") (f (quote ("rayon"))) (d #t) (k 0)) (d (n "itertools") (r "^0.13") (d #t) (k 0)) (d (n "once_cell") (r "^1.19") (d #t) (k 0)) (d (n "rayon") (r "^1.10") (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)))) (h "0sj75ydg99c9jf3fqqg5h5s30nas169anrcf10kh4p973wxzss6a") (r "1.75")))
+
