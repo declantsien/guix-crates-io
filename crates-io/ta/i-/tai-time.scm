@@ -12,3 +12,5 @@
 
 (define-public crate-tai-time-0.3.1 (c (n "tai-time") (v "0.3.1") (d (list (d (n "chrono") (r "^0.4.31") (o #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("time"))) (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)))) (h "1mab215vkglswxbd43z2h9hivwrg62kjjai6v4ssfbnkz3w53s4w") (f (quote (("std") ("default" "std")))) (s 2) (e (quote (("tai_clock" "dep:nix") ("serde" "dep:serde") ("chrono" "dep:chrono")))) (r "1.64")))
 
+(define-public crate-tai-time-0.3.2 (c (n "tai-time") (v "0.3.2") (d (list (d (n "chrono") (r "^0.4.31") (o #t) (k 0)) (d (n "defmt") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "nix") (r "^0.26") (f (quote ("time"))) (o #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)))) (h "0h7ccf3jskjxg33bv4nsn1qh2rsa9wz70wl4h5s6y8ariydxlw87") (f (quote (("std") ("default" "std")))) (s 2) (e (quote (("tai_clock" "dep:nix") ("serde" "dep:serde") ("defmt" "dep:defmt") ("chrono" "dep:chrono")))) (r "1.64")))
+
