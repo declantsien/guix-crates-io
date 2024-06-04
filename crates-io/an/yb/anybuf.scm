@@ -10,3 +10,5 @@
 
 (define-public crate-anybuf-0.4.0 (c (n "anybuf") (v "0.4.0") (d (list (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)))) (h "1nr0xnmxbmk4k23d0lb7nji41jrk1yhsw3mcs72rdwqlvjvl66jw")))
 
+(define-public crate-anybuf-0.5.0 (c (n "anybuf") (v "0.5.0") (d (list (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)))) (h "1rxzk5h5rpk0j66qz37qa0i9qy5njd2cqqwl4h20ky6a4gp1spyb") (f (quote (("std") ("default" "std"))))))
+

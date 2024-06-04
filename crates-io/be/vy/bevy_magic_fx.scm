@@ -36,3 +36,5 @@
 
 (define-public crate-bevy_magic_fx-0.13.3 (c (n "bevy_magic_fx") (v "0.13.3") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("tga"))) (d #t) (k 0)) (d (n "bevy_common_assets") (r "^0.10") (f (quote ("ron" "toml"))) (d #t) (k 0)) (d (n "bevy_obj") (r "^0.13") (d #t) (k 0)) (d (n "bevy_shader_utils") (r "^0.7.0") (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1ah0lz1jvmzlyiwnnmqww93gnkfmsa2xs9a8wc0lhnb6a14clw7n")))
 
+(define-public crate-bevy_magic_fx-0.13.4 (c (n "bevy_magic_fx") (v "0.13.4") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("tga"))) (d #t) (k 0)) (d (n "bevy_common_assets") (r "^0.10") (f (quote ("ron" "toml"))) (d #t) (k 0)) (d (n "bevy_obj") (r "^0.13") (d #t) (k 0)) (d (n "bevy_shader_utils") (r "^0.7.0") (d #t) (k 0)) (d (n "ron") (r "^0.8.1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1s9apz6ypl11gpsb2r315r11nasvrlqxj35py1iqz5bb73d1cf65")))
+

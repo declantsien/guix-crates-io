@@ -22,3 +22,5 @@
 
 (define-public crate-sn_build_info-0.1.7 (c (n "sn_build_info") (v "0.1.7") (d (list (d (n "vergen") (r "^8.0.0") (f (quote ("build" "git" "gitcl"))) (d #t) (k 1)))) (h "0vcfnb0vrs9sqcy9rn44784cz8l49iij3s9dksjd1zf6ih4km2hv")))
 
+(define-public crate-sn_build_info-0.1.8 (c (n "sn_build_info") (v "0.1.8") (d (list (d (n "vergen") (r "^8.0.0") (f (quote ("build" "git" "gitcl"))) (d #t) (k 1)))) (h "183pzzv845md95v1hlkkwaj1x2kf3lnqpmnl4vxfwxaj5339wyp5")))
+
