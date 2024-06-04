@@ -24,3 +24,7 @@
 
 (define-public crate-preprocess-0.5.2 (c (n "preprocess") (v "0.5.2") (d (list (d (n "dashmap") (r "^5") (k 0)) (d (n "idna") (r "^0.5") (f (quote ("default"))) (k 0)) (d (n "preprocess-macro") (r "^0.5.2") (d #t) (k 0)) (d (n "regex") (r "^1") (f (quote ("default"))) (k 0)) (d (n "url") (r "^2") (f (quote ("default"))) (k 0)))) (h "01ddh287798r7ygjpp48irf6nrks6sr5fngaijvlk9p1i00gambf")))
 
+(define-public crate-preprocess-0.5.3 (c (n "preprocess") (v "0.5.3") (d (list (d (n "dashmap") (r "^5") (k 0)) (d (n "idna") (r "^0.5") (f (quote ("default"))) (k 0)) (d (n "preprocess-macro") (r "^0.5.3") (d #t) (k 0)) (d (n "regex") (r "^1") (f (quote ("default"))) (k 0)) (d (n "url") (r "^2") (f (quote ("default"))) (k 0)))) (h "0r7591rdpl9wsnr8g57cclinagxciqbpcwy8bz3n5j4bf32bwg9k")))
+
+(define-public crate-preprocess-0.5.4 (c (n "preprocess") (v "0.5.4") (d (list (d (n "dashmap") (r "^5") (k 0)) (d (n "idna") (r "^0.5") (f (quote ("default"))) (k 0)) (d (n "preprocess-macro") (r "^0.5.4") (d #t) (k 0)) (d (n "regex") (r "^1") (f (quote ("default"))) (k 0)) (d (n "url") (r "^2") (f (quote ("default"))) (k 0)))) (h "1nxqa7l6y5zir6bz9s94dj3d1pab5bpr7ahbj7i45m28n0v70gix")))
+

@@ -22,3 +22,7 @@
 
 (define-public crate-preprocess-macro-0.5.2 (c (n "preprocess-macro") (v "0.5.2") (d (list (d (n "proc-macro2") (r "^1") (f (quote ("default"))) (k 0)) (d (n "quote") (r "^1") (f (quote ("default"))) (k 0)) (d (n "regex") (r "^1") (f (quote ("default"))) (k 0)) (d (n "syn") (r "^2") (f (quote ("default" "full"))) (k 0)))) (h "1vx9znknxdcmfjmzy1lsw9scbjim30k9hd50vbdkqp1rxfzinvmp")))
 
+(define-public crate-preprocess-macro-0.5.3 (c (n "preprocess-macro") (v "0.5.3") (d (list (d (n "proc-macro2") (r "^1") (f (quote ("default"))) (k 0)) (d (n "quote") (r "^1") (f (quote ("default"))) (k 0)) (d (n "regex") (r "^1") (f (quote ("default"))) (k 0)) (d (n "syn") (r "^2") (f (quote ("default" "full"))) (k 0)))) (h "1jdh0bzif87a6ds885jhz3k64igpky3kyf4rp3w15gnjj8wmyp92")))
+
+(define-public crate-preprocess-macro-0.5.4 (c (n "preprocess-macro") (v "0.5.4") (d (list (d (n "proc-macro2") (r "^1") (f (quote ("default"))) (k 0)) (d (n "quote") (r "^1") (f (quote ("default"))) (k 0)) (d (n "regex") (r "^1") (f (quote ("default"))) (k 0)) (d (n "syn") (r "^2") (f (quote ("default" "full"))) (k 0)))) (h "0i250bzkgsbijqm7d5wxl5xcrpryhddyva9jccnxm5z53lmvmw68")))
+

@@ -94,3 +94,5 @@
 
 (define-public crate-ic-identity-hsm-0.35.0 (c (n "ic-identity-hsm") (v "0.35.0") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ic-agent") (r "^0.35.0") (k 0)) (d (n "ic-agent") (r "^0.35.0") (f (quote ("reqwest"))) (k 2)) (d (n "pkcs11") (r "^0.5.0") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "simple_asn1") (r "^0.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "1mn2vnj34n7y3gih6wyd2cf6bmb0yif5bdc8ivk0nfgaqfixqrba") (r "1.70.0")))
 
+(define-public crate-ic-identity-hsm-0.36.0 (c (n "ic-identity-hsm") (v "0.36.0") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 0)) (d (n "ic-agent") (r "^0.36.0") (k 0)) (d (n "ic-agent") (r "^0.36.0") (f (quote ("reqwest"))) (k 2)) (d (n "pkcs11") (r "^0.5.0") (d #t) (k 0)) (d (n "sha2") (r "^0.10.6") (d #t) (k 0)) (d (n "simple_asn1") (r "^0.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)))) (h "0fxiz4ynlpw9ygpdp7na9x9yhgz8xxki9apchb0a8qpwymrw2fhn") (r "1.70.0")))
+
