@@ -30,3 +30,5 @@
 
 (define-public crate-colorutils-rs-0.2.9 (c (n "colorutils-rs") (v "0.2.9") (d (list (d (n "half") (r "^2.4.1") (d #t) (k 0)))) (h "0n6ppaxd1sa5g6v4bg40pjqk55hcdxygv5161pba9rj4rgdm5q6r") (f (quote (("default") ("avx2"))))))
 
+(define-public crate-colorutils-rs-0.2.10 (c (n "colorutils-rs") (v "0.2.10") (d (list (d (n "half") (r "^2.4.1") (d #t) (k 0)))) (h "064vpjl2n3q521z1r6b7kfx4bnbnry0c7k09k7j3kdvgkxjc62ra") (f (quote (("default") ("avx2"))))))
+
