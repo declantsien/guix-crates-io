@@ -12,3 +12,5 @@
 
 (define-public crate-hitt-request-0.0.6 (c (n "hitt-request") (v "0.0.6") (d (list (d (n "hitt-parser") (r "^0.0.6") (d #t) (k 0)) (d (n "http") (r "^1.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("fs" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "1p7jnvx8b9wr7arkwai3qmmwkpx0cqwl2mj02n91wf3bynnf3g6s") (r "1.74.0")))
 
+(define-public crate-hitt-request-0.0.7 (c (n "hitt-request") (v "0.0.7") (d (list (d (n "hitt-parser") (r "^0.0.7") (d #t) (k 0)) (d (n "http") (r "^1.1.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (d #t) (k 0)) (d (n "tokio") (r "^1.38.0") (f (quote ("fs" "macros" "rt-multi-thread"))) (d #t) (k 0)))) (h "09y5h0r5fgszxdq4b3k2wv9s4sd9m0jra0v73qbh8rx85ak9rzp9") (r "1.74.0")))
+

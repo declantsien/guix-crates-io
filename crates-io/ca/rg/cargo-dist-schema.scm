@@ -146,3 +146,5 @@
 
 (define-public crate-cargo-dist-schema-0.15.0 (c (n "cargo-dist-schema") (v "0.15.0") (d (list (d (n "camino") (r "^1.1.7") (d #t) (k 0)) (d (n "gazenot") (r "^0.3.0") (k 0)) (d (n "insta") (r "^1.39.0") (d #t) (k 2)) (d (n "schemars") (r "^0.8.21") (d #t) (k 0)) (d (n "semver") (r "^1.0.23") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)))) (h "0ki0ch0x90smg8hv6x6h4z10fj88429dwnkzzzay9bp16yx4m28z")))
 
+(define-public crate-cargo-dist-schema-0.15.1 (c (n "cargo-dist-schema") (v "0.15.1") (d (list (d (n "camino") (r "^1.1.7") (d #t) (k 0)) (d (n "gazenot") (r "^0.3.0") (k 0)) (d (n "insta") (r "^1.39.0") (d #t) (k 2)) (d (n "schemars") (r "^0.8.21") (d #t) (k 0)) (d (n "semver") (r "^1.0.23") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)))) (h "0p1m43lgvxh871jgf5haqvifyffyqs6yhyp9d9s7xg15jab0j4c2")))
+

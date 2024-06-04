@@ -12,3 +12,5 @@
 
 (define-public crate-hitt-formatter-0.0.6 (c (n "hitt-formatter") (v "0.0.6") (d (list (d (n "jsonformat") (r "^2.0.0") (d #t) (k 0)) (d (n "mime") (r "^0.3.17") (d #t) (k 0)))) (h "13b6nwzizsq3h1pi56rqyv5zkvk5s50r8lriwi31sj9g1a8ifdda") (r "1.74.0")))
 
+(define-public crate-hitt-formatter-0.0.7 (c (n "hitt-formatter") (v "0.0.7") (d (list (d (n "jsonformat") (r "^2.0.0") (d #t) (k 0)) (d (n "mime") (r "^0.3.17") (d #t) (k 0)))) (h "0mjs1dnwsaj6ll30kzfy7msk79kg22airp8widaxblid7fzvxy1d") (r "1.74.0")))
+
