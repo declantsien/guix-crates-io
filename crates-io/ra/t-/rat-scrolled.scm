@@ -6,3 +6,5 @@
 
 (define-public crate-rat-scrolled-0.11.0 (c (n "rat-scrolled") (v "0.11.0") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 2)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "fern") (r "^0.6") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rat-event") (r "^0.14") (d #t) (k 0)) (d (n "rat-input") (r "^0.16") (d #t) (k 2)) (d (n "ratatui") (r "^0.26") (f (quote ("unstable-rendered-line-info"))) (d #t) (k 0)))) (h "02v8hd8ahz1fcpgfwkkzgiz2gz23kgz2hlsc8119h4188b716am9")))
 
+(define-public crate-rat-scrolled-0.11.1 (c (n "rat-scrolled") (v "0.11.1") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 2)) (d (n "crossterm") (r "^0.27") (d #t) (k 0)) (d (n "fern") (r "^0.6") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "rat-event") (r "^0.14") (d #t) (k 0)) (d (n "rat-input") (r "^0.16") (d #t) (k 2)) (d (n "ratatui") (r "^0.26") (f (quote ("unstable-rendered-line-info"))) (d #t) (k 0)))) (h "186bjjnfp4vsanrsic901ywdwli8i4g26x5idb21lmllax86h1nr")))
+
