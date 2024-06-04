@@ -68,3 +68,5 @@
 
 (define-public crate-risc0-build-kernel-1.0.0-rc.7 (c (n "risc0-build-kernel") (v "1.0.0-rc.7") (d (list (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 0)) (d (n "directories") (r "^5.0") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.10") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "tempfile") (r "^3.3") (d #t) (k 0)) (d (n "which") (r "^6.0") (d #t) (k 0)))) (h "032lm1zvjps6z367m371xrry88nw9yii818bf184ysji5ywy9qi8")))
 
+(define-public crate-risc0-build-kernel-1.0.0 (c (n "risc0-build-kernel") (v "1.0.0") (d (list (d (n "cc") (r "^1.0") (f (quote ("parallel"))) (d #t) (k 0)) (d (n "directories") (r "^5.0") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "rayon") (r "^1.10") (d #t) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "tempfile") (r "^3.3") (d #t) (k 0)) (d (n "which") (r "^6.0") (d #t) (k 0)))) (h "0l77fp75z4f6bn586l5m4aawqy43psmkzwf9k0214s0w1psw914j")))
+

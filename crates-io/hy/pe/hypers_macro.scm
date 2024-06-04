@@ -52,3 +52,5 @@
 
 (define-public crate-hypers_macro-0.7.2 (c (n "hypers_macro") (v "0.7.2") (d (list (d (n "proc-macro-crate") (r "=3.1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "=1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "=1.0.84") (d #t) (k 0)) (d (n "quote") (r "=1.0.36") (d #t) (k 0)) (d (n "regex") (r "=1.10.4") (d #t) (k 0)) (d (n "syn") (r "=2.0.66") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "07dv5s6jks6nddgnpwz63x0lnkkfhkq9iw13ys4506dqhb7id1m2") (f (quote (("cookie")))) (r "1.78")))
 
+(define-public crate-hypers_macro-0.7.3 (c (n "hypers_macro") (v "0.7.3") (d (list (d (n "proc-macro-crate") (r "=3.1.0") (d #t) (k 0)) (d (n "proc-macro-error") (r "=1.0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "=1.0.84") (d #t) (k 0)) (d (n "quote") (r "=1.0.36") (d #t) (k 0)) (d (n "regex") (r "=1.10.4") (d #t) (k 0)) (d (n "syn") (r "=2.0.66") (f (quote ("full" "extra-traits"))) (d #t) (k 0)))) (h "095lcac50k75xv0ihyi1dmmwr7r8gih0y7abbcs8cgwvfm1gxbaj") (f (quote (("cookie")))) (r "1.78")))
+

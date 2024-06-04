@@ -68,3 +68,5 @@
 
 (define-public crate-risc0-sys-1.0.0-rc.7 (c (n "risc0-sys") (v "1.0.0-rc.7") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "cust") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "risc0-build-kernel") (r "^1.0.0-rc.7") (k 1)) (d (n "sppark") (r "^0.1.6") (o #t) (d #t) (k 0)))) (h "1wk9nb4s47scfcp3054i5m5ln5h7b4171qld3rby5lpxsbi42kpi") (f (quote (("metal") ("default")))) (l "risc0-sys") (s 2) (e (quote (("cuda" "dep:cust" "dep:sppark"))))))
 
+(define-public crate-risc0-sys-1.0.0 (c (n "risc0-sys") (v "1.0.0") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "cust") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "risc0-build-kernel") (r "^1.0.0") (k 1)) (d (n "sppark") (r "^0.1.6") (o #t) (d #t) (k 0)))) (h "0xvghh0zxcfyx15abf9izyl0b2ap5k7hb6hy8bqwrr8bxpj236qv") (f (quote (("metal") ("default")))) (l "risc0-sys") (s 2) (e (quote (("cuda" "dep:cust" "dep:sppark"))))))
+
