@@ -14,3 +14,5 @@
 
 (define-public crate-anyrust-0.3.0 (c (n "anyrust") (v "0.3.0") (d (list (d (n "dyn-clone") (r "^1.0.16") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "1nzs79s3k6x2l51w4rkfq94q81ciwfpb415lrnyh63i4784f89b5")))
 
+(define-public crate-anyrust-0.3.1 (c (n "anyrust") (v "0.3.1") (d (list (d (n "dyn-clone") (r "^1.0.16") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)))) (h "17smk1vyml1ldnipdhszy4m0xjn4psdlnd124g08pjnv96bmxmb1")))
+

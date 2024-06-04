@@ -8,3 +8,5 @@
 
 (define-public crate-anstyle-query-1.0.3 (c (n "anstyle-query") (v "1.0.3") (d (list (d (n "windows-sys") (r "^0.52.0") (f (quote ("Win32_System_Console" "Win32_Foundation"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1x9pyl231rry5g45dvkdb2sfnl2dx2f4qd9a5v3ml8kr9ryr0k56") (r "1.65.0")))
 
+(define-public crate-anstyle-query-1.1.0 (c (n "anstyle-query") (v "1.1.0") (d (list (d (n "windows-sys") (r "^0.52.0") (f (quote ("Win32_System_Console" "Win32_Foundation"))) (d #t) (t "cfg(windows)") (k 0)))) (h "14a3h3k541jmqm5s8hbdw8l0dcgkrryqwxgicm8x6623fvxnw65d") (r "1.65.0")))
+

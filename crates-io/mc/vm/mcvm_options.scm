@@ -8,3 +8,5 @@
 
 (define-public crate-mcvm_options-0.5.0 (c (n "mcvm_options") (v "0.5.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "mcvm_shared") (r "^0.13.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.20") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)))) (h "0bl917vvak9nb5fw6jmrrd2i8hlhhi1yd96fsx0cwkysz9fx75k8") (s 2) (e (quote (("schema" "dep:schemars" "mcvm_shared/schema")))) (r "1.77.0")))
 
+(define-public crate-mcvm_options-0.6.0 (c (n "mcvm_options") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "itertools") (r "^0.11.0") (d #t) (k 0)) (d (n "mcvm_shared") (r "^0.14.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.20") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)))) (h "1r0jb7zdqsiv56x98smls333j6nap3712bnn8nsnxn9yvssw05g2") (s 2) (e (quote (("schema" "dep:schemars" "mcvm_shared/schema")))) (r "1.77.0")))
+

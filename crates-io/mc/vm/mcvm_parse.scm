@@ -44,3 +44,5 @@
 
 (define-public crate-mcvm_parse-0.14.0 (c (n "mcvm_parse") (v "0.14.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "mcvm_shared") (r "^0.13.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.20") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive" "rc"))) (d #t) (k 0)))) (h "01x5zrv0sswsiycc91nzgcb41szll1ls8p4b19j5i88s0y8dinp4") (s 2) (e (quote (("schema" "dep:schemars" "mcvm_shared/schema")))) (r "1.77.0")))
 
+(define-public crate-mcvm_parse-0.15.0 (c (n "mcvm_parse") (v "0.15.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "mcvm_shared") (r "^0.14.0") (d #t) (k 0)) (d (n "schemars") (r "^0.8.20") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive" "rc"))) (d #t) (k 0)))) (h "0w4xxx5l82qj93qfbl8d49j9gn52sbxml36yjalk21phd46cbny2") (s 2) (e (quote (("schema" "dep:schemars" "mcvm_shared/schema")))) (r "1.77.0")))
+

@@ -44,3 +44,5 @@
 
 (define-public crate-mcvm_shared-0.13.0 (c (n "mcvm_shared") (v "0.13.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "cfg-match") (r "^0.2.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.20") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "sys-locale") (r "^0.3.1") (d #t) (k 0)))) (h "0yk0q06l603l02aq9gbams7z41zhym00f7smn6sd00mn0rvvnc84") (s 2) (e (quote (("schema" "dep:schemars")))) (r "1.77.0")))
 
+(define-public crate-mcvm_shared-0.14.0 (c (n "mcvm_shared") (v "0.14.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "cfg-match") (r "^0.2.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.20") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "sys-locale") (r "^0.3.1") (d #t) (k 0)))) (h "0hald34yxcc8gx22i0jyjply2k77h3bhdc69nb3qp43amyx6fbms") (s 2) (e (quote (("schema" "dep:schemars")))) (r "1.77.0")))
+

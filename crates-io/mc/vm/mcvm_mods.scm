@@ -22,3 +22,5 @@
 
 (define-public crate-mcvm_mods-0.6.0 (c (n "mcvm_mods") (v "0.6.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "mcvm_core") (r "^0.6.0") (d #t) (k 0)) (d (n "mcvm_shared") (r "^0.13.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt-multi-thread" "fs"))) (d #t) (k 0)))) (h "1k1q8gq5bpfm9hdj7i3iccrd0xqkcghxf5x2x2zbgvds095759zl") (r "1.77.0")))
 
+(define-public crate-mcvm_mods-0.7.0 (c (n "mcvm_mods") (v "0.7.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "mcvm_core") (r "^0.7.0") (d #t) (k 0)) (d (n "mcvm_shared") (r "^0.14.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt-multi-thread" "fs"))) (d #t) (k 0)))) (h "0sdw551f3dy96z8m3f3ijf6li7y67w14hdxv9vr2aizxd7x1w15y") (r "1.77.0")))
+
