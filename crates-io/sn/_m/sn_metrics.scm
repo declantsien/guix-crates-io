@@ -22,3 +22,5 @@
 
 (define-public crate-sn_metrics-0.1.8 (c (n "sn_metrics") (v "0.1.8") (d (list (d (n "clap") (r "^4.2.1") (f (quote ("cargo" "string"))) (d #t) (k 0)) (d (n "color-eyre") (r "~0.6.2") (d #t) (k 0)) (d (n "dirs-next") (r "~2.0.0") (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "serde") (r "^1.0.133") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 0)) (d (n "url") (r "^2.4.1") (d #t) (k 0)) (d (n "walkdir") (r "~2.5") (d #t) (k 0)))) (h "0zlhcsmgnzjhj9sh156241v49wvav9lay2m1gw977cmfkqgjk50b")))
 
+(define-public crate-sn_metrics-0.1.9 (c (n "sn_metrics") (v "0.1.9") (d (list (d (n "clap") (r "^4.2.1") (f (quote ("cargo" "string"))) (d #t) (k 0)) (d (n "color-eyre") (r "~0.6.2") (d #t) (k 0)) (d (n "dirs-next") (r "~2.0.0") (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "serde") (r "^1.0.133") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.25") (d #t) (k 0)) (d (n "url") (r "^2.4.1") (d #t) (k 0)) (d (n "walkdir") (r "~2.5") (d #t) (k 0)))) (h "15dnl1dq7abr4ki5hli527l3d9fqm9c272gpl5csxyzzmaqr43y3")))
+
