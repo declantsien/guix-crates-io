@@ -28,3 +28,5 @@
 
 (define-public crate-hwi-0.8.0 (c (n "hwi") (v "0.8.0") (d (list (d (n "bitcoin") (r "^0.31.0") (f (quote ("serde" "base64"))) (d #t) (k 0)) (d (n "miniscript") (r "^11.0") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "pyo3") (r "^0.15.1") (f (quote ("auto-initialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial_test") (r "^0.6.0") (d #t) (k 2)))) (h "1r4zz7586qd1d1fa3pz0ljwk4c29xrkbzr0dnwmkc8486bmcxvpl") (f (quote (("doctest"))))))
 
+(define-public crate-hwi-0.9.0 (c (n "hwi") (v "0.9.0") (d (list (d (n "bitcoin") (r "^0.32") (f (quote ("serde" "base64"))) (d #t) (k 0)) (d (n "miniscript") (r "^12.0") (f (quote ("serde"))) (o #t) (d #t) (k 0)) (d (n "pyo3") (r "^0.21.2") (f (quote ("auto-initialize"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serial_test") (r "^0.6.0") (d #t) (k 2)))) (h "114yqn0af3ndnw01gn3ml50jigpk0wxfzh2yv8x1nbvbkw24ynry") (f (quote (("doctest"))))))
+
