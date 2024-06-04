@@ -10,3 +10,5 @@
 
 (define-public crate-metamatch-0.2.2 (c (n "metamatch") (v "0.2.2") (d (list (d (n "paste") (r "^1.0.15") (d #t) (k 2)))) (h "0qbwrmd17i61grbqj1niy7r6i44qab9h3x6jz42m6njq798cs886") (r "1.65.0")))
 
+(define-public crate-metamatch-0.2.3 (c (n "metamatch") (v "0.2.3") (d (list (d (n "paste") (r "^1.0.15") (d #t) (k 2)))) (h "1sp1ijv86kp7cgmqh90isj8s425k8r3q5q3z5njhqmm573rwfvjm") (r "1.65.0")))
+

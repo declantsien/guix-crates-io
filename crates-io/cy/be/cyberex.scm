@@ -78,3 +78,5 @@
 
 (define-public crate-cyberex-0.3.8 (c (n "cyberex") (v "0.3.8") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (o #t) (d #t) (k 0)))) (h "0w0d4lxyagm3b34zy6cm1hxsvwa9363ykxvar6wvizqrygjj4jax") (f (quote (("full" "enable-async") ("default")))) (s 2) (e (quote (("enable-async" "dep:tokio"))))))
 
+(define-public crate-cyberex-0.3.9 (c (n "cyberex") (v "0.3.9") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (o #t) (d #t) (k 0)))) (h "19fdxgnyrr6kbzpzzbigiiwbnjmbahpqdfv6jv5p2vv63d73mwyq") (f (quote (("full" "enable-async") ("default")))) (s 2) (e (quote (("enable-async" "dep:tokio"))))))
+

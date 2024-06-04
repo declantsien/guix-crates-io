@@ -22,3 +22,5 @@
 
 (define-public crate-rspotify-macros-0.13.1 (c (n "rspotify-macros") (v "0.13.1") (d (list (d (n "serde_json") (r "^1.0.67") (d #t) (k 2)))) (h "14wsmn3f1wb5msrjz1j44ph7paygvgql8zkajr8mcqg8d18975k3")))
 
+(define-public crate-rspotify-macros-0.13.2 (c (n "rspotify-macros") (v "0.13.2") (d (list (d (n "serde_json") (r "^1.0.67") (d #t) (k 2)))) (h "1ldr591xipzwzsk1n394m4rbvlhcjj9ciq49cgcwhv5lhi7x2p27")))
+

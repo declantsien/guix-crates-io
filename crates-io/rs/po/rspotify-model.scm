@@ -22,3 +22,5 @@
 
 (define-public crate-rspotify-model-0.13.1 (c (n "rspotify-model") (v "0.13.1") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.67") (d #t) (k 0)) (d (n "strum") (r "^0.26.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)))) (h "1zya3vayys3jvfi6aci1h4lv8nw2w73yz5ypwr9wpd8kw9710kxr")))
 
+(define-public crate-rspotify-model-0.13.2 (c (n "rspotify-model") (v "0.13.2") (d (list (d (n "chrono") (r "^0.4.19") (f (quote ("serde"))) (d #t) (k 0)) (d (n "enum_dispatch") (r "^0.3.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.130") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.67") (d #t) (k 0)) (d (n "strum") (r "^0.26.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.29") (d #t) (k 0)))) (h "18hwic249a245j5i9gpxcqnmx5dcxjs8pa1p1b0n3zld9mh24qs9")))
+
