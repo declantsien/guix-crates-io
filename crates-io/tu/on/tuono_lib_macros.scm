@@ -6,3 +6,5 @@
 
 (define-public crate-tuono_lib_macros-0.0.9 (c (n "tuono_lib_macros") (v "0.0.9") (d (list (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.59") (f (quote ("full"))) (d #t) (k 0)))) (h "1bxlmxhajdb6bi3kcmj3wk6lpx986ca16qaihw4912ij9s1kw0p1")))
 
+(define-public crate-tuono_lib_macros-0.0.10 (c (n "tuono_lib_macros") (v "0.0.10") (d (list (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.59") (f (quote ("full"))) (d #t) (k 0)))) (h "169hzvlwg1gki6lv049hd5vm4gzf3nrwak5d23497q3f50xppsw5")))
+

@@ -20,3 +20,5 @@
 
 (define-public crate-plex-0.3.0 (c (n "plex") (v "0.3.0") (d (list (d (n "lalr") (r "^0.0.2") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "redfa") (r "^0.0.2") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "0jzzk5i0142asmzs3jwcs69zbn71039p3nicd4izjmav93379nr3") (f (quote (("parser" "lalr") ("lexer" "redfa") ("default" "lexer" "parser"))))))
 
+(define-public crate-plex-0.3.1 (c (n "plex") (v "0.3.1") (d (list (d (n "lalr") (r "^0.0.2") (o #t) (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "redfa") (r "^0.0.3") (o #t) (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits" "full"))) (d #t) (k 0)) (d (n "trybuild") (r "^1.0.85") (d #t) (k 2)))) (h "0q23ldff32m54rb9vfsh796bk9mlqxwsihczl8q9avc1h6gw13vx") (f (quote (("parser" "lalr") ("lexer" "redfa") ("default" "lexer" "parser"))))))
+

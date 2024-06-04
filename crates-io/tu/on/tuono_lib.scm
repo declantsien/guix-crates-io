@@ -6,3 +6,5 @@
 
 (define-public crate-tuono_lib-0.0.9 (c (n "tuono_lib") (v "0.0.9") (d (list (d (n "axum") (r "^0.7.5") (d #t) (k 0)) (d (n "erased-serde") (r "^0.4.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ssr_rs") (r "^0.5.2") (d #t) (k 0)) (d (n "tuono_lib_macros") (r "^0.0.9") (d #t) (k 0)))) (h "05aiz2b47p6x5qmid7kwkr1bng9y87hsj7lhjd42z5szcadbzvbb")))
 
+(define-public crate-tuono_lib-0.0.10 (c (n "tuono_lib") (v "0.0.10") (d (list (d (n "axum") (r "^0.7.5") (d #t) (k 0)) (d (n "erased-serde") (r "^0.4.5") (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "ssr_rs") (r "^0.5.2") (d #t) (k 0)) (d (n "tuono_lib_macros") (r "^0.0.10") (d #t) (k 0)))) (h "054x976clmycihwdxlws858ssjdkc8h8n98vm76hbvz34dxvkh51")))
+

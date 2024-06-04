@@ -18,3 +18,5 @@
 
 (define-public crate-rabbit_mqr-0.1.8 (c (n "rabbit_mqr") (v "0.1.8") (d (list (d (n "lapin") (r "^2.3.1") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 2)))) (h "1i95xmn2q0rb3wryj47jdksws6jaj3z76pi2njm963d1398x1fww")))
 
+(define-public crate-rabbit_mqr-0.1.9 (c (n "rabbit_mqr") (v "0.1.9") (d (list (d (n "lapin") (r "^2.3.4") (d #t) (k 0)) (d (n "tokio") (r "^1.38.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0apin6h2l637p5vnyhi96l8x0rr13hl11d62mh29l8cm6yx9ymgz")))
+
