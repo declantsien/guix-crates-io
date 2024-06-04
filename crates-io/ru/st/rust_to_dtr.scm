@@ -32,3 +32,5 @@
 
 (define-public crate-rust_to_dtr-0.6.2 (c (n "rust_to_dtr") (v "0.6.2") (d (list (d (n "paste") (r "^1.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "soroban-sdk") (r "^20.5") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1295nmaqxn5085rhph3gg79s9ybpv4yd6rg0gdgk7wn9cbdhhv9i")))
 
+(define-public crate-rust_to_dtr-0.7.0 (c (n "rust_to_dtr") (v "0.7.0") (d (list (d (n "paste") (r "^1.0") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "soroban-sdk") (r "^20.5") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0h5ixqkw5xjxp1n480gi4r4bk2w0kw8qhx9jxn6ysizk0s7q7hzk")))
+
