@@ -18,3 +18,5 @@
 
 (define-public crate-rustfinity-0.2.7 (c (n "rustfinity") (v "0.2.7") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dload") (r "^0.1.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0jp02f35ipfnd25k9v6gmmv8w9x3vn5bpnrg1w825xgy1821qgzp")))
 
+(define-public crate-rustfinity-0.2.8 (c (n "rustfinity") (v "0.2.8") (d (list (d (n "anyhow") (r "^1.0.82") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "dload") (r "^0.1.3") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0bimjiajrd02ixfbjl2z8ac76070k30r8xn0n9wcfc59zi0dwh40")))
+

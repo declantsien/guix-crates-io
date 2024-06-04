@@ -36,3 +36,5 @@
 
 (define-public crate-autosurgeon-0.8.3 (c (n "autosurgeon") (v "0.8.3") (d (list (d (n "automerge") (r "^0.5") (d #t) (k 0)) (d (n "automerge-test") (r "^0.4") (d #t) (k 2)) (d (n "autosurgeon-derive") (r "^0.8.0") (d #t) (k 0)) (d (n "similar") (r "^2.2.1") (f (quote ("unicode"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (o #t) (d #t) (k 0)))) (h "1775whax3nlqs14vbwhlzk7zb4jwm0brpsc0fpdwz4ibif32m0cj") (s 2) (e (quote (("uuid" "dep:uuid")))) (r "1.65")))
 
+(define-public crate-autosurgeon-0.8.4 (c (n "autosurgeon") (v "0.8.4") (d (list (d (n "automerge") (r "^0.5") (d #t) (k 0)) (d (n "automerge-test") (r "^0.4") (d #t) (k 2)) (d (n "autosurgeon-derive") (r "^0.8.0") (d #t) (k 0)) (d (n "similar") (r "^2.2.1") (f (quote ("unicode"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "uuid") (r "^1.2.2") (o #t) (d #t) (k 0)))) (h "02k54hs908cs2sp852ic8rjarnjq2i8wz0fyy59qa375hj8jhzvx") (s 2) (e (quote (("uuid" "dep:uuid")))) (r "1.65")))
+
