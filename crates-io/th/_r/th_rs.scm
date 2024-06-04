@@ -70,3 +70,5 @@
 
 (define-public crate-th_rs-0.1.34 (c (n "th_rs") (v "0.1.34") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cyberex") (r "^0.3.8") (d #t) (k 1)))) (h "1470f594a9m851crpq0m13sxh1arxv93qqaydrcw1azjp3lh0g18")))
 
+(define-public crate-th_rs-0.1.35 (c (n "th_rs") (v "0.1.35") (d (list (d (n "bindgen") (r "^0.69.1") (d #t) (k 1)) (d (n "cyberex") (r "^0.3.8") (d #t) (k 1)))) (h "0kgsgvkh1590i3vgd26w9dn738m6knk54s8hzs5wyjc5akm883h3")))
+

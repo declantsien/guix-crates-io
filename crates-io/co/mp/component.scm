@@ -2,3 +2,5 @@
 
 (define-public crate-component-0.1.0 (c (n "component") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)))) (h "13bcsl4s76k9j4k1r0d9jpazwkym0b10vzrk3srpraw4x8viq7b3")))
 
+(define-public crate-component-0.1.1 (c (n "component") (v "0.1.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)))) (h "0qv9xvm8h9s3wwxmagbb4l30qcjai69zpxzqgw5nxsihnwkw8xrd")))
+
