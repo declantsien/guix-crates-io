@@ -12,3 +12,5 @@
 
 (define-public crate-spin-contrib-http-0.0.7 (c (n "spin-contrib-http") (v "0.0.7") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "http") (r "^1.1.0") (d #t) (k 0)) (d (n "spin-sdk") (r "^3.0.1") (d #t) (k 0)))) (h "0ihn65ryba0c7q4wgbaipayhq4f3fx28kcickbgafsymczj3jf5l")))
 
+(define-public crate-spin-contrib-http-0.0.8 (c (n "spin-contrib-http") (v "0.0.8") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "http") (r "^1.1.0") (d #t) (k 0)) (d (n "spin-sdk") (r "^3.0.1") (d #t) (k 0)))) (h "02iq9m1hv8bh6mkwgyhykqfjkjlx159sax57hnmxbmx1pj3lax70")))
+

@@ -44,3 +44,5 @@
 
 (define-public crate-syn-solidity-0.7.4 (c (n "syn-solidity") (v "0.7.4") (d (list (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "19cpncmcgj8hqvyw92qf7a10nylq6xp18ynkmj5km16g8i613nxq") (f (quote (("visit-mut") ("visit")))) (r "1.65")))
 
+(define-public crate-syn-solidity-0.7.5 (c (n "syn-solidity") (v "0.7.5") (d (list (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0a6zg2yckhyp3rwj29vsx314bmw9hx8lcz0ygykw1wl4ip80izp6") (f (quote (("visit-mut") ("visit")))) (r "1.65")))
+

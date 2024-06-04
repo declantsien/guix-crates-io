@@ -44,3 +44,5 @@
 
 (define-public crate-alloy-sol-macro-0.7.4 (c (n "alloy-sol-macro") (v "0.7.4") (d (list (d (n "alloy-sol-macro-expander") (r "^0.7.4") (k 0)) (d (n "alloy-sol-macro-input") (r "^0.7.4") (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1jmnx6735cfjqdxr4v36k5w5g7jkiqsici33ia64g29ygzb1ggbx") (f (quote (("json" "alloy-sol-macro-expander/json")))) (r "1.65")))
 
+(define-public crate-alloy-sol-macro-0.7.5 (c (n "alloy-sol-macro") (v "0.7.5") (d (list (d (n "alloy-sol-macro-expander") (r "^0.7.5") (k 0)) (d (n "alloy-sol-macro-input") (r "^0.7.5") (k 0)) (d (n "proc-macro-error") (r "^1.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0rcr57dkrka4f950vjrf99z4fl625z3qqg22j8k2y24vj5wqlw1h") (f (quote (("json" "alloy-sol-macro-expander/json")))) (r "1.65")))
+

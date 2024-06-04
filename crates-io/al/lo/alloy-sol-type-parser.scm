@@ -42,3 +42,5 @@
 
 (define-public crate-alloy-sol-type-parser-0.7.4 (c (n "alloy-sol-type-parser") (v "0.7.4") (d (list (d (n "winnow") (r "^0.6") (f (quote ("alloc"))) (k 0)))) (h "1mq8y9sri7ha40y22jgb7s9icw82706axcifyzcd3jjjq16sx31n") (f (quote (("std" "winnow/std") ("default" "std") ("debug" "std")))) (r "1.65")))
 
+(define-public crate-alloy-sol-type-parser-0.7.5 (c (n "alloy-sol-type-parser") (v "0.7.5") (d (list (d (n "winnow") (r "^0.6") (f (quote ("alloc"))) (k 0)))) (h "1gafpnv3nz0z7pzf08pph7iknyzbs9hfk71y05wh9155n21lgzc1") (f (quote (("std" "winnow/std") ("default" "std") ("debug" "std")))) (r "1.65")))
+
