@@ -50,3 +50,5 @@
 
 (define-public crate-duration-str-0.10.0 (c (n "duration-str") (v "0.10.0") (d (list (d (n "chrono") (r "^0.4.23") (o #t) (d #t) (k 0)) (d (n "rust_decimal") (r "^1.29.1") (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "time") (r "^0.3.17") (o #t) (d #t) (k 0)) (d (n "winnow") (r "^0.6.8") (d #t) (k 0)))) (h "1q76l3aqr298mj0xm2cl7mkqpq6gq3fr3ckkk1a22ydzic12w6kw") (f (quote (("default" "chrono" "serde" "time"))))))
 
+(define-public crate-duration-str-0.11.0 (c (n "duration-str") (v "0.11.0") (d (list (d (n "chrono") (r "^0.4.38") (f (quote ("now"))) (o #t) (k 0)) (d (n "rust_decimal") (r "^1.29.1") (k 0)) (d (n "serde") (r "^1.0.147") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.87") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.37") (d #t) (k 0)) (d (n "time") (r "^0.3.17") (o #t) (k 0)) (d (n "winnow") (r "^0.6.8") (d #t) (k 0)))) (h "14kjvjaww3if4ljb0yfxhi3il1j92nk1bhppysnn0bpaqg2g9s4b") (f (quote (("default" "chrono" "serde" "time"))))))
+

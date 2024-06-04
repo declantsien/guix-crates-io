@@ -26,3 +26,5 @@
 
 (define-public crate-zng-ext-undo-0.2.14 (c (n "zng-ext-undo") (v "0.2.14") (d (list (d (n "atomic") (r "^0.6") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "zng-app") (r "^0.5.2") (d #t) (k 0)) (d (n "zng-app-context") (r "^0.4.1") (d #t) (k 0)) (d (n "zng-clone-move") (r "^0.2.4") (d #t) (k 0)) (d (n "zng-ext-input") (r "^0.5.2") (d #t) (k 0)) (d (n "zng-state-map") (r "^0.3.1") (d #t) (k 0)) (d (n "zng-txt") (r "^0.2.6") (d #t) (k 0)) (d (n "zng-var") (r "^0.4.1") (d #t) (k 0)))) (h "1ymndkx6a9j6zavcrsxd2qh5qn5g7yq7yz7808wpfr29jjiif18z")))
 
+(define-public crate-zng-ext-undo-0.2.15 (c (n "zng-ext-undo") (v "0.2.15") (d (list (d (n "atomic") (r "^0.6") (d #t) (k 0)) (d (n "parking_lot") (r "^0.12") (d #t) (k 0)) (d (n "zng-app") (r "^0.6.0") (d #t) (k 0)) (d (n "zng-app-context") (r "^0.4.2") (d #t) (k 0)) (d (n "zng-clone-move") (r "^0.2.5") (d #t) (k 0)) (d (n "zng-ext-input") (r "^0.5.3") (d #t) (k 0)) (d (n "zng-state-map") (r "^0.3.2") (d #t) (k 0)) (d (n "zng-txt") (r "^0.2.7") (d #t) (k 0)) (d (n "zng-var") (r "^0.4.2") (d #t) (k 0)))) (h "1pkcly0rqshsdrjzwzaac1craijvh8z9hy5zcrgiyqp6qxb1ypi2")))
+
