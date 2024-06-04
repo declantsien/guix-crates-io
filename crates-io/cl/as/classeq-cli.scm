@@ -1,0 +1,4 @@
+(define-module (crates-io cl as classeq-cli) #:use-module (crates-io))
+
+(define-public crate-classeq-cli-0.2.1 (c (n "classeq-cli") (v "0.2.1") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "classeq-core") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "tracing-appender") (r "^0.2.3") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.0") (f (quote ("json" "env-filter"))) (d #t) (k 0)))) (h "0kh9r2lrlcx0mik43xwrpj7iy2cwxv2rxy3b97m1vhijiwwnm4gp")))
+

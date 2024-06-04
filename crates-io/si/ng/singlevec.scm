@@ -4,3 +4,5 @@
 
 (define-public crate-singlevec-1.0.1 (c (n "singlevec") (v "1.0.1") (h "0brqy69y3vjkjxy7p9mymxifjfg4jb5226ndjpjcrhrgaqw0wldf")))
 
+(define-public crate-singlevec-1.0.2 (c (n "singlevec") (v "1.0.2") (h "0aiddgyjj9xk8ap0gsdnqw7x0csw11zy4lx05v6hsxcsd5s8ci33")))
+
