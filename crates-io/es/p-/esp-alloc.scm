@@ -8,3 +8,5 @@
 
 (define-public crate-esp-alloc-0.3.0 (c (n "esp-alloc") (v "0.3.0") (d (list (d (n "critical-section") (r "^1.1.1") (d #t) (k 0)) (d (n "linked_list_allocator") (r "^0.10.5") (f (quote ("const_mut_refs"))) (k 0)))) (h "0z8wm150b9bdm48fysys9158yjv58lmym7v772w5ndqs4svjwyc3") (r "1.68")))
 
+(define-public crate-esp-alloc-0.4.0 (c (n "esp-alloc") (v "0.4.0") (d (list (d (n "critical-section") (r "^1.1.2") (d #t) (k 0)) (d (n "linked_list_allocator") (r "^0.10.5") (f (quote ("const_mut_refs"))) (k 0)))) (h "0gsy8qpb2bi7visfr6s563pypv68gc7w1dpwyc9m71hn0h60nk74") (f (quote (("nightly") ("default")))) (r "1.68")))
+

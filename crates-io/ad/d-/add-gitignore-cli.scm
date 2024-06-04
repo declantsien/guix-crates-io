@@ -4,3 +4,5 @@
 
 (define-public crate-add-gitignore-cli-1.0.1 (c (n "add-gitignore-cli") (v "1.0.1") (d (list (d (n "inquire") (r "^0.7.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("json"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1viwgxf8g3f01616wj9bfdxfzjyi4d5gad3fkcp11kr4rj4a9pv2")))
 
+(define-public crate-add-gitignore-cli-1.0.2 (c (n "add-gitignore-cli") (v "1.0.2") (d (list (d (n "inquire") (r "^0.7.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("json"))) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0xmdld8jiaj2563kr0bj1m1x9p53x57k4dlmip9h9c2cag7iq1gi")))
+
