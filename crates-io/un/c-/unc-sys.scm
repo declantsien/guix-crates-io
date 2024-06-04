@@ -24,3 +24,5 @@
 
 (define-public crate-unc-sys-2.0.6 (c (n "unc-sys") (v "2.0.6") (h "1r1630cnh06rrfd8s4fhd4rpzxyzxvm7jk6yi72sql1mchzczqm1")))
 
+(define-public crate-unc-sys-2.0.7 (c (n "unc-sys") (v "2.0.7") (h "0jzl85bs87rz23ms3a91bjir0lxd8hzpd8b5cjnka1x229a0fc42")))
+
