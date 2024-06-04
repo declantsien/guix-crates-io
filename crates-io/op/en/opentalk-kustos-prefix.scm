@@ -22,3 +22,5 @@
 
 (define-public crate-opentalk-kustos-prefix-0.11.0 (c (n "opentalk-kustos-prefix") (v "0.11.0") (d (list (d (n "kustos-shared") (r "^0.11.0") (d #t) (k 0)) (d (n "opentalk-kustos-prefix-impl") (r "^0.11.0") (d #t) (k 0)))) (h "0jxpibf8gi3br7ychxm9wn8abydq49awqwvrdr60zr67kky8q3gy")))
 
+(define-public crate-opentalk-kustos-prefix-0.15.0-alpha (c (n "opentalk-kustos-prefix") (v "0.15.0-alpha") (d (list (d (n "kustos-shared") (r "^0.15.0-alpha") (d #t) (k 0)) (d (n "opentalk-kustos-prefix-impl") (r "^0.15.0-alpha") (d #t) (k 0)))) (h "1rvx5w49h1r0c15hm0r4yygcvrksk71schzp36xkdrldkblq7hsw")))
+

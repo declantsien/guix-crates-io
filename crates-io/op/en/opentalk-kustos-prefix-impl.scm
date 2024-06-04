@@ -22,3 +22,5 @@
 
 (define-public crate-opentalk-kustos-prefix-impl-0.11.0 (c (n "opentalk-kustos-prefix-impl") (v "0.11.0") (d (list (d (n "proc-macro-crate") (r "^3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "095h7aag4pngbp47y0i62j819dvvajcp4f37f889mq75gl59a54s")))
 
+(define-public crate-opentalk-kustos-prefix-impl-0.15.0-alpha (c (n "opentalk-kustos-prefix-impl") (v "0.15.0-alpha") (d (list (d (n "proc-macro-crate") (r "^3") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "1zlsgrgrzxcygbm9vcfzvy8bsbwsqj8bqxkan1lb4a4miamcpy16")))
+

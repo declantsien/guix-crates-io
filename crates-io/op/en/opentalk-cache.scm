@@ -10,3 +10,5 @@
 
 (define-public crate-opentalk-cache-0.11.0 (c (n "opentalk-cache") (v "0.11.0") (d (list (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "moka") (r "^0.12") (f (quote ("quanta" "atomic64" "future"))) (k 0)) (d (n "redis") (r "^0.24") (f (quote ("connection-manager" "tokio-comp"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "siphasher") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1pqwnm52apwc6in37k7qszvl70g6iv4pnaq4sa2ypai8ckgh84xa")))
 
+(define-public crate-opentalk-cache-0.15.0-alpha (c (n "opentalk-cache") (v "0.15.0-alpha") (d (list (d (n "bincode") (r "^1") (d #t) (k 0)) (d (n "moka") (r "^0.12") (f (quote ("atomic64" "future" "quanta"))) (k 0)) (d (n "redis") (r "^0.25") (f (quote ("connection-manager" "tokio-comp"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "siphasher") (r "^1.0") (d #t) (k 0)) (d (n "snafu") (r "^0.8") (d #t) (k 0)))) (h "0fayyfkq8d2grzswp3409w0gpd62j0rvs0knddkd2p1lf6gjvz2g")))
+

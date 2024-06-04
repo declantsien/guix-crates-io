@@ -22,3 +22,5 @@
 
 (define-public crate-opentalk-client-shared-0.11.0 (c (n "opentalk-client-shared") (v "0.11.0") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "http-request-derive") (r "^0.1.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "1ni4cfz5270j7rwg2vfv7a4cyfxy5x0f3psqyik7jq329fxmzf41")))
 
+(define-public crate-opentalk-client-shared-0.15.0-alpha (c (n "opentalk-client-shared") (v "0.15.0-alpha") (d (list (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "http-request-derive") (r "^0.1.2") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "snafu") (r "^0.8") (d #t) (k 0)) (d (n "url") (r "^2") (d #t) (k 0)))) (h "0mvc26m3ix23hsk24ki3s7w6zdill3ai3cs6pp00m774qgjq8v78")))
+

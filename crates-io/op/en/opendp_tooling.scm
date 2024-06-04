@@ -198,3 +198,5 @@
 
 (define-public crate-opendp_tooling-0.9.2-nightly.20240522.1 (c (n "opendp_tooling") (v "0.9.2-nightly.20240522.1") (d (list (d (n "darling") (r "^0.14") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "parsing"))) (d #t) (k 0)))) (h "18bj0p69almsvfwkga1584bq2wy0n19qqgiv5ba8iy8h09mkackq") (r "1.64.0")))
 
+(define-public crate-opendp_tooling-0.9.2-nightly.20240603.1 (c (n "opendp_tooling") (v "0.9.2-nightly.20240603.1") (d (list (d (n "darling") (r "^0.14") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "regex") (r "^1.9.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "parsing"))) (d #t) (k 0)))) (h "1l7zjz1f9dzg883j5mkixjrb20bgkd11y39rbjgc7ywsn8zv87dx") (r "1.64.0")))
+

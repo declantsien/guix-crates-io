@@ -4,3 +4,5 @@
 
 (define-public crate-export-resolver-1.0.1 (c (n "export-resolver") (v "1.0.1") (d (list (d (n "windows") (r "^0.56.0") (f (quote ("Win32_System_Threading" "Win32_Security" "Win32_System_LibraryLoader" "Win32_System_Diagnostics" "Win32_System_Diagnostics_Debug" "Win32_System_Kernel" "Win32_System_WindowsProgramming" "Win32_System_SystemServices" "Win32_System_SystemInformation"))) (d #t) (k 0)))) (h "0h5l2pxx00ib2fsa6yh8y92p2pwzdhkwya0gw1nzkil0pfdvw34i")))
 
+(define-public crate-export-resolver-1.0.2 (c (n "export-resolver") (v "1.0.2") (d (list (d (n "windows") (r "^0.56.0") (f (quote ("Win32_System_Threading" "Win32_Security" "Win32_System_LibraryLoader" "Win32_System_Diagnostics" "Win32_System_Diagnostics_Debug" "Win32_System_Kernel" "Win32_System_WindowsProgramming" "Win32_System_SystemServices" "Win32_System_SystemInformation"))) (d #t) (k 0)))) (h "1ckxzkgf38ry7w97q1ci4iwcqsbaq02q3h22f3iz70m7n6vqpmd4")))
+

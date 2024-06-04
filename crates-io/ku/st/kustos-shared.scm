@@ -24,3 +24,5 @@
 
 (define-public crate-kustos-shared-0.11.0 (c (n "kustos-shared") (v "0.11.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.12") (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1kcz5343l9snvpx6ai2f2c97a0xxkhm3s12qqk9x8sg92n73zryq") (s 2) (e (quote (("internal" "dep:itertools"))))))
 
+(define-public crate-kustos-shared-0.15.0-alpha (c (n "kustos-shared") (v "0.15.0-alpha") (d (list (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "itertools") (r "^0.13") (o #t) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "snafu") (r "^0.8") (d #t) (k 0)) (d (n "uuid") (r "^1") (f (quote ("v4"))) (d #t) (k 0)))) (h "0hlv9vlc6ypc7aq07314kiklvyd69hqdb7g7ca3zr6hy29h037jf") (s 2) (e (quote (("internal" "dep:itertools"))))))
+

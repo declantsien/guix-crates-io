@@ -66,3 +66,5 @@
 
 (define-public crate-cargo-verison-0.1.38 (c (n "cargo-verison") (v "0.1.38") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.18.3") (d #t) (k 0)) (d (n "semver") (r "^1.0.22") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.11") (f (quote ("parse"))) (d #t) (k 0)) (d (n "toml_edit") (r "^0.22.12") (d #t) (k 0)))) (h "0pshgr4hil8898q49cqd9a3c26xqvglcwbd90bqn4slb7dyc8r2q")))
 
+(define-public crate-cargo-verison-0.1.39 (c (n "cargo-verison") (v "0.1.39") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "git2") (r "^0.18.3") (d #t) (k 0)) (d (n "semver") (r "^1.0.22") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.11") (f (quote ("parse"))) (d #t) (k 0)) (d (n "toml_edit") (r "^0.22.14") (d #t) (k 0)))) (h "0zircxy8fmfn8a8d5xa3sqy3acq6j26617gs012z5slnjnbjs9n2")))
+
