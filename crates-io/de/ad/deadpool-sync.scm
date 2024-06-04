@@ -8,3 +8,5 @@
 
 (define-public crate-deadpool-sync-0.1.3 (c (n "deadpool-sync") (v "0.1.3") (d (list (d (n "deadpool-runtime") (r "^0.1.2") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (o #t) (d #t) (k 0)))) (h "1s50gz56m8rhb7p8vw8jpgikwjx0v7x407hw3sjfvqyv52n17hic") (r "1.75")))
 
+(define-public crate-deadpool-sync-0.1.4 (c (n "deadpool-sync") (v "0.1.4") (d (list (d (n "deadpool") (r "^0.12") (d #t) (k 2)) (d (n "deadpool-runtime") (r "^0.1.2") (d #t) (k 0)) (d (n "tokio") (r "^1.38.0") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (o #t) (d #t) (k 0)))) (h "015bpi5apvps1r8w9g75sgkja9kc2qqvl89f0b6qxsap1pgw6jsj") (r "1.75")))
+

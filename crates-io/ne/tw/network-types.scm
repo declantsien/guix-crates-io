@@ -10,3 +10,5 @@
 
 (define-public crate-network-types-0.0.5 (c (n "network-types") (v "0.0.5") (d (list (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)))) (h "0fnb64xbhcc5jcl176ai5lvjaaiphz7s65zmi0q7ylq2iys54ygh") (f (quote (("std"))))))
 
+(define-public crate-network-types-0.0.6 (c (n "network-types") (v "0.0.6") (d (list (d (n "bincode") (r "^2.0.0-rc.3") (f (quote ("serde" "alloc"))) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (k 0)))) (h "0g2dhh3xrym2qa3yb8dsjjb696rb8z28m4ril0pcsc7mcax3xca1")))
+
