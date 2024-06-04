@@ -6,3 +6,5 @@
 
 (define-public crate-dwl-2.2.0 (c (n "dwl") (v "2.2.0") (d (list (d (n "inquire") (r "^0.7.4") (d #t) (k 0)))) (h "03bywfh9gyifq44sr9r3dhadhkclp98k6h43xnsw6g770s0vp2r9")))
 
+(define-public crate-dwl-3.0.0 (c (n "dwl") (v "3.0.0") (d (list (d (n "indicatif") (r "^0.17.8") (d #t) (k 0)) (d (n "inquire") (r "^0.7.4") (d #t) (k 0)))) (h "0bbr398c428va6jffvxc74c1y5z1kdijcwr5lahddm0bhi32ds4x")))
+
