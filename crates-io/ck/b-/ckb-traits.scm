@@ -156,3 +156,5 @@
 
 (define-public crate-ckb-traits-0.116.1 (c (n "ckb-traits") (v "0.116.1") (d (list (d (n "ckb-types") (r "=0.116.1") (d #t) (k 0)))) (h "1g6qa28sjsf064ly3s64v6gbnasbnqh4jdvx8vfw53h8yc2gfa65")))
 
+(define-public crate-ckb-traits-0.117.0-rc1 (c (n "ckb-traits") (v "0.117.0-rc1") (d (list (d (n "ckb-types") (r "=0.117.0-rc1") (d #t) (k 0)))) (h "0q9486im2qszr2z33f6vq8wispvvgwr4r9a7dbxk3z07hf1dzg9v")))
+

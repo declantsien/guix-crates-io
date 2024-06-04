@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-pow-0.116.1 (c (n "ckb-pow") (v "0.116.1") (d (list (d (n "byteorder") (r "^1.3.1") (d #t) (k 0)) (d (n "ckb-hash") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-types") (r "=0.116.1") (d #t) (k 0)) (d (n "eaglesong") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1xwh6v87s2gm1gvlcjb045xjg4bqn1di1ab02qzcs1v1wpk1v67b")))
 
+(define-public crate-ckb-pow-0.117.0-rc1 (c (n "ckb-pow") (v "0.117.0-rc1") (d (list (d (n "byteorder") (r "^1.3.1") (d #t) (k 0)) (d (n "ckb-hash") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-types") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "eaglesong") (r "^0.1") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0jciwaivbzg3yl684chj5mi41j8j0xy1sfqw9wihlpidydyww0i7")))
+

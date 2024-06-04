@@ -156,3 +156,5 @@
 
 (define-public crate-ckb-proposal-table-0.116.1 (c (n "ckb-proposal-table") (v "0.116.1") (d (list (d (n "ckb-chain-spec") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-logger") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-types") (r "=0.116.1") (d #t) (k 0)))) (h "0fhc45i620749aganlxjnyci790nq5i9iwdwr3611ql8m03ark2y")))
 
+(define-public crate-ckb-proposal-table-0.117.0-rc1 (c (n "ckb-proposal-table") (v "0.117.0-rc1") (d (list (d (n "ckb-chain-spec") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-logger") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-types") (r "=0.117.0-rc1") (d #t) (k 0)))) (h "1rmqb14jkm7hmvcd7pn6h5g42w57k351c0ma1ibc4mp5a50hsgv9")))
+
