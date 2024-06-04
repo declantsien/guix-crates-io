@@ -96,3 +96,5 @@
 
 (define-public crate-graphannis-capi-3.3.0 (c (n "graphannis-capi") (v "3.3.0") (d (list (d (n "graphannis") (r "^3") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "simplelog") (r "^0.12") (d #t) (k 0)))) (h "132dajch5yzv1hxpxwzrawwy1y75ga8pkk196dfd2410rrb9aqb6")))
 
+(define-public crate-graphannis-capi-3.3.1 (c (n "graphannis-capi") (v "3.3.1") (d (list (d (n "graphannis") (r "^3") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "simplelog") (r "^0.12") (d #t) (k 0)))) (h "0dhlgj8ns8fh5jpdbkdfvbfdndlm55skk1p7q30p8i5615j8vgcw")))
+
