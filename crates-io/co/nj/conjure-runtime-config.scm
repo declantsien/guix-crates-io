@@ -54,3 +54,5 @@
 
 (define-public crate-conjure-runtime-config-5.0.0-rc1 (c (n "conjure-runtime-config") (v "5.0.0-rc1") (d (list (d (n "humantime-serde") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "staged-builder") (r "^0.2") (d #t) (k 0)) (d (n "url") (r "^2.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "0pjp6skq5bja4xf3rvjsd2071gd8wpzjr10wx4ynab8zzi1indsc")))
 
+(define-public crate-conjure-runtime-config-5.0.0 (c (n "conjure-runtime-config") (v "5.0.0") (d (list (d (n "humantime-serde") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 2)) (d (n "staged-builder") (r "^0.2") (d #t) (k 0)) (d (n "url") (r "^2.0") (f (quote ("serde"))) (d #t) (k 0)))) (h "1s4a7hgkphmzg25wmaxhv6yzj65kalmqq6fj7nx7vcgdzm92rpxz")))
+

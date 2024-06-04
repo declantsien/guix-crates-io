@@ -1,0 +1,4 @@
+(define-module (crates-io al ta altar) #:use-module (crates-io))
+
+(define-public crate-altar-0.1.0 (c (n "altar") (v "0.1.0") (d (list (d (n "async-trait") (r "^0.1.80") (d #t) (k 0)) (d (n "bitflags") (r "^2.5.0") (d #t) (k 0)) (d (n "compact_str") (r "^0.7.1") (d #t) (k 0)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "crossterm") (r "^0.27.0") (f (quote ("event-stream" "serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "proptest") (r "^1.4.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "unicode-segmentation") (r "^1.11.0") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.12") (d #t) (k 0)) (d (n "uuid") (r "^1.8.0") (f (quote ("v4"))) (d #t) (k 2)))) (h "1cqvp2j00f2fxqnipdr3zbivclxm8sab4fjhb00b8kz738j28svh")))
+
