@@ -146,3 +146,5 @@
 
 (define-public crate-ckb-migration-template-0.116.1 (c (n "ckb-migration-template") (v "0.116.1") (d (list (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "printing"))) (d #t) (k 0)))) (h "1fpkxqqh958074dh7rdrhza0x0hb40m1nmz11q9n81vlwbgcwl3p")))
 
+(define-public crate-ckb-migration-template-0.117.0-rc1 (c (n "ckb-migration-template") (v "0.117.0-rc1") (d (list (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "printing"))) (d #t) (k 0)))) (h "1h752m1and9ijvwsnipyf0jj1bp9zc4xa09z5228d32pprxvmj44")))
+

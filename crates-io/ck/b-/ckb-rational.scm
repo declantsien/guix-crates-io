@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-rational-0.116.1 (c (n "ckb-rational") (v "0.116.1") (d (list (d (n "numext-fixed-uint") (r "^0.1") (f (quote ("support_rand" "support_heapsize" "support_serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "10bk3bfpdyaz9s19vrvclm5wc24cvyawiisqzgxgvzw0dj0hwmzd")))
 
+(define-public crate-ckb-rational-0.117.0-rc1 (c (n "ckb-rational") (v "0.117.0-rc1") (d (list (d (n "numext-fixed-uint") (r "^0.1") (f (quote ("support_rand" "support_heapsize" "support_serde"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "0cm2rkjq6gxgd44iv5lgrwfxkhnmm62bqagnlnwwyki54a65y8sz")))
+

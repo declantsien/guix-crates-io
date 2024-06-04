@@ -22,3 +22,5 @@
 
 (define-public crate-redis-args-impl-0.11.0 (c (n "redis-args-impl") (v "0.11.0") (d (list (d (n "opentalk-proc-macro-fields-helper") (r "^0.11.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "redis") (r "^0.24") (d #t) (k 2)) (d (n "redis-args") (r "^0.11.0") (d #t) (k 2)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^2") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "01msjsbslz5yxx0kz80n094hw44hza1mwfs88d1mjxhic95z4ym5")))
 
+(define-public crate-redis-args-impl-0.13.0 (c (n "redis-args-impl") (v "0.13.0") (d (list (d (n "opentalk-proc-macro-fields-helper") (r "^0.11.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "redis") (r "^0.25") (d #t) (k 2)) (d (n "redis-args") (r "^0.13.0") (d #t) (k 2)) (d (n "serde") (r "^1") (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "syn") (r "^2") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0qbnqbpvmwck2rhy2apbwyf213jqf3k81vkz4085h8rk6ni8g62g")))
+

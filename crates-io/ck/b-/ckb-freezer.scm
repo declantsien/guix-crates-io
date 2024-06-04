@@ -146,3 +146,5 @@
 
 (define-public crate-ckb-freezer-0.116.1 (c (n "ckb-freezer") (v "0.116.1") (d (list (d (n "ckb-error") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-logger") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-metrics") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-types") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-util") (r "=0.116.1") (d #t) (k 0)) (d (n "fail") (r "^0.4") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "lru") (r "^0.7.1") (d #t) (k 0)) (d (n "snap") (r "^1") (d #t) (k 0)))) (h "14yqm14gdv0ajba27dnansplp6q11n84lpkfk2sqy2m1layq1hck")))
 
+(define-public crate-ckb-freezer-0.117.0-rc1 (c (n "ckb-freezer") (v "0.117.0-rc1") (d (list (d (n "ckb-error") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-logger") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-metrics") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-types") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-util") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "fail") (r "^0.4") (d #t) (k 0)) (d (n "fs2") (r "^0.4.3") (d #t) (k 0)) (d (n "lru") (r "^0.7.1") (d #t) (k 0)) (d (n "snap") (r "^1") (d #t) (k 0)))) (h "1nxmiksqmwcq1m4p53bxr1b76khpmj6wqjmvlabww2bi36wkjy8h")))
+

@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-async-runtime-0.116.1 (c (n "ckb-async-runtime") (v "0.116.1") (d (list (d (n "ckb-logger") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-spawn") (r "=0.116.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0sximxg1rr0fsymb3bx6p0br2p3aw8n3x8hq3wqf5fd09g21h86w")))
 
+(define-public crate-ckb-async-runtime-0.117.0-rc1 (c (n "ckb-async-runtime") (v "0.117.0-rc1") (d (list (d (n "ckb-logger") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-spawn") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "179kxq86mxymaqxfm6vb4cw8607y8dyjxzm0zkj24yd0p8cs9014")))
+

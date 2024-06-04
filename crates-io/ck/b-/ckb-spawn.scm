@@ -152,3 +152,5 @@
 
 (define-public crate-ckb-spawn-0.116.1 (c (n "ckb-spawn") (v "0.116.1") (h "0xhasn3hg3d97cz40yrlzc0m9fzxkx3di8w9hc5gz2lbphg4szb3")))
 
+(define-public crate-ckb-spawn-0.117.0-rc1 (c (n "ckb-spawn") (v "0.117.0-rc1") (h "05wk1zaz4pzy64a1h9j69r9j7s1b4nvfslpyg1w3ry2iwxvrpqjm")))
+

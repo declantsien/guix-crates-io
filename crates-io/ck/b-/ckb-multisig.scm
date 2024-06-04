@@ -156,3 +156,5 @@
 
 (define-public crate-ckb-multisig-0.116.1 (c (n "ckb-multisig") (v "0.116.1") (d (list (d (n "ckb-crypto") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-error") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-logger") (r "=0.116.1") (d #t) (k 0)))) (h "1xs973aaj88yvfcyhrvkds4xlrlr98crpjpv28fyibvwchp16pnw")))
 
+(define-public crate-ckb-multisig-0.117.0-rc1 (c (n "ckb-multisig") (v "0.117.0-rc1") (d (list (d (n "ckb-crypto") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-error") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-logger") (r "=0.117.0-rc1") (d #t) (k 0)))) (h "0vjbpvww5q1ijwbkc58izwgl6cab3i51mjxhcnki3mswfymdrpb2")))
+

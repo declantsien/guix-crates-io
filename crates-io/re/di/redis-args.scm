@@ -22,3 +22,5 @@
 
 (define-public crate-redis-args-0.11.0 (c (n "redis-args") (v "0.11.0") (d (list (d (n "redis") (r "^0.24") (d #t) (k 0)) (d (n "redis-args-impl") (r "^0.11.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1ssb4nws349p4q3sr338bxm3idqvnh744y1bm4hj0c67z5fykl2y")))
 
+(define-public crate-redis-args-0.13.0 (c (n "redis-args") (v "0.13.0") (d (list (d (n "redis") (r "^0.25") (d #t) (k 0)) (d (n "redis-args-impl") (r "^0.13.0") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 2)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1cl2gwmrfsby0d4cvllaxg6ijz9bqq6m0hf561pvsh1w09hg1dac")))
+

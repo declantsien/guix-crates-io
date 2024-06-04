@@ -156,3 +156,5 @@
 
 (define-public crate-ckb-error-0.116.1 (c (n "ckb-error") (v "0.116.1") (d (list (d (n "anyhow") (r "^1.0.34") (d #t) (k 0)) (d (n "ckb-occupied-capacity") (r "=0.116.1") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.0") (f (quote ("display"))) (k 0)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)))) (h "0c5s231np2s3xgbhjibpc96nm7cjinvpnm53mifgisky3n51y101")))
 
+(define-public crate-ckb-error-0.117.0-rc1 (c (n "ckb-error") (v "0.117.0-rc1") (d (list (d (n "anyhow") (r "^1.0.34") (d #t) (k 0)) (d (n "ckb-occupied-capacity") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.0") (f (quote ("display"))) (k 0)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)))) (h "0rd9jgq8sq3aji4maywh124gi2xa5ix0wsiylirc9yx7a1xx8aqx")))
+

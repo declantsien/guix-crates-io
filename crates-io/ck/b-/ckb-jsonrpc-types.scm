@@ -156,3 +156,5 @@
 
 (define-public crate-ckb-jsonrpc-types-0.116.1 (c (n "ckb-jsonrpc-types") (v "0.116.1") (d (list (d (n "ckb-types") (r "=0.116.1") (d #t) (k 0)) (d (n "faster-hex") (r "^0.6") (d #t) (k 0)) (d (n "schemars") (r "^0.8.19") (d #t) (k 0) (p "ckb_schemars")) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "1rrbf8pr4s7s7a64r6hh16b1ffsgnfckck5s0p7h2dya8cq14zpg")))
 
+(define-public crate-ckb-jsonrpc-types-0.117.0-rc1 (c (n "ckb-jsonrpc-types") (v "0.117.0-rc1") (d (list (d (n "ckb-types") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "faster-hex") (r "^0.6") (d #t) (k 0)) (d (n "schemars") (r "^0.8.19") (d #t) (k 0) (p "ckb_schemars")) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0403d5nfrmx9ffsz5phnwd7n6bwknngwvj501clfh3zqcjmr1m5d")))
+

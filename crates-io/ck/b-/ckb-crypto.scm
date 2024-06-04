@@ -156,3 +156,5 @@
 
 (define-public crate-ckb-crypto-0.116.1 (c (n "ckb-crypto") (v "0.116.1") (d (list (d (n "ckb-fixed-hash") (r "=0.116.1") (d #t) (k 0)) (d (n "faster-hex") (r "^0.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "rand") (r "^0.7") (f (quote ("small_rng"))) (d #t) (k 0)) (d (n "secp256k1") (r "^0.24") (f (quote ("recovery"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)))) (h "1swk6ws8r392zckqkrwrgagygcxrzwvpmhzipy680cjn1wkr882y") (f (quote (("secp" "secp256k1") ("default" "secp"))))))
 
+(define-public crate-ckb-crypto-0.117.0-rc1 (c (n "ckb-crypto") (v "0.117.0-rc1") (d (list (d (n "ckb-fixed-hash") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "faster-hex") (r "^0.6") (d #t) (k 0)) (d (n "lazy_static") (r "^1.3") (d #t) (k 0)) (d (n "rand") (r "^0.7") (f (quote ("small_rng"))) (d #t) (k 0)) (d (n "secp256k1") (r "^0.24") (f (quote ("recovery"))) (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.22") (d #t) (k 0)))) (h "0l9i2crxky2aj95lb84qhphppkmmx3ij8sbwpz4fi5pvnqjqx10i") (f (quote (("secp" "secp256k1") ("default" "secp"))))))
+

@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-fixed-hash-macros-0.116.1 (c (n "ckb-fixed-hash-macros") (v "0.116.1") (d (list (d (n "ckb-fixed-hash-core") (r "=0.116.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "0cg9pq77j1pmpaabwdckhh612kq8bxps8ll7g586yx6sllrrbn7x")))
 
+(define-public crate-ckb-fixed-hash-macros-0.117.0-rc1 (c (n "ckb-fixed-hash-macros") (v "0.117.0-rc1") (d (list (d (n "ckb-fixed-hash-core") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "167r04ablr40an32421m8967s0mrq2qdbjpf803fjipp41rrzlmf")))
+

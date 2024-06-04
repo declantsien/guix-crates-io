@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-hash-0.116.1 (c (n "ckb-hash") (v "0.116.1") (d (list (d (n "blake2b-ref") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "blake2b-ref") (r "^0.3") (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "blake2b-rs") (r "^0.2") (o #t) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)))) (h "00yk52pdcxic0wgm4yvpm6y4qa51xvqpqspy5647wsppkk24nxfm") (f (quote (("default" "blake2b-ref" "blake2b-rs") ("ckb-contract" "blake2b-ref"))))))
 
+(define-public crate-ckb-hash-0.117.0-rc1 (c (n "ckb-hash") (v "0.117.0-rc1") (d (list (d (n "blake2b-ref") (r "^0.3") (o #t) (d #t) (k 0)) (d (n "blake2b-ref") (r "^0.3") (o #t) (d #t) (t "cfg(target_arch = \"wasm32\")") (k 0)) (d (n "blake2b-rs") (r "^0.2") (o #t) (d #t) (t "cfg(not(target_arch = \"wasm32\"))") (k 0)))) (h "1gmmn1979vdgcw0nsr03lk3i42iqvzvyc4nly94ma1a0023m02vg") (f (quote (("default" "blake2b-ref" "blake2b-rs") ("ckb-contract" "blake2b-ref"))))))
+

@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-stop-handler-0.116.1 (c (n "ckb-stop-handler") (v "0.116.1") (d (list (d (n "ckb-async-runtime") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-channel") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-logger") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-util") (r "=0.116.1") (d #t) (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.8") (d #t) (k 0)))) (h "034pdfgsnrb756j27ih0z2l5yqpdpbyy1p7q0lnfxdn5dxf1lpsk")))
 
+(define-public crate-ckb-stop-handler-0.117.0-rc1 (c (n "ckb-stop-handler") (v "0.117.0-rc1") (d (list (d (n "ckb-async-runtime") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-channel") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-logger") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-util") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "once_cell") (r "^1.8.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio-util") (r "^0.7.8") (d #t) (k 0)))) (h "1kyzbs7d8clmdnaxs65drpdz657lsmrcpha44byc5mlgvcjbsgwd")))
+

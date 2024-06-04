@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-metrics-0.116.1 (c (n "ckb-metrics") (v "0.116.1") (d (list (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "prometheus") (r "^0.13.3") (d #t) (k 0)) (d (n "prometheus-static-metric") (r "^0.5.1") (d #t) (k 0)))) (h "014qld12zmphqka70p99c8xgm2vchd44rxp076j841ffrwsz1bn5")))
 
+(define-public crate-ckb-metrics-0.117.0-rc1 (c (n "ckb-metrics") (v "0.117.0-rc1") (d (list (d (n "once_cell") (r "^1.17.1") (d #t) (k 0)) (d (n "prometheus") (r "^0.13.3") (d #t) (k 0)) (d (n "prometheus-static-metric") (r "^0.5.1") (d #t) (k 0)))) (h "1vihwi26f7d3knf863idkr817i0xx38nipgj8r31lnlza88pl64j")))
+

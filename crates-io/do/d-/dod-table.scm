@@ -4,3 +4,5 @@
 
 (define-public crate-dod-table-0.1.1 (c (n "dod-table") (v "0.1.1") (h "0sw774s4syflr6xayfvy7ycdh1hc0jnbqlydm8fshvf2p152ss5f")))
 
+(define-public crate-dod-table-0.2.0 (c (n "dod-table") (v "0.2.0") (h "18y4kslqhxgqm4anix9pfqfify9kvlzx7j953gxjgricrmv4cbrw")))
+

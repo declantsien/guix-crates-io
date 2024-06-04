@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-metrics-config-0.116.1 (c (n "ckb-metrics-config") (v "0.116.1") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1n8dwqxwl9vyfy7zcyzrpqzpfchijdzqbvwq70dcss0l1n4cazar")))
 
+(define-public crate-ckb-metrics-config-0.117.0-rc1 (c (n "ckb-metrics-config") (v "0.117.0-rc1") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "10q4vi4k5i28y3587fh2fcrjh4dcrbi4gqm5qlncrdli4fnmn99g")))
+

@@ -156,3 +156,5 @@
 
 (define-public crate-ckb-fixed-hash-0.116.1 (c (n "ckb-fixed-hash") (v "0.116.1") (d (list (d (n "ckb-fixed-hash-core") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-fixed-hash-macros") (r "=0.116.1") (d #t) (k 0)))) (h "16vpgi76kx49s1wb8xz34k4zkk8vvddcqd9rj8klif0phzqr2x2a")))
 
+(define-public crate-ckb-fixed-hash-0.117.0-rc1 (c (n "ckb-fixed-hash") (v "0.117.0-rc1") (d (list (d (n "ckb-fixed-hash-core") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-fixed-hash-macros") (r "=0.117.0-rc1") (d #t) (k 0)))) (h "1rms2dahbacgpjvqhfj0g0r5xf7z7f7hzrc9i0bmpj3v40sm75c9")))
+

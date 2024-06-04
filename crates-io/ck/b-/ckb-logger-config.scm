@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-logger-config-0.116.1 (c (n "ckb-logger-config") (v "0.116.1") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1cjhrd4ksf8b15k6knfy5f5q9f6yk8p0sz1bp6kd0wanv08g5b9y")))
 
+(define-public crate-ckb-logger-config-0.117.0-rc1 (c (n "ckb-logger-config") (v "0.117.0-rc1") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "18wifw6jlfkqhsspx9vr459g0mvsn19nspky6chhs5b1m87yf6vj")))
+

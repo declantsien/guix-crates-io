@@ -144,3 +144,5 @@
 
 (define-public crate-ckb-constant-0.116.1 (c (n "ckb-constant") (v "0.116.1") (h "04p34yrdcmbxcfqsc7jpmvrs3h5dsbrxzpqiab4610rvdaqr3bsv")))
 
+(define-public crate-ckb-constant-0.117.0-rc1 (c (n "ckb-constant") (v "0.117.0-rc1") (h "0ylngbkbsy5n3v9gipyk9w2qsr0n7kn3l1gd7fiv8xj4x36jja6q")))
+

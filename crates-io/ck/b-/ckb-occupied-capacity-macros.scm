@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-occupied-capacity-macros-0.116.1 (c (n "ckb-occupied-capacity-macros") (v "0.116.1") (d (list (d (n "ckb-occupied-capacity-core") (r "=0.116.1") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "13v0xnlhdp3caxqjfswpfg67l38z533wja23ppalq6cd3wzswsls")))
 
+(define-public crate-ckb-occupied-capacity-macros-0.117.0-rc1 (c (n "ckb-occupied-capacity-macros") (v "0.117.0-rc1") (d (list (d (n "ckb-occupied-capacity-core") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "0jqpqz264x58hia277p5mhq24lrjjgxmhknvvmnya8yk327dc1yi")))
+

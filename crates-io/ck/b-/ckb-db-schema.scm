@@ -152,3 +152,5 @@
 
 (define-public crate-ckb-db-schema-0.116.1 (c (n "ckb-db-schema") (v "0.116.1") (h "0sal5f612ngmvxji6zmgczrsqifnx5vd0mjhqppvnv2msy6q9war")))
 
+(define-public crate-ckb-db-schema-0.117.0-rc1 (c (n "ckb-db-schema") (v "0.117.0-rc1") (h "1zc93lxxvy2ywj9w5fcmd475vkz269a6fm1s5jdn852acz7d419q")))
+
