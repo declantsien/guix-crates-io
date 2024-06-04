@@ -60,3 +60,5 @@
 
 (define-public crate-oxc_diagnostics-0.13.2 (c (n "oxc_diagnostics") (v "0.13.2") (d (list (d (n "miette") (r "^7.2.0") (f (quote ("fancy-no-syscall"))) (d #t) (k 0)) (d (n "owo-colors") (r "^4.0.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.0") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.12") (d #t) (k 0)))) (h "0828x9qlrvik2srwcvijh7an86qvbsx58ki261fbmas0jd4988yj") (r "1.74")))
 
+(define-public crate-oxc_diagnostics-0.13.3 (c (n "oxc_diagnostics") (v "0.13.3") (d (list (d (n "miette") (r "^7.2.0") (f (quote ("fancy-no-syscall"))) (d #t) (k 0)) (d (n "owo-colors") (r "^4.0.0") (d #t) (k 0)) (d (n "textwrap") (r "^0.16.0") (d #t) (k 0)) (d (n "unicode-width") (r "^0.1.12") (d #t) (k 0)))) (h "0gvd9h5vs7qdplw1ydwzbagcciyiy5g8sk3nrg3qawax8h68baxl") (r "1.74")))
+

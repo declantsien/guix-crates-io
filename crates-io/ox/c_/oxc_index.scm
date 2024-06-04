@@ -48,3 +48,5 @@
 
 (define-public crate-oxc_index-0.13.2 (c (n "oxc_index") (v "0.13.2") (d (list (d (n "serde") (r "^1.0.199") (o #t) (d #t) (k 0)))) (h "1wqnf2cy6rvi5asyf55rnrfyq3i6pbhg9vm38yjl3vbjfam4vs2k") (f (quote (("example_generated")))) (s 2) (e (quote (("serialize" "dep:serde")))) (r "1.74")))
 
+(define-public crate-oxc_index-0.13.3 (c (n "oxc_index") (v "0.13.3") (d (list (d (n "serde") (r "^1.0.199") (o #t) (d #t) (k 0)))) (h "099n85kqa1d9i5zi0k0ffh5rplsd31phmi7rfmkihsp0jp04zhg9") (f (quote (("example_generated")))) (s 2) (e (quote (("serialize" "dep:serde")))) (r "1.74")))
+

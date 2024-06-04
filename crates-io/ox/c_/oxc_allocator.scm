@@ -52,3 +52,5 @@
 
 (define-public crate-oxc_allocator-0.13.2 (c (n "oxc_allocator") (v "0.13.2") (d (list (d (n "allocator-api2") (r "^0.2.18") (d #t) (k 0)) (d (n "bumpalo") (r "^3.16.0") (f (quote ("allocator-api2" "collections"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.199") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.199") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 2)))) (h "1947anm6p4v10d2hj2aab6dqqj1j0prhngjzlq4hda97mi688bl8") (s 2) (e (quote (("serialize" "dep:serde")))) (r "1.74")))
 
+(define-public crate-oxc_allocator-0.13.3 (c (n "oxc_allocator") (v "0.13.3") (d (list (d (n "allocator-api2") (r "^0.2.18") (d #t) (k 0)) (d (n "bumpalo") (r "^3.16.0") (f (quote ("allocator-api2" "collections"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.199") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.199") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 2)))) (h "1cyn07jz3xqzrd340wfcj1kz4kkck317pfy4akidlmp5n8xr74nx") (s 2) (e (quote (("serialize" "dep:serde")))) (r "1.74")))
+

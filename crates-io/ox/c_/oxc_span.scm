@@ -48,3 +48,5 @@
 
 (define-public crate-oxc_span-0.13.2 (c (n "oxc_span") (v "0.13.2") (d (list (d (n "compact_str") (r "^0.7.1") (d #t) (k 0)) (d (n "miette") (r "^7.2.0") (f (quote ("fancy-no-syscall"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.199") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tsify") (r "^0.4.5") (o #t) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (o #t) (d #t) (k 0)))) (h "1fw3vlqab6wqnhqxaxcgn84biqdljbxbbk98y1xkqj7vsj3irmx9") (f (quote (("default")))) (s 2) (e (quote (("serialize" "compact_str/serde" "dep:serde" "dep:tsify" "dep:wasm-bindgen")))) (r "1.74")))
 
+(define-public crate-oxc_span-0.13.3 (c (n "oxc_span") (v "0.13.3") (d (list (d (n "compact_str") (r "^0.7.1") (d #t) (k 0)) (d (n "miette") (r "^7.2.0") (f (quote ("fancy-no-syscall"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.199") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tsify") (r "^0.4.5") (o #t) (d #t) (k 0)) (d (n "wasm-bindgen") (r "^0.2") (o #t) (d #t) (k 0)))) (h "085rfmsxan523gw23h9ig494iryrrjgby453sks9i1bdgln70154") (f (quote (("default")))) (s 2) (e (quote (("serialize" "compact_str/serde" "dep:serde" "dep:tsify" "dep:wasm-bindgen")))) (r "1.74")))
+

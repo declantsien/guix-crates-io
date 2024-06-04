@@ -6,3 +6,5 @@
 
 (define-public crate-oxc_traverse-0.13.2 (c (n "oxc_traverse") (v "0.13.2") (d (list (d (n "compact_str") (r "^0.7.1") (d #t) (k 0)) (d (n "memoffset") (r "^0.9.1") (d #t) (k 0)) (d (n "oxc_allocator") (r "^0.13.2") (d #t) (k 0)) (d (n "oxc_ast") (r "^0.13.2") (d #t) (k 0)) (d (n "oxc_semantic") (r "^0.13.2") (d #t) (k 0)) (d (n "oxc_span") (r "^0.13.2") (d #t) (k 0)) (d (n "oxc_syntax") (r "^0.13.2") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.93") (d #t) (k 2)))) (h "1izvqi6ngzdvia94f7crhhy6b5r51ykxd8rhj8z79wgbbqdbh6a1") (r "1.74")))
 
+(define-public crate-oxc_traverse-0.13.3 (c (n "oxc_traverse") (v "0.13.3") (d (list (d (n "compact_str") (r "^0.7.1") (d #t) (k 0)) (d (n "memoffset") (r "^0.9.1") (d #t) (k 0)) (d (n "oxc_allocator") (r "^0.13.3") (d #t) (k 0)) (d (n "oxc_ast") (r "^0.13.3") (d #t) (k 0)) (d (n "oxc_semantic") (r "^0.13.3") (d #t) (k 0)) (d (n "oxc_span") (r "^0.13.3") (d #t) (k 0)) (d (n "oxc_syntax") (r "^0.13.3") (d #t) (k 0)) (d (n "trybuild") (r "^1.0.93") (d #t) (k 2)))) (h "148x9950zbg2gfj015bmgbh3cmc7w238m84l0jb97mayds274dbs") (r "1.74")))
+
