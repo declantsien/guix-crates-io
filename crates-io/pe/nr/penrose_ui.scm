@@ -10,3 +10,5 @@
 
 (define-public crate-penrose_ui-0.3.4 (c (n "penrose_ui") (v "0.3.4") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 2)) (d (n "penrose") (r "^0.3.4") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "x11") (r "^2.21") (f (quote ("xft" "xlib"))) (d #t) (k 0)) (d (n "yeslogic-fontconfig-sys") (r "^4.0") (d #t) (k 0)))) (h "0zjq8r40rjpck4jc7fv3wpcfy0baf7za538dy1f9yvjhwmxx0g9j")))
 
+(define-public crate-penrose_ui-0.3.5 (c (n "penrose_ui") (v "0.3.5") (d (list (d (n "anyhow") (r "^1.0.71") (d #t) (k 2)) (d (n "penrose") (r "^0.3.5") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("attributes"))) (d #t) (k 0)) (d (n "x11") (r "^2.21") (f (quote ("xft" "xlib"))) (d #t) (k 0)) (d (n "yeslogic-fontconfig-sys") (r "^4.0") (d #t) (k 0)))) (h "0vfr5xgbmakak6aabdfs91gfwgjfrv6g32s7cc6lm1p5wf5vww2z")))
+

@@ -2,3 +2,5 @@
 
 (define-public crate-reverie-util-0.0.0 (c (n "reverie-util") (v "0.0.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 0)) (d (n "nalgebra") (r "^0.31.1") (d #t) (k 0)) (d (n "newtype-ops") (r "^0.1.4") (d #t) (k 0)))) (h "0rrdyxky4y3j25y7yp7fmn0akxcv7i1j8ngn1m708i9j3s0rlxc6")))
 
+(define-public crate-reverie-util-0.0.7 (c (n "reverie-util") (v "0.0.7") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 0)) (d (n "nalgebra") (r "^0.31.4") (d #t) (k 0)) (d (n "newtype-ops") (r "^0.1.4") (d #t) (k 0)))) (h "0d7krfk1ankci2jrarhmfrsid8j44snsf014qlq2ylibxlwx7wp5") (r "1.78.0")))
+
