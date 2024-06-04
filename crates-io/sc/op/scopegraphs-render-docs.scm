@@ -6,3 +6,7 @@
 
 (define-public crate-scopegraphs-render-docs-0.2.12 (c (n "scopegraphs-render-docs") (v "0.2.12") (d (list (d (n "include_dir") (r "^0.7") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1") (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "13pca4kfl21vlj8im3bi3l17f4cxf71a0g1qw0s3hp4v5ywxwwl2")))
 
+(define-public crate-scopegraphs-render-docs-0.2.13 (c (n "scopegraphs-render-docs") (v "0.2.13") (d (list (d (n "include_dir") (r "^0.7") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1") (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "1pqn7k2rp2vx36i55x6lxxc4wmywy8aqf48927xrqi3ics6ib6ba")))
+
+(define-public crate-scopegraphs-render-docs-0.2.14 (c (n "scopegraphs-render-docs") (v "0.2.14") (d (list (d (n "include_dir") (r "^0.7") (d #t) (k 0)) (d (n "itertools") (r "^0.10") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1") (d #t) (k 2)) (d (n "proc-macro-error") (r "^1") (k 0)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (d #t) (k 0)))) (h "0m261hz9j6ljrzcb2mz5n8vjzc28vrin92iv7y49n2d8vh0r2dj3")))
+

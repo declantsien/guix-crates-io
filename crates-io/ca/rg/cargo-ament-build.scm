@@ -14,3 +14,5 @@
 
 (define-public crate-cargo-ament-build-0.1.6 (c (n "cargo-ament-build") (v "0.1.6") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cargo-manifest") (r "^0.2") (d #t) (k 0)) (d (n "pico-args") (r "^0.4") (d #t) (k 0)))) (h "0q17833h7whf3gf508vd8dkbz1i30lkgdf97vpj2d7rr8zds5zqb")))
 
+(define-public crate-cargo-ament-build-0.1.7 (c (n "cargo-ament-build") (v "0.1.7") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "cargo-manifest") (r "^0.2") (d #t) (k 0)) (d (n "pico-args") (r "^0.4") (d #t) (k 0)))) (h "113186sb8azr08lsrkgppfv505x8qmg5i2kz0wh4476k7igdqpiz")))
+
