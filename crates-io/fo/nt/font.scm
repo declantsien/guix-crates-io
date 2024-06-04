@@ -182,5 +182,7 @@
 
 (define-public crate-font-0.34.3 (c (n "font") (v "0.34.3") (d (list (d (n "opentype") (r "^0.37") (f (quote ("default-language"))) (d #t) (k 0)) (d (n "typeface") (r "^0.4.2") (d #t) (k 0)) (d (n "webtype") (r "^0.15") (o #t) (d #t) (k 0)))) (h "0wkxm1v968gwkpjsydpv89i6jpg3kf6w7zj2yxf6dy3ia0bg52rw") (f (quote (("default" "webtype")))) (s 2) (e (quote (("webtype" "dep:webtype"))))))
 
-(define-public crate-font-0.35.0 (c (n "font") (v "0.35.0") (d (list (d (n "opentype") (r "^0.37") (f (quote ("default-language"))) (d #t) (k 0)) (d (n "typeface") (r "^0.4.2") (d #t) (k 0)) (d (n "webtype") (r "^0.15") (o #t) (d #t) (k 0)))) (h "1h6i44fchg4ncahm7vb2j9wd4snndl2n978rpklc4kr9zhkmx714") (f (quote (("default" "webtype")))) (s 2) (e (quote (("webtype" "dep:webtype"))))))
+(define-public crate-font-0.35.0 (c (n "font") (v "0.35.0") (d (list (d (n "opentype") (r "^0.37") (f (quote ("default-language"))) (d #t) (k 0)) (d (n "typeface") (r "^0.4.2") (d #t) (k 0)) (d (n "webtype") (r "^0.15") (o #t) (d #t) (k 0)))) (h "1h6i44fchg4ncahm7vb2j9wd4snndl2n978rpklc4kr9zhkmx714") (f (quote (("default" "webtype")))) (y #t) (s 2) (e (quote (("webtype" "dep:webtype"))))))
+
+(define-public crate-font-0.35.1 (c (n "font") (v "0.35.1") (d (list (d (n "opentype") (r "^0.37") (f (quote ("default-language"))) (d #t) (k 0)) (d (n "typeface") (r "^0.4.2") (d #t) (k 0)) (d (n "webtype") (r "^0.15") (o #t) (d #t) (k 0)))) (h "1gcbdxigf9s49575k8as07b6ckx8ww0ip5r2fhypxa6jdkxsnxbz") (f (quote (("default" "webtype")))) (s 2) (e (quote (("webtype" "dep:webtype"))))))
 
