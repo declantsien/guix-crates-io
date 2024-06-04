@@ -14,3 +14,5 @@
 
 (define-public crate-scopegraphs-macros-0.2.11 (c (n "scopegraphs-macros") (v "0.2.11") (d (list (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "scopegraphs-regular-expressions") (r "^0.2") (f (quote ("dot"))) (d #t) (k 0)) (d (n "syn") (r "^2.0.29") (d #t) (k 0)))) (h "0hisxwvinrc2vidlx83cfrs8midby1xandhn1ba9wss77g1mrygi") (f (quote (("dot" "scopegraphs-regular-expressions/dot")))) (r "1.75")))
 
+(define-public crate-scopegraphs-macros-0.3.0 (c (n "scopegraphs-macros") (v "0.3.0") (d (list (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "scopegraphs-regular-expressions") (r "^0.3") (f (quote ("dot"))) (d #t) (k 0)) (d (n "syn") (r "^2.0.29") (d #t) (k 0)))) (h "07md3q01lvpzsvvpz2w329n5vijld6jkc1ib4h43rcxcfky3bz9b") (f (quote (("dot" "scopegraphs-regular-expressions/dot")))) (r "1.75")))
+

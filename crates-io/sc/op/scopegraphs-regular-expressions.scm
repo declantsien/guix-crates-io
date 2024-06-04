@@ -16,3 +16,5 @@
 
 (define-public crate-scopegraphs-regular-expressions-0.2.11 (c (n "scopegraphs-regular-expressions") (v "0.2.11") (d (list (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.29") (f (quote ("parsing" "derive" "printing" "clone-impls"))) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "0zil0s68lgwddlkajf64w6f15inr4r2vxx8092kpxlin6dmg73gf") (f (quote (("dynamic") ("dot")))) (r "1.75")))
 
+(define-public crate-scopegraphs-regular-expressions-0.3.0 (c (n "scopegraphs-regular-expressions") (v "0.3.0") (d (list (d (n "proc-macro2") (r "^1.0.69") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.29") (f (quote ("parsing" "derive" "printing" "clone-impls"))) (k 0)) (d (n "thiserror") (r "^1.0.50") (d #t) (k 0)))) (h "1mfx0k5134bacbm2gag1mynjlzzxb8cvqjw9vqmf1rqz7pjkqn8x") (f (quote (("dynamic") ("dot")))) (r "1.75")))
+

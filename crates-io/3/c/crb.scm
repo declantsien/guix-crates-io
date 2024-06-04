@@ -10,3 +10,5 @@
 
 (define-public crate-crb-0.0.4 (c (n "crb") (v "0.0.4") (h "0l68ky625ws016n0jy0gpfng52mh18r69n8gm8g3iqvmjpzf0a3a")))
 
+(define-public crate-crb-0.0.5 (c (n "crb") (v "0.0.5") (h "1vvqgmbid7kcxr87lc1kwqwlljdb67xsy93jwlk85zdy13i993y0")))
+
