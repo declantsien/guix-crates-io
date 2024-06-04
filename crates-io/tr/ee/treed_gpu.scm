@@ -6,3 +6,7 @@
 
 (define-public crate-treed_gpu-0.1.2 (c (n "treed_gpu") (v "0.1.2") (d (list (d (n "cc") (r "^1") (d #t) (k 1)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "digest") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log4rs") (r "^1") (d #t) (k 2)) (d (n "sha2") (r "^0.10") (d #t) (k 0)))) (h "1fph8mrnrywqg4cf89njk3l0q5bnm747hvs4g06kr3m9adg6nly8")))
 
+(define-public crate-treed_gpu-0.1.3 (c (n "treed_gpu") (v "0.1.3") (d (list (d (n "cc") (r "^1") (d #t) (k 1)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "digest") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log4rs") (r "^1") (d #t) (k 2)) (d (n "sha2") (r "^0.10") (d #t) (k 0)))) (h "0l5ni3sw628ssf5bskc705i5w4lfcb42yhcmhfrqv51qgv4fdama") (f (quote (("doc-gen"))))))
+
+(define-public crate-treed_gpu-0.1.4 (c (n "treed_gpu") (v "0.1.4") (d (list (d (n "cc") (r "^1") (d #t) (k 1)) (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 2)) (d (n "crossbeam-channel") (r "^0.5") (d #t) (k 0)) (d (n "digest") (r "^0.10") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "log4rs") (r "^1") (d #t) (k 2)) (d (n "sha2") (r "^0.10") (d #t) (k 0)))) (h "0smni2zqgz31miqp3kh7vyq9zflb56yc8p3ybdvsbf9pnnj4azb4") (f (quote (("doc-gen"))))))
+
