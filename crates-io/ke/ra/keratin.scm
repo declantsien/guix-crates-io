@@ -32,3 +32,5 @@
 
 (define-public crate-keratin-0.2.7 (c (n "keratin") (v "0.2.7") (d (list (d (n "bson") (r "^1.1.0") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.56") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "14z9zl52ric9xkk4mdzxzw3qd82rvx379pykl7h58yifc4cdypzx")))
 
+(define-public crate-keratin-0.3.0 (c (n "keratin") (v "0.3.0") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "bson") (r "^1.1.0") (d #t) (k 0)) (d (n "md5") (r "^0.7.0") (d #t) (k 0)) (d (n "rand") (r "^0.7.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.116") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.56") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "toml") (r "^0.5.6") (d #t) (k 0)))) (h "183nz7nxrhi94kr7fk5y1v8vi8vl43p9plj4kjjyv2qwkg148qcm")))
+

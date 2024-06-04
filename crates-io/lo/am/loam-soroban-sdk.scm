@@ -14,3 +14,5 @@
 
 (define-public crate-loam-soroban-sdk-0.6.8 (c (n "loam-soroban-sdk") (v "0.6.8") (d (list (d (n "loam-sdk-macro") (r "^0.8.0") (d #t) (k 0)) (d (n "soroban-sdk") (r "^21.0.1-preview.2") (d #t) (k 0)))) (h "1d7r6bzjb5bl8lkc48yki76fcy1z0rral2a4b0x1zm00k7pi631x") (f (quote (("testutils" "soroban-sdk/testutils") ("default"))))))
 
+(define-public crate-loam-soroban-sdk-0.6.9 (c (n "loam-soroban-sdk") (v "0.6.9") (d (list (d (n "loam-sdk-macro") (r "^0.8.0") (d #t) (k 0)) (d (n "soroban-sdk") (r "^21.0.1-preview.2") (d #t) (k 0)))) (h "1yaczkjva066kvia30mhmia252fd6wk9y6npiyf6ai64mkgvyidd") (f (quote (("testutils" "soroban-sdk/testutils") ("default") ("alloc" "soroban-sdk/alloc"))))))
+

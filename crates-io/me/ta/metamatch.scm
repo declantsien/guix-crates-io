@@ -6,3 +6,7 @@
 
 (define-public crate-metamatch-0.2.0 (c (n "metamatch") (v "0.2.0") (d (list (d (n "paste") (r "^1.0.15") (d #t) (k 2)))) (h "1iz9cwhiivkcsrin6nyd3g7g7fwg1zpciw2lr95vvjlgzxd85apb") (r "1.65.0")))
 
+(define-public crate-metamatch-0.2.1 (c (n "metamatch") (v "0.2.1") (d (list (d (n "paste") (r "^1.0.15") (d #t) (k 2)))) (h "1l1vlh5s9d9imf33y6b34z47is709hqg7w8jlzy1wsxqmrns7iv5") (r "1.65.0")))
+
+(define-public crate-metamatch-0.2.2 (c (n "metamatch") (v "0.2.2") (d (list (d (n "paste") (r "^1.0.15") (d #t) (k 2)))) (h "0qbwrmd17i61grbqj1niy7r6i44qab9h3x6jz42m6njq798cs886") (r "1.65.0")))
+
