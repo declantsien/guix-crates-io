@@ -36,3 +36,5 @@
 
 (define-public crate-stak-minifier-macro-0.1.17 (c (n "stak-minifier-macro") (v "0.1.17") (d (list (d (n "proc-macro2") (r "^1.0.84") (f (quote ("proc-macro"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "stak-macro-util") (r "^0.1.16") (d #t) (k 0)) (d (n "stak-minifier") (r "^0.1.17") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (d #t) (k 0)))) (h "0jrbxl241abrxi29mk084vhw74xk08al203wjd946d8l8sv19q5v")))
 
+(define-public crate-stak-minifier-macro-0.1.18 (c (n "stak-minifier-macro") (v "0.1.18") (d (list (d (n "proc-macro2") (r "^1.0.85") (f (quote ("proc-macro"))) (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "stak-macro-util") (r "^0.1.17") (d #t) (k 0)) (d (n "stak-minifier") (r "^0.1.18") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (d #t) (k 0)))) (h "18cd0ccmbbz885l9ryfhj3j6xacribw7vb2aa43zsw7msyblr4zx")))
+

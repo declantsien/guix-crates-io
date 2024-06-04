@@ -10,3 +10,7 @@
 
 (define-public crate-rantz_camera2d-0.3.7 (c (n "rantz_camera2d") (v "0.3.7") (d (list (d (n "bevy") (r "^0.13.2") (k 0)) (d (n "bevy") (r "^0.13.2") (d #t) (k 2)) (d (n "rantz_spatial2d") (r "^0.3.7") (d #t) (k 0)))) (h "06cdd6lsfc8zj0rkabcs86nzmp0jp4qmfmsprjnqc5c86zajz7l1") (f (quote (("default" "bevy_render" "bevy_core_pipeline") ("bevy_render" "bevy/bevy_render") ("bevy_core_pipeline" "bevy/bevy_core_pipeline"))))))
 
+(define-public crate-rantz_camera2d-0.3.8 (c (n "rantz_camera2d") (v "0.3.8") (d (list (d (n "bevy") (r "^0.13.2") (k 0)) (d (n "bevy") (r "^0.13.2") (d #t) (k 2)) (d (n "rantz_spatial2d") (r "^0.3.7") (d #t) (k 0)))) (h "1a2pip1a51by1cgm4qj8xh4lrw22dwh730cl0pd8ifg8wzjl1bcz") (f (quote (("default" "bevy_render" "bevy_core_pipeline") ("bevy_render" "bevy/bevy_render") ("bevy_core_pipeline" "bevy/bevy_core_pipeline"))))))
+
+(define-public crate-rantz_camera2d-0.3.9 (c (n "rantz_camera2d") (v "0.3.9") (d (list (d (n "bevy") (r "^0.13.2") (k 0)) (d (n "bevy") (r "^0.13.2") (d #t) (k 2)) (d (n "rantz_spatial2d") (r "^0.3.7") (d #t) (k 0)))) (h "1sw9zmgazfjkwv5qygnhw02rylr9jdhfiz2lfrxjrvi6hc61mjja") (f (quote (("default" "bevy_render" "bevy_core_pipeline") ("bevy_render" "bevy/bevy_render") ("bevy_core_pipeline" "bevy/bevy_core_pipeline"))))))
+

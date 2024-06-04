@@ -26,3 +26,5 @@
 
 (define-public crate-zng-wgt-material-icons-0.2.15 (c (n "zng-wgt-material-icons") (v "0.2.15") (d (list (d (n "dunce") (r "^1.0") (d #t) (k 1)) (d (n "zng-app") (r "^0.5.2") (d #t) (k 0)) (d (n "zng-ext-font") (r "^0.3.10") (d #t) (k 0)) (d (n "zng-var") (r "^0.4.1") (d #t) (k 0)) (d (n "zng-wgt-text") (r "^0.3.4") (d #t) (k 0)))) (h "1p20xr7knj1izwj6s692p5x1xwc335nw8qb1fac0nvay96bwgn3l") (f (quote (("sharp") ("rounded") ("outlined") ("filled") ("embedded") ("default" "embedded" "outlined" "filled" "rounded" "sharp"))))))
 
+(define-public crate-zng-wgt-material-icons-0.2.16 (c (n "zng-wgt-material-icons") (v "0.2.16") (d (list (d (n "dunce") (r "^1.0") (d #t) (k 1)) (d (n "zng-app") (r "^0.6.0") (d #t) (k 0)) (d (n "zng-ext-font") (r "^0.3.11") (d #t) (k 0)) (d (n "zng-var") (r "^0.4.2") (d #t) (k 0)) (d (n "zng-wgt-text") (r "^0.3.5") (d #t) (k 0)))) (h "0j82849mf4lgy555rd4d1qsh6hfw5var93lhn7nfzm3i9sazsn91") (f (quote (("sharp") ("rounded") ("outlined") ("filled") ("embedded") ("default" "embedded" "outlined" "filled" "rounded" "sharp"))))))
+

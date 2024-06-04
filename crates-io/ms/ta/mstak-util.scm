@@ -32,3 +32,5 @@
 
 (define-public crate-mstak-util-0.1.16 (c (n "mstak-util") (v "0.1.16") (d (list (d (n "libc") (r "^0.2") (k 0)))) (h "1rr9052dlp8gmr6y7zfxddhqgfmhk3cjwn4wjrhkadzrxr1hdjjz")))
 
+(define-public crate-mstak-util-0.1.17 (c (n "mstak-util") (v "0.1.17") (d (list (d (n "libc") (r "^0.2") (k 0)))) (h "16fbxnj5na9lsxwdhnad4cck7whbcxp48ydq8k6hbba6g4v3xnfv")))
+

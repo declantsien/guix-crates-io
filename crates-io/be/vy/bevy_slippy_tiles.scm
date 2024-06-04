@@ -36,3 +36,5 @@
 
 (define-public crate-bevy_slippy_tiles-0.5.1 (c (n "bevy_slippy_tiles") (v "0.5.1") (d (list (d (n "bevy") (r "^0.13") (d #t) (k 0)) (d (n "ehttp") (r "^0.5") (f (quote ("native-async"))) (d #t) (k 0)) (d (n "googleprojection") (r "^1.2") (d #t) (k 0)))) (h "041bdfdwnsgmdxszcxfyvqzm7rvqh9yh930cqn4r86hqx6hfw40l")))
 
+(define-public crate-bevy_slippy_tiles-0.5.2 (c (n "bevy_slippy_tiles") (v "0.5.2") (d (list (d (n "bevy") (r "^0.13") (d #t) (k 0)) (d (n "ehttp") (r "^0.5") (f (quote ("native-async"))) (d #t) (k 0)) (d (n "googleprojection") (r "^1.2") (d #t) (k 0)))) (h "1vaaldqwjdc1i5rggzzh9glpc5qvv18h28lr7nfbn14jnyl6sf1s")))
+

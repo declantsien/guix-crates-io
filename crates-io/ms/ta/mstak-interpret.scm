@@ -32,3 +32,5 @@
 
 (define-public crate-mstak-interpret-0.1.15 (c (n "mstak-interpret") (v "0.1.15") (d (list (d (n "libc") (r "^0.2") (k 0)) (d (n "mstak-util") (r "^0.1.16") (d #t) (k 0)) (d (n "stak-device") (r "^0.2.24") (f (quote ("libc"))) (d #t) (k 0)) (d (n "stak-primitive") (r "^0.2.25") (d #t) (k 0)) (d (n "stak-vm") (r "^0.4.0") (d #t) (k 0)))) (h "1as3dip6lzgxjaxs42kgw44c35mg6cb9v6msvj2yl4yq8lh8lm1m")))
 
+(define-public crate-mstak-interpret-0.1.16 (c (n "mstak-interpret") (v "0.1.16") (d (list (d (n "libc") (r "^0.2") (k 0)) (d (n "mstak-util") (r "^0.1.17") (d #t) (k 0)) (d (n "stak-device") (r "^0.2.24") (f (quote ("libc"))) (d #t) (k 0)) (d (n "stak-primitive") (r "^0.2.25") (d #t) (k 0)) (d (n "stak-vm") (r "^0.4.0") (d #t) (k 0)))) (h "1r94gysfvixjhcnd7sgacyqp7idp4whmsym3ixwbxp1l6dn8wqhs")))
+

@@ -36,3 +36,5 @@
 
 (define-public crate-stak-minifier-0.1.17 (c (n "stak-minifier") (v "0.1.17") (d (list (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "stak-configuration") (r "^0.1.35") (d #t) (k 0)) (d (n "stak-device") (r "^0.2.39") (f (quote ("std"))) (d #t) (k 0)) (d (n "stak-macro") (r "^0.1.40") (d #t) (k 0)) (d (n "stak-primitive") (r "^0.2.40") (d #t) (k 0)) (d (n "stak-vm") (r "^0.4.9") (d #t) (k 0)))) (h "0mbax49x515rwsh0ipxvs6p45djif7h2jzqrjqdp26l9pilzg6nm")))
 
+(define-public crate-stak-minifier-0.1.18 (c (n "stak-minifier") (v "0.1.18") (d (list (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "stak-configuration") (r "^0.1.36") (d #t) (k 0)) (d (n "stak-device") (r "^0.2.40") (f (quote ("std"))) (d #t) (k 0)) (d (n "stak-macro") (r "^0.1.41") (d #t) (k 0)) (d (n "stak-primitive") (r "^0.2.41") (d #t) (k 0)) (d (n "stak-vm") (r "^0.4.10") (d #t) (k 0)))) (h "1m2ywr5yjamf7l1dnv70vdxkka76c3pm0clr3zmmsb1ypr6b88s2")))
+
