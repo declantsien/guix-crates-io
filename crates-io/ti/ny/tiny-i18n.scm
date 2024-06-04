@@ -4,3 +4,5 @@
 
 (define-public crate-tiny-i18n-0.1.1 (c (n "tiny-i18n") (v "0.1.1") (d (list (d (n "tiny-i18n-derive") (r "^0.1.0") (d #t) (k 0)))) (h "0k85llr0y3804j6hh7pxar8g8b5sxmzihanl2dxdn1jxxc2v321z")))
 
+(define-public crate-tiny-i18n-0.1.2 (c (n "tiny-i18n") (v "0.1.2") (d (list (d (n "tiny-i18n-derive") (r "^0.1.1") (d #t) (k 0)))) (h "0sy03cqgik0yrlkpx6z7lyr4gjxs4d4xl02sv7l96inixfha38kn")))
+

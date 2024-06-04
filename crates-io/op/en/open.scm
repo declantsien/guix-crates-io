@@ -98,3 +98,5 @@
 
 (define-public crate-open-5.1.3 (c (n "open") (v "5.1.3") (d (list (d (n "is-wsl") (r "^0.4.0") (d #t) (t "cfg(any(target_os = \"linux\", target_os = \"android\", target_os = \"freebsd\", target_os = \"dragonfly\", target_os = \"netbsd\", target_os = \"openbsd\", target_os = \"illumos\", target_os = \"solaris\" ))") (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "pathdiff") (r "^0.2.0") (d #t) (t "cfg(all(unix, not(macos)))") (k 0)))) (h "0mq6vdjy03fzb2rf99s9wrv49nk36imbjb36fjchwn0nasyrzd1f") (f (quote (("shellexecute-on-windows")))) (r "1.62")))
 
+(define-public crate-open-5.1.4 (c (n "open") (v "5.1.4") (d (list (d (n "is-wsl") (r "^0.4.0") (d #t) (t "cfg(any(target_os = \"linux\", target_os = \"android\", target_os = \"freebsd\", target_os = \"dragonfly\", target_os = \"netbsd\", target_os = \"openbsd\", target_os = \"illumos\", target_os = \"solaris\" ))") (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "pathdiff") (r "^0.2.0") (d #t) (t "cfg(all(unix, not(macos)))") (k 0)))) (h "123k1ac5nhd8nq2bjw3qgqlv92km6kr18440p55nvi5i48gm9jmm") (f (quote (("shellexecute-on-windows")))) (r "1.62")))
+

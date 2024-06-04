@@ -18,3 +18,5 @@
 
 (define-public crate-sml-rs-0.3.0 (c (n "sml-rs") (v "0.3.0") (d (list (d (n "crc") (r "^3.0.0") (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "hex-literal") (r "^0.3.4") (d #t) (k 2)) (d (n "insta") (r "^1.21.0") (f (quote ("yaml" "glob"))) (d #t) (k 2)))) (h "09k6b0ms5fxh2h00bv64yaphh6ylw3n9r344nzsrcjrfzniadblq") (f (quote (("std" "alloc") ("default" "std") ("alloc"))))))
 
+(define-public crate-sml-rs-0.4.0 (c (n "sml-rs") (v "0.4.0") (d (list (d (n "crc") (r "^3.0.0") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (o #t) (d #t) (k 0)) (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "hex-literal") (r "^0.4.1") (d #t) (k 2)) (d (n "insta") (r "^1.21.0") (f (quote ("yaml" "glob"))) (d #t) (k 2)) (d (n "nb") (r "^1.1.0") (o #t) (d #t) (k 0)))) (h "1mi90fcaih226lncv11lmw22k6c5dacv79mja0g20hd57b4d0hra") (f (quote (("std" "alloc") ("embedded_hal" "nb" "embedded-hal") ("default" "std") ("alloc"))))))
+

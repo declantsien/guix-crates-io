@@ -6,3 +6,7 @@
 
 (define-public crate-dod-table-0.2.0 (c (n "dod-table") (v "0.2.0") (h "18y4kslqhxgqm4anix9pfqfify9kvlzx7j953gxjgricrmv4cbrw")))
 
+(define-public crate-dod-table-0.2.1 (c (n "dod-table") (v "0.2.1") (h "154a2v6n0pkwpsmx1f8d260kvmimf3ma2mhi8y5bv1z30nka994r")))
+
+(define-public crate-dod-table-0.2.2 (c (n "dod-table") (v "0.2.2") (h "129mdy6r70d66azw0d9kc18y5rhcdasqr5cdlpi17yqd7v4l4i9v")))
+
