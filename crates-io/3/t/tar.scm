@@ -150,3 +150,5 @@
 
 (define-public crate-tar-0.4.40 (c (n "tar") (v "0.4.40") (d (list (d (n "filetime") (r "^0.2.8") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "xattr") (r "^1.0") (o #t) (d #t) (t "cfg(unix)") (k 0)))) (h "1nrd3v2kfhb2zh0a44ag0s2348xjcdxiqx8cl14ir2923zmgqsmi") (f (quote (("default" "xattr"))))))
 
+(define-public crate-tar-0.4.41 (c (n "tar") (v "0.4.41") (d (list (d (n "filetime") (r "^0.2.8") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (t "cfg(unix)") (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "xattr") (r "^1.1.3") (o #t) (d #t) (t "cfg(unix)") (k 0)))) (h "02a9wksw2ci87461czsn0vpvb0wlb152yw4ya77nzdxmbynpsyfb") (f (quote (("default" "xattr"))))))
+
