@@ -140,3 +140,5 @@
 
 (define-public crate-lsp-types-0.96.0 (c (n "lsp-types") (v "0.96.0") (d (list (d (n "bitflags") (r "^1.0.1") (d #t) (k 0)) (d (n "fluent-uri") (r "^0.1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.34") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.50") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)))) (h "013fk9jilrxi8gn4gapqxf9ab5awf2gc5wlyhdrj3vgywqhxz038") (f (quote (("proposed") ("default"))))))
 
+(define-public crate-lsp-types-0.97.0 (c (n "lsp-types") (v "0.97.0") (d (list (d (n "bitflags") (r "^1.0.1") (d #t) (k 0)) (d (n "fluent-uri") (r "^0.1.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.34") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.50") (d #t) (k 0)) (d (n "serde_repr") (r "^0.1") (d #t) (k 0)))) (h "0wb0yr2cdhlndjkcfyabr17ib0nvqa4v3zl5qm3aq13wl583adak") (f (quote (("proposed") ("default"))))))
+

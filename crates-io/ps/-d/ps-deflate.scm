@@ -6,3 +6,5 @@
 
 (define-public crate-ps-deflate-0.1.0-3 (c (n "ps-deflate") (v "0.1.0-3") (d (list (d (n "libdeflater") (r "^1.20.0") (d #t) (k 0)))) (h "0nc3wrpj0r24kakaj71r69lxgrzyww2qyx4ybf450a4iyghj90hi")))
 
+(define-public crate-ps-deflate-0.1.0-4 (c (n "ps-deflate") (v "0.1.0-4") (d (list (d (n "libdeflater") (r "^1.20.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0xv5xcidaxyj6683fjqb8dgipj0v79yqd76d8mxz9ng1kxakbs15")))
+

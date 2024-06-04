@@ -16,3 +16,5 @@
 
 (define-public crate-cargo-ledger-1.4.0 (c (n "cargo-ledger") (v "1.4.0") (d (list (d (n "cargo_metadata") (r "^0.11.0") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "goblin") (r "^0.2.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "03wkhg7byq1bwkg903kgv616z1m9bs12lmy69np8q552y717lvf5")))
 
+(define-public crate-cargo-ledger-1.4.1 (c (n "cargo-ledger") (v "1.4.1") (d (list (d (n "cargo_metadata") (r "^0.11.0") (d #t) (k 0)) (d (n "clap") (r "^4.1.8") (f (quote ("derive"))) (d #t) (k 0)) (d (n "goblin") (r "^0.2.3") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "15z1pqyj1zp5pz4kk9fraad9kd5zia19r7zv6vv4bkkhcn28ipfd")))
+

@@ -14,3 +14,5 @@
 
 (define-public crate-ledger_secure_sdk_sys-1.3.0 (c (n "ledger_secure_sdk_sys") (v "1.3.0") (d (list (d (n "bindgen") (r "^0.65.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.73") (d #t) (k 1)) (d (n "glob") (r "^0.3.1") (d #t) (k 1)))) (h "10lk9hx7ihqj1nzc056iq15ljp5mqpljk1fl91dgm091g99v48f4")))
 
+(define-public crate-ledger_secure_sdk_sys-1.3.1 (c (n "ledger_secure_sdk_sys") (v "1.3.1") (d (list (d (n "bindgen") (r "^0.65.1") (d #t) (k 1)) (d (n "cc") (r "^1.0.73") (d #t) (k 1)) (d (n "glob") (r "^0.3.1") (d #t) (k 1)))) (h "1pjjzc97yacq0vhimmiyihs1a1kpf6244b461xanhdsp7by1zsn6")))
+

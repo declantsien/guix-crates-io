@@ -8,3 +8,5 @@
 
 (define-public crate-ps-hash-0.1.0-4 (c (n "ps-hash") (v "0.1.0-4") (d (list (d (n "blake3") (r "^1.5.0") (d #t) (k 0)) (d (n "ps-base64") (r "^0.1.0-2") (d #t) (k 0)) (d (n "sha2") (r "^0.10.8") (d #t) (k 0)))) (h "012q9cnhfwx59zysl0wyx4778k7y67zw65sn2rpls2fcr77gsbxr")))
 
+(define-public crate-ps-hash-0.1.0-5 (c (n "ps-hash") (v "0.1.0-5") (d (list (d (n "blake3") (r "^1.5.0") (d #t) (k 0)) (d (n "ps-base64") (r "^0.1.0-2") (d #t) (k 0)) (d (n "sha2") (r "^0.10.8") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0a9gn8ig7w39j0dgzwn0l9qdjgmaydp58a0fp97i6x7nbcriblym")))
+

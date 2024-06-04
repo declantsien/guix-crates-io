@@ -10,3 +10,5 @@
 
 (define-public crate-lexis-0.2.2 (c (n "lexis") (v "0.2.2") (h "03k74y2p4fcbz0p40gx3s82bvwxq7a2aqkxridm28ffpwkcpcb3z")))
 
+(define-public crate-lexis-0.2.3 (c (n "lexis") (v "0.2.3") (h "1x61r1dv6asp4nv3g94pb53zaf6cx5abaxp03a3zclvrxh0hv80r")))
+
