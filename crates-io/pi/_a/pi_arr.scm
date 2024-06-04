@@ -78,3 +78,5 @@
 
 (define-public crate-pi_arr-0.19.2 (c (n "pi_arr") (v "0.19.2") (d (list (d (n "pi_share") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "13wagf11kc11ywjp8wlz173fwwzlzzzzqsvy3rb6lncdq4zpsk64")))
 
+(define-public crate-pi_arr-0.19.3 (c (n "pi_arr") (v "0.19.3") (d (list (d (n "pi_share") (r "^0.4") (d #t) (k 0)) (d (n "rand") (r "^0.8") (d #t) (k 2)))) (h "0wdbmx9xlgp6qqgj54wr7fmcvaqw6dv7i1lxsgy3snah0sk9vbks")))
+

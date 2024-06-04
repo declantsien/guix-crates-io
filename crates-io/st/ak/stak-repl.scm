@@ -12,3 +12,5 @@
 
 (define-public crate-stak-repl-0.1.5 (c (n "stak-repl") (v "0.1.5") (d (list (d (n "stak-sac") (r "^0.1.41") (d #t) (k 0)))) (h "1zmsqx5w28dsxkxyl5qpwqskk9qwnfkp1l90hy84bgbvyql3cs8f")))
 
+(define-public crate-stak-repl-0.1.6 (c (n "stak-repl") (v "0.1.6") (d (list (d (n "stak-sac") (r "^0.1.42") (d #t) (k 0)))) (h "1w7w0mhprrjkw8xnrrxaa6yw7p00sk6zjqiamnxi4fhq0pr705ni")))
+

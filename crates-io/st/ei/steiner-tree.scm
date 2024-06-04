@@ -8,3 +8,5 @@
 
 (define-public crate-steiner-tree-0.0.4 (c (n "steiner-tree") (v "0.0.4") (d (list (d (n "bitvec") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "itertools") (r "^0.13") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "smallvec") (r "^1.11") (d #t) (k 0)))) (h "0zblki17nz4mkspqcamafpgk6zyv7vgi62bp7g2srkrkjsml7vpn")))
 
+(define-public crate-steiner-tree-0.0.5 (c (n "steiner-tree") (v "0.0.5") (d (list (d (n "bitvec") (r "^1") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "itertools") (r "^0.13") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "smallvec") (r "^1.11") (d #t) (k 0)))) (h "0zza918f4xi6msprq0qxkaf4y0y81mgxfsipybp9c7fl3w1k8fpw")))
+
