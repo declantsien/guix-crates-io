@@ -18,3 +18,5 @@
 
 (define-public crate-zawgl-core-0.1.10 (c (n "zawgl-core") (v "0.1.10") (d (list (d (n "log") (r "^0.4.18") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.7.4") (d #t) (k 0)))) (h "1678krd7c90zwxkdjmga3jq51yzyy30af5z2h30x1a6ifr01i5fp")))
 
+(define-public crate-zawgl-core-0.1.11 (c (n "zawgl-core") (v "0.1.11") (d (list (d (n "log") (r "^0.4.19") (d #t) (k 0)) (d (n "serde") (r "^1.0.177") (f (quote ("derive"))) (d #t) (k 0)) (d (n "toml") (r "^0.8.12") (d #t) (k 0)))) (h "17hrh0pirn5b8i84fmqbha4phb2r9m9rz7flzxxzkb9lmmhg7f9p")))
+
