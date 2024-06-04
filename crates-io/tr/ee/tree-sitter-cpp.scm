@@ -20,3 +20,5 @@
 
 (define-public crate-tree-sitter-cpp-0.22.1 (c (n "tree-sitter-cpp") (v "0.22.1") (d (list (d (n "cc") (r "^1.0.94") (d #t) (k 1)) (d (n "tree-sitter") (r ">=0.21.0") (d #t) (k 0)))) (h "16b1b75vpkx84bghdywi90ldmajprmvz1660c5b3cvr359d4k38j")))
 
+(define-public crate-tree-sitter-cpp-0.22.2 (c (n "tree-sitter-cpp") (v "0.22.2") (d (list (d (n "cc") (r "^1.0.94") (d #t) (k 1)) (d (n "tree-sitter") (r ">=0.21.0") (d #t) (k 0)))) (h "14vr8cydrhrs59n0228cf8h2z0wlv8a5h6addzfvi2cc1l7pwysk")))
+
