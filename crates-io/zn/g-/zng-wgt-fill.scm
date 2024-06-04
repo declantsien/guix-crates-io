@@ -26,3 +26,5 @@
 
 (define-public crate-zng-wgt-fill-0.2.14 (c (n "zng-wgt-fill") (v "0.2.14") (d (list (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)))) (h "1f54v9icr29sjxk13swfh7xqv5f963mhyx5hcs763a1jk6ppz1m5")))
 
+(define-public crate-zng-wgt-fill-0.2.15 (c (n "zng-wgt-fill") (v "0.2.15") (d (list (d (n "zng-wgt") (r "^0.3.5") (d #t) (k 0)))) (h "1jfliky46dcnckqxc4vs3r9jspa7d82xz5aj1h8blsfbwdriv997")))
+

@@ -12,3 +12,5 @@
 
 (define-public crate-moon_pdk_test_utils-0.0.7 (c (n "moon_pdk_test_utils") (v "0.0.7") (d (list (d (n "extism") (r "^1.2.0") (d #t) (k 0)) (d (n "moon_pdk_api") (r "^0.0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.116") (d #t) (k 0)) (d (n "warpgate") (r "^0.12.1") (d #t) (k 0)))) (h "0v06nw81am52rm2j4d55q08dg1xc6w7zyn3h8n8vapvbs8a0f3gx")))
 
+(define-public crate-moon_pdk_test_utils-0.0.8 (c (n "moon_pdk_test_utils") (v "0.0.8") (d (list (d (n "extism") (r "^1.3.0") (d #t) (k 0)) (d (n "moon_pdk_api") (r "^0.0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "warpgate") (r "^0.15.0") (d #t) (k 0)))) (h "0k5i7kxl3cyg7z87ff7z3rcdb36hj8wxkj8ybbqambjaf090m6fy")))
+

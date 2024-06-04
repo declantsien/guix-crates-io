@@ -26,3 +26,5 @@
 
 (define-public crate-zng-wgt-grid-0.3.2 (c (n "zng-wgt-grid") (v "0.3.2") (d (list (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zng-layout") (r "^0.2.11") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)) (d (n "zng-wgt-access") (r "^0.2.14") (d #t) (k 0)) (d (n "zng-wgt-container") (r "^0.2.14") (d #t) (k 0)) (d (n "zng-wgt-size-offset") (r "^0.2.14") (d #t) (k 0)))) (h "19yq5w1isx56cd6r75m71ihp5xmcwyr36cr5rhjdbjprq56cc2zr")))
 
+(define-public crate-zng-wgt-grid-0.3.3 (c (n "zng-wgt-grid") (v "0.3.3") (d (list (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zng-layout") (r "^0.2.12") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.5") (d #t) (k 0)) (d (n "zng-wgt-access") (r "^0.2.15") (d #t) (k 0)) (d (n "zng-wgt-container") (r "^0.2.15") (d #t) (k 0)) (d (n "zng-wgt-size-offset") (r "^0.2.15") (d #t) (k 0)))) (h "04s2dhhj5irgqny26wgb603ch85ci9x5r8apxww20qj76dmy8zdz")))
+

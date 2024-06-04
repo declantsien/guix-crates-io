@@ -8,3 +8,5 @@
 
 (define-public crate-moon_target-0.0.4 (c (n "moon_target") (v "0.0.4") (d (list (d (n "miette") (r "^7.2.0") (d #t) (k 0)) (d (n "moon_common") (r "^0.0.5") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (f (quote ("std" "perf"))) (k 0)) (d (n "schematic") (r "^0.15.0") (f (quote ("schema"))) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)))) (h "0i109a7dr7w2ka0dbzlhizv4yzmcbwbv38w5ff042fnc6da1rpn2")))
 
+(define-public crate-moon_target-0.0.5 (c (n "moon_target") (v "0.0.5") (d (list (d (n "miette") (r "^7.2.0") (d #t) (k 0)) (d (n "moon_common") (r "^0.0.6") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (f (quote ("std" "perf"))) (k 0)) (d (n "schematic") (r "^0.16.3") (f (quote ("schema"))) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "07nmzahrj12gjlfyh8nxgx21i49s3pn3r5b6j233dd8r170lrqsn")))
+

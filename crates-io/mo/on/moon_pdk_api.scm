@@ -10,3 +10,5 @@
 
 (define-public crate-moon_pdk_api-0.0.6 (c (n "moon_pdk_api") (v "0.0.6") (d (list (d (n "moon_common") (r "^0.0.5") (d #t) (k 0)) (d (n "moon_config") (r "^0.0.7") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "warpgate_api") (r "^0.5.1") (d #t) (k 0)))) (h "1cc0vwr5av8sgrjysmvf6176lhjls8v10bzwfwbrpvvp4h467pvc")))
 
+(define-public crate-moon_pdk_api-0.0.7 (c (n "moon_pdk_api") (v "0.0.7") (d (list (d (n "moon_common") (r "^0.0.6") (d #t) (k 0)) (d (n "moon_config") (r "^0.0.8") (d #t) (k 0)) (d (n "rustc-hash") (r "^1.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive"))) (d #t) (k 0)) (d (n "warpgate_api") (r "^0.8.0") (d #t) (k 0)))) (h "1rm8gv9fza90ww4bzc9ww4k9ilda89n3via596q52xvrgmv5yx75")))
+

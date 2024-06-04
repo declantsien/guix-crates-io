@@ -10,3 +10,5 @@
 
 (define-public crate-moon_pdk-0.0.6 (c (n "moon_pdk") (v "0.0.6") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("std" "error-context" "derive"))) (k 0)) (d (n "extism-pdk") (r "^1.1.0") (d #t) (k 0)) (d (n "moon_pdk_api") (r "^0.0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.198") (f (quote ("derive"))) (d #t) (k 0)) (d (n "warpgate_pdk") (r "^0.3.1") (d #t) (k 0)))) (h "1kcivxm38kbw9n97icidc2js91vpm0i6r48y0fcmxdrsxla3h7ii")))
 
+(define-public crate-moon_pdk-0.0.7 (c (n "moon_pdk") (v "0.0.7") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("std" "error-context" "derive"))) (k 0)) (d (n "extism-pdk") (r "^1.2.0") (d #t) (k 0)) (d (n "moon_pdk_api") (r "^0.0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive"))) (d #t) (k 0)) (d (n "warpgate_pdk") (r "^0.6.0") (d #t) (k 0)))) (h "03n0h7z7b86131q5662lg18qd57zjh3nwjryi6r0is9scv18zri2")))
+

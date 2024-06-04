@@ -26,3 +26,5 @@
 
 (define-public crate-zng-wgt-style-0.3.4 (c (n "zng-wgt-style") (v "0.3.4") (d (list (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zng-app") (r "^0.5.2") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)))) (h "1w7vkgifw5cn2h0bh59v97bvd50jvqbnj0s37mcvbzjbyn78r16k") (f (quote (("trace_widget" "zng-app/trace_widget"))))))
 
+(define-public crate-zng-wgt-style-0.3.5 (c (n "zng-wgt-style") (v "0.3.5") (d (list (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zng-app") (r "^0.6.0") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.5") (d #t) (k 0)))) (h "10nql1blm27dfgyw6m8xs2d2d9lqffxv9j5sygaam96fyzvmbrk6") (f (quote (("trace_widget" "zng-app/trace_widget"))))))
+
