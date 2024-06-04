@@ -12,3 +12,5 @@
 
 (define-public crate-zng-color-proc-macros-0.2.5 (c (n "zng-color-proc-macros") (v "0.2.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "06kwn99i6g4bsfg0hh7kiwrf5d5wshgx2ixgzg38jl776xifyx3d")))
 
+(define-public crate-zng-color-proc-macros-0.2.6 (c (n "zng-color-proc-macros") (v "0.2.6") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "05zwfbjqw64c42cv8xa7z1zcrd2ksd148ks2shkc9nh92vhj91kw")))
+

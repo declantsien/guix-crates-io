@@ -18,3 +18,5 @@
 
 (define-public crate-zng-app-proc-macros-0.3.2 (c (n "zng-app-proc-macros") (v "0.3.2") (d (list (d (n "fluent-syntax") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "minifier") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "visit" "extra-traits" "derive"))) (d #t) (k 0)) (d (n "unic-langid") (r "^0.9") (d #t) (k 0)))) (h "12ig6acxma967klkyj0c6srmgzpzbc5hjifvr5wszjspq62m3wbh")))
 
+(define-public crate-zng-app-proc-macros-0.3.3 (c (n "zng-app-proc-macros") (v "0.3.3") (d (list (d (n "fluent-syntax") (r "^0.11") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 0)) (d (n "minifier") (r "^0.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.19") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "visit" "extra-traits" "derive"))) (d #t) (k 0)) (d (n "unic-langid") (r "^0.9") (d #t) (k 0)))) (h "122443qjmk8s52rilb3pzmp0qfpnm4k4mkjl745f9jz5jw1arr3w")))
+

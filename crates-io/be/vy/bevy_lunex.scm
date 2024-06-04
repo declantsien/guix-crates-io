@@ -24,3 +24,5 @@
 
 (define-public crate-bevy_lunex-0.1.0-alpha (c (n "bevy_lunex") (v "0.1.0-alpha") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("bevy_pbr" "bevy_sprite" "bevy_text" "multi-threaded" "bevy_gizmos"))) (k 0)) (d (n "bevy_mod_picking") (r "^0.18.2") (o #t) (k 0)) (d (n "colored") (r "^2.1") (d #t) (k 0)) (d (n "lunex_engine") (r "^0.1.0-alpha") (f (quote ("bevy"))) (d #t) (k 0)))) (h "1ngkhmabfjf5icq0z7khlk3y2vsq93gxvd4z0pcvxa1lbpsd4naj") (f (quote (("picking" "bevy_mod_picking") ("debug"))))))
 
+(define-public crate-bevy_lunex-0.1.0-alpha.2 (c (n "bevy_lunex") (v "0.1.0-alpha.2") (d (list (d (n "bevy") (r "^0.13.2") (f (quote ("bevy_pbr" "bevy_sprite" "bevy_text" "multi-threaded" "bevy_gizmos"))) (k 0)) (d (n "bevy_mod_picking") (r "^0.18.2") (o #t) (k 0)) (d (n "colored") (r "^2.1") (d #t) (k 0)) (d (n "lunex_engine") (r "^0.1.0-alpha.2") (f (quote ("bevy"))) (d #t) (k 0)))) (h "0rcrxlhc89mssvz521000z09ngmvc0naz0gkn13w35d6srixpi5g") (f (quote (("picking" "bevy_mod_picking") ("default" "picking") ("debug"))))))
+

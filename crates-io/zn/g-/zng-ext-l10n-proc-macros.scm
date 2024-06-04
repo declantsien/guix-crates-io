@@ -12,3 +12,5 @@
 
 (define-public crate-zng-ext-l10n-proc-macros-0.2.5 (c (n "zng-ext-l10n-proc-macros") (v "0.2.5") (d (list (d (n "fluent-syntax") (r "^0.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "visit" "extra-traits" "derive"))) (d #t) (k 0)) (d (n "unic-langid") (r "^0.9") (d #t) (k 0)))) (h "0g3bnl8mj6zb5031rq4pf6r27j7pmlqs265ss365ksn22v9hj9lr")))
 
+(define-public crate-zng-ext-l10n-proc-macros-0.2.6 (c (n "zng-ext-l10n-proc-macros") (v "0.2.6") (d (list (d (n "fluent-syntax") (r "^0.11") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "visit" "extra-traits" "derive"))) (d #t) (k 0)) (d (n "unic-langid") (r "^0.9") (d #t) (k 0)))) (h "05n2rdl3zs8m695bl4iac0xrs4ndhx2ij2v9kf5smapqs2idph6n")))
+

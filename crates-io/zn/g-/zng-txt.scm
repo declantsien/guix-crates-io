@@ -14,3 +14,5 @@
 
 (define-public crate-zng-txt-0.2.6 (c (n "zng-txt") (v "0.2.6") (d (list (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "159xdvzvml7xpidw71m5y97k2a7xbrka86p8xqwgzcm0kd2fwzf0")))
 
+(define-public crate-zng-txt-0.2.7 (c (n "zng-txt") (v "0.2.7") (d (list (d (n "serde") (r "^1.0") (d #t) (k 0)))) (h "03h6g3pb0wnjgxch719wqi03i19yrnz2lni67cmkcqcxcpfwlgd1")))
+

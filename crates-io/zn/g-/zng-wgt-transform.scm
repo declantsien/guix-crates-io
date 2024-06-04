@@ -26,3 +26,5 @@
 
 (define-public crate-zng-wgt-transform-0.2.14 (c (n "zng-wgt-transform") (v "0.2.14") (d (list (d (n "euclid") (r "^0.22") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.4") (d #t) (k 0)))) (h "023gvy3b7630pz0mlcf3ian3vcgb85c846v5ln04xcpwcjqbd8lq")))
 
+(define-public crate-zng-wgt-transform-0.2.15 (c (n "zng-wgt-transform") (v "0.2.15") (d (list (d (n "euclid") (r "^0.22") (d #t) (k 0)) (d (n "zng-wgt") (r "^0.3.5") (d #t) (k 0)))) (h "0j0qcg9062w6m62cbk573x7sf3499zmc95442c8jr8r2hv0g2xh2")))
+

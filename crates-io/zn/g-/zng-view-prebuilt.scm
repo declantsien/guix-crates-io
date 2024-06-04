@@ -34,3 +34,5 @@
 
 (define-public crate-zng-view-prebuilt-0.6.2 (c (n "zng-view-prebuilt") (v "0.6.2") (d (list (d (n "base64") (r "^0.22") (d #t) (k 1)) (d (n "dunce") (r "^1.0") (d #t) (k 0)) (d (n "dunce") (r "^1.0") (d #t) (k 1)) (d (n "hashers") (r "^1.0") (d #t) (k 1)) (d (n "home") (r "^0.5") (d #t) (k 1)) (d (n "libloading") (r "^0.8") (d #t) (k 0)))) (h "01x1x6sb6k2wsafjmbpwh5y9pfrqhlrh0kycmkny2a0rcz4ds4h8") (f (quote (("embedded") ("default" "embedded"))))))
 
+(define-public crate-zng-view-prebuilt-0.7.0 (c (n "zng-view-prebuilt") (v "0.7.0") (d (list (d (n "base64") (r "^0.22") (d #t) (k 1)) (d (n "dunce") (r "^1.0") (d #t) (k 0)) (d (n "dunce") (r "^1.0") (d #t) (k 1)) (d (n "hashers") (r "^1.0") (d #t) (k 1)) (d (n "home") (r "^0.5") (d #t) (k 1)) (d (n "libloading") (r "^0.8") (d #t) (k 0)) (d (n "zng-env") (r "^0.2.0") (d #t) (k 0)))) (h "13q9xv2gvz5z6v1bhymq3sg4vax8z6d1ws0jzmnwj11zb2ccppsf") (f (quote (("embedded") ("default" "embedded"))))))
+

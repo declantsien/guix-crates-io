@@ -26,3 +26,5 @@
 
 (define-public crate-zng-color-0.2.14 (c (n "zng-color") (v "0.2.14") (d (list (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "zng-app-context") (r "^0.4.1") (d #t) (k 0)) (d (n "zng-color-proc-macros") (r "^0.2.5") (d #t) (k 0)) (d (n "zng-layout") (r "^0.2.11") (d #t) (k 0)) (d (n "zng-var") (r "^0.4.1") (d #t) (k 0)) (d (n "zng-view-api") (r "^0.4.4") (d #t) (k 0)))) (h "11q261hlmlkijw8nprpf6l1yirkd6fqzis4w59yrybj1ybz7w8v8")))
 
+(define-public crate-zng-color-0.2.15 (c (n "zng-color") (v "0.2.15") (d (list (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "zng-app-context") (r "^0.4.2") (d #t) (k 0)) (d (n "zng-color-proc-macros") (r "^0.2.6") (d #t) (k 0)) (d (n "zng-layout") (r "^0.2.12") (d #t) (k 0)) (d (n "zng-var") (r "^0.4.2") (d #t) (k 0)) (d (n "zng-view-api") (r "^0.5.0") (d #t) (k 0)))) (h "1f7w68jbl2r599zakrjrbxmhqvygqiv5nny3x24grla8lg2n935r")))
+

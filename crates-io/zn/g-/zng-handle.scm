@@ -10,3 +10,5 @@
 
 (define-public crate-zng-handle-0.2.4 (c (n "zng-handle") (v "0.2.4") (h "1sz84rmzayn3h75c76rgc1dwvmmz1y7ss06r9wn1fphyzx9sx8fp")))
 
+(define-public crate-zng-handle-0.2.5 (c (n "zng-handle") (v "0.2.5") (h "16f6rycbjrzp7b2abnigcgf5k0g117m48kpk47ysh1g9rhbpxhim")))
+

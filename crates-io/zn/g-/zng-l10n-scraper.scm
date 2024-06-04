@@ -16,3 +16,5 @@
 
 (define-public crate-zng-l10n-scraper-0.3.2 (c (n "zng-l10n-scraper") (v "0.3.2") (d (list (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "fluent-pseudo") (r "^0.3") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.10") (d #t) (k 0)) (d (n "rustc_lexer") (r "^0.1") (d #t) (k 0)))) (h "1kl1zl2pxnbpfhcs2m9v0i8dssp58aiibmgsfiai69pprqgq0fx8") (y #t)))
 
+(define-public crate-zng-l10n-scraper-0.3.3 (c (n "zng-l10n-scraper") (v "0.3.3") (d (list (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "fluent-pseudo") (r "^0.3") (d #t) (k 0)) (d (n "glob") (r "^0.3") (d #t) (k 0)) (d (n "rayon") (r "^1.10") (d #t) (k 0)) (d (n "rustc_lexer") (r "^0.1") (d #t) (k 0)))) (h "10s1j9c2wdqrzfhhd5kgbqj2rsgm3kyj1almrr75ax1rkxjsbg0w")))
+

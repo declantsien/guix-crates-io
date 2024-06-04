@@ -14,3 +14,5 @@
 
 (define-public crate-zng-var-proc-macros-0.2.6 (c (n "zng-var-proc-macros") (v "0.2.6") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "visit" "extra-traits" "derive"))) (d #t) (k 0)))) (h "0l5sfj9mkklyzb6g4c7nrwc1jx4wrqd3qvfkxkh4q5640z9gnmfl")))
 
+(define-public crate-zng-var-proc-macros-0.2.7 (c (n "zng-var-proc-macros") (v "0.2.7") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "visit" "extra-traits" "derive"))) (d #t) (k 0)))) (h "0n5449icimlm077pybhjrs06alrfgh1sj3w24xklkxmijc1mxqra")))
+

@@ -88,3 +88,5 @@
 
 (define-public crate-conjure-error-4.0.0 (c (n "conjure-error") (v "4.0.0") (d (list (d (n "conjure-object") (r "^4.0.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "13r70s8l6smzyy0yl1y8mv78zzrbmwsjra7ravdr5ljydiibf7ml")))
 
+(define-public crate-conjure-error-4.1.0 (c (n "conjure-error") (v "4.1.0") (d (list (d (n "conjure-object") (r "^4.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "uuid") (r "^1.1") (f (quote ("v4"))) (d #t) (k 0)))) (h "1849hccpwfvjv7j0k8p8g400zjf1anr39kfm7hs5jijy4ir2dy2l")))
+

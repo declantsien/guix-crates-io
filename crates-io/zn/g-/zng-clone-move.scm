@@ -10,3 +10,5 @@
 
 (define-public crate-zng-clone-move-0.2.4 (c (n "zng-clone-move") (v "0.2.4") (h "1h8a5xm5sh3l3gdpl27kjgw5np48mmk693yrr4b25nmh9363wg53")))
 
+(define-public crate-zng-clone-move-0.2.5 (c (n "zng-clone-move") (v "0.2.5") (h "1q82ymq4j4fx6prfc3wcvxw6nl30v8ah18ml282ppg6ch3jgpdlk")))
+

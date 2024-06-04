@@ -14,3 +14,5 @@
 
 (define-public crate-zng-unit-0.2.6 (c (n "zng-unit") (v "0.2.6") (d (list (d (n "bytemuck") (r "^1.15") (f (quote ("derive"))) (d #t) (k 0)) (d (n "euclid") (r "^0.22") (f (quote ("serde" "bytemuck"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "1bw61akh0x5n4s4hq5paiqik8ya80fb1avc26n1s13gdnyxk8rsz")))
 
+(define-public crate-zng-unit-0.2.7 (c (n "zng-unit") (v "0.2.7") (d (list (d (n "bytemuck") (r "^1.15") (f (quote ("derive"))) (d #t) (k 0)) (d (n "euclid") (r "^0.22") (f (quote ("serde" "bytemuck"))) (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)))) (h "08dag2ajpfncylbmfj73m6w39ijwvm0g7n919qxsbln6ajyc6m6b")))
+

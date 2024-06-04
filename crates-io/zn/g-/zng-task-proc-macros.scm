@@ -12,3 +12,5 @@
 
 (define-public crate-zng-task-proc-macros-0.2.5 (c (n "zng-task-proc-macros") (v "0.2.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "133rmprx9mm78lir2jiw8j2ij4yxllmvfkzaqdypqnj8i6xj3f3p")))
 
+(define-public crate-zng-task-proc-macros-0.2.6 (c (n "zng-task-proc-macros") (v "0.2.6") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "0f2rvvk3a0c4iwlbvf6rjkwgmfkgvmpydda9g5dblkpq6p79qi5k")))
+

@@ -10,3 +10,5 @@
 
 (define-public crate-zng-tp-licenses-0.2.6 (c (n "zng-tp-licenses") (v "0.2.6") (d (list (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "deflate") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "inflate") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "zng-txt") (r "^0.2.6") (d #t) (k 0)))) (h "1v6k9bqm8d81wcrixjdhspmb7gf3mkr8dhl0g1726n1ipqw0vimd") (s 2) (e (quote (("bundle" "dep:inflate" "dep:bincode") ("build" "dep:serde_json" "dep:deflate" "dep:bincode"))))))
 
+(define-public crate-zng-tp-licenses-0.2.7 (c (n "zng-tp-licenses") (v "0.2.7") (d (list (d (n "bincode") (r "^1.3") (o #t) (d #t) (k 0)) (d (n "deflate") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "inflate") (r "^0.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "zng-txt") (r "^0.2.7") (d #t) (k 0)))) (h "174ad9lxvb7186g8vqsfkl5v09ybmdm1s24m3g1r9k3cbr4xcdc9") (s 2) (e (quote (("bundle" "dep:inflate" "dep:bincode") ("build" "dep:serde_json" "dep:deflate" "dep:bincode"))))))
+
