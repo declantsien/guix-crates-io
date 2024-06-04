@@ -6,3 +6,5 @@
 
 (define-public crate-zenoh-task-0.11.0-rc.3 (c (n "zenoh-task") (v "0.11.0-rc.3") (d (list (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("default" "sync"))) (k 0)) (d (n "tokio-util") (r "^0.7.10") (f (quote ("rt"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zenoh-core") (r "^0.11.0-rc.3") (d #t) (k 0)) (d (n "zenoh-runtime") (r "^0.11.0-rc.3") (d #t) (k 0)))) (h "133navs515d5cwrsk75z770302i73f7b25hspqsvfk0zi3iddgw5") (r "1.72.0")))
 
+(define-public crate-zenoh-task-0.11.0 (c (n "zenoh-task") (v "0.11.0") (d (list (d (n "futures") (r "^0.3.25") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("default" "sync"))) (k 0)) (d (n "tokio-util") (r "^0.7.10") (f (quote ("rt"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zenoh-core") (r "^0.11.0") (d #t) (k 0)) (d (n "zenoh-runtime") (r "^0.11.0") (d #t) (k 0)))) (h "1zz21zyxskrnsz4r661q16zrgbas385zzx299jxd9rwdw8pzb60y") (r "1.72.0")))
+

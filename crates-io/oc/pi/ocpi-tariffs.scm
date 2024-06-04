@@ -18,3 +18,5 @@
 
 (define-public crate-ocpi-tariffs-0.5.2 (c (n "ocpi-tariffs") (v "0.5.2") (d (list (d (n "chrono") (r "^0.4.35") (f (quote ("serde"))) (k 0)) (d (n "chrono-tz") (r "^0.8.6") (k 0)) (d (n "rust_decimal") (r "^1.32.0") (f (quote ("serde-with-arbitrary-precision"))) (d #t) (k 0)) (d (n "rust_decimal_macros") (r "^1.34.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (k 2)) (d (n "test-each") (r "^0.2.1") (d #t) (k 2)))) (h "0nyg0bzb3jwqvz86c0yjvvijhplplh2x2fglg0lzdidqs0mbg04v") (f (quote (("ocpi-v211"))))))
 
+(define-public crate-ocpi-tariffs-0.6.0 (c (n "ocpi-tariffs") (v "0.6.0") (d (list (d (n "chrono") (r "^0.4.35") (f (quote ("serde"))) (k 0)) (d (n "chrono-tz") (r "^0.9.0") (f (quote ("std"))) (k 0)) (d (n "rust_decimal") (r "^1.32.0") (f (quote ("serde-with-arbitrary-precision"))) (d #t) (k 0)) (d (n "rust_decimal_macros") (r "^1.34.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (k 2)) (d (n "test-each") (r "^0.2.1") (d #t) (k 2)))) (h "0mhxlx4c3jdj9k7fzfwihx18vafk7nps8i2xaybdgsv6y2xkswmc") (f (quote (("ocpi-v211"))))))
+

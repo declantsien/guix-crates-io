@@ -20,3 +20,5 @@
 
 (define-public crate-zenoh-macros-0.11.0-rc.3 (c (n "zenoh-macros") (v "0.11.0-rc.3") (d (list (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "zenoh-keyexpr") (r "^0.11.0-rc.3") (f (quote ("std"))) (k 0)))) (h "1pgfqp1jdm4ky0865n8z2blai20415bgzmyq2fsq8b21fbd05jq9") (r "1.72.0")))
 
+(define-public crate-zenoh-macros-0.11.0 (c (n "zenoh-macros") (v "0.11.0") (d (list (d (n "proc-macro2") (r "^1.0.51") (d #t) (k 0)) (d (n "quote") (r "^1.0.23") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "zenoh-keyexpr") (r "^0.11.0") (f (quote ("std"))) (k 0)))) (h "1wqar7gcnqlg6awv6bi27sczzy63ndnhhwi3bbbv90g7vyfqr959") (r "1.72.0")))
+

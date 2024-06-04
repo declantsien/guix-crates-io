@@ -18,3 +18,5 @@
 
 (define-public crate-zenoh-core-0.11.0-rc.3 (c (n "zenoh-core") (v "0.11.0-rc.3") (d (list (d (n "async-global-executor") (r "^2.3.1") (f (quote ("tokio"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("rt"))) (k 0)) (d (n "zenoh-result") (r "^0.11.0-rc.3") (k 0)) (d (n "zenoh-runtime") (r "^0.11.0-rc.3") (d #t) (k 0)))) (h "14ng4cb98vg56l05h0n1mj2fmw0v8w8z3ahfr7wp8ha0jyap6j6g") (f (quote (("std") ("default" "std")))) (r "1.72.0")))
 
+(define-public crate-zenoh-core-0.11.0 (c (n "zenoh-core") (v "0.11.0") (d (list (d (n "async-global-executor") (r "^2.3.1") (f (quote ("tokio"))) (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "tokio") (r "^1.35.1") (f (quote ("rt"))) (k 0)) (d (n "zenoh-result") (r "^0.11.0") (k 0)) (d (n "zenoh-runtime") (r "^0.11.0") (d #t) (k 0)))) (h "00k5vz6cfm2jxdxygblnabxrczm3n4zqj26qv0qjigiczlhy0j86") (f (quote (("std") ("default" "std")))) (r "1.72.0")))
+

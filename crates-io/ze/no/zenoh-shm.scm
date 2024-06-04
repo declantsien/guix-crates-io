@@ -16,3 +16,5 @@
 
 (define-public crate-zenoh-shm-0.11.0-rc.3 (c (n "zenoh-shm") (v "0.11.0-rc.3") (d (list (d (n "serde") (r "^1.0.154") (f (quote ("derive" "default"))) (k 0)) (d (n "shared_memory") (r "^0.12.4") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zenoh-buffers") (r "^0.11.0-rc.3") (k 0)) (d (n "zenoh-result") (r "^0.11.0-rc.3") (k 0)))) (h "04rjiw3f5v304wf0260fc3jnnclnqmyh3l5hrrajy1nfwl0vh2a7") (r "1.72.0")))
 
+(define-public crate-zenoh-shm-0.11.0 (c (n "zenoh-shm") (v "0.11.0") (d (list (d (n "serde") (r "^1.0.154") (f (quote ("derive" "default"))) (k 0)) (d (n "shared_memory") (r "^0.12.4") (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)) (d (n "zenoh-buffers") (r "^0.11.0") (k 0)) (d (n "zenoh-result") (r "^0.11.0") (k 0)))) (h "0izdkpjvikg89wkr1jcrsh3p47dnqvnd3qw0xihx89lnk7f5pm28") (r "1.72.0")))
+

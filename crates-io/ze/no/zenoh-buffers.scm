@@ -18,3 +18,5 @@
 
 (define-public crate-zenoh-buffers-0.11.0-rc.3 (c (n "zenoh-buffers") (v "0.11.0-rc.3") (d (list (d (n "rand") (r "^0.8.5") (o #t) (k 0)) (d (n "zenoh-collections") (r "^0.11.0-rc.3") (k 0)))) (h "1zn77n1z3dwgxaiwrsh0ls2wvq3p41yf05hcy2nacl4im35v971l") (f (quote (("test" "rand") ("std") ("shared-memory") ("default" "std")))) (r "1.72.0")))
 
+(define-public crate-zenoh-buffers-0.11.0 (c (n "zenoh-buffers") (v "0.11.0") (d (list (d (n "rand") (r "^0.8.5") (o #t) (k 0)) (d (n "zenoh-collections") (r "^0.11.0") (k 0)))) (h "1q557zp88jwm903pic40dqvl7km4wqynlxsh2bq9xlvg7dm0yhif") (f (quote (("test" "rand") ("std") ("shared-memory") ("default" "std")))) (r "1.72.0")))
+

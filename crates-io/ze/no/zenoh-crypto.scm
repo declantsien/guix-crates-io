@@ -18,3 +18,5 @@
 
 (define-public crate-zenoh-crypto-0.11.0-rc.3 (c (n "zenoh-crypto") (v "0.11.0-rc.3") (d (list (d (n "aes") (r "^0.8.2") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (f (quote ("std"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("default"))) (k 0)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 0)) (d (n "sha3") (r "^0.10.6") (d #t) (k 0)) (d (n "zenoh-result") (r "^0.11.0-rc.3") (f (quote ("default"))) (k 0)))) (h "0m2gm5cd3nsb85m65gg6qjciiipvdfpsk74gqhpfn6yi1d3c5can") (r "1.72.0")))
 
+(define-public crate-zenoh-crypto-0.11.0 (c (n "zenoh-crypto") (v "0.11.0") (d (list (d (n "aes") (r "^0.8.2") (d #t) (k 0)) (d (n "hmac") (r "^0.12.1") (f (quote ("std"))) (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (f (quote ("default"))) (k 0)) (d (n "rand_chacha") (r "^0.3.1") (d #t) (k 0)) (d (n "sha3") (r "^0.10.6") (d #t) (k 0)) (d (n "zenoh-result") (r "^0.11.0") (f (quote ("default"))) (k 0)))) (h "1apxzdkf5wrv2i7d3r8b4mpaqq2bj9pg7khgn2gggmz8p691715h") (r "1.72.0")))
+

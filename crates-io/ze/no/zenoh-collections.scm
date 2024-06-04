@@ -18,3 +18,5 @@
 
 (define-public crate-zenoh-collections-0.11.0-rc.3 (c (n "zenoh-collections") (v "0.11.0-rc.3") (h "0v00kqd5ia1w9dw14rqyhnpp0rxvc6cpixqcn97v8nha5dm2gjxp") (f (quote (("std") ("default" "std")))) (r "1.72.0")))
 
+(define-public crate-zenoh-collections-0.11.0 (c (n "zenoh-collections") (v "0.11.0") (h "1pc3brpvkrz1jf0llw6ywh0yr6zb3w8jbcz418rch7r7ykysggm1") (f (quote (("std") ("default" "std")))) (r "1.72.0")))
+

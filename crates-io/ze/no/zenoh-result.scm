@@ -16,3 +16,5 @@
 
 (define-public crate-zenoh-result-0.11.0-rc.3 (c (n "zenoh-result") (v "0.11.0-rc.3") (d (list (d (n "anyhow") (r "^1.0.69") (k 0)))) (h "1z9gj2jd89fgf2hkwvl9b5aahgz0mdzln94ahafbyqpxgpahqmyg") (f (quote (("std" "anyhow/std") ("default" "std")))) (r "1.72.0")))
 
+(define-public crate-zenoh-result-0.11.0 (c (n "zenoh-result") (v "0.11.0") (d (list (d (n "anyhow") (r "^1.0.69") (k 0)))) (h "0zn61aqk68qv8wfzmziq1513r8k7iqqwm83xi58dd4diapkw2v3l") (f (quote (("std" "anyhow/std") ("default" "std")))) (r "1.72.0")))
+
