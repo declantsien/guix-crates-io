@@ -14,3 +14,5 @@
 
 (define-public crate-lieval-0.2.3 (c (n "lieval") (v "0.2.3") (h "0lj9q62qln835k6i3icn2ni8xky7z2vfcz53hi02xvs2pkp5yh71")))
 
+(define-public crate-lieval-0.2.4 (c (n "lieval") (v "0.2.4") (d (list (d (n "fxhash") (r "^0.2") (o #t) (d #t) (k 0)))) (h "16xz61crmrxs4rnih9z06rpbm1ym59i6mlmha71fylqamciwjwp8") (f (quote (("default")))) (s 2) (e (quote (("fxhash" "dep:fxhash"))))))
+
