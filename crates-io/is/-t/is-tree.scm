@@ -10,3 +10,5 @@
 
 (define-public crate-is-tree-0.9.2 (c (n "is-tree") (v "0.9.2") (d (list (d (n "enum-as-inner") (r "^0.6.0") (d #t) (k 0)) (d (n "is-tree-macro") (r "^0.9.2") (d #t) (k 0)))) (h "1fhb35hqmzfpfv27vb10z75x30slccyzkrljz6vykajjyak4basv")))
 
+(define-public crate-is-tree-0.9.3 (c (n "is-tree") (v "0.9.3") (d (list (d (n "enum-as-inner") (r "^0.6.0") (d #t) (k 0)) (d (n "is-tree-macro") (r "^0.9.3") (d #t) (k 0)))) (h "0vd6bbjw8l8rn7d93graim8kvyclycrhk9lm6sjhca5m7ykl8d6c")))
+

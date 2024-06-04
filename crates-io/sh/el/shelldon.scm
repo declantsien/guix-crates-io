@@ -1,0 +1,4 @@
+(define-module (crates-io sh el shelldon) #:use-module (crates-io))
+
+(define-public crate-shelldon-0.1.0 (c (n "shelldon") (v "0.1.0") (d (list (d (n "async-openai") (r "^0.21.0") (d #t) (k 0)) (d (n "async-stream") (r "^0.3.5") (d #t) (k 0)) (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "comfy-table") (r "^7.1.1") (d #t) (k 0)) (d (n "derive_more") (r "^0.99.17") (f (quote ("from" "display"))) (d #t) (k 0)) (d (n "dialoguer") (r "^0.11.0") (d #t) (k 0)) (d (n "dirs") (r "^5.0.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "tokio") (r "^1.38.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1bdlwn621ivb6z8wvqnfpyw0z0c3pwg3rjkcwzwwybbgy0yg0a4d")))
+

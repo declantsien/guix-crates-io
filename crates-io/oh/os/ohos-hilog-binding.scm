@@ -4,3 +4,5 @@
 
 (define-public crate-ohos-hilog-binding-0.0.2 (c (n "ohos-hilog-binding") (v "0.0.2") (d (list (d (n "ohos-hilogs-sys") (r "^0.0.1") (d #t) (k 0)))) (h "156s90ggsfb1bsc3ic54clnk1wc0mkm50a8swbxak5jyyss65cwv")))
 
+(define-public crate-ohos-hilog-binding-0.0.3 (c (n "ohos-hilog-binding") (v "0.0.3") (d (list (d (n "ohos-hilogs-sys") (r "^0.0.1") (d #t) (k 0)))) (h "032jyd1dbb2acpz5gzllwvq2cjq36n489gp8jqhzl2xq0fqrvzfc")))
+

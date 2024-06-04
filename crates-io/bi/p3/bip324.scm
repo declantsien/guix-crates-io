@@ -6,3 +6,5 @@
 
 (define-public crate-bip324-0.3.0 (c (n "bip324") (v "0.3.0") (d (list (d (n "bitcoin") (r "^0.32.0") (k 0)) (d (n "hex") (r "^0.2.0") (d #t) (k 2) (p "hex-conservative")) (d (n "rand") (r "^0.8.0") (k 0)))) (h "1biv0adcfmry9qplqibiid307sfznjx2zv0a0rwqd2d21vd5xllw") (f (quote (("std" "alloc" "bitcoin/std" "rand/std" "rand/std_rng") ("default" "std") ("alloc")))) (r "1.56.1")))
 
+(define-public crate-bip324-0.3.1 (c (n "bip324") (v "0.3.1") (d (list (d (n "bitcoin") (r "^0.32.0") (k 0)) (d (n "hex") (r "^0.2.0") (d #t) (k 2) (p "hex-conservative")) (d (n "rand") (r "^0.8.0") (k 0)))) (h "14gw3vgmn4bjhqw8bk7grrx63mj519kscyxklczd93kapsymq86j") (f (quote (("std" "alloc" "bitcoin/std" "rand/std" "rand/std_rng") ("default" "std") ("alloc")))) (r "1.56.1")))
+
