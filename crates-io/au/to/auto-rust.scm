@@ -8,3 +8,5 @@
 
 (define-public crate-auto-rust-0.1.3 (c (n "auto-rust") (v "0.1.3") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "reqwest") (r "^0.11.22") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.193") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.193") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 0)) (d (n "syn") (r "^2.0.39") (f (quote ("full"))) (d #t) (k 0)))) (h "17l3b12s785v466zl620q764gln12vxf0wfjfwsxbm1766r1whx3")))
 
+(define-public crate-auto-rust-0.1.4 (c (n "auto-rust") (v "0.1.4") (d (list (d (n "dotenv") (r "^0.15.0") (d #t) (k 0)) (d (n "hyperpolyglot") (r "^0.1.7") (d #t) (k 0)) (d (n "ignore") (r "^0.4.22") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("blocking" "json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.203") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (f (quote ("full"))) (d #t) (k 0)))) (h "1x1xp0504yxlqhrcy0syji27rmjrzh9rkg0hr2vcrkbav2x8s52a")))
+
