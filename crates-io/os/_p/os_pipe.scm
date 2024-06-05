@@ -54,3 +54,5 @@
 
 (define-public crate-os_pipe-1.1.5 (c (n "os_pipe") (v "1.1.5") (d (list (d (n "libc") (r "^0.2.62") (d #t) (t "cfg(not(windows))") (k 0)) (d (n "windows-sys") (r "^0.52.0") (f (quote ("Win32_Foundation" "Win32_System_Pipes" "Win32_Security" "Win32_System_Threading"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1fcgfg3ddnsh6vfhkk579p7z786kh1khb1dar4g4k1iri4xrq4ap") (f (quote (("io_safety"))))))
 
+(define-public crate-os_pipe-1.2.0 (c (n "os_pipe") (v "1.2.0") (d (list (d (n "libc") (r "^0.2.62") (d #t) (t "cfg(not(windows))") (k 0)) (d (n "windows-sys") (r "^0.52.0") (f (quote ("Win32_Foundation" "Win32_System_Pipes" "Win32_Security"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0292yfjc5dj4j60im9md05sbl8gyvknspl810lxw3ypqval3pmr9") (f (quote (("io_safety")))) (r "1.63")))
+
