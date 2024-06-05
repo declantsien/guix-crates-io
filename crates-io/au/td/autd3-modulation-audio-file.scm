@@ -164,3 +164,5 @@
 
 (define-public crate-autd3-modulation-audio-file-25.0.0-rc.7 (c (n "autd3-modulation-audio-file") (v "25.0.0-rc.7") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 2)) (d (n "autd3-driver") (r "^25.0.0-rc.7") (d #t) (k 0)) (d (n "hound") (r "^3.5.0") (d #t) (k 0)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "tempfile") (r "^3.9.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "wav_io") (r "^0.1.8") (d #t) (k 0)))) (h "13ml5mf2wh06p61wlnj4yplwn9lyij88qfqvx0r3dh6d2p4lm5rg") (f (quote (("default") ("async-trait" "autd3-driver/async-trait"))))))
 
+(define-public crate-autd3-modulation-audio-file-25.0.0-rc.8 (c (n "autd3-modulation-audio-file") (v "25.0.0-rc.8") (d (list (d (n "anyhow") (r "^1.0.79") (d #t) (k 2)) (d (n "autd3-driver") (r "^25.0.0-rc.8") (d #t) (k 0)) (d (n "hound") (r "^3.5.0") (d #t) (k 0)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "tempfile") (r "^3.9.0") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "wav_io") (r "^0.1.8") (d #t) (k 0)))) (h "1d5mp7qnf5qd7zppazbmywvzw22zjl7nhyhx1hqvlskp2k3kbzkc") (f (quote (("default") ("async-trait" "autd3-driver/async-trait"))))))
+
