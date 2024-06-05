@@ -10,3 +10,5 @@
 
 (define-public crate-regect-0.1.4 (c (n "regect") (v "0.1.4") (d (list (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.3") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "tui-textarea") (r "^0.4.0") (d #t) (k 0)))) (h "1a7ww5gflp62c045jwza9vh9iraxmlynbwindmnagynr4d9ilbv3")))
 
+(define-public crate-regect-0.1.5 (c (n "regect") (v "0.1.5") (d (list (d (n "atty") (r "^0.2.14") (d #t) (k 0)) (d (n "crossterm") (r "^0.27.0") (d #t) (k 0)) (d (n "ratatui") (r "^0.26.3") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "tui-textarea") (r "^0.4.0") (d #t) (k 0)))) (h "0gffnb9c5zgy9456qy8088010s5xg1za9wnq31qcx7cd3gzrj5vq")))
+

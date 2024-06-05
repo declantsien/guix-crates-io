@@ -36,3 +36,5 @@
 
 (define-public crate-goup-downloader-0.9.0 (c (n "goup-downloader") (v "0.9.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "goup-version") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("blocking" "rustls-tls-native-roots" "json"))) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)) (d (n "zip") (r "^2.0") (d #t) (k 0)))) (h "1dal7kv151wcm1hhcp7sj5d0a6ngw4qbabs5va5sh4rhz6z8609i") (r "1.74")))
 
+(define-public crate-goup-downloader-0.9.1 (c (n "goup-downloader") (v "0.9.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "flate2") (r "^1.0") (d #t) (k 0)) (d (n "goup-version") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("blocking" "rustls-tls-native-roots" "json"))) (k 0)) (d (n "sha2") (r "^0.10") (d #t) (k 0)) (d (n "tar") (r "^0.4") (d #t) (k 0)) (d (n "zip") (r "^2.0") (d #t) (k 0)))) (h "1czn60d4fgr4p53vj2890fsmx0w0sm6m4293c7pssphyxxv476v3") (r "1.74")))
+
