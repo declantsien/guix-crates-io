@@ -24,3 +24,5 @@
 
 (define-public crate-strmath-0.4.6 (c (n "strmath") (v "0.4.6") (h "1x5ahdplz2kp57slp973jfns7mrfgcgk67b6zch1jsvpb27a066z") (f (quote (("sub") ("rem") ("mul") ("math" "add" "sub" "mul" "div" "rem") ("full" "math" "display") ("div") ("display") ("add"))))))
 
+(define-public crate-strmath-0.4.7 (c (n "strmath") (v "0.4.7") (h "19az7x6klanqhzb6ms84gwkj75v9ky3xl8w1qpch8b5b2dm6jmck") (f (quote (("sub") ("rem") ("mul") ("math" "add" "sub" "mul" "div" "rem") ("full" "math" "display") ("div") ("display") ("add"))))))
+

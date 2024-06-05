@@ -18,3 +18,5 @@
 
 (define-public crate-girolle_macro-1.6.0 (c (n "girolle_macro") (v "1.6.0") (d (list (d (n "proc-macro2") (r "^1.0.83") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "syn") (r "^2.0.65") (f (quote ("fold" "full"))) (d #t) (k 0)))) (h "1q8gs723hk889xjkxd31bd2x11kjnsll4h0grggb53sj1v6g2609")))
 
+(define-public crate-girolle_macro-1.6.1 (c (n "girolle_macro") (v "1.6.1") (d (list (d (n "proc-macro2") (r "^1.0.83") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "syn") (r "^2.0.65") (f (quote ("fold" "full"))) (d #t) (k 0)))) (h "1lizaaya26wlnj12f1ca4i9vyphzgy23y875pbmrr5sw5g5l81gl")))
+

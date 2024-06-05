@@ -44,3 +44,5 @@
 
 (define-public crate-piecrust-uplink-0.12.0 (c (n "piecrust-uplink") (v "0.12.0") (d (list (d (n "bytecheck") (r "^0.6") (k 0)) (d (n "dlmalloc") (r "^0.2") (f (quote ("global"))) (o #t) (d #t) (k 0)) (d (n "rkyv") (r "^0.7") (f (quote ("size_32" "alloc" "validation"))) (k 0)))) (h "12cd21hbr4xq0gih3pfslckfkn16w4xyk0jfd7l51jj06cq6f5b1") (f (quote (("debug") ("abi"))))))
 
+(define-public crate-piecrust-uplink-0.13.0 (c (n "piecrust-uplink") (v "0.13.0") (d (list (d (n "bytecheck") (r "^0.6") (k 0)) (d (n "dlmalloc") (r "^0.2") (f (quote ("global"))) (o #t) (d #t) (k 0)) (d (n "rkyv") (r "^0.7") (f (quote ("size_32" "alloc" "validation"))) (k 0)))) (h "13b66y6b5b2qir7h7im4fqplfksgba03mcw8674kybby9702v0j3") (f (quote (("debug") ("abi"))))))
+
