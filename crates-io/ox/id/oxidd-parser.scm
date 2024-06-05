@@ -2,3 +2,5 @@
 
 (define-public crate-oxidd-parser-0.1.0 (c (n "oxidd-parser") (v "0.1.0") (d (list (d (n "bitvec") (r "^1") (d #t) (k 0)) (d (n "codespan-reporting") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "derive_builder") (r "^0.12") (d #t) (k 0)) (d (n "document-features") (r "^0.2") (d #t) (k 0)) (d (n "memchr") (r "^2") (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "rustc-hash") (r "^1") (d #t) (k 0)))) (h "03gz2mlf8xxhgq9k164a8zm74lddflp78z4nhfc6xxndwf0wy0m7") (f (quote (("default" "load-file")))) (s 2) (e (quote (("load-file" "dep:codespan-reporting"))))))
 
+(define-public crate-oxidd-parser-0.2.0 (c (n "oxidd-parser") (v "0.2.0") (d (list (d (n "bitvec") (r "^1") (d #t) (k 0)) (d (n "codespan-reporting") (r "^0.11") (o #t) (d #t) (k 0)) (d (n "derive_builder") (r "^0.20") (d #t) (k 0)) (d (n "document-features") (r "^0.2") (d #t) (k 0)) (d (n "memchr") (r "^2") (d #t) (k 0)) (d (n "nom") (r "^7") (d #t) (k 0)) (d (n "rustc-hash") (r "^1") (d #t) (k 0)))) (h "0zyvzqdvwvb5rbgpli6c8fa5sfly1wrz4cax20lbd90djmgh7vkh") (f (quote (("default" "load-file")))) (s 2) (e (quote (("load-file" "dep:codespan-reporting"))))))
+

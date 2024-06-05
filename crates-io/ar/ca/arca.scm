@@ -32,3 +32,5 @@
 
 (define-public crate-arca-0.5.0 (c (n "arca") (v "0.5.0") (d (list (d (n "clean-path") (r "^0.2.1") (d #t) (k 0)) (d (n "napi") (r "^2.13.1") (o #t) (k 0)) (d (n "path-slash") (r "^0.2.1") (d #t) (k 0)) (d (n "radix_trie") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.163") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 2)))) (h "0pmazzanbs8c8n9y7bs0880lh6nysy8q59skllvi5vj8s94z2sxh") (s 2) (e (quote (("serde" "dep:serde_derive" "dep:serde") ("napi" "dep:napi"))))))
 
+(define-public crate-arca-0.6.0 (c (n "arca") (v "0.6.0") (d (list (d (n "clean-path") (r "^0.2.1") (d #t) (k 0)) (d (n "napi") (r "^2.13.1") (o #t) (k 0)) (d (n "path-slash") (r "^0.2.1") (d #t) (k 0)) (d (n "radix_trie") (r "^0.2.1") (d #t) (k 0)) (d (n "serde") (r "^1.0.163") (o #t) (d #t) (k 0)) (d (n "serde_derive") (r "^1.0.163") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 2)))) (h "1zsf5a17700hw66h3fm4k8v1316qmjfx719yzvfvrf2cfb4x6x64") (s 2) (e (quote (("serde" "dep:serde_derive" "dep:serde") ("napi" "dep:napi"))))))
+

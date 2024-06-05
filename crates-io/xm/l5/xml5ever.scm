@@ -62,3 +62,5 @@
 
 (define-public crate-xml5ever-0.18.0 (c (n "xml5ever") (v "0.18.0") (d (list (d (n "criterion") (r "^0.3") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mac") (r "^0.1") (d #t) (k 0)) (d (n "markup5ever") (r "^0.12") (d #t) (k 0)) (d (n "rustc-test") (r "^0.3") (d #t) (k 2)))) (h "1bbz8cjxc3vc0689blq3z9k02vsmrvskw3720c973pq9xmv6ydvw")))
 
+(define-public crate-xml5ever-0.18.1 (c (n "xml5ever") (v "0.18.1") (d (list (d (n "criterion") (r "^0.5") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "mac") (r "^0.1") (d #t) (k 0)) (d (n "markup5ever") (r "^0.12") (d #t) (k 0)))) (h "0sdz92vrcxfwv7yzai28y0wa9gswr6msjnksak0rp4cfbm02dfwv") (f (quote (("trace_tokenizer"))))))
+
