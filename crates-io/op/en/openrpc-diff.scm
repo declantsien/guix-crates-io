@@ -1,0 +1,4 @@
+(define-module (crates-io op en openrpc-diff) #:use-module (crates-io))
+
+(define-public crate-openrpc-diff-0.1.0 (c (n "openrpc-diff") (v "0.1.0") (d (list (d (n "anyhow") (r "^1.0.86") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "either") (r "^1.12.0") (d #t) (k 0)) (d (n "itertools") (r "^0.13.0") (d #t) (k 0)) (d (n "json-schema-diff") (r "^0.1.7") (d #t) (k 0)) (d (n "nunny") (r "^0.2.1") (d #t) (k 0)) (d (n "openrpc-types") (r "^0.2.1") (d #t) (k 0)) (d (n "schemars") (r "^0.8.21") (k 0)) (d (n "serde") (r "^1.0.202") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "serde_path_to_error") (r "^0.1.16") (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.34") (d #t) (k 0)))) (h "0iwdligsvv5g6bmpy1kpczf4dfsilx1n58cynvh33fdpk4yahn7v")))
+

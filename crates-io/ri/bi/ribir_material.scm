@@ -54,3 +54,5 @@
 
 (define-public crate-ribir_material-0.2.0 (c (n "ribir_material") (v "0.2.0") (d (list (d (n "ribir_core") (r "^0.2.0") (d #t) (k 0)) (d (n "ribir_widgets") (r "^0.2.0") (d #t) (k 0)))) (h "08ygyibh2jci6mdv1fc3qxmf36byc5ahqvisa77qfi5hjcqwi0jy")))
 
+(define-public crate-ribir_material-0.3.0-beta.2 (c (n "ribir_material") (v "0.3.0-beta.2") (d (list (d (n "ribir_core") (r "^0.3.0-beta.2") (d #t) (k 0)) (d (n "ribir_widgets") (r "^0.3.0-beta.2") (d #t) (k 0)))) (h "1n06xkf141bwijngsdq7fnh9wfscpcy3r7j17302b0sg573jvmp8")))
+

@@ -54,3 +54,5 @@
 
 (define-public crate-ribir_widgets-0.2.0 (c (n "ribir_widgets") (v "0.2.0") (d (list (d (n "lyon_algorithms") (r "^1.0.1") (d #t) (k 0)) (d (n "lyon_path") (r "^1.0.1") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 2)) (d (n "ribir_core") (r "^0.2.0") (d #t) (k 0)) (d (n "ribir_geom") (r "^0.2.0") (d #t) (k 0)) (d (n "webbrowser") (r "^0.8.8") (d #t) (k 0)) (d (n "winit") (r "^0.29.5") (f (quote ("x11" "wayland" "wayland-dlopen" "rwh_05"))) (k 2)))) (h "17vk4fmmmmqdbjp4gp29kygw4g0yngizzflq5wyp42nzrw2m2kbf")))
 
+(define-public crate-ribir_widgets-0.3.0-beta.2 (c (n "ribir_widgets") (v "0.3.0-beta.2") (d (list (d (n "lyon_algorithms") (r "^1.0.1") (d #t) (k 0)) (d (n "lyon_path") (r "^1.0.1") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 2)) (d (n "ribir_core") (r "^0.3.0-beta.2") (d #t) (k 0)) (d (n "ribir_geom") (r "^0.3.0-beta.2") (d #t) (k 0)) (d (n "webbrowser") (r "^0.8.8") (d #t) (k 0)) (d (n "winit") (r "^0.29.5") (f (quote ("x11" "wayland" "wayland-dlopen" "rwh_06"))) (k 2)))) (h "0c0anbr65sggq825vb18dzb0nhs71m3cfsk0dhj6yns7781n7sqy")))
+

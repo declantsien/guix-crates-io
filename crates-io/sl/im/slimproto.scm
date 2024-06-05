@@ -30,3 +30,5 @@
 
 (define-public crate-slimproto-0.1.14 (c (n "slimproto") (v "0.1.14") (d (list (d (n "bitflags") (r "^2.4.0") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "framous") (r "^0.1.3") (d #t) (k 0)) (d (n "mac_address") (r "^1.1.5") (d #t) (k 0)) (d (n "socket-server-mocker") (r "^0.0.4") (d #t) (k 2)))) (h "13gdph9lyy6gaz4n6q73n9b8m3drbx33likiryhbmgxdgzjkdqal")))
 
+(define-public crate-slimproto-0.1.15 (c (n "slimproto") (v "0.1.15") (d (list (d (n "bitflags") (r "^2.4.0") (d #t) (k 0)) (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "framous") (r "^0.1.3") (d #t) (k 0)) (d (n "mac_address") (r "^1.1.5") (d #t) (k 0)) (d (n "socket-server-mocker") (r "^0.0.4") (d #t) (k 2)))) (h "0hjlcszlxdqi9xd7mybdjia3r8axbqk0jg0zk3r009740mdn6d05")))
+
