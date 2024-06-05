@@ -22,3 +22,5 @@
 
 (define-public crate-midi2-0.5.3 (c (n "midi2") (v "0.5.3") (d (list (d (n "derive_more") (r "^0.99.17") (f (quote ("from"))) (k 0)) (d (n "midi2_proc") (r "^0.5.3") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "ux") (r "^0.1.6") (d #t) (k 0)))) (h "1pjckaphwpsyccxjl5g91zx56yfgmskh75776zndzdp876ip90ba") (f (quote (("utility") ("ump-stream") ("system-common") ("sysex8") ("sysex7") ("std") ("flex-data") ("default" "std" "ci" "channel-voice2") ("ci" "sysex7") ("channel-voice2") ("channel-voice1"))))))
 
+(define-public crate-midi2-0.5.4 (c (n "midi2") (v "0.5.4") (d (list (d (n "derive_more") (r "^0.99.17") (f (quote ("from"))) (k 0)) (d (n "midi2_proc") (r "^0.5.4") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 2)) (d (n "ux") (r "^0.1.6") (d #t) (k 0)))) (h "1jfgwvsya8swfrrryvsvjhh4vfppb3vsxja3wr804y7mljjva6hx") (f (quote (("utility") ("ump-stream") ("system-common") ("sysex8") ("sysex7") ("std") ("flex-data") ("default" "std" "channel-voice2") ("ci" "sysex7") ("channel-voice2") ("channel-voice1"))))))
+

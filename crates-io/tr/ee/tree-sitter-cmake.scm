@@ -18,3 +18,5 @@
 
 (define-public crate-tree-sitter-cmake-0.4.3 (c (n "tree-sitter-cmake") (v "0.4.3") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "tree-sitter") (r ">=0.22") (d #t) (k 0)))) (h "1ah4qgs3hh7z5c84rqmbxkic6myal3hkimpprw44nds3b5372ywn")))
 
+(define-public crate-tree-sitter-cmake-0.5.0 (c (n "tree-sitter-cmake") (v "0.5.0") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "tree-sitter") (r ">=0.22") (d #t) (k 0)))) (h "09rlc6nr179vkybcx77giqqvpphs4jbmnqjncpqk3hnmj2xvpfmh")))
+

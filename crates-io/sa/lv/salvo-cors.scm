@@ -138,3 +138,5 @@
 
 (define-public crate-salvo-cors-0.68.0 (c (n "salvo-cors") (v "0.68.0") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "salvo_core") (r "^0.68.0") (k 0)) (d (n "salvo_core") (r "^0.68.0") (f (quote ("test"))) (k 2)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "1cr9bv6lyg1cqs4d9197sd8hqk1z64lzgp0ram93aavgc0xscc7n")))
 
+(define-public crate-salvo-cors-0.68.1 (c (n "salvo-cors") (v "0.68.1") (d (list (d (n "bytes") (r "^1") (d #t) (k 0)) (d (n "salvo_core") (r "^0.68.1") (k 0)) (d (n "salvo_core") (r "^0.68.1") (f (quote ("test"))) (k 2)) (d (n "tokio") (r "^1") (f (quote ("macros" "rt-multi-thread"))) (d #t) (k 2)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0g6f2i99mgj8c4wnhfc0g28rhkh59iiiw4hkflds7qxy0x6nk599")))
+

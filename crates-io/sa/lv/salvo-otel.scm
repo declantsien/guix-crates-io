@@ -118,3 +118,5 @@
 
 (define-public crate-salvo-otel-0.68.0 (c (n "salvo-otel") (v "0.68.0") (d (list (d (n "headers03") (r "^0.3") (d #t) (k 0) (p "headers")) (d (n "opentelemetry") (r "^0.23") (f (quote ("metrics"))) (k 0)) (d (n "opentelemetry-http") (r "^0.12") (k 0)) (d (n "opentelemetry-semantic-conventions") (r "^0.15") (k 0)) (d (n "salvo_core") (r "^0.68.0") (k 0)) (d (n "salvo_core") (r "^0.68.0") (f (quote ("test"))) (k 2)) (d (n "tokio") (r "^1") (d #t) (k 2)))) (h "041z7w9fg0bpjl8yl7xsbxbanbp4sbdx0jwhlr632k6dsn98f64d") (f (quote (("default"))))))
 
+(define-public crate-salvo-otel-0.68.1 (c (n "salvo-otel") (v "0.68.1") (d (list (d (n "headers03") (r "^0.3") (d #t) (k 0) (p "headers")) (d (n "opentelemetry") (r "^0.23") (f (quote ("metrics"))) (k 0)) (d (n "opentelemetry-http") (r "^0.12") (k 0)) (d (n "opentelemetry-semantic-conventions") (r "^0.15") (k 0)) (d (n "salvo_core") (r "^0.68.1") (k 0)) (d (n "salvo_core") (r "^0.68.1") (f (quote ("test"))) (k 2)) (d (n "tokio") (r "^1") (d #t) (k 2)))) (h "199zajvsgxc873kw31cw2mzp8spc8n69bxw02b4sjmsgfly1dcmh") (f (quote (("default"))))))
+

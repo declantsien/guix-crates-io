@@ -20,3 +20,5 @@
 
 (define-public crate-midi2_proc-0.5.3 (c (n "midi2_proc") (v "0.5.3") (d (list (d (n "proc-macro2") (r "^1.0.81") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "1ss8qbvs2di3yp66yb2d4w92m95b6xd41kjqraipnnavwrw8b5ix")))
 
+(define-public crate-midi2_proc-0.5.4 (c (n "midi2_proc") (v "0.5.4") (d (list (d (n "proc-macro2") (r "^1.0.81") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "0naqxn66s2b4zmspd4ga7rh0xaiz38b33r06rhcqqvsssnqi8p14")))
+
