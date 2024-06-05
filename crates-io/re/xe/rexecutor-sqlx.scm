@@ -1,0 +1,4 @@
+(define-module (crates-io re xe rexecutor-sqlx) #:use-module (crates-io))
+
+(define-public crate-rexecutor-sqlx-0.1.0 (c (n "rexecutor-sqlx") (v "0.1.0") (d (list (d (n "async-stream") (r "^0.3.5") (d #t) (k 0)) (d (n "async-trait") (r "^0.1.79") (d #t) (k 0)) (d (n "chrono") (r "^0.4.37") (f (quote ("serde"))) (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 0)) (d (n "fxhash") (r "^0.2.1") (d #t) (k 0)) (d (n "rexecutor") (r "^0.1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "sqlx") (r "0.7.*") (f (quote ("postgres" "runtime-tokio-native-tls" "uuid" "json" "chrono" "migrate"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.58") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt" "macros" "sync" "time"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)))) (h "0frvr3qr46zy76rkz33lrw3d80y41gavkmkrzpm85dilfqgpy465")))
+
