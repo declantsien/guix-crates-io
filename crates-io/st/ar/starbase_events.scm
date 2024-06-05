@@ -36,3 +36,5 @@
 
 (define-public crate-starbase_events-0.6.0 (c (n "starbase_events") (v "0.6.0") (d (list (d (n "async-trait") (r "^0.1.80") (d #t) (k 0)) (d (n "miette") (r "^7.2.0") (d #t) (k 0)) (d (n "starbase_macros") (r "^0.6.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 2)) (d (n "tokio") (r "^1.37.0") (f (quote ("io-util" "rt" "sync"))) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 2)))) (h "0ihkhrd7dsry1crirkfl5r4w65vmx4c7lp49i7k4chq7p2q3vcn1")))
 
+(define-public crate-starbase_events-0.6.1 (c (n "starbase_events") (v "0.6.1") (d (list (d (n "async-trait") (r "^0.1.80") (d #t) (k 0)) (d (n "miette") (r "^7.2.0") (d #t) (k 0)) (d (n "starbase_macros") (r "^0.7.0") (f (quote ("events"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 2)) (d (n "tokio") (r "^1.38.0") (f (quote ("io-util" "rt" "sync"))) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 2)))) (h "0kkb04vrjc2flrcn5nsm7pg0k1x8gq5k7zihdnygq41gmn36avn9")))
+

@@ -42,3 +42,5 @@
 
 (define-public crate-starbase_sandbox-0.6.1 (c (n "starbase_sandbox") (v "0.6.1") (d (list (d (n "assert_cmd") (r "^2.0.14") (d #t) (k 0)) (d (n "assert_fs") (r "^1.1.1") (d #t) (k 0)) (d (n "clean-path") (r "^0.2.1") (d #t) (k 0)) (d (n "insta") (r "^1.39.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "starbase_utils") (r "^0.7.2") (k 0)))) (h "0ni9ig0052yd9kdxnmqmq8zsj56phgdpkylyy4hbxgxgcmavv1qf")))
 
+(define-public crate-starbase_sandbox-0.6.2 (c (n "starbase_sandbox") (v "0.6.2") (d (list (d (n "assert_cmd") (r "^2.0.14") (d #t) (k 0)) (d (n "assert_fs") (r "^1.1.1") (d #t) (k 0)) (d (n "clean-path") (r "^0.2.1") (d #t) (k 0)) (d (n "insta") (r "^1.39.0") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "predicates") (r "^3.1.0") (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.4.0") (d #t) (k 0)) (d (n "starbase_utils") (r "^0.7.4") (k 0)))) (h "1f5wi9j45pz1wqdx7n4fxfn38apj9c3lj83s554raf1czhhwrj4x")))
+

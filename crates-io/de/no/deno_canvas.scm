@@ -44,3 +44,5 @@
 
 (define-public crate-deno_canvas-0.23.0 (c (n "deno_canvas") (v "0.23.0") (d (list (d (n "deno_core") (r "^0.283.0") (d #t) (k 0)) (d (n "deno_webgpu") (r "^0.121.0") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("png"))) (k 0)) (d (n "serde") (r "^1.0.149") (f (quote ("derive" "derive"))) (d #t) (k 0)))) (h "1kipvcwywnnxpv84mb2mwyamiw9zrl1cm4959bw6glixqcaqzsdp")))
 
+(define-public crate-deno_canvas-0.24.0 (c (n "deno_canvas") (v "0.24.0") (d (list (d (n "deno_core") (r "^0.284.0") (d #t) (k 0)) (d (n "deno_webgpu") (r "^0.122.0") (d #t) (k 0)) (d (n "image") (r "^0.24.7") (f (quote ("png"))) (k 0)) (d (n "serde") (r "^1.0.149") (f (quote ("derive" "derive"))) (d #t) (k 0)))) (h "0c853vlq3jr9zg9halzl6jx91bmwc49xky9qgypp97xbv3lpy7vk")))
+

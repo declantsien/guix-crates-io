@@ -58,3 +58,5 @@
 
 (define-public crate-starbase_macros-0.6.2 (c (n "starbase_macros") (v "0.6.2") (d (list (d (n "darling") (r "^0.20.9") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.84") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (f (quote ("full"))) (d #t) (k 0)))) (h "1v8a7iqrfj1s1q8y9l411ra0wrq6cqpi8lhn9qqdki24dciixqbj") (f (quote (("tracing"))))))
 
+(define-public crate-starbase_macros-0.7.0 (c (n "starbase_macros") (v "0.7.0") (d (list (d (n "darling") (r "^0.20.9") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.85") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (f (quote ("full"))) (d #t) (k 0)))) (h "055x88flxp493nhl3m5aschxc8cvcwra769bk44hg82wnxkllb85") (f (quote (("tracing") ("events"))))))
+
