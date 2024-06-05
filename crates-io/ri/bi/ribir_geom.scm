@@ -62,3 +62,5 @@
 
 (define-public crate-ribir_geom-0.3.0-beta.1 (c (n "ribir_geom") (v "0.3.0-beta.1") (d (list (d (n "euclid") (r "^0.22.6") (d #t) (k 0)))) (h "054zdnc3phddvxfl5hb7wvnfwsxg4hpc250njf3msc60fqfrm5k4")))
 
+(define-public crate-ribir_geom-0.3.0-beta.2 (c (n "ribir_geom") (v "0.3.0-beta.2") (d (list (d (n "euclid") (r "^0.22.6") (d #t) (k 0)))) (h "03dz3nlcjsw46r13ij050ixqjzgxpkx1v4a5bv012zalhy285pgs")))
+

@@ -62,3 +62,5 @@
 
 (define-public crate-ribir_algo-0.3.0-beta.1 (c (n "ribir_algo") (v "0.3.0-beta.1") (d (list (d (n "ahash") (r "^0.8.11") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1.9") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "triomphe") (r "^0.1.12") (d #t) (k 0)))) (h "09chx5s6nz2ssb372k351ik1y4d1nfwk3gagljapxva4xq0yvap8")))
 
+(define-public crate-ribir_algo-0.3.0-beta.2 (c (n "ribir_algo") (v "0.3.0-beta.2") (d (list (d (n "ahash") (r "^0.8.11") (d #t) (k 0)) (d (n "log") (r "^0.4.14") (d #t) (k 0)) (d (n "scoped_threadpool") (r "^0.1.9") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive" "rc"))) (d #t) (k 0)) (d (n "triomphe") (r "^0.1.12") (d #t) (k 0)))) (h "1nrs525zycp2zbpidc6ax7vycaw0qqwzyh3baxim11dvh6j5gzl2")))
+

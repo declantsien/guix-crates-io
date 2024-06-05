@@ -12,3 +12,5 @@
 
 (define-public crate-lcax_core-2.1.2 (c (n "lcax_core") (v "2.1.2") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "pkg-version") (r "^1.0.0") (d #t) (k 0)) (d (n "rust_iso3166") (r "^0.1.12") (d #t) (k 0)) (d (n "schemars") (r "^0.8.12") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)))) (h "1bnsr6mp00w2mr68gl4jmmqpjb0wqlb29sz9jg6f21r6bfrv4m45")))
 
+(define-public crate-lcax_core-2.2.0 (c (n "lcax_core") (v "2.2.0") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "pkg-version") (r "^1.0.0") (d #t) (k 0)) (d (n "rust_iso3166") (r "^0.1.12") (d #t) (k 0)) (d (n "schemars") (r "^0.8.12") (f (quote ("chrono"))) (d #t) (k 0)) (d (n "serde") (r "^1.0.152") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.93") (d #t) (k 0)))) (h "0s8c77js1936law23igmsn40vrhqfva3zlxvp251hb6xmclc2wq8")))
+

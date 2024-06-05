@@ -46,3 +46,5 @@
 
 (define-public crate-dmidecode-0.8.3 (c (n "dmidecode") (v "0.8.3") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)))) (h "15gvpags63a1nhk5jyybnn8h5g4gw7wbx3wfkga2kxyzzzalrx15") (f (quote (("std") ("default")))) (r "1.62")))
 
+(define-public crate-dmidecode-0.8.4 (c (n "dmidecode") (v "0.8.4") (d (list (d (n "bitflags") (r "^1.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4") (d #t) (k 2)) (d (n "pretty_assertions") (r "^0.6") (d #t) (k 2)))) (h "17fdf158fgjhz90zqvsl5fq4mpwj2wp4wc2qw8lhm5scnbd13na8") (f (quote (("std") ("default")))) (r "1.62")))
+
