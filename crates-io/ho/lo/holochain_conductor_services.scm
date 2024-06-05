@@ -48,3 +48,5 @@
 
 (define-public crate-holochain_conductor_services-0.2.1-rc.1 (c (n "holochain_conductor_services") (v "0.2.1-rc.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "holochain_keystore") (r "^0.3.1-rc.1") (d #t) (k 0)) (d (n "holochain_types") (r "^0.3.1-rc.1") (d #t) (k 0)) (d (n "mockall") (r "^0.11") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0q1sflb6lk8b5p24sbxrza8i4c1lq8vrsh2lq588zhz8ss66z5k2")))
 
+(define-public crate-holochain_conductor_services-0.3.0-dev.6 (c (n "holochain_conductor_services") (v "0.3.0-dev.6") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "async-trait") (r "^0.1") (d #t) (k 0)) (d (n "derive_more") (r "^0.99") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "holochain_keystore") (r "^0.4.0-dev.6") (d #t) (k 0)) (d (n "holochain_types") (r "^0.4.0-dev.6") (d #t) (k 0)) (d (n "mockall") (r "^0.11") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1bl7bypmr6bcs1jk63s3b5zfs7a6w25vpqfldcml3r6mzh7h98j8")))
+

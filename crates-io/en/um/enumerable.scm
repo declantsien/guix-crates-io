@@ -4,3 +4,5 @@
 
 (define-public crate-enumerable-0.2.0 (c (n "enumerable") (v "0.2.0") (d (list (d (n "enumerable_derive") (r "=0.2.0") (d #t) (k 0)))) (h "111dhb8dxzl6pl1sr4gajlr7jibwq7pgbd29zvzwk2z22vg1h4sk")))
 
+(define-public crate-enumerable-0.3.0 (c (n "enumerable") (v "0.3.0") (d (list (d (n "enumerable_derive") (r "=0.3.0") (d #t) (k 0)))) (h "0zpjw7g8liwbjr5w1kik0mjr58vrgjij6alwdsp0lxsx0j4a46c6")))
+

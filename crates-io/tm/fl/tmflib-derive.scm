@@ -10,3 +10,5 @@
 
 (define-public crate-tmflib-derive-0.1.17 (c (n "tmflib-derive") (v "0.1.17") (d (list (d (n "proc-macro2") (r "^1.0.85") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (d #t) (k 0)))) (h "02y5gs7q4d4kgmqwc55s8dkh4kzcchrdyzaxladx8h5888k9pik0")))
 
+(define-public crate-tmflib-derive-0.1.18 (c (n "tmflib-derive") (v "0.1.18") (d (list (d (n "proc-macro2") (r "^1.0.85") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0.66") (d #t) (k 0)))) (h "1z4rsf7ljd371pbwxi2y21dhzhmnd0fqmwqxqhk5b4x9k2wb52ls")))
+

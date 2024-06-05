@@ -102,3 +102,5 @@
 
 (define-public crate-holochain_metrics-0.3.1-rc.0 (c (n "holochain_metrics") (v "0.3.1-rc.0") (d (list (d (n "influxive") (r "=0.0.2-alpha.1") (o #t) (d #t) (k 0)) (d (n "opentelemetry_api") (r "=0.20.0") (f (quote ("metrics"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "116jz7rd5pfzjj3qd7pbx2qrq613drijhjh6rcayjrq1wjsrdhkj") (f (quote (("default" "influxive"))))))
 
+(define-public crate-holochain_metrics-0.4.0-dev.2 (c (n "holochain_metrics") (v "0.4.0-dev.2") (d (list (d (n "influxive") (r "=0.0.2-alpha.1") (o #t) (d #t) (k 0)) (d (n "opentelemetry_api") (r "=0.20.0") (f (quote ("metrics"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)))) (h "0sf3hvvfv87hd40a3szilapxjf1wpx17xr17ikqb8w2cs60h0wxy") (f (quote (("default" "influxive"))))))
+

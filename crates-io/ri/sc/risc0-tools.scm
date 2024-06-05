@@ -78,3 +78,5 @@
 
 (define-public crate-risc0-tools-1.0.0 (c (n "risc0-tools") (v "1.0.0") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "risc0-zkvm") (r "^1.0.0") (f (quote ("default"))) (k 0)) (d (n "tempfile") (r "^3.3") (d #t) (k 2)))) (h "1nbsbwnvd04prvzfnk1b31pb0cw3i9sv63qpjc3vcc4as15yzhh9")))
 
+(define-public crate-risc0-tools-1.0.1 (c (n "risc0-tools") (v "1.0.1") (d (list (d (n "assert_cmd") (r "^2.0") (d #t) (k 2)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "risc0-zkvm") (r "^1.0.1") (f (quote ("default"))) (k 0)) (d (n "tempfile") (r "^3.3") (d #t) (k 2)))) (h "1v1raikh3fgggv5phvl6pabr5qq4x9wdr034kjdpp16id1cr3x50")))
+

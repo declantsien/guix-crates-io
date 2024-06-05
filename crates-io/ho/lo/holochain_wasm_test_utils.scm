@@ -346,3 +346,5 @@
 
 (define-public crate-holochain_wasm_test_utils-0.3.1-rc.1 (c (n "holochain_wasm_test_utils") (v "0.3.1-rc.1") (d (list (d (n "holochain_types") (r "^0.3.1-rc.1") (d #t) (k 0)) (d (n "holochain_util") (r "^0.3.1-rc.0") (d #t) (k 0)) (d (n "strum") (r "^0.18.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.18.0") (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 1)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 1)))) (h "03q4ldz374xlxfrybcjgbf991p0d2rfsqj4svn2l3rgadpk2c3m4") (f (quote (("only_check") ("default") ("build"))))))
 
+(define-public crate-holochain_wasm_test_utils-0.4.0-dev.6 (c (n "holochain_wasm_test_utils") (v "0.4.0-dev.6") (d (list (d (n "holochain_types") (r "^0.4.0-dev.6") (d #t) (k 0)) (d (n "holochain_util") (r "^0.4.0-dev.1") (d #t) (k 0)) (d (n "strum") (r "^0.18.0") (d #t) (k 0)) (d (n "strum_macros") (r "^0.18.0") (d #t) (k 0)) (d (n "toml") (r "^0.8") (d #t) (k 1)) (d (n "walkdir") (r "^2.3.1") (d #t) (k 1)))) (h "1cnw552gzv0zc6jmbgpw7g6flcwpg34kbgjk1926263n9cdczac0") (f (quote (("only_check") ("default") ("build"))))))
+
