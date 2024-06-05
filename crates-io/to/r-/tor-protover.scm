@@ -40,3 +40,5 @@
 
 (define-public crate-tor-protover-0.18.0 (c (n "tor-protover") (v "0.18.0") (d (list (d (n "caret") (r "^0.4.5") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0d1vmlx704ri1a1iqdklz6qqqr3d4xd3vwbnnq9kclya0niz2nnf") (f (quote (("full" "caret/full")))) (r "1.70")))
 
+(define-public crate-tor-protover-0.19.0 (c (n "tor-protover") (v "0.19.0") (d (list (d (n "caret") (r "^0.4.5") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "02zdgb25rggnhxlsyhyiiilv59vpiy8fzvsdq9zp5dixabcmvbri") (f (quote (("full" "caret/full")))) (r "1.70")))
+

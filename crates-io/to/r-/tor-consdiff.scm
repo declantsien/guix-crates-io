@@ -48,3 +48,5 @@
 
 (define-public crate-tor-consdiff-0.18.0 (c (n "tor-consdiff") (v "0.18.0") (d (list (d (n "digest") (r "^0.10.0") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tor-llcrypto") (r "^0.18.0") (d #t) (k 0)))) (h "1r9icnqsv10ky3fkmnb8aqq94x9w5xck56b5g91q3lh42kpcy35n") (f (quote (("slow-diff-apply" "__is_experimental") ("full" "tor-llcrypto/full") ("experimental" "slow-diff-apply") ("default") ("__is_experimental")))) (r "1.70")))
 
+(define-public crate-tor-consdiff-0.19.0 (c (n "tor-consdiff") (v "0.19.0") (d (list (d (n "digest") (r "^0.10.0") (d #t) (k 0)) (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tor-llcrypto") (r "^0.19.0") (d #t) (k 0)))) (h "026yj7y0ldyd5grws46fhaa56gzpaw5l78cs116691si39dmf8z0") (f (quote (("slow-diff-apply" "__is_experimental") ("full" "tor-llcrypto/full") ("experimental" "slow-diff-apply") ("default") ("__is_experimental")))) (r "1.70")))
+

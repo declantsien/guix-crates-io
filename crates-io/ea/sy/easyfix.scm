@@ -80,3 +80,5 @@
 
 (define-public crate-easyfix-0.8.7 (c (n "easyfix") (v "0.8.7") (d (list (d (n "easyfix-dictionary") (r "^0.3.1") (d #t) (k 0)) (d (n "easyfix-macros") (r "^0.1.2") (d #t) (k 0)) (d (n "easyfix-messages") (r "^0.5.4") (d #t) (k 0)) (d (n "easyfix-session") (r "^0.6.7") (d #t) (k 0)))) (h "0732s38d2cvr8f732acd8w24sn4sirgks4zrrfzn8x1h97zz85gp")))
 
+(define-public crate-easyfix-0.8.8 (c (n "easyfix") (v "0.8.8") (d (list (d (n "easyfix-dictionary") (r "^0.3.2") (d #t) (k 0)) (d (n "easyfix-macros") (r "^0.1.2") (d #t) (k 0)) (d (n "easyfix-messages") (r "^0.5.5") (d #t) (k 0)) (d (n "easyfix-session") (r "^0.6.8") (d #t) (k 0)))) (h "1hcap3cwgrd7p0b54q0x9bzczqv7a662ias7xk2q32k7hzspl4db")))
+

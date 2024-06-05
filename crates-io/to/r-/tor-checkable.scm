@@ -50,3 +50,5 @@
 
 (define-public crate-tor-checkable-0.18.0 (c (n "tor-checkable") (v "0.18.0") (d (list (d (n "humantime") (r "^2") (d #t) (k 0)) (d (n "humantime") (r "^2") (d #t) (k 2)) (d (n "signature") (r "^2") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tor-llcrypto") (r "^0.18.0") (d #t) (k 0)))) (h "1793dx9z0rgr8h6invwmd2dhalxl1ml0576jca34wxdkh9yh9f5v") (f (quote (("full" "tor-llcrypto/full") ("experimental-api" "__is_experimental") ("experimental" "experimental-api") ("__is_experimental")))) (r "1.70")))
 
+(define-public crate-tor-checkable-0.19.0 (c (n "tor-checkable") (v "0.19.0") (d (list (d (n "humantime") (r "^2") (d #t) (k 0)) (d (n "humantime") (r "^2") (d #t) (k 2)) (d (n "signature") (r "^2") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tor-llcrypto") (r "^0.19.0") (d #t) (k 0)))) (h "0sbka4gzmd1n2vvni40m0gr1sqb8wgxm80061l508w1d09vhwz45") (f (quote (("full" "tor-llcrypto/full") ("experimental-api" "__is_experimental") ("experimental" "experimental-api") ("__is_experimental")))) (r "1.70")))
+

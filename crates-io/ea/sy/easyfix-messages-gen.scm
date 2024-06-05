@@ -38,3 +38,5 @@
 
 (define-public crate-easyfix-messages-gen-0.5.3 (c (n "easyfix-messages-gen") (v "0.5.3") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "convert_case") (r "^0.5") (d #t) (k 0)) (d (n "easyfix-dictionary") (r "^0.3.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)))) (h "135bpkwi9zz18r12sab0vfh77659rn30gapd4q9dp80g8cqmv87z")))
 
+(define-public crate-easyfix-messages-gen-0.5.4 (c (n "easyfix-messages-gen") (v "0.5.4") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "convert_case") (r "^0.6") (d #t) (k 0)) (d (n "easyfix-dictionary") (r "^0.3.2") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)))) (h "0gp5qzq4jwjny2ldsplp5nj09y27dk1qn88lcd3pk9sky7zfqcvw")))
+

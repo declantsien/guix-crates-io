@@ -12,3 +12,5 @@
 
 (define-public crate-easyfix-dictionary-0.3.1 (c (n "easyfix-dictionary") (v "0.3.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "xmltree") (r "^0.10") (d #t) (k 0)))) (h "11zrqn0sli7n061wz5m9w259qbiv143y0h8r8rysxxm2m87vj66j")))
 
+(define-public crate-easyfix-dictionary-0.3.2 (c (n "easyfix-dictionary") (v "0.3.2") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "xmltree") (r "^0.10") (d #t) (k 0)))) (h "0hp90h2ck1r4mq89453pqli7qwgkmn6rhqfb738p3mrkwxazi3rr")))
+
