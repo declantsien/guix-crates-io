@@ -8,3 +8,5 @@
 
 (define-public crate-raxb-0.3.3 (c (n "raxb") (v "0.3.3") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "quick-xml") (r "^0.31") (f (quote ("serialize" "encoding"))) (d #t) (k 0)) (d (n "raxb-derive") (r "^0.3.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0p97lsfmxg3ph4n3dczza3f7bap0223wp5c9nals7wflqx9ys0v4") (r "1.78.0")))
 
+(define-public crate-raxb-0.3.4 (c (n "raxb") (v "0.3.4") (d (list (d (n "anyhow") (r "^1") (d #t) (k 2)) (d (n "quick-xml") (r "^0.31") (f (quote ("serialize" "encoding"))) (d #t) (k 0)) (d (n "raxb-derive") (r "^0.3.4") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "13alib3qfbz3g9wa7m7hbfmhwkf0cfb4frlr6ymnlgnwp65gqpa2") (r "1.78.0")))
+

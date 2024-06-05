@@ -106,3 +106,5 @@
 
 (define-public crate-kani-verifier-0.51.0 (c (n "kani-verifier") (v "0.51.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "home") (r "^0.5") (d #t) (k 0)) (d (n "os_info") (r "^3") (k 0)))) (h "12c9kpncpm76bv4yagbpljmgk57fy6z7189h385wpyayhakm49h7")))
 
+(define-public crate-kani-verifier-0.52.0 (c (n "kani-verifier") (v "0.52.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "home") (r "^0.5") (d #t) (k 0)) (d (n "os_info") (r "^3") (k 0)))) (h "05g7lqvy3id3dympp4idm470xm09bf81x172jj8p2g76r847bal2")))
+

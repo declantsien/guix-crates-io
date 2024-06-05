@@ -16,3 +16,5 @@
 
 (define-public crate-floating-ui-core-0.0.8 (c (n "floating-ui-core") (v "0.0.8") (d (list (d (n "dyn-clone") (r "^1.0.17") (d #t) (k 0)) (d (n "floating-ui-utils") (r "^0.0.8") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)))) (h "0wi6imls6bl9s3jdydr7mwa636ys3y3xd5rvmzki8ch39yd22688")))
 
+(define-public crate-floating-ui-core-0.0.9 (c (n "floating-ui-core") (v "0.0.9") (d (list (d (n "dyn-clone") (r "^1.0.17") (d #t) (k 0)) (d (n "floating-ui-utils") (r "^0.0.9") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.114") (d #t) (k 0)))) (h "0ij2gp64bc2rpz86rkmjl47r8bgja2zn20g8507lb9s3bnvwgq2p")))
+
