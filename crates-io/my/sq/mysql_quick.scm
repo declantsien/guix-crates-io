@@ -30,3 +30,5 @@
 
 (define-public crate-mysql_quick-1.3.0 (c (n "mysql_quick") (v "1.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "mysql") (r "^25") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "03b4iqqvvqq6q3ixcrahc5f8app6vhr2hfawa6bjqbi7mvm7qnkx")))
 
+(define-public crate-mysql_quick-1.3.1 (c (n "mysql_quick") (v "1.3.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "mysql") (r "^25") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "1a8i5mf0a3csjbf88yfmp5h24mqz3ydv2bmz03kbmcpq986mma2c")))
+

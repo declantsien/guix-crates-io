@@ -20,3 +20,5 @@
 
 (define-public crate-rustitude-gluex-0.3.0 (c (n "rustitude-gluex") (v "0.3.0") (d (list (d (n "factorial") (r "^0.4.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.5") (d #t) (k 0)) (d (n "num-complex") (r "^0.4.6") (d #t) (k 0)) (d (n "pyo3") (r "^0.21.2") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "rustitude-core") (r "^1.1.0") (k 0)) (d (n "sphrs") (r "^0.2.2") (d #t) (k 0)))) (h "042b29024w0bkq63rs78sixf3f7bn1kyiya16w44609a7d98p519")))
 
+(define-public crate-rustitude-gluex-0.4.0 (c (n "rustitude-gluex") (v "0.4.0") (d (list (d (n "factorial") (r "^0.4.0") (d #t) (k 0)) (d (n "nalgebra") (r "^0.32.5") (d #t) (k 0)) (d (n "num-complex") (r "^0.4.6") (d #t) (k 0)) (d (n "pyo3") (r "^0.21.2") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (d #t) (k 0)) (d (n "rustitude-core") (r "^2.0.0") (k 0)) (d (n "sphrs") (r "^0.2.2") (d #t) (k 0)))) (h "0grl9gvnn48m8a3lwpn8klmhiaxp14drkwh20q015gnwvgjzcji4")))
+

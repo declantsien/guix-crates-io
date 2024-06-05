@@ -8,3 +8,5 @@
 
 (define-public crate-yaserde-examples-0.10.0 (c (n "yaserde-examples") (v "0.10.0") (d (list (d (n "yaserde") (r "^0.10.0") (f (quote ("yaserde_derive"))) (d #t) (k 0)))) (h "1ngm96xjc3h81hh3jkhagi5c9ayifbinl69mgic2z69f2axqkl06")))
 
+(define-public crate-yaserde-examples-0.10.1 (c (n "yaserde-examples") (v "0.10.1") (d (list (d (n "yaserde") (r "^0.10.1") (f (quote ("yaserde_derive"))) (d #t) (k 0)))) (h "1hrg0i4s07g91z74sdp6pfcrbcwp95axqpkqf67f4szn1ak0lz0x")))
+

@@ -68,3 +68,5 @@
 
 (define-public crate-yaserde_derive-0.10.0 (c (n "yaserde_derive") (v "0.10.0") (d (list (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "~1.0") (d #t) (k 0)) (d (n "quote") (r "~1.0") (d #t) (k 0)) (d (n "syn") (r "~1.0") (f (quote ("visit" "extra-traits"))) (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.3") (d #t) (k 0)))) (h "1v5d6sp3gfc0rf7w29xjcyd4wn7klaady83s1ri5dapvhvfnky0b")))
 
+(define-public crate-yaserde_derive-0.10.1 (c (n "yaserde_derive") (v "0.10.1") (d (list (d (n "heck") (r "^0.4.0") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "~1.0") (d #t) (k 0)) (d (n "quote") (r "~1.0") (d #t) (k 0)) (d (n "syn") (r "~1.0") (f (quote ("visit" "extra-traits"))) (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.3") (d #t) (k 0)))) (h "0n11nw2k5pkkjdclsrwl7ah2gi9xafiv90n8fig7c32d21d7gnnh")))
+

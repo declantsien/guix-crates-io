@@ -66,3 +66,5 @@
 
 (define-public crate-yaserde-0.10.0 (c (n "yaserde") (v "0.10.0") (d (list (d (n "env_logger") (r "^0.11.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.3") (d #t) (k 0)) (d (n "yaserde_derive") (r "^0.10.0") (o #t) (d #t) (k 0)) (d (n "yaserde_derive") (r "^0.10.0") (d #t) (k 2)))) (h "0p53lqyhm8jk29kkl5ymnbvni9k1k2npf19wpmh1l3nfp6g2xxg8")))
 
+(define-public crate-yaserde-0.10.1 (c (n "yaserde") (v "0.10.1") (d (list (d (n "env_logger") (r "^0.11.0") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "xml-rs") (r "^0.8.3") (d #t) (k 0)) (d (n "yaserde_derive") (r "^0.10.1") (o #t) (d #t) (k 0)) (d (n "yaserde_derive") (r "^0.10.1") (d #t) (k 2)))) (h "1dl4isv0qlxyh8mzw1rhbl0nsq0wgyxmcg0ix3gb1xdqfybk9na3")))
+
