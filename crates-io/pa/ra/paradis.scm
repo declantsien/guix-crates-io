@@ -10,3 +10,5 @@
 
 (define-public crate-paradis-0.2.0 (c (n "paradis") (v "0.2.0") (d (list (d (n "divan") (r "^0.1.14") (d #t) (k 2)) (d (n "nalgebra") (r "^0.32.5") (d #t) (k 2)) (d (n "paradis-core") (r "^0.1.0") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (o #t) (d #t) (k 0)))) (h "19y687lnpf4jj6df73di894bbc5mabflsxl12jnhdk5qbwdw5jp5") (s 2) (e (quote (("rayon" "dep:rayon"))))))
 
+(define-public crate-paradis-0.2.1 (c (n "paradis") (v "0.2.1") (d (list (d (n "divan") (r "^0.1.14") (d #t) (k 2)) (d (n "nalgebra") (r "^0.32.5") (d #t) (k 2)) (d (n "paradis-core") (r "^0.1.0") (d #t) (k 0)) (d (n "rayon") (r "^1.10.0") (o #t) (d #t) (k 0)))) (h "1za3aw8a7ffp4n90mcq398v4yx5qb1a833h3ga3a0p5qjkicydnh") (s 2) (e (quote (("rayon" "dep:rayon"))))))
+
