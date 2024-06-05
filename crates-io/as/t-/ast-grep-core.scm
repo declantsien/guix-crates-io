@@ -202,3 +202,5 @@
 
 (define-public crate-ast-grep-core-0.22.5 (c (n "ast-grep-core") (v "0.22.5") (d (list (d (n "bit-set") (r "^0.5.3") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.21.4") (d #t) (k 0) (p "tree-sitter-facade-sg")) (d (n "tree-sitter-typescript") (r "^0.21.1") (d #t) (k 2)))) (h "012mhl4rn515cpaxbq5dv05vkw3cm2qbi9k7liapgjw82a2j0phg") (f (quote (("default" "regex")))) (r "1.67")))
 
+(define-public crate-ast-grep-core-0.22.6 (c (n "ast-grep-core") (v "0.22.6") (d (list (d (n "bit-set") (r "^0.5.3") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (o #t) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)) (d (n "tree-sitter") (r "^0.21.4") (d #t) (k 0) (p "tree-sitter-facade-sg")) (d (n "tree-sitter-typescript") (r "^0.21.1") (d #t) (k 2)))) (h "050vxhdrc765y48qy1wswszlb0c8jy1ajxyc9kr0r6fha7n6harh") (f (quote (("default" "regex")))) (r "1.67")))
+

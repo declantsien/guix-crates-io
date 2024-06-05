@@ -14,3 +14,5 @@
 
 (define-public crate-queue-queue-0.2.0 (c (n "queue-queue") (v "0.2.0") (d (list (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)))) (h "1an5c6vszm97fnzh3di94lv9c036i6favjc9jfsp7gjarv7bp600")))
 
+(define-public crate-queue-queue-0.2.1 (c (n "queue-queue") (v "0.2.1") (d (list (d (n "criterion") (r "^0.4") (f (quote ("html_reports"))) (d #t) (k 2)))) (h "02ccfrfqyn4jjyifrgnsjsbvnngnsnfssqq47n86ij5nw38rg1jz")))
+

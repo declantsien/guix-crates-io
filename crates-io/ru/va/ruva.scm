@@ -120,3 +120,5 @@
 
 (define-public crate-ruva-0.3.27 (c (n "ruva") (v "0.3.27") (d (list (d (n "ruva-core") (r "^0.3.27") (d #t) (k 0)) (d (n "ruva-es") (r "^0.3.27") (d #t) (k 0)) (d (n "ruva-macro") (r "^0.3.27") (d #t) (k 0)) (d (n "serde") (r "^1.0.179") (f (quote ("derive"))) (d #t) (k 2)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)))) (h "1cnm620nfa26gg685s10bxscakbz4pqc6n9np624v33dgb3bijia") (f (quote (("sqlx-postgres" "ruva-core/sqlx-postgres"))))))
 
+(define-public crate-ruva-0.3.28 (c (n "ruva") (v "0.3.28") (d (list (d (n "ruva-core") (r "^0.3.28") (d #t) (k 0)) (d (n "ruva-es") (r "^0.3.28") (d #t) (k 0)) (d (n "ruva-macro") (r "^0.3.28") (d #t) (k 0)) (d (n "serde") (r "^1.0.179") (f (quote ("derive"))) (d #t) (k 2)) (d (n "static_assertions") (r "^1.1.0") (d #t) (k 0)))) (h "1gv8bbq0cgzm1s009whxy90izs9l1z8h1l1p390lzfrcqn68fz9v") (f (quote (("sqlx-postgres" "ruva-core/sqlx-postgres"))))))
+

@@ -142,3 +142,5 @@
 
 (define-public crate-ast-grep-dynamic-0.22.5 (c (n "ast-grep-dynamic") (v "0.22.5") (d (list (d (n "ast-grep-core") (r "^0.22.5") (d #t) (k 0)) (d (n "ignore") (r "^0.4.22") (d #t) (k 0)) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.200") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)) (d (n "tree-sitter-native") (r "^0.21.0") (d #t) (k 0) (p "tree-sitter")))) (h "0l6rm3vg9qf15k3aj8ckjm9bxbnngxz2gfw4j7dqiicizcqbzcdq") (r "1.67")))
 
+(define-public crate-ast-grep-dynamic-0.22.6 (c (n "ast-grep-dynamic") (v "0.22.6") (d (list (d (n "ast-grep-core") (r "^0.22.6") (d #t) (k 0)) (d (n "ignore") (r "^0.4.22") (d #t) (k 0)) (d (n "libloading") (r "^0.8.3") (d #t) (k 0)) (d (n "serde") (r "^1.0.200") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1.0.59") (d #t) (k 0)) (d (n "tree-sitter-native") (r "^0.21.0") (d #t) (k 0) (p "tree-sitter")))) (h "0xrl7zjhzjlx65i8qly7vw6vrmr6zv19z1fldwdhrjnwpg97qkjm") (r "1.67")))
+

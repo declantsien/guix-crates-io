@@ -22,3 +22,5 @@
 
 (define-public crate-orio-0.5.3 (c (n "orio") (v "0.5.3") (d (list (d (n "arrayvec") (r "^0.7") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "orio-derive") (r "^0.5.1") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 0)))) (h "00bqz3k55p8b6p82r5x7g7jbvbvdpd2imhdck6kxvznk71lk7nkq") (f (quote (("usize") ("derive" "orio-derive") ("default" "derive" "usize"))))))
 
+(define-public crate-orio-0.6.0 (c (n "orio") (v "0.6.0") (d (list (d (n "arrayvec") (r "^0.7") (d #t) (k 0)) (d (n "byteorder") (r "^1") (d #t) (k 0)) (d (n "orio-derive") (r "^0.5.1") (o #t) (d #t) (k 0)) (d (n "paste") (r "^1") (d #t) (k 0)) (d (n "utf8-chars") (r "^3") (o #t) (d #t) (k 0)))) (h "11gxsxnaxmf9yyk7644i1g1z0sxyjjm2s2snypa0fj03hwssy3sz") (f (quote (("usize") ("default" "char" "derive" "usize")))) (s 2) (e (quote (("derive" "dep:orio-derive") ("char" "dep:utf8-chars"))))))
+

@@ -8,3 +8,5 @@
 
 (define-public crate-gedv-0.2.1 (c (n "gedv") (v "0.2.1") (d (list (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "windows") (r "^0.54") (f (quote ("Win32_Foundation" "Win32_UI_Input_KeyboardAndMouse"))) (d #t) (t "cfg(windows)") (k 0)))) (h "0hda2i8qqi9g1j3wc78hm578fdsydw2n7gk0pl2vf3sdkfpx2vg3") (s 2) (e (quote (("serde" "dep:serde"))))))
 
+(define-public crate-gedv-0.2.2 (c (n "gedv") (v "0.2.2") (d (list (d (n "num") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "windows") (r "^0") (f (quote ("Win32_Foundation" "Win32_UI_Input_KeyboardAndMouse"))) (d #t) (t "cfg(windows)") (k 0)))) (h "14acaq5ckpz49yjd9l4gwi17rxqrvzhj9jfvyapv6pvyrmwvmnjh") (s 2) (e (quote (("serde" "dep:serde"))))))
+
