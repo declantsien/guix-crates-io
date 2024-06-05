@@ -12,3 +12,5 @@
 
 (define-public crate-ash_api-0.1.5 (c (n "ash_api") (v "0.1.5") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1w52a6xd4d8n5nzvj57m5swi1phs2a3zj7zzak4rind645x8r3hj")))
 
+(define-public crate-ash_api-0.1.6 (c (n "ash_api") (v "0.1.6") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "0pgs9fgmg9gfybc5v00wxq8f6pxs4fi9yvh233crdpxkn3s02c9d")))
+
