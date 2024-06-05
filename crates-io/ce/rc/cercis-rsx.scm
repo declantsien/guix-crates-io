@@ -32,3 +32,5 @@
 
 (define-public crate-cercis-rsx-1.1.0 (c (n "cercis-rsx") (v "1.1.0") (d (list (d (n "cercis") (r "^1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "0f2syd2v7yjlj0igvd326q7x38kx54234r7yqs28bhgvxwghc5k4")))
 
+(define-public crate-cercis-rsx-1.2.0 (c (n "cercis-rsx") (v "1.2.0") (d (list (d (n "cercis") (r "^1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "04z66zax0n568x73x4csf4p4003qrbvhmcmrp2bz9fwz9i05ljcm")))
+

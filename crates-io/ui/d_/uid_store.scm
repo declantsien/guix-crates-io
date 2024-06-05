@@ -22,3 +22,5 @@
 
 (define-public crate-uid_store-0.1.6 (c (n "uid_store") (v "0.1.6") (h "04l3lklwyxdlrvqc2jfwf7c6rssf4wii5x1vcfyq234rn3hx6gn7")))
 
+(define-public crate-uid_store-0.1.7 (c (n "uid_store") (v "0.1.7") (h "0aa7q380n03g9zf7sjf0a8d0shf0hksbq4c9lv0mw2mmwmwh7da7")))
+

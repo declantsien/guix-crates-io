@@ -32,3 +32,5 @@
 
 (define-public crate-cercis-component-1.1.0 (c (n "cercis-component") (v "1.1.0") (d (list (d (n "cercis") (r "^1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "00f10nlipiibiih90kvb17i3sw88v5zhc9mcbyv174zikxhdgld2")))
 
+(define-public crate-cercis-component-1.2.0 (c (n "cercis-component") (v "1.2.0") (d (list (d (n "cercis") (r "^1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full"))) (d #t) (k 0)))) (h "1h8fhgxk9yf4azl9kj1g0nsdawbvkpsyq6brkv017738w0l8np6s")))
+

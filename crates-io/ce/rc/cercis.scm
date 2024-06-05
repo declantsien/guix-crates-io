@@ -36,3 +36,5 @@
 
 (define-public crate-cercis-1.1.0 (c (n "cercis") (v "1.1.0") (d (list (d (n "cercis-component") (r "^1") (d #t) (k 0)) (d (n "cercis-html") (r "^1") (d #t) (k 0)) (d (n "cercis-rsx") (r "^1") (d #t) (k 0)) (d (n "typed-builder") (r "^0.18.2") (d #t) (k 0)))) (h "1jphgizyy0bvc2mxvjnb9fdim70mmfmgpn17vj1mf80p6547wccy")))
 
+(define-public crate-cercis-1.2.0 (c (n "cercis") (v "1.2.0") (d (list (d (n "cercis-component") (r "^1") (d #t) (k 0)) (d (n "cercis-html") (r "^1") (d #t) (k 0)) (d (n "cercis-rsx") (r "^1") (d #t) (k 0)) (d (n "typed-builder") (r "^0.18.2") (d #t) (k 0)))) (h "10k3wxw4288rpgf3qxdfszm5kg93k1idcvq0pvlsf21vmar601ap")))
+

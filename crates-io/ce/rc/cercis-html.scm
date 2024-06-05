@@ -36,3 +36,5 @@
 
 (define-public crate-cercis-html-1.1.0 (c (n "cercis-html") (v "1.1.0") (d (list (d (n "html-escape") (r "^0.2") (d #t) (k 0)))) (h "0awh6r867x2vy0qd7yz4p40gv1bk6hqsx2djkd552k4994xpzbi4")))
 
+(define-public crate-cercis-html-1.2.0 (c (n "cercis-html") (v "1.2.0") (d (list (d (n "html-escape") (r "^0.2") (d #t) (k 0)) (d (n "smallvec") (r "^1") (f (quote ("const_generics"))) (d #t) (k 0)))) (h "0xm1bshzbshjfrsj4zpnv7lmsykg2akm7y65ga5rz1lir2l7b7p9")))
+
