@@ -40,3 +40,5 @@
 
 (define-public crate-yj-1.2.3 (c (n "yj") (v "1.2.3") (d (list (d (n "clap") (r "^4.0") (f (quote ("cargo" "derive" "wrap_help"))) (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("arbitrary_precision" "preserve_order"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "snafu") (r "^0.7.4") (d #t) (k 0)))) (h "0lb9mhxffm4fb3sn7gqkwny6b8ims29f4narq2m1ibg9mbbghx9g")))
 
+(define-public crate-yj-1.2.4 (c (n "yj") (v "1.2.4") (d (list (d (n "clap") (r "^4.5") (f (quote ("cargo" "derive" "wrap_help"))) (d #t) (k 0)) (d (n "exitfailure") (r "^0.5.1") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (f (quote ("arbitrary_precision" "preserve_order"))) (d #t) (k 0)) (d (n "serde_yaml") (r "^0.9.16") (d #t) (k 0)) (d (n "snafu") (r "^0.7.4") (d #t) (k 0)))) (h "0i45z6mc7c0fy22y6n8754bzp7z51rl0yjldlxwv3icf25w5kslq")))
+
