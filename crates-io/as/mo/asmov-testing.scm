@@ -4,3 +4,5 @@
 
 (define-public crate-asmov-testing-0.1.1 (c (n "asmov-testing") (v "0.1.1") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "function_name") (r "^0") (d #t) (k 0)) (d (n "futures") (r "^0") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "rand") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "shutdown_hooks") (r "^0") (d #t) (k 0)) (d (n "sysinfo") (r "^0") (d #t) (k 0)))) (h "1bz871k134zkn89ndlg5qlsyqa4hpvv42k6c8risn9q6lyxg4395")))
 
+(define-public crate-asmov-testing-0.1.2 (c (n "asmov-testing") (v "0.1.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "function_name") (r "^0") (d #t) (k 0)) (d (n "futures") (r "^0") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "rand") (r "^0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "shutdown_hooks") (r "^0") (d #t) (k 0)) (d (n "sysinfo") (r "^0") (d #t) (k 0)))) (h "103vh1ayyqnx4x6ghqhs3axg36g4bn9xf4pw5ay62x1rnhk7692n")))
+

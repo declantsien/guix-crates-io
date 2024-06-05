@@ -100,7 +100,7 @@
 
 (define-public crate-string-patterns-0.3.7 (c (n "string-patterns") (v "0.3.7") (d (list (d (n "regex") (r "1.*") (d #t) (k 0)))) (h "1jsbql24caagddnmn07ynv6n6r0px3aj2mvhv55yj4xq4642vlac") (y #t)))
 
-(define-public crate-string-patterns-0.3.8 (c (n "string-patterns") (v "0.3.8") (d (list (d (n "regex") (r "1.*") (d #t) (k 0)))) (h "18jny85hmg759a15wcvn1d33wlnix6ybr5qk8d1hsz34yy6f9k8d")))
+(define-public crate-string-patterns-0.3.8 (c (n "string-patterns") (v "0.3.8") (d (list (d (n "regex") (r "1.*") (d #t) (k 0)))) (h "18jny85hmg759a15wcvn1d33wlnix6ybr5qk8d1hsz34yy6f9k8d") (y #t)))
 
 (define-public crate-string-patterns-0.3.9 (c (n "string-patterns") (v "0.3.9") (d (list (d (n "regex") (r "1.*") (d #t) (k 0)))) (h "103hq7pg77swds5ry22akllllm9flzffgmmi26n433f7g4n3pzxn")))
 
