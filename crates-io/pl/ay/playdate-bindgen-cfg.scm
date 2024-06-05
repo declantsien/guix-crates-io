@@ -14,3 +14,5 @@
 
 (define-public crate-playdate-bindgen-cfg-0.1.6 (c (n "playdate-bindgen-cfg") (v "0.1.6") (d (list (d (n "clap") (r "^4.5") (f (quote ("std" "env" "derive" "help"))) (o #t) (d #t) (k 0)))) (h "0jbjf3grzv490jljd6rscbvxzidv6zi1whbv8nhsbmflhxd8cgw3") (f (quote (("default"))))))
 
+(define-public crate-playdate-bindgen-cfg-0.1.7 (c (n "playdate-bindgen-cfg") (v "0.1.7") (d (list (d (n "clap") (r "^4.5") (f (quote ("std" "env" "derive" "help"))) (o #t) (d #t) (k 0)))) (h "1r2aib6gz8sdnbsx4cx6spx3x8himai9gr65d4lavxdsxb4pncmd") (f (quote (("default"))))))
+

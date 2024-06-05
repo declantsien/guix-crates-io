@@ -6,3 +6,5 @@
 
 (define-public crate-evmole-0.3.3 (c (n "evmole") (v "0.3.3") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "ruint") (r "^1.11.1") (d #t) (k 0)))) (h "1zpmy8lwcdfhb0vxk6x82i1kziryqgm8yddx0yjwnsrh9jphaknd")))
 
+(define-public crate-evmole-0.3.4 (c (n "evmole") (v "0.3.4") (d (list (d (n "hex") (r "^0.4.3") (d #t) (k 2)) (d (n "ruint") (r "^1.11.1") (d #t) (k 0)))) (h "1pbdkzjfgf33zh81im1qj6pk05x31bxq5j3h8bblv1vxfs5c5pjv")))
+
