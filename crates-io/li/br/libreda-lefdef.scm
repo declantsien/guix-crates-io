@@ -6,3 +6,5 @@
 
 (define-public crate-libreda-lefdef-0.0.4 (c (n "libreda-lefdef") (v "0.0.4") (d (list (d (n "byteorder") (r "1.5.*") (d #t) (k 0)) (d (n "itertools") (r "^0.13") (d #t) (k 0)) (d (n "libreda-db") (r "^0.0.12") (d #t) (k 0)) (d (n "libreda-stream-parser") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)))) (h "1maix84fx6plr1km7kkk8w7g65yl7v4bb1vxzb0izb89yvwrzvzb")))
 
+(define-public crate-libreda-lefdef-0.0.5 (c (n "libreda-lefdef") (v "0.0.5") (d (list (d (n "byteorder") (r "1.5.*") (d #t) (k 0)) (d (n "itertools") (r "^0.13") (d #t) (k 0)) (d (n "libreda-db") (r "^0.0.12") (d #t) (k 0)) (d (n "libreda-stream-parser") (r "^0.2") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)))) (h "1sr4bz8aj6ybr8rkb9whkpd8zw2k3f3wfqii8wb8y4ysn4ys88pd")))
+

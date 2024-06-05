@@ -12,3 +12,5 @@
 
 (define-public crate-mmoxi-0.2.2 (c (n "mmoxi") (v "0.2.2") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bstr") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("cargo" "wrap_help"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "1lydr5l59ldc66f6bzgq86nyfrz1xm8p0lgdl7pibb1s2li7qgcy") (r "1.70")))
 
+(define-public crate-mmoxi-0.3.0 (c (n "mmoxi") (v "0.3.0") (d (list (d (n "anyhow") (r "^1") (d #t) (k 0)) (d (n "bstr") (r "^1") (d #t) (k 0)) (d (n "clap") (r "^4") (f (quote ("cargo" "wrap_help"))) (d #t) (k 0)) (d (n "tempfile") (r "^3") (d #t) (k 0)))) (h "10b0yqdaq54z7z87as2dwlij640dg7l07ybcvakcbr8zc33b93la") (r "1.74")))
+
