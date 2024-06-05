@@ -30,3 +30,5 @@
 
 (define-public crate-incli-0.5.7 (c (n "incli") (v "0.5.7") (d (list (d (n "sys-info-extended") (r "^0.4.0") (d #t) (k 0)))) (h "1nqhdipla9galrf44xgddnmsfdckwp5qiad44is9kfgw6kysfl5k")))
 
+(define-public crate-incli-0.5.8 (c (n "incli") (v "0.5.8") (d (list (d (n "sys-info-extended") (r "^0.4.0") (d #t) (k 0)))) (h "00l9kq8az5fma5p41i11vzak0s94jv7p8xy9xld2s9a16cxcndps")))
+
