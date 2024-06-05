@@ -34,3 +34,5 @@
 
 (define-public crate-rustitude-0.5.0 (c (n "rustitude") (v "0.5.0") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rustitude-core") (r "^1.1.0") (k 0)) (d (n "rustitude-gluex") (r "^0.3.0") (o #t) (k 0)))) (h "1c98jgjrs7s6r5cz7wz3q74aygmgn5wg8qjkr5wr3s9kxbnsx5yd") (f (quote (("default" "gluex")))) (s 2) (e (quote (("gluex" "dep:rustitude-gluex"))))))
 
+(define-public crate-rustitude-0.6.0 (c (n "rustitude") (v "0.6.0") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "num_cpus") (r "^1.16.0") (d #t) (k 2)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)) (d (n "rustitude-core") (r "^2.0.0") (k 0)) (d (n "rustitude-gluex") (r "^0.4.0") (o #t) (k 0)))) (h "1aih544apfrmzb7ialirknra92iir0hsal41631x0chwvx1zvdgk") (f (quote (("default" "gluex")))) (s 2) (e (quote (("gluex" "dep:rustitude-gluex"))))))
+

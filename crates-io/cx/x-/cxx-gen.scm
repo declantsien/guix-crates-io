@@ -274,3 +274,5 @@
 
 (define-public crate-cxx-gen-0.7.122 (c (n "cxx-gen") (v "0.7.122") (d (list (d (n "codespan-reporting") (r "^0.11.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.74") (f (quote ("span-locations"))) (k 0)) (d (n "quote") (r "^1.0.35") (k 0)) (d (n "syn") (r "^2.0.46") (f (quote ("clone-impls" "full" "parsing" "printing"))) (k 0)))) (h "1c1n2brc612my7wizfzr0f8i7z7962hgkvk96vcpm5di55fsqxm4") (r "1.63")))
 
+(define-public crate-cxx-gen-0.7.123 (c (n "cxx-gen") (v "0.7.123") (d (list (d (n "codespan-reporting") (r "^0.11.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.74") (f (quote ("span-locations"))) (k 0)) (d (n "quote") (r "^1.0.35") (k 0)) (d (n "syn") (r "^2.0.46") (f (quote ("clone-impls" "full" "parsing" "printing"))) (k 0)))) (h "1iwp7wgw4kaq2kaqnjh63vc4wg5bp84yhnwi3646vrkp0jq5sp41") (r "1.63")))
+

@@ -336,3 +336,5 @@
 
 (define-public crate-cxxbridge-cmd-1.0.122 (c (n "cxxbridge-cmd") (v "1.0.122") (d (list (d (n "clap") (r "^4.3.11") (f (quote ("error-context" "help" "std" "suggestions" "usage"))) (k 0)) (d (n "codespan-reporting") (r "^0.11.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.74") (f (quote ("span-locations"))) (k 0)) (d (n "quote") (r "^1.0.35") (k 0)) (d (n "syn") (r "^2.0.46") (f (quote ("clone-impls" "full" "parsing" "printing"))) (k 0)))) (h "1ipnzc9g472dy4kcm01aii6n51ialqfnvpd7jqhmsrc868hac3z8") (f (quote (("experimental-async-fn")))) (r "1.56")))
 
+(define-public crate-cxxbridge-cmd-1.0.123 (c (n "cxxbridge-cmd") (v "1.0.123") (d (list (d (n "clap") (r "^4.3.11") (f (quote ("error-context" "help" "std" "suggestions" "usage"))) (k 0)) (d (n "codespan-reporting") (r "^0.11.1") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.74") (f (quote ("span-locations"))) (k 0)) (d (n "quote") (r "^1.0.35") (k 0)) (d (n "syn") (r "^2.0.46") (f (quote ("clone-impls" "full" "parsing" "printing"))) (k 0)))) (h "03yv3811jsqsbf2micaa1f5r5vv7815dlq8d3smwymjyyiwkmz3c") (f (quote (("experimental-async-fn")))) (r "1.56")))
+

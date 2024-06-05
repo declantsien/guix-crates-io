@@ -110,3 +110,5 @@
 
 (define-public crate-tuplez-0.14.14 (c (n "tuplez") (v "0.14.14") (d (list (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "tuplez-macros") (r "^0.7.0") (d #t) (k 0)))) (h "142slwfx9iijmjpzhm9i2s1sc59ja0kjzxxrf9ic1rq7vrprrjjp") (f (quote (("unwrap") ("uninit") ("full-no-std" "serde" "uninit" "unwrap") ("full-nightly" "full" "any_array") ("full" "std" "full-no-std") ("default" "std" "unwrap") ("any_array")))) (s 2) (e (quote (("std" "serde?/std") ("alloc" "serde?/alloc"))))))
 
+(define-public crate-tuplez-0.14.15 (c (n "tuplez") (v "0.14.15") (d (list (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (k 0)) (d (n "tuplez-macros") (r "^0.7.0") (d #t) (k 0)))) (h "0yjbqg1k08qqp95w8naddavyr7yvzvzlp1y94ldbdqyxz6qcghcy") (f (quote (("unwrap") ("uninit") ("full-no-std" "serde" "uninit" "unwrap") ("full-nightly" "full" "any_array") ("full" "std" "full-no-std") ("default" "std" "unwrap") ("any_array")))) (s 2) (e (quote (("std" "serde?/std") ("alloc" "serde?/alloc"))))))
+

@@ -290,3 +290,5 @@
 
 (define-public crate-cxxbridge-flags-1.0.122 (c (n "cxxbridge-flags") (v "1.0.122") (h "0g7i1lkmfq1wfp3k6dkz8pcv7nbjcafbndlzrc51qvw49ad7k338") (f (quote (("default") ("c++20") ("c++17") ("c++14")))) (r "1.63")))
 
+(define-public crate-cxxbridge-flags-1.0.123 (c (n "cxxbridge-flags") (v "1.0.123") (h "1lac0mq2x78g4izkg95m19j0lz8y3jsni35rf0m6f0qqfpj0na95") (f (quote (("default") ("c++20") ("c++17") ("c++14")))) (r "1.63")))
+
