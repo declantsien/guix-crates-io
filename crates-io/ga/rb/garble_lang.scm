@@ -18,3 +18,5 @@
 
 (define-public crate-garble_lang-0.2.0 (c (n "garble_lang") (v "0.2.0") (d (list (d (n "clap") (r "^4.4.18") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "08kchljqb0hblwxifhsyxcqfp5vh6ppjhabm9a8z8k61xzfwc9w5") (f (quote (("bin" "clap")))) (r "1.60.0")))
 
+(define-public crate-garble_lang-0.3.0 (c (n "garble_lang") (v "0.3.0") (d (list (d (n "clap") (r "^4.5.4") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "quickcheck") (r "^1") (d #t) (k 2)) (d (n "quickcheck_macros") (r "^1") (d #t) (k 2)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "1b9qrz9smdpj39df39vqafq5drqj768p40j266q8ci25cn0h286j") (f (quote (("bin" "clap")))) (r "1.60.0")))
+
