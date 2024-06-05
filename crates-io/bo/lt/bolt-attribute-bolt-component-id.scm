@@ -16,3 +16,5 @@
 
 (define-public crate-bolt-attribute-bolt-component-id-0.1.5 (c (n "bolt-attribute-bolt-component-id") (v "0.1.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "18qn75jnjfjsixvq2vw6q048g464p19mdry3zf34pvpw6v691d36")))
 
+(define-public crate-bolt-attribute-bolt-component-id-0.1.6 (c (n "bolt-attribute-bolt-component-id") (v "0.1.6") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "092hy4b6z3d5zasvb150r7hy4ar9zrgf5r9j39gbs9bwz23vj5c6")))
+

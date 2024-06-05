@@ -8,3 +8,5 @@
 
 (define-public crate-bolt-attribute-bolt-extra-accounts-0.1.5 (c (n "bolt-attribute-bolt-extra-accounts") (v "0.1.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "16q0pkxw43f1y8q3zkbb81fa4lndiq28w00js1cbz7h2z2cxhipd")))
 
+(define-public crate-bolt-attribute-bolt-extra-accounts-0.1.6 (c (n "bolt-attribute-bolt-extra-accounts") (v "0.1.6") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "0pnry8c9rk57snhkdnmyfg3m34fgh3wggrz733cy1jsvxxnrf0kq")))
+

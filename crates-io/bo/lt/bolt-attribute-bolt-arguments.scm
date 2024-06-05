@@ -8,3 +8,5 @@
 
 (define-public crate-bolt-attribute-bolt-arguments-0.1.5 (c (n "bolt-attribute-bolt-arguments") (v "0.1.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "0sbqb1cia4zn8py756yyv2c7a181f07c4qf2ndcmx03rqg04k8cv")))
 
+(define-public crate-bolt-attribute-bolt-arguments-0.1.6 (c (n "bolt-attribute-bolt-arguments") (v "0.1.6") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "0dmk4xawkyw4kskwsywblhks4xifdn1r5h61cppk7i9rnmsrg2yg")))
+

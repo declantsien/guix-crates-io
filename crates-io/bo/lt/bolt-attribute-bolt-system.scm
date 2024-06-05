@@ -16,3 +16,5 @@
 
 (define-public crate-bolt-attribute-bolt-system-0.1.5 (c (n "bolt-attribute-bolt-system") (v "0.1.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "1h4fh3kjxsgavj6618a8is1ldb774i61c7rw6d4jyic1glylplgm")))
 
+(define-public crate-bolt-attribute-bolt-system-0.1.6 (c (n "bolt-attribute-bolt-system") (v "0.1.6") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "1cdcsnhzmgvpipn2q6rqa37f0xjdiiiz1gy1f5xfi77x2phy9m2k")))
+

@@ -14,3 +14,5 @@
 
 (define-public crate-bolt-helpers-system-template-0.1.5 (c (n "bolt-helpers-system-template") (v "0.1.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "0xyd0ly893x862kc4c0sk7q55gixyyydlq2n63m63kzvk04a5kfm")))
 
+(define-public crate-bolt-helpers-system-template-0.1.6 (c (n "bolt-helpers-system-template") (v "0.1.6") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "1hb5h2mq839gca3qgazmvzlvqas0h5r0qj0qgx9z5lswxhqhz81r")))
+

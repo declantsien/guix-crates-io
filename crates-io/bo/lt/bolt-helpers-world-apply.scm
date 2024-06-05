@@ -14,3 +14,5 @@
 
 (define-public crate-bolt-helpers-world-apply-0.1.5 (c (n "bolt-helpers-world-apply") (v "0.1.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "14bb0a03cjpivzh8xma20vic9pnnn3jj96b1yf9ry7p84kh2zlh4")))
 
+(define-public crate-bolt-helpers-world-apply-0.1.6 (c (n "bolt-helpers-world-apply") (v "0.1.6") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "1aiip6h8c7b7fxjfwldbclhzxqwdz4chryjawhd5b9kff9ri0pnb")))
+

@@ -14,3 +14,5 @@
 
 (define-public crate-bolt-utils-0.1.5 (c (n "bolt-utils") (v "0.1.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full" "full"))) (d #t) (k 0)))) (h "0vjf117m940cl48s8pjbkmghl5hcjd7rwz4gfsg3c1yxs9gd7i46")))
 
+(define-public crate-bolt-utils-0.1.6 (c (n "bolt-utils") (v "0.1.6") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full" "full"))) (d #t) (k 0)))) (h "05rj8ffy93q7gcp5i5966fgjvyjm1nk5a7ijsc3snndcajh9il1y")))
+

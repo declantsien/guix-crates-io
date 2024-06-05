@@ -10,3 +10,5 @@
 
 (define-public crate-qog-0.3.0 (c (n "qog") (v "0.3.0") (d (list (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)))) (h "1cyiw9xjy4zbrfchxm8ymgkscyfri511j40rb814csprdy8sb4yj")))
 
+(define-public crate-qog-0.4.0 (c (n "qog") (v "0.4.0") (d (list (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)))) (h "1rfvrx90zagw17wxlcnccmcd1mvpfp4x383y93ls76xgshszqngg")))
+

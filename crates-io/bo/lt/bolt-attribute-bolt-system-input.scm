@@ -14,3 +14,5 @@
 
 (define-public crate-bolt-attribute-bolt-system-input-0.1.5 (c (n "bolt-attribute-bolt-system-input") (v "0.1.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "146sp6kridsyi7iw1pi13mnmlc78fv3pkcv40wymmkq0binrsnmf")))
 
+(define-public crate-bolt-attribute-bolt-system-input-0.1.6 (c (n "bolt-attribute-bolt-system-input") (v "0.1.6") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "0mx3sgmnghyxc7va69yb5z8ijy623zj2qp7crmlfvrqr6i01mgjb")))
+

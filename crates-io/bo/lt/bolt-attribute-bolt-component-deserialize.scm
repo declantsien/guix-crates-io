@@ -16,3 +16,5 @@
 
 (define-public crate-bolt-attribute-bolt-component-deserialize-0.1.5 (c (n "bolt-attribute-bolt-component-deserialize") (v "0.1.5") (d (list (d (n "bolt-utils") (r "=0.1.5") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "1s1ppizg85m273qd2s9yymzvx4i45z3fwxbyms9ap5jjbl26awi7")))
 
+(define-public crate-bolt-attribute-bolt-component-deserialize-0.1.6 (c (n "bolt-attribute-bolt-component-deserialize") (v "0.1.6") (d (list (d (n "bolt-utils") (r "=0.1.6") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0.60") (f (quote ("full"))) (d #t) (k 0)))) (h "10fadqj66ppqfiargf3d4hh75wsfv531n9m2sp1my1q2kcpj6n3r")))
+

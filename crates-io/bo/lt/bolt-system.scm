@@ -16,3 +16,5 @@
 
 (define-public crate-bolt-system-0.1.5 (c (n "bolt-system") (v "0.1.5") (d (list (d (n "anchor-lang") (r "=0.30.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "bolt-helpers-system-template") (r "=0.1.5") (d #t) (k 0)))) (h "0q6ybcga6wcr9m8h4l1vykrnzzqinicp72hgvbxr9fhaaqqrarj3") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("idl-build" "anchor-lang/idl-build") ("default") ("cpi" "no-entrypoint"))))))
 
+(define-public crate-bolt-system-0.1.6 (c (n "bolt-system") (v "0.1.6") (d (list (d (n "anchor-lang") (r "=0.30.0") (f (quote ("init-if-needed"))) (d #t) (k 0)) (d (n "bolt-helpers-system-template") (r "=0.1.6") (d #t) (k 0)))) (h "0x9gxdprjdkgwvgb606m6jzpvfviqla4rlh6jf98c238f567mdfv") (f (quote (("no-log-ix-name") ("no-idl") ("no-entrypoint") ("idl-build" "anchor-lang/idl-build") ("default") ("cpi" "no-entrypoint"))))))
+
