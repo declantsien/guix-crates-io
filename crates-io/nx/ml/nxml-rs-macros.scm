@@ -6,3 +6,5 @@
 
 (define-public crate-nxml-rs-macros-0.3.0 (c (n "nxml-rs-macros") (v "0.3.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "06knbbn5ni7r4j4nw14h0rd51ska7xr6dx0xnjwv11fa0wc8hxv2")))
 
+(define-public crate-nxml-rs-macros-0.4.0 (c (n "nxml-rs-macros") (v "0.4.0") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "0w1hv844yras21j0vvy2f12q7pccxbs1m7q82h5pail2vvdvhw81")))
+

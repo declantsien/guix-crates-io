@@ -8,3 +8,5 @@
 
 (define-public crate-augurs-core-0.1.2 (c (n "augurs-core") (v "0.1.2") (d (list (d (n "serde") (r "^1.0.166") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0wzxdh94qmvvmyjb42lbgh64xnrs78gr5ps2vcb6441dfvr4ya08")))
 
+(define-public crate-augurs-core-0.2.0 (c (n "augurs-core") (v "0.2.0") (d (list (d (n "serde") (r "^1.0.166") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0zgcidp7x9hzcfj3dmbypwb2r6z5izxaqmnrz34r6iisjlpqykzf")))
+

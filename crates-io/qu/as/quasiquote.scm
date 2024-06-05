@@ -4,3 +4,7 @@
 
 (define-public crate-quasiquote-0.0.1 (c (n "quasiquote") (v "0.0.1") (d (list (d (n "proc-macro2") (r "^1.0.52") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.52") (d #t) (k 2)) (d (n "quasiquote-proc-macro") (r "^0.0.1") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 2)) (d (n "syn") (r "^2.0.12") (d #t) (k 2)))) (h "1b4a3qfp4bx71f87f6yd3mizyi78lza3s1sr2g4wn10wkb1c7cn6")))
 
+(define-public crate-quasiquote-0.1.0 (c (n "quasiquote") (v "0.1.0") (d (list (d (n "proc-macro2") (r "^1.0.52") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.52") (d #t) (k 2)) (d (n "quasiquote-proc-macro") (r "^0.0.1") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 2)) (d (n "syn") (r "^2.0.12") (d #t) (k 2)))) (h "10f0fzbxwfnd48x0h0ccnml2irmbry6f6vdlky2i9g6qpmjg867h")))
+
+(define-public crate-quasiquote-0.1.1 (c (n "quasiquote") (v "0.1.1") (d (list (d (n "proc-macro2") (r "^1.0.52") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.52") (d #t) (k 2)) (d (n "quasiquote-proc-macro") (r "^0.1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 0)) (d (n "quote") (r "^1.0.26") (d #t) (k 2)) (d (n "syn") (r "^2.0.12") (d #t) (k 2)))) (h "0kdkx44gk2w7bcn3mmsym2f1v19akxrlcclnx6gbr1v38cj3wzwx")))
+

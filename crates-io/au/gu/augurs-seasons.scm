@@ -6,3 +6,5 @@
 
 (define-public crate-augurs-seasons-0.1.2 (c (n "augurs-seasons") (v "0.1.2") (d (list (d (n "augurs-testing") (r "^0.1.2") (d #t) (k 2)) (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "itertools") (r "^0.12.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.18") (d #t) (k 0)) (d (n "pprof") (r "^0.13.0") (f (quote ("criterion" "frame-pointer" "prost-codec"))) (d #t) (k 2)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "welch-sde") (r "^0.1.0") (d #t) (k 0)))) (h "1njlp07rm9c7sm2lddi32g9mgxa0nbdsc0908f41bnr7568d94ln")))
 
+(define-public crate-augurs-seasons-0.2.0 (c (n "augurs-seasons") (v "0.2.0") (d (list (d (n "criterion") (r "^0.5.1") (d #t) (k 2)) (d (n "itertools") (r "^0.13.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2.18") (d #t) (k 0)) (d (n "pprof") (r "^0.13.0") (f (quote ("criterion" "frame-pointer" "prost-codec"))) (d #t) (k 2)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "tracing") (r "^0.1.37") (d #t) (k 0)) (d (n "welch-sde") (r "^0.1.0") (d #t) (k 0)))) (h "1qxqk3crifjx507b5rzsnqfa2fzimplxyg9gnncxnai2n6mdg5aw")))
+

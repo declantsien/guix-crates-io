@@ -12,3 +12,5 @@
 
 (define-public crate-is-tree-macro-0.9.4 (c (n "is-tree-macro") (v "0.9.4") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "1qbgjz1hjlff2hjnl56w5vlwi9x7a0rampbsbjdniqha7ajk88m1")))
 
+(define-public crate-is-tree-macro-0.9.5 (c (n "is-tree-macro") (v "0.9.5") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (d #t) (k 0)))) (h "07naf85pvsb8h2bfin18s5w06f8y74l0l03lgd1rgj0b3k6qfiir")))
+
