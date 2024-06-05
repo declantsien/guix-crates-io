@@ -28,3 +28,5 @@
 
 (define-public crate-smart-read-0.5.3 (c (n "smart-read") (v "0.5.3") (h "1ygcsh8xb6vrymrr54c1pk272965i4cdc1b6kxarkgc5xgbf7kyn")))
 
+(define-public crate-smart-read-0.5.4 (c (n "smart-read") (v "0.5.4") (h "12n6487yld3jn0qvd5p0f4nbvzy6f2jxc8bqsd17q1ipmm5qkfmg")))
+
