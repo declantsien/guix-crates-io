@@ -132,3 +132,5 @@
 
 (define-public crate-gmp-mpfr-sys-1.6.3 (c (n "gmp-mpfr-sys") (v "1.6.3") (d (list (d (n "libc") (r "^0.2.44") (k 0)) (d (n "windows-sys") (r "^0.52") (f (quote ("Win32_Foundation" "Win32_Globalization" "Win32_System_Com" "Win32_UI_Shell"))) (d #t) (t "cfg(target_os = \"windows\")") (k 1)))) (h "0harbvff7x82lrhlxvanqhck0mg4d6sfszhr1im9nym1c95f9gbl") (f (quote (("use-system-libs") ("mpfr") ("mpc" "mpfr") ("force-cross") ("fail-on-warnings") ("default" "mpc" "mpfr") ("cnodelete") ("c-no-tests")))) (l "gmp") (r "1.65")))
 
+(define-public crate-gmp-mpfr-sys-1.6.4 (c (n "gmp-mpfr-sys") (v "1.6.4") (d (list (d (n "libc") (r "^0.2.44") (k 0)) (d (n "windows-sys") (r "^0.52") (f (quote ("Win32_Foundation" "Win32_Globalization" "Win32_System_Com" "Win32_UI_Shell"))) (d #t) (t "cfg(target_os = \"windows\")") (k 1)))) (h "062rdfp1f9nsvxhrknkl5i7w8c1a6ladf5pm7jv67g2r43c5q85h") (f (quote (("use-system-libs") ("mpfr") ("mpc" "mpfr") ("force-cross") ("fail-on-warnings") ("default" "mpc" "mpfr") ("cnodelete") ("c-no-tests")))) (l "gmp") (r "1.65")))
+
