@@ -88,3 +88,5 @@
 
 (define-public crate-wrpc-transport-0.25.0 (c (n "wrpc-transport") (v "0.25.0") (d (list (d (n "anyhow") (r "^1") (f (quote ("std"))) (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "bytes") (r "^1") (k 0)) (d (n "futures") (r "^0.3") (k 0)) (d (n "leb128") (r "^0.2") (k 0)) (d (n "tokio") (r "^1") (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("attributes"))) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("ansi" "env-filter" "fmt"))) (k 2)) (d (n "wasm-tokio") (r "^0.4") (k 0)))) (h "0h3nvvbhcwvjzxmfvk0gplhcwf18yksqnzc1n5i0s3fkrbs84cl5")))
 
+(define-public crate-wrpc-transport-0.25.1 (c (n "wrpc-transport") (v "0.25.1") (d (list (d (n "anyhow") (r "^1") (f (quote ("std"))) (k 0)) (d (n "async-trait") (r "^0.1") (k 0)) (d (n "bytes") (r "^1") (k 0)) (d (n "futures") (r "^0.3") (k 0)) (d (n "leb128") (r "^0.2") (k 0)) (d (n "tokio") (r "^1") (k 0)) (d (n "tracing") (r "^0.1") (f (quote ("attributes"))) (k 0)) (d (n "tracing-subscriber") (r "^0.3") (f (quote ("ansi" "env-filter" "fmt"))) (k 2)) (d (n "wasm-tokio") (r "^0.4") (k 0)))) (h "03g8isllnxqsfy8192bq7yrqnbp9abdvbmw9d9fi7qwb5s9255r6")))
+

@@ -12,3 +12,5 @@
 
 (define-public crate-swift_vec-0.3.0 (c (n "swift_vec") (v "0.3.0") (d (list (d (n "num-traits") (r "^0.2.17") (f (quote ("libm"))) (k 0)))) (h "04wdkd4w1xvh1ql6kikhwhzvxfkcznfqg89xbi9v6pg86i6y5j69") (f (quote (("default" "alloc") ("alloc"))))))
 
+(define-public crate-swift_vec-0.4.0 (c (n "swift_vec") (v "0.4.0") (d (list (d (n "num-traits") (r "^0.2.17") (f (quote ("libm"))) (k 0)))) (h "0mc6s6dac01b3vng7zmnkmjprcvpz6z5sr1mrynhry19vsva7hfg") (f (quote (("default" "alloc") ("alloc"))))))
+
