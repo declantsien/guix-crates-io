@@ -20,3 +20,5 @@
 
 (define-public crate-influxive-0.0.2-alpha.1 (c (n "influxive") (v "0.0.2-alpha.1") (d (list (d (n "influxive-child-svc") (r "^0.0.2-alpha.1") (d #t) (k 0)) (d (n "influxive-otel") (r "^0.0.2-alpha.1") (d #t) (k 0)) (d (n "influxive-writer") (r "^0.0.2-alpha.1") (d #t) (k 0)) (d (n "opentelemetry_api") (r "^0.20.0") (f (quote ("metrics"))) (d #t) (k 2)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "14bijqhlf6ighxgnzm1f485sjq1c0rk0qz0fwanj1rinr1r3kqxj")))
 
+(define-public crate-influxive-0.0.3-alpha.1 (c (n "influxive") (v "0.0.3-alpha.1") (d (list (d (n "influxive-child-svc") (r "^0.0.3-alpha.1") (d #t) (k 0)) (d (n "influxive-otel") (r "^0.0.3-alpha.1") (d #t) (k 0)) (d (n "influxive-writer") (r "^0.0.3-alpha.1") (d #t) (k 0)) (d (n "opentelemetry_api") (r "^0.20.0") (f (quote ("metrics"))) (d #t) (k 2)) (d (n "tempfile") (r "^3") (d #t) (k 2)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "08izz43mdn5iv23qwzx9xjz6h7dwvmi50hi89h7h294rdhgp1rvz")))
+

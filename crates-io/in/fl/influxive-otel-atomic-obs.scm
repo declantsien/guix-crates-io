@@ -12,3 +12,5 @@
 
 (define-public crate-influxive-otel-atomic-obs-0.0.2-alpha.1 (c (n "influxive-otel-atomic-obs") (v "0.0.2-alpha.1") (d (list (d (n "opentelemetry_api") (r "^0.20.0") (f (quote ("metrics"))) (d #t) (k 0)))) (h "0ppk9jlrha4mh9rgbz0d2qjjgc3nqg740qaxq532m1i83l8frh0s")))
 
+(define-public crate-influxive-otel-atomic-obs-0.0.3-alpha.1 (c (n "influxive-otel-atomic-obs") (v "0.0.3-alpha.1") (d (list (d (n "opentelemetry_api") (r "^0.20.0") (f (quote ("metrics"))) (d #t) (k 0)))) (h "1ahmwakr7ar44rky0xndm4wahlqsl2by4jvy7g2xhypzbikyckga")))
+
