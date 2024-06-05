@@ -1,0 +1,4 @@
+(define-module (crates-io si gn signalfut) #:use-module (crates-io))
+
+(define-public crate-signalfut-0.1.0 (c (n "signalfut") (v "0.1.0") (d (list (d (n "async-std") (r "^1.12.0") (f (quote ("attributes"))) (d #t) (k 2)) (d (n "compio") (r "^0.10.0") (f (quote ("macros" "runtime" "time"))) (d #t) (k 2)) (d (n "event-listener") (r "^5.3.1") (d #t) (k 0)) (d (n "futures") (r "^0.3.30") (d #t) (k 2)) (d (n "glommio") (r "^0.9.0") (d #t) (t "cfg(target_os=\"linux\")") (k 2)) (d (n "monoio") (r "^0.2.3") (f (quote ("sync"))) (d #t) (k 2)) (d (n "nix") (r "^0.29.0") (f (quote ("signal" "fs"))) (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.5") (d #t) (k 0)) (d (n "smol") (r "^2.0.0") (d #t) (k 2)) (d (n "tokio") (r "^1.38.0") (f (quote ("macros" "rt-multi-thread" "time"))) (d #t) (k 2)))) (h "17xkw4f769483svra7pk5xrwn0h99yrcd1gzznlh53sl4wm8kypr") (r "1.69")))
+
