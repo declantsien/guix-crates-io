@@ -86,3 +86,5 @@
 
 (define-public crate-bevy_replicon-0.26.1 (c (n "bevy_replicon") (v "0.26.1") (d (list (d (n "bevy") (r "^0.13") (f (quote ("bevy_scene"))) (k 0)) (d (n "bevy") (r "^0.13") (f (quote ("serialize" "bevy_asset" "bevy_sprite"))) (k 2)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (f (quote ("cargo_bench_support"))) (k 2)) (d (n "ordered-multimap") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "varint-rs") (r "^2.2") (d #t) (k 0)))) (h "0bwxmlky5zhx1m6imk33pk5zx5b0rr6dddpxjfq0s53qa5a96nfr")))
 
+(define-public crate-bevy_replicon-0.26.2 (c (n "bevy_replicon") (v "0.26.2") (d (list (d (n "bevy") (r "^0.13") (f (quote ("bevy_scene"))) (k 0)) (d (n "bevy") (r "^0.13") (f (quote ("serialize" "bevy_asset" "bevy_sprite"))) (k 2)) (d (n "bincode") (r "^1.3") (d #t) (k 0)) (d (n "bytes") (r "^1.5") (d #t) (k 0)) (d (n "criterion") (r "^0.5") (f (quote ("cargo_bench_support"))) (k 2)) (d (n "ordered-multimap") (r "^0.7") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "varint-rs") (r "^2.2") (d #t) (k 0)))) (h "062zs6jyjznlhj7ckzg0pflsyvfjx8ss2x67qw4dqsnmgm342qdw")))
+
