@@ -130,3 +130,5 @@
 
 (define-public crate-autd3-derive-25.0.0-rc.9 (c (n "autd3-derive") (v "25.0.0-rc.9") (d (list (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "syn") (r "^2.0.3") (f (quote ("full"))) (d #t) (k 0)))) (h "1lyyygr8d7h5izrp0nnafq92m3qpxy2qarhmp2bq4sk336n57h99") (f (quote (("default"))))))
 
+(define-public crate-autd3-derive-25.0.0 (c (n "autd3-derive") (v "25.0.0") (d (list (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0.18") (d #t) (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)) (d (n "syn") (r "^2.0.3") (f (quote ("full"))) (d #t) (k 0)))) (h "0cnjamag7c629q0nnchy8lk7lk569wa74q5qa2q8vhrg007gcykd") (f (quote (("default"))))))
+
