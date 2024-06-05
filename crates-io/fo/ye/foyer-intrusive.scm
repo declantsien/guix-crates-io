@@ -24,3 +24,5 @@
 
 (define-public crate-foyer-intrusive-0.7.1 (c (n "foyer-intrusive") (v "0.7.1") (d (list (d (n "foyer-common") (r "^0.7") (d #t) (k 0)) (d (n "itertools") (r "^0.13") (d #t) (k 0)))) (h "1lbv8g4cffb7y8ncqq8fxs3avw5x75pmbvi71cdbn7gvpb90jbf9") (f (quote (("strict_assertions" "foyer-common/strict_assertions"))))))
 
+(define-public crate-foyer-intrusive-0.7.2 (c (n "foyer-intrusive") (v "0.7.2") (d (list (d (n "foyer-common") (r "^0.7.3") (d #t) (k 0)) (d (n "itertools") (r "^0.13") (d #t) (k 0)))) (h "1snwlcm2yq2swm6singx5dji0sa1gsrwc22z0p3a8sb37r6b6s2i") (f (quote (("strict_assertions" "foyer-common/strict_assertions"))))))
+

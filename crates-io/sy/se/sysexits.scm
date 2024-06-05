@@ -64,3 +64,5 @@
 
 (define-public crate-sysexits-0.7.14 (c (n "sysexits") (v "0.7.14") (h "10j2y6hzi349v56qmzizzr09qf4hfaiyx5jcqfk953ywliw6rf5m") (f (quote (("std") ("nightly" "extended_io_error") ("extended_io_error" "std") ("default" "std")))) (r "1.61.0")))
 
+(define-public crate-sysexits-0.8.0 (c (n "sysexits") (v "0.8.0") (d (list (d (n "proptest") (r "^1.4.0") (d #t) (k 2)) (d (n "test-strategy") (r "^0.3.1") (d #t) (k 2)))) (h "16clgsrgzv1k2j5mjzma5sihcpdh4by4qy3hbzr382zk6dadmsma") (f (quote (("std") ("nightly" "extended_io_error") ("extended_io_error" "std") ("default" "std")))) (r "1.65.0")))
+
