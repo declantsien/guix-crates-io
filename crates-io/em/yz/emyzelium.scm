@@ -12,3 +12,5 @@
 
 (define-public crate-emyzelium-0.9.10 (c (n "emyzelium") (v "0.9.10") (d (list (d (n "crossterm") (r "^0.27.0") (d #t) (k 2)) (d (n "getrandom") (r "^0.2.11") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "1n6mhgdxb32qsrwqacfs6kg25h8wl0apbamqhjhli694vdr912hc")))
 
+(define-public crate-emyzelium-0.9.12 (c (n "emyzelium") (v "0.9.12") (d (list (d (n "crossterm") (r "^0.27.0") (d #t) (k 2)) (d (n "getrandom") (r "^0.2.15") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 2)))) (h "1r6ll91lcg8ddgl5v7k27ps0qg5skybkvvbbav4j3gnyfnc6x9ha")))
+

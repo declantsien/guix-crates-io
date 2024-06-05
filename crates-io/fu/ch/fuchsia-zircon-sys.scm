@@ -10,3 +10,5 @@
 
 (define-public crate-fuchsia-zircon-sys-0.4.0-alpha.1 (c (n "fuchsia-zircon-sys") (v "0.4.0-alpha.1") (d (list (d (n "fuchsia-zircon-types") (r "^0.4.0-alpha.1") (d #t) (k 0)))) (h "1hwpywn7519696xkng1c3gvi0jmnqldzbn1c4r1vww2pazy6xcfm")))
 
+(define-public crate-fuchsia-zircon-sys-0.4.0-alpha.2 (c (n "fuchsia-zircon-sys") (v "0.4.0-alpha.2") (d (list (d (n "compiler_builtins") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "core") (r "^1.0.0") (o #t) (d #t) (k 0) (p "rustc-std-workspace-core")) (d (n "fuchsia-zircon-types") (r "^0.4.0-alpha.2") (d #t) (k 0)))) (h "0k85mbsl6bmqq0fzfm87q76w2dszp9gxn308yhfdjx2p1v5r0vjw") (f (quote (("rustc-dep-of-std" "core" "compiler_builtins" "fuchsia-zircon-types/rustc-dep-of-std") ("default"))))))
+

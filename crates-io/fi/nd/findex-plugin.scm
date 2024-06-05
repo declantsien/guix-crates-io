@@ -10,3 +10,5 @@
 
 (define-public crate-findex-plugin-0.8.1 (c (n "findex-plugin") (v "0.8.1") (d (list (d (n "abi_stable") (r "^0.11.1") (d #t) (k 0)) (d (n "gtk") (r "^0.15.1") (f (quote ("v3_22"))) (o #t) (d #t) (k 0)) (d (n "libloading") (r "^0.7.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "0l642nffyk62g3kpna0zz7m7nha76k8kgxbhk5vl64xlvbcn7wir") (s 2) (e (quote (("findex_internals" "dep:libloading" "dep:gtk" "dep:serde"))))))
 
+(define-public crate-findex-plugin-0.8.2 (c (n "findex-plugin") (v "0.8.2") (d (list (d (n "abi_stable") (r "^0.11.1") (d #t) (k 0)) (d (n "gtk") (r "^0.15.1") (f (quote ("v3_22"))) (o #t) (d #t) (k 0)) (d (n "libloading") (r "^0.7.4") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (o #t) (d #t) (k 0)))) (h "06xvkqnywzc3x9hmxr0hl3s7wabb4qnl3kmlf49fn056zyy6akgf") (s 2) (e (quote (("findex_internals" "dep:libloading" "dep:gtk" "dep:serde"))))))
+
