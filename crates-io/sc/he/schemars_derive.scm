@@ -116,3 +116,5 @@
 
 (define-public crate-schemars_derive-1.0.0-alpha.1 (c (n "schemars_derive") (v "1.0.0-alpha.1") (d (list (d (n "pretty_assertions") (r "^1.2.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive_internals") (r "^0.29") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "10nf7jfa6d2mqvcwrcgjnv3jj29xcwkyjcnw5h8ccy5l1b1x55qz") (r "1.60")))
 
+(define-public crate-schemars_derive-1.0.0-alpha.2 (c (n "schemars_derive") (v "1.0.0-alpha.2") (d (list (d (n "pretty_assertions") (r "^1.2.1") (d #t) (k 2)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive_internals") (r "^0.29") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits"))) (d #t) (k 0)))) (h "0xdlwbz6b3ijz42png2q6rs75p8b1g8clcl84fmh9xds5mfhswz2") (r "1.60")))
+
