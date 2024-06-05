@@ -26,3 +26,5 @@
 
 (define-public crate-rust-vector-logger-0.1.12 (c (n "rust-vector-logger") (v "0.1.12") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0hayhphr8nr40k2w5f7rdig2m71883p6pr5zhz90fvinnxb4mjr3")))
 
+(define-public crate-rust-vector-logger-0.1.17 (c (n "rust-vector-logger") (v "0.1.17") (d (list (d (n "chrono") (r "^0.4") (d #t) (k 0)) (d (n "env_logger") (r "^0.9") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "once_cell") (r "^1.8") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "0bqphaqjdd3c355whfhr4whzjrmj3qcxn6i3dw3zyp11criyyd8n")))
+

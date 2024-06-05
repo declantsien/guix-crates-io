@@ -1,0 +1,4 @@
+(define-module (crates-io re tr retrom-client) #:use-module (crates-io))
+
+(define-public crate-retrom-client-0.0.2 (c (n "retrom-client") (v "0.0.2") (d (list (d (n "prost") (r "^0.12") (d #t) (k 0)) (d (n "retrom-codegen") (r "^0.0.2") (d #t) (k 0)) (d (n "serde") (r "^1.0.197") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0.115") (d #t) (k 0)) (d (n "tauri") (r "^2.0.0-beta") (d #t) (k 0)) (d (n "tauri-build") (r "^2.0.0-beta") (d #t) (k 1)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tonic") (r "^0.11") (d #t) (k 0)) (d (n "tracing") (r "^0.1.40") (d #t) (k 0)) (d (n "tracing-subscriber") (r "^0.3.18") (f (quote ("env-filter" "fmt"))) (d #t) (k 0)))) (h "07pfk1ki4722k0xwz1avf3n9fwi9j472yszfb00c075qjrrrfmff") (f (quote (("custom-protocol" "tauri/custom-protocol")))) (r "1.60")))
+

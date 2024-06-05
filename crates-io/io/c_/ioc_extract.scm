@@ -34,3 +34,5 @@
 
 (define-public crate-ioc_extract-0.4.5 (c (n "ioc_extract") (v "0.4.5") (d (list (d (n "fancy-regex") (r "^0.13") (d #t) (k 0)) (d (n "idna") (r "^0.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tld_download") (r "^0.1.3") (f (quote ("with-db"))) (d #t) (k 0)))) (h "0xlzziyc2asq55k35wbc98ws16c5n6qinh9rwd9gmcwslaj7yqaa")))
 
+(define-public crate-ioc_extract-0.4.6 (c (n "ioc_extract") (v "0.4.6") (d (list (d (n "fancy-regex") (r "^0.13") (d #t) (k 0)) (d (n "idna") (r "^0.5") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tld_download") (r "^0.1.3") (f (quote ("with-db"))) (d #t) (k 0)))) (h "0jcgq3mbsgiv0bw6z1dh9nf0rz3gswj96q2gs3smxsizjg7jlxia")))
+

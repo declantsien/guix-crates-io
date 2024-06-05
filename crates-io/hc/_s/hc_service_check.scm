@@ -10,3 +10,5 @@
 
 (define-public crate-hc_service_check-0.1.0-dev.4 (c (n "hc_service_check") (v "0.1.0-dev.4") (d (list (d (n "clap") (r "^4.5.3") (f (quote ("derive" "wrap_help"))) (d #t) (k 0)) (d (n "kitsune_p2p_bootstrap_client") (r "^0.4.0-dev.5") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tx5-go-pion") (r "^0.0.9-alpha") (d #t) (k 0)) (d (n "tx5-signal") (r "^0.0.9-alpha") (d #t) (k 0)) (d (n "url2") (r "^0.0.6") (d #t) (k 0)))) (h "1l1gwwliy3q527q5gyqqa1psbj3jqfq24r6bdhfldlbfl7dzq9ih")))
 
+(define-public crate-hc_service_check-0.1.0-dev.5 (c (n "hc_service_check") (v "0.1.0-dev.5") (d (list (d (n "clap") (r "^4.5.3") (f (quote ("derive" "wrap_help"))) (d #t) (k 0)) (d (n "kitsune_p2p_bootstrap_client") (r "^0.4.0-dev.6") (d #t) (k 0)) (d (n "tokio") (r "^1.36.0") (f (quote ("full"))) (d #t) (k 0)) (d (n "tx5-go-pion") (r "^0.0.11-alpha") (d #t) (k 0)) (d (n "tx5-signal") (r "^0.0.11-alpha") (d #t) (k 0)) (d (n "url2") (r "^0.0.6") (d #t) (k 0)))) (h "1fsp33qps79img9ra30nnapjr65pjllaarz3bp6gn1d1j2s8r32d")))
+
