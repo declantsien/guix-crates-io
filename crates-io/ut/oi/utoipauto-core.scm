@@ -30,3 +30,5 @@
 
 (define-public crate-utoipauto-core-0.1.10 (c (n "utoipauto-core") (v "0.1.10") (d (list (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.52") (f (quote ("full"))) (d #t) (k 0)) (d (n "utoipa") (r "^4.2.0") (f (quote ("preserve_path_order"))) (d #t) (k 2)))) (h "003x1vknrm6nssfca0z45b88m6h48pwj1i1alsa8cysjhd3v327i") (f (quote (("generic_full_path"))))))
 
+(define-public crate-utoipauto-core-0.1.11 (c (n "utoipauto-core") (v "0.1.11") (d (list (d (n "proc-macro2") (r "^1.0.78") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.52") (f (quote ("full"))) (d #t) (k 0)) (d (n "utoipa") (r "^4.2.0") (f (quote ("preserve_path_order"))) (d #t) (k 2)))) (h "15rqrhkzf6jx1wccdz2rgn6gw6w0xy8906pk64yymx7zcyqwqnl5") (f (quote (("generic_full_path"))))))
+

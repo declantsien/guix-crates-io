@@ -12,3 +12,5 @@
 
 (define-public crate-zombienet-prom-metrics-parser-0.2.3 (c (n "zombienet-prom-metrics-parser") (v "0.2.3") (d (list (d (n "pest") (r "^2.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1iiq197ggk2bn82f8n2l7nqisf3ias6ipzj4vy4cww7sgv1ppbhs") (r "1.70.0")))
 
+(define-public crate-zombienet-prom-metrics-parser-0.2.4 (c (n "zombienet-prom-metrics-parser") (v "0.2.4") (d (list (d (n "pest") (r "^2.7") (d #t) (k 0)) (d (n "pest_derive") (r "^2.7") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1hhd3ppbgvkbnpasz4z09zj5jkbswgwc8gzrmy7hpnbzcsdv60mx") (r "1.70.0")))
+

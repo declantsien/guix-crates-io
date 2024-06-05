@@ -24,3 +24,5 @@
 
 (define-public crate-utoipauto-0.1.10 (c (n "utoipauto") (v "0.1.10") (d (list (d (n "syn") (r "^2.0.52") (f (quote ("extra-traits" "full"))) (d #t) (k 2)) (d (n "utoipa") (r "^4.2.0") (f (quote ("preserve_path_order"))) (d #t) (k 2)) (d (n "utoipauto-macro") (r "^0.1.10") (d #t) (k 0)))) (h "0zlrr5mljr1s2333qahjw4600har07sg1jxyzdjcjlkcsh3052qc") (f (quote (("generic_full_path" "utoipauto-macro/generic_full_path"))))))
 
+(define-public crate-utoipauto-0.1.11 (c (n "utoipauto") (v "0.1.11") (d (list (d (n "syn") (r "^2.0.52") (f (quote ("extra-traits" "full"))) (d #t) (k 2)) (d (n "utoipa") (r "^4.2.0") (f (quote ("preserve_path_order"))) (d #t) (k 2)) (d (n "utoipauto-macro") (r "^0.1.11") (d #t) (k 0)))) (h "02zc0ryiiibn6r3jcmq76d98xsdrk2dkw7ax8fv1zrkw7cgv81wg") (f (quote (("generic_full_path" "utoipauto-macro/generic_full_path"))))))
+
