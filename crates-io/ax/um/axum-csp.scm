@@ -12,3 +12,5 @@
 
 (define-public crate-axum-csp-0.0.7 (c (n "axum-csp") (v "0.0.7") (d (list (d (n "axum") (r "^0.7.0") (f (quote ("original-uri"))) (k 0)) (d (n "axum-server") (r "^0.5.1") (d #t) (k 2)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 2)) (d (n "regex") (r "^1.10.2") (d #t) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("sync"))) (k 0)) (d (n "tokio") (r "^1.34.0") (f (quote ("full"))) (k 2)))) (h "0p26ywklwdcccpiqmydl40azfy5i0bz3908nyvj45qp8kav85vq9")))
 
+(define-public crate-axum-csp-0.0.8 (c (n "axum-csp") (v "0.0.8") (d (list (d (n "axum") (r "^0.7.5") (k 0)) (d (n "regex") (r "^1.10.4") (d #t) (k 0)))) (h "05zb491l3vk91j16arjmxzaar50bvnygd6f0aj8mpxj3fx3p2pil")))
+

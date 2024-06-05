@@ -48,3 +48,5 @@
 
 (define-public crate-bevy_prototype_debug_lines-0.11.1 (c (n "bevy_prototype_debug_lines") (v "0.11.1") (d (list (d (n "bevy") (r "^0.11") (f (quote ("bevy_core_pipeline" "bevy_render" "bevy_pbr" "bevy_sprite" "bevy_asset"))) (k 0)))) (h "0fdi0bk19nzyqx1286rlay5wpm2ywajfz6sn0gk7q6pfbniqa5xv") (f (quote (("shapes") ("example_deps_2d" "bevy/bevy_winit" "bevy/bevy_gltf" "bevy/png" "bevy/x11") ("example_deps" "bevy/bevy_winit" "bevy/bevy_gltf" "bevy/x11" "bevy/tonemapping_luts" "bevy/ktx2" "bevy/zstd" "3d") ("default" "shapes") ("3d"))))))
 
+(define-public crate-bevy_prototype_debug_lines-0.12.0 (c (n "bevy_prototype_debug_lines") (v "0.12.0") (d (list (d (n "bevy") (r "^0.12") (f (quote ("bevy_core_pipeline" "bevy_render" "bevy_pbr" "bevy_sprite" "bevy_asset"))) (k 0)))) (h "1c5v0xabs8a9m1xlb2z1fdsiz7bfxsf256wmfa5bymwgb6p8ll4h") (f (quote (("shapes") ("example_deps_2d" "bevy/bevy_winit" "bevy/bevy_gltf" "bevy/png" "bevy/x11") ("example_deps" "bevy/bevy_winit" "bevy/bevy_gltf" "bevy/x11" "bevy/tonemapping_luts" "bevy/ktx2" "bevy/zstd" "3d") ("default" "shapes") ("3d"))))))
+
