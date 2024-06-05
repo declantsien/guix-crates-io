@@ -4,3 +4,5 @@
 
 (define-public crate-chia-sdk-parser-0.9.0 (c (n "chia-sdk-parser") (v "0.9.0") (d (list (d (n "chia-protocol") (r "^0.9.0") (d #t) (k 0)) (d (n "chia-puzzles") (r "^0.9.0") (d #t) (k 0)) (d (n "chia-sdk-types") (r "^0.9.0") (d #t) (k 0)) (d (n "clvm-traits") (r "^0.9.0") (d #t) (k 0)) (d (n "clvm-utils") (r "^0.9.0") (d #t) (k 0)) (d (n "clvmr") (r "^0.7.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0gwad1bhd5grz4ccwfxxh15yaq9cc5b4c84zz001v34zgnjw0msn")))
 
+(define-public crate-chia-sdk-parser-0.10.0 (c (n "chia-sdk-parser") (v "0.10.0") (d (list (d (n "chia-protocol") (r "^0.9.0") (d #t) (k 0)) (d (n "chia-puzzles") (r "^0.9.0") (d #t) (k 0)) (d (n "chia-sdk-types") (r "^0.10.0") (d #t) (k 0)) (d (n "clvm-traits") (r "^0.9.0") (d #t) (k 0)) (d (n "clvm-utils") (r "^0.9.0") (d #t) (k 0)) (d (n "clvmr") (r "^0.7.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "009vlxhzk40g9nvhbmprx8d41g091c1fafxv9imns6gi4hysvc47")))
+
