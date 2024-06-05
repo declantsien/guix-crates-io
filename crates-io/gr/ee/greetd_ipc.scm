@@ -12,3 +12,5 @@
 
 (define-public crate-greetd_ipc-0.10.0 (c (n "greetd_ipc") (v "0.10.0") (d (list (d (n "async-trait") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (o #t) (d #t) (k 0)))) (h "0dgb650mgarzf6f3w42m8kprcdk0gj5cmsrnqgsm7bwdg4iss00n") (f (quote (("tokio-codec" "codec" "tokio" "async-trait") ("sync-codec" "codec") ("codec" "thiserror"))))))
 
+(define-public crate-greetd_ipc-0.10.1 (c (n "greetd_ipc") (v "0.10.1") (d (list (d (n "async-trait") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("io-util"))) (o #t) (d #t) (k 0)))) (h "06a33q5vbs4arkkp1hf11ynxlj6i6irphp28139p3l0vax4n5v7z") (f (quote (("tokio-codec" "codec" "tokio" "async-trait") ("sync-codec" "codec") ("codec" "thiserror"))))))
+
