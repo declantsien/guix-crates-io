@@ -10,3 +10,5 @@
 
 (define-public crate-xlsynth-0.0.6 (c (n "xlsynth") (v "0.0.6") (d (list (d (n "curl") (r "^0.4") (d #t) (k 1)) (d (n "docmatic") (r "^0.1.2") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.7") (d #t) (k 0)) (d (n "once_cell") (r "^1.19") (d #t) (k 0)))) (h "190ggiz303mlaf1bz4hp1fhl080g585z9jws1q8ycq188jp0s4i7")))
 
+(define-public crate-xlsynth-0.0.7 (c (n "xlsynth") (v "0.0.7") (d (list (d (n "curl") (r "^0.4") (d #t) (k 1)) (d (n "docmatic") (r "^0.1.2") (d #t) (k 2)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "libloading") (r "^0.7") (d #t) (k 0)) (d (n "once_cell") (r "^1.19") (d #t) (k 0)))) (h "0l5bs1nplfmidzw6dds2p01wzwjay4sv5kh5njfpi6lldyczh7sd")))
+

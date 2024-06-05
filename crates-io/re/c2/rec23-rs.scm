@@ -32,3 +32,7 @@
 
 (define-public crate-rec23-rs-0.1.96 (c (n "rec23-rs") (v "0.1.96") (d (list (d (n "bb8-postgres") (r "^0.8.1") (f (quote ("with-chrono-0_4"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "frankenstein") (r "^0.31.0") (f (quote ("reqwest" "async-http-client"))) (d #t) (k 0)))) (h "0i2zw10rkjw3wm5yl8mjp17v0sqyp58pddk6y81q53sliy971lk2")))
 
+(define-public crate-rec23-rs-0.1.97 (c (n "rec23-rs") (v "0.1.97") (d (list (d (n "bb8-postgres") (r "^0.8.1") (f (quote ("with-chrono-0_4"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "frankenstein") (r "^0.31.0") (f (quote ("reqwest" "async-http-client"))) (d #t) (k 0)))) (h "0c38pifncah122pn3c79b2xd7c1ddkw2w2l4m58fdplh1ris11xb")))
+
+(define-public crate-rec23-rs-0.1.98 (c (n "rec23-rs") (v "0.1.98") (d (list (d (n "bb8-postgres") (r "^0.8.1") (f (quote ("with-chrono-0_4"))) (d #t) (k 0)) (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "frankenstein") (r "^0.31.0") (f (quote ("reqwest" "async-http-client"))) (d #t) (k 0)))) (h "13q8ayxqs8kavqg7wbckcq59lj83vjsva78xmsf7hf5xbm51qpv8")))
+

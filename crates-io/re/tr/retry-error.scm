@@ -34,3 +34,5 @@
 
 (define-public crate-retry-error-0.5.2 (c (n "retry-error") (v "0.5.2") (d (list (d (n "anyhow") (r "^1.0.23") (d #t) (k 2)) (d (n "derive_more") (r "^0.99.3") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 2)))) (h "014ghsmzcmzzhvxibf747pg8kqxqx06wwhgdld8rjci3fz4s1pnp") (f (quote (("full")))) (r "1.70")))
 
+(define-public crate-retry-error-0.5.3 (c (n "retry-error") (v "0.5.3") (d (list (d (n "anyhow") (r "^1.0.23") (d #t) (k 2)) (d (n "derive_more") (r "^0.99.3") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 2)))) (h "0vg90nrhk8bbiblavffx59b2ynvj5w0fid3kra1l77kvhkfg2q5r") (f (quote (("full")))) (r "1.70")))
+

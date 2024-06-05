@@ -6,3 +6,5 @@
 
 (define-public crate-fslock-guard-0.1.2 (c (n "fslock-guard") (v "0.1.2") (d (list (d (n "fslock") (r "^0.2.0") (d #t) (k 0) (p "fslock-arti-fork")) (d (n "test-temp-dir") (r "^0.2.1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "winapi") (r "^0.3.8") (d #t) (t "cfg(windows)") (k 0)))) (h "1irjphqdvbahwn90xxlhishscyqvs9hicd7qlfq7g26x4crd0rwj") (f (quote (("full") ("default")))) (r "1.70")))
 
+(define-public crate-fslock-guard-0.1.3 (c (n "fslock-guard") (v "0.1.3") (d (list (d (n "fslock") (r "^0.2.0") (d #t) (k 0) (p "fslock-arti-fork")) (d (n "test-temp-dir") (r "^0.2.1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "winapi") (r "^0.3.8") (d #t) (t "cfg(windows)") (k 0)))) (h "180amhh86yjik2hnp3hk3z7zdjhs0wf9zf5wya2860ggn061cqlk") (f (quote (("full") ("default")))) (r "1.70")))
+

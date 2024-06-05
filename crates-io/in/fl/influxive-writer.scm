@@ -16,3 +16,5 @@
 
 (define-public crate-influxive-writer-0.0.2-alpha.1 (c (n "influxive-writer") (v "0.0.2-alpha.1") (d (list (d (n "influxdb") (r "^0.7") (d #t) (k 0)) (d (n "influxive-core") (r "^0.0.2-alpha.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "09cg59nivdf00kkrm3yqaac1i28xdhi3b5hhykai9f3532n35nw9")))
 
+(define-public crate-influxive-writer-0.0.3-alpha.1 (c (n "influxive-writer") (v "0.0.3-alpha.1") (d (list (d (n "influxdb") (r "^0.7") (d #t) (k 0)) (d (n "influxive-core") (r "^0.0.3-alpha.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)) (d (n "tracing") (r "^0.1") (d #t) (k 0)))) (h "0wn3whjzv5bg85663l5pq4ahbqk5q9bn6998dgcn0lz99w55n4f9")))
+

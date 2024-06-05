@@ -28,3 +28,5 @@
 
 (define-public crate-safelog-0.3.6 (c (n "safelog") (v "0.3.6") (d (list (d (n "derive_more") (r "^0.99.3") (d #t) (k 0)) (d (n "educe") (r "^0.4.6") (d #t) (k 0)) (d (n "either") (r "^1") (d #t) (k 0)) (d (n "fluid-let") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serial_test") (r "^3.0.0") (d #t) (k 2)) (d (n "static_assertions") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0gry30gg1pfrw4vxlglmjaknc0xm4a2rvv8hxnv84dlab7w95a2y") (f (quote (("full") ("default")))) (r "1.70")))
 
+(define-public crate-safelog-0.3.7 (c (n "safelog") (v "0.3.7") (d (list (d (n "derive_more") (r "^0.99.3") (d #t) (k 0)) (d (n "educe") (r "^0.4.6") (d #t) (k 0)) (d (n "either") (r "^1") (d #t) (k 0)) (d (n "fluid-let") (r "^1") (d #t) (k 0)) (d (n "serde") (r "^1.0.103") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "serial_test") (r "^3.0.0") (d #t) (k 2)) (d (n "static_assertions") (r "^1") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0dqpwfjnm5s30r61rqqhyvw8b5lfvqazxwrl38pi4ppgjb89q7ja") (f (quote (("full") ("default")))) (r "1.70")))
+

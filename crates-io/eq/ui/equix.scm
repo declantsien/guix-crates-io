@@ -10,3 +10,5 @@
 
 (define-public crate-equix-0.1.4 (c (n "equix") (v "0.1.4") (d (list (d (n "arrayvec") (r "^0.7.4") (d #t) (k 0)) (d (n "hashx") (r "^0.1.3") (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "visibility") (r "^0.1.0") (d #t) (k 0)))) (h "0fi1nkrfs3yma59ih6g2jb2vbjbwji9b7yp5r3rkpb2l4lhfs98y") (f (quote (("full" "compiler" "hashx/full") ("default" "compiler") ("compiler" "hashx/compiler")))) (r "1.70")))
 
+(define-public crate-equix-0.1.5 (c (n "equix") (v "0.1.5") (d (list (d (n "arrayvec") (r "^0.7.4") (d #t) (k 0)) (d (n "hashx") (r "^0.1.3") (k 0)) (d (n "num-traits") (r "^0.2.15") (d #t) (k 0)) (d (n "permutohedron") (r "^0.2.4") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.40") (d #t) (k 0)) (d (n "visibility") (r "^0.1.0") (d #t) (k 0)))) (h "1viip4idjmd810w0klgf996y82mviynn5jsxwsxs6c6pfhlsmmff") (f (quote (("full" "compiler" "hashx/full") ("experimental" "bucket-array") ("default" "compiler") ("compiler" "hashx/compiler") ("bucket-array" "__is_experimental") ("__is_experimental")))) (r "1.70")))
+

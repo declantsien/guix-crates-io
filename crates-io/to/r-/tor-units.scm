@@ -40,3 +40,5 @@
 
 (define-public crate-tor-units-0.18.0 (c (n "tor-units") (v "0.18.0") (d (list (d (n "derive_more") (r "^0.99.3") (d #t) (k 0)) (d (n "float-cmp") (r "^0.9.0") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "0wkrcpq6fjxvmvhicl96xis2bxnl3s1hzaap658dc09x60f4a407") (f (quote (("full")))) (r "1.70")))
 
+(define-public crate-tor-units-0.19.0 (c (n "tor-units") (v "0.19.0") (d (list (d (n "derive_more") (r "^0.99.3") (d #t) (k 0)) (d (n "float-cmp") (r "^0.9.0") (d #t) (k 2)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1jp7z6y5qmh35fphy9ja17f4r8y0m7g01fjz0d0r2fbwwqv8mrns") (f (quote (("full")))) (r "1.70")))
+

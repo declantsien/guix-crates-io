@@ -18,3 +18,5 @@
 
 (define-public crate-tor-async-utils-0.18.0 (c (n "tor-async-utils") (v "0.18.0") (d (list (d (n "futures") (r "^0.3.14") (d #t) (k 0)) (d (n "futures-await-test") (r "^0.3.0") (d #t) (k 2)) (d (n "pin-project") (r "^1") (d #t) (k 0)) (d (n "postage") (r "^0.5.0") (f (quote ("futures-traits"))) (k 0)) (d (n "tokio") (r "^1.7") (f (quote ("macros" "net" "rt" "rt-multi-thread" "time"))) (d #t) (k 2)) (d (n "void") (r "^1") (d #t) (k 0)))) (h "1mlh8s3942lzapwk9g8hdrxp97faqp5gps4b8w2bacja4nia2j2v") (f (quote (("full")))) (r "1.70")))
 
+(define-public crate-tor-async-utils-0.19.0 (c (n "tor-async-utils") (v "0.19.0") (d (list (d (n "futures") (r "^0.3.14") (d #t) (k 0)) (d (n "futures-await-test") (r "^0.3.0") (d #t) (k 2)) (d (n "pin-project") (r "^1") (d #t) (k 0)) (d (n "postage") (r "^0.5.0") (f (quote ("futures-traits"))) (k 0)) (d (n "tokio") (r "^1.7") (f (quote ("macros" "net" "rt" "rt-multi-thread" "time"))) (d #t) (k 2)) (d (n "void") (r "^1") (d #t) (k 0)))) (h "10axdml3pah1ydd6bixyk3qmkdh4cjml2q5vha72n5ba72pglap1") (f (quote (("full")))) (r "1.70")))
+

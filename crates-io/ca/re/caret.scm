@@ -36,3 +36,5 @@
 
 (define-public crate-caret-0.4.5 (c (n "caret") (v "0.4.5") (h "1nqq0a83pqfjn0b10p0hh5kr7b5cxjjcnr36srzq3vxq0jcvnm9d") (f (quote (("full")))) (r "1.70")))
 
+(define-public crate-caret-0.4.6 (c (n "caret") (v "0.4.6") (h "183mg2fgk43809y30vr0cwlis4kcpmrgrbxnpzj8wssivqssxhsa") (f (quote (("full")))) (r "1.70")))
+

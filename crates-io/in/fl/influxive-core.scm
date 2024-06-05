@@ -20,3 +20,5 @@
 
 (define-public crate-influxive-core-0.0.2-alpha.1 (c (n "influxive-core") (v "0.0.2-alpha.1") (h "000djb8p2iqba0y914daxzvpr9kqi6rna6m6dg8vd5xv3sb7inzm")))
 
+(define-public crate-influxive-core-0.0.3-alpha.1 (c (n "influxive-core") (v "0.0.3-alpha.1") (h "0bf8fmjqzy4hyj3wc7ljrbwgppdzzxsjh1r8n2r1pfdss04iklml")))
+

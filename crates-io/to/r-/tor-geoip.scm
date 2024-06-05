@@ -14,3 +14,5 @@
 
 (define-public crate-tor-geoip-0.18.0 (c (n "tor-geoip") (v "0.18.0") (d (list (d (n "derive_more") (r "^0.99.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "rangemap") (r "^1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1q3nrrnxfwvm1pvwrnjj9x3hn5bbbvcymc0660v6xslli9f7rx87") (f (quote (("full" "embedded-db") ("embedded-db") ("default" "embedded-db")))) (r "1.70")))
 
+(define-public crate-tor-geoip-0.19.0 (c (n "tor-geoip") (v "0.19.0") (d (list (d (n "derive_more") (r "^0.99.3") (d #t) (k 0)) (d (n "once_cell") (r "^1.18") (d #t) (k 0)) (d (n "rangemap") (r "^1.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "19s7psmdzs0lg2phfrsrbkjs217hpm588mma8vyr1v0nizygvvxd") (f (quote (("full" "embedded-db") ("embedded-db") ("default" "embedded-db")))) (r "1.70")))
+
