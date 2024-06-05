@@ -8,3 +8,5 @@
 
 (define-public crate-retained-0.0.3 (c (n "retained") (v "0.0.3") (d (list (d (n "retained-macro") (r "^0.0.3") (d #t) (k 0)))) (h "1a33m1yflnbxp4q8kmx7nxwgr7q0qb3w03h0jcbyllxwk8qyldy6")))
 
+(define-public crate-retained-0.0.4 (c (n "retained") (v "0.0.4") (d (list (d (n "retained-macro") (r "^0.0.4") (d #t) (k 0)))) (h "0lqmcih5k5mfpijsxwdj6vsxxzk0a21pfmqw428qb31vkspc99bl")))
+

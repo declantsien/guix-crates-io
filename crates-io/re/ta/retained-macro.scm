@@ -8,3 +8,5 @@
 
 (define-public crate-retained-macro-0.0.3 (c (n "retained-macro") (v "0.0.3") (d (list (d (n "proc-macro2") (r "^1.0.84") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "visit-mut" "visit"))) (d #t) (k 0)))) (h "1l1a4dm8ah7lvgiwj45wyhaiwr7jkhb2d6mlpsjfdgkmczvxwhq2")))
 
+(define-public crate-retained-macro-0.0.4 (c (n "retained-macro") (v "0.0.4") (d (list (d (n "proc-macro2") (r "^1.0.84") (d #t) (k 0)) (d (n "quote") (r "^1.0.36") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("full" "visit-mut" "visit"))) (d #t) (k 0)))) (h "07yds4a5cpzcg7yiwj7i0whck4j1wn016kp439mn04gv52fasksy")))
+

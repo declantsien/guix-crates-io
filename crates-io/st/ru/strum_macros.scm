@@ -88,3 +88,5 @@
 
 (define-public crate-strum_macros-0.26.3 (c (n "strum_macros") (v "0.26.3") (d (list (d (n "heck") (r "^0.5.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.26") (d #t) (k 2)) (d (n "syn") (r "^2.0") (f (quote ("parsing" "extra-traits"))) (d #t) (k 0)))) (h "11zak1qw2p5xwmln9xw8l0iv349cablslss8a41s124y7a73m6gp")))
 
+(define-public crate-strum_macros-0.26.4 (c (n "strum_macros") (v "0.26.4") (d (list (d (n "heck") (r "^0.5.0") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "rustversion") (r "^1.0") (d #t) (k 0)) (d (n "strum") (r "^0.26") (d #t) (k 2)) (d (n "syn") (r "^2.0") (f (quote ("parsing" "extra-traits"))) (d #t) (k 0)))) (h "1gl1wmq24b8md527cpyd5bw9rkbqldd7k1h38kf5ajd2ln2ywssc")))
+
