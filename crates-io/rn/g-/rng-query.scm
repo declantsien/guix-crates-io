@@ -10,3 +10,5 @@
 
 (define-public crate-rng-query-2.0.1 (c (n "rng-query") (v "2.0.1") (d (list (d (n "anstream") (r "^0.6.12") (o #t) (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("cargo"))) (o #t) (d #t) (k 0)) (d (n "owo-colors") (r "^4.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "test-case") (r "^3.1.0") (d #t) (k 2)))) (h "1g1qpi61bmxa9qnkr2ick3k53gajz3wdnvwbm5d0x4dyh5kyg6cw") (f (quote (("default" "bin")))) (s 2) (e (quote (("bin" "dep:clap" "dep:anstream"))))))
 
+(define-public crate-rng-query-2.1.0 (c (n "rng-query") (v "2.1.0") (d (list (d (n "anstream") (r "^0.6.12") (o #t) (d #t) (k 0)) (d (n "clap") (r "^4.5.1") (f (quote ("cargo"))) (o #t) (d #t) (k 0)) (d (n "owo-colors") (r "^4.0.0") (d #t) (k 0)) (d (n "rand") (r "^0.8.5") (d #t) (k 0)) (d (n "rand_pcg") (r "^0.3.1") (d #t) (k 0)) (d (n "regex") (r "^1.10.3") (d #t) (k 0)) (d (n "test-case") (r "^3.1.0") (d #t) (k 2)))) (h "03rw6nhs12bin0rr60f5b8nin1liab9ckirpn43l6f41c2mbqlj6") (f (quote (("default" "bin")))) (s 2) (e (quote (("bin" "dep:clap" "dep:anstream"))))))
+

@@ -18,3 +18,5 @@
 
 (define-public crate-ism330dhcx-0.5.2 (c (n "ism330dhcx") (v "0.5.2") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "cortex-m") (r "^0.7.7") (d #t) (k 2)) (d (n "cortex-m-rt") (r "^0.7.3") (d #t) (k 2)) (d (n "cortex-m-semihosting") (r "^0.5.0") (d #t) (k 2)) (d (n "defmt") (r "^0.3.5") (d #t) (k 0)) (d (n "embedded-hal") (r "^0.2.7") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.9.0") (d #t) (t "cfg(unix)") (k 2)) (d (n "embedded-hal-mock") (r "^0.9.0") (d #t) (t "cfg(windows)") (k 2)) (d (n "panic-semihosting") (r "^0.6.0") (d #t) (k 2)) (d (n "stm32l4xx-hal") (r "^0.7.1") (f (quote ("rt" "stm32l433"))) (d #t) (k 2)))) (h "1pfpa37pck4z4i8lq6j51x1i7jmh110xbh2af3360ri1nrlxnp4a")))
 
+(define-public crate-ism330dhcx-0.6.0 (c (n "ism330dhcx") (v "0.6.0") (d (list (d (n "approx") (r "^0.5.1") (d #t) (k 2)) (d (n "defmt") (r "^0.3") (d #t) (k 0)) (d (n "embedded-hal") (r "^1.0.0") (d #t) (k 0)) (d (n "embedded-hal-mock") (r "^0.11") (d #t) (k 2)) (d (n "embedded-io") (r "^0.6.1") (d #t) (k 0)))) (h "1iilznzc9nl4k71rcr0vwpwrb62jag7xcaddrdyfaxpw69qfg3nq")))
+

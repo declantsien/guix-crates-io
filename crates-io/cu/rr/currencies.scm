@@ -18,3 +18,5 @@
 
 (define-public crate-currencies-0.3.2 (c (n "currencies") (v "0.3.2") (d (list (d (n "num-integer") (r "^0.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "primitive-types") (r "^0.12") (f (quote ("num-traits"))) (d #t) (k 0)) (d (n "quoth") (r "^0.1.6") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1") (o #t) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 2)) (d (n "uint") (r "^0.9") (d #t) (k 0)))) (h "18y0knrcrgyb8gaxrz1gvzqjvf29bz8b85g6bijzdwhx1kcl076r") (f (quote (("std") ("default" "parsing")))) (s 2) (e (quote (("serde" "dep:serde") ("parsing" "serde" "std" "dep:quoth"))))))
 
+(define-public crate-currencies-0.4.0 (c (n "currencies") (v "0.4.0") (d (list (d (n "currencies-core") (r "^0.4.0") (d #t) (k 0)) (d (n "currencies-macros") (r "^0.4.0") (d #t) (k 0)))) (h "0w2fygcll7hjfxzld8mq31s73ba24gbp8rxmyq6n46yg78nj6f4h") (f (quote (("std" "currencies-core/std") ("serde" "currencies-core/serde") ("parsing" "currencies-core/parsing") ("default" "parsing"))))))
+
