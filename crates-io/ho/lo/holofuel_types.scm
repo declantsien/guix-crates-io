@@ -34,3 +34,5 @@
 
 (define-public crate-holofuel_types-0.5.9 (c (n "holofuel_types") (v "0.5.9") (d (list (d (n "hdi") (r "=0.5.0-dev.2") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "08mpiqz73qam7xyvqfggw76583f0h9apj65790ayza31pxxqg4yi")))
 
+(define-public crate-holofuel_types-0.5.10 (c (n "holofuel_types") (v "0.5.10") (d (list (d (n "hdi") (r "=0.5.0-dev.3") (d #t) (k 0)) (d (n "lazy_static") (r "^1.4.0") (d #t) (k 0)) (d (n "regex") (r "^1.1.2") (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "0ris5gkx6xg15kl4xjsq7n3vl1vcwl06xfhmggkwkf7p19xbv6lh")))
+

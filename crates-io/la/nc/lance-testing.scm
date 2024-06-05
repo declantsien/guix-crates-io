@@ -128,3 +128,5 @@
 
 (define-public crate-lance-testing-0.12.0 (c (n "lance-testing") (v "0.12.0") (d (list (d (n "arrow-array") (r "^51.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^51.0") (d #t) (k 0)) (d (n "lance-arrow") (r "=0.12.0") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (f (quote ("small_rng"))) (d #t) (k 0)))) (h "0l1sc9ccr4a0hzy0snwxda4j9d8frqas76723pdsw299g2gl01mh")))
 
+(define-public crate-lance-testing-0.12.1 (c (n "lance-testing") (v "0.12.1") (d (list (d (n "arrow-array") (r "^51.0") (d #t) (k 0)) (d (n "arrow-schema") (r "^51.0") (d #t) (k 0)) (d (n "lance-arrow") (r "=0.12.1") (d #t) (k 0)) (d (n "num-traits") (r "^0.2") (d #t) (k 0)) (d (n "rand") (r "^0.8.3") (f (quote ("small_rng"))) (d #t) (k 0)))) (h "0hx90bvqmxqm26rjhs8zlg15vpj6bmg3ryn91xmkjw3v45lbm4b3")))
+
