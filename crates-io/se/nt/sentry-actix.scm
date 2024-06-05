@@ -112,3 +112,5 @@
 
 (define-public crate-sentry-actix-0.33.0 (c (n "sentry-actix") (v "0.33.0") (d (list (d (n "actix-web") (r "^4") (k 0)) (d (n "actix-web") (r "^4") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.5") (k 0)) (d (n "sentry-core") (r "^0.33.0") (f (quote ("client"))) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)))) (h "12rh3fvi9fs3vl1xzq7xnb5wdf0y90xd1hc0fvzw3aadxbzdpkmn") (r "1.73")))
 
+(define-public crate-sentry-actix-0.34.0 (c (n "sentry-actix") (v "0.34.0") (d (list (d (n "actix-web") (r "^4") (k 0)) (d (n "actix-web") (r "^4") (d #t) (k 2)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "futures-util") (r "^0.3.5") (k 0)) (d (n "sentry-core") (r "^0.34.0") (f (quote ("client"))) (k 0)) (d (n "tokio") (r "^1.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0y4s5gc9km1w08hzpz497lfx2ka52qgpq4k6zigqnabdlk9wfqg4") (r "1.73")))
+

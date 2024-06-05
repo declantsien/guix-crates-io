@@ -68,3 +68,5 @@
 
 (define-public crate-sentry-log-0.33.0 (c (n "sentry-log") (v "0.33.0") (d (list (d (n "log") (r "^0.4.8") (f (quote ("std"))) (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 2)) (d (n "sentry-core") (r "^0.33.0") (d #t) (k 0)))) (h "01rg9g1glhxykzp6xq5vk8a3g1qs95hcidhsffh3aykjxv91ajqq") (r "1.73")))
 
+(define-public crate-sentry-log-0.34.0 (c (n "sentry-log") (v "0.34.0") (d (list (d (n "log") (r "^0.4.8") (f (quote ("std"))) (d #t) (k 0)) (d (n "pretty_env_logger") (r "^0.5.0") (d #t) (k 2)) (d (n "sentry-core") (r "^0.34.0") (d #t) (k 0)))) (h "1xdv8aj5b3zbyzy5ng5yf4jvp01a85rv3gfl3md08mb9i1hwrfvm") (r "1.73")))
+

@@ -68,3 +68,5 @@
 
 (define-public crate-sentry-backtrace-0.33.0 (c (n "sentry-backtrace") (v "0.33.0") (d (list (d (n "backtrace") (r "^0.3.44") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (f (quote ("std" "unicode-perl"))) (k 0)) (d (n "sentry-core") (r "^0.33.0") (d #t) (k 0)))) (h "1jq28caqrwwipxffkn4w6ldyflj8p5i5g1lz70hjhcz06ck2mrcc") (r "1.73")))
 
+(define-public crate-sentry-backtrace-0.34.0 (c (n "sentry-backtrace") (v "0.34.0") (d (list (d (n "backtrace") (r "^0.3.44") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "regex") (r "^1.5.5") (f (quote ("std" "unicode-perl"))) (k 0)) (d (n "sentry-core") (r "^0.34.0") (d #t) (k 0)))) (h "0fj6kjjydk56g1a1r3q2mz0yyq7mcx1q71h8r7bwjbhynidj5aj0") (r "1.73")))
+

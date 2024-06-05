@@ -66,3 +66,5 @@
 
 (define-public crate-sentry-anyhow-0.33.0 (c (n "sentry-anyhow") (v "0.33.0") (d (list (d (n "anyhow") (r "^1.0.39") (d #t) (k 0)) (d (n "sentry-backtrace") (r "^0.33.0") (d #t) (k 0)) (d (n "sentry-core") (r "^0.33.0") (d #t) (k 0)))) (h "03q6mpj8vg9bq6j05yg1wpbmk97s71nzrdxh4h1fyimnkra2ay1w") (f (quote (("default" "backtrace") ("backtrace" "anyhow/backtrace")))) (r "1.73")))
 
+(define-public crate-sentry-anyhow-0.34.0 (c (n "sentry-anyhow") (v "0.34.0") (d (list (d (n "anyhow") (r "^1.0.39") (d #t) (k 0)) (d (n "sentry-backtrace") (r "^0.34.0") (d #t) (k 0)) (d (n "sentry-core") (r "^0.34.0") (d #t) (k 0)))) (h "1xdgg2i6mk8qslwphr83ckcak9vivd771h7k6n29g42fxp8vywnn") (f (quote (("default" "backtrace") ("backtrace" "anyhow/backtrace")))) (r "1.73")))
+

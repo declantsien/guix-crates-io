@@ -16,3 +16,5 @@
 
 (define-public crate-std-embedded-nal-0.2.0 (c (n "std-embedded-nal") (v "0.2.0") (d (list (d (n "async-std") (r "^1.12") (o #t) (d #t) (k 0)) (d (n "embedded-nal") (r "^0.7") (d #t) (k 0)) (d (n "embedded-nal-tcpextensions") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "mio") (r "^0.8") (f (quote ("os-ext"))) (d #t) (k 2)))) (h "13q5rxf90w014k8wb14xvdzsvzh8jmh9897rp6xiyz3a572346zy")))
 
+(define-public crate-std-embedded-nal-0.3.0 (c (n "std-embedded-nal") (v "0.3.0") (d (list (d (n "async-std") (r "^1.12") (o #t) (d #t) (k 0)) (d (n "embedded-nal") (r "^0.8") (d #t) (k 0)) (d (n "embedded-nal-tcpextensions") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "mio") (r "^0.8") (f (quote ("os-ext"))) (d #t) (k 2)))) (h "0qcyz7lgrcqs7hapmbn0x1wksyhhsg5jalcrs36j4gagg3mlrvlh")))
+

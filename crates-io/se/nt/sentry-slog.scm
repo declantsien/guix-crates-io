@@ -68,3 +68,5 @@
 
 (define-public crate-sentry-slog-0.33.0 (c (n "sentry-slog") (v "0.33.0") (d (list (d (n "erased-serde") (r "^0.3.12") (d #t) (k 2)) (d (n "sentry-core") (r "^0.33.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.46") (d #t) (k 0)) (d (n "slog") (r "^2.5.2") (f (quote ("nested-values"))) (d #t) (k 0)))) (h "19pziakbpanj2vyi867b5lf953v17ql2a07yp6492hj2h8w3nmwk") (r "1.73")))
 
+(define-public crate-sentry-slog-0.34.0 (c (n "sentry-slog") (v "0.34.0") (d (list (d (n "erased-serde") (r "^0.3.12") (d #t) (k 2)) (d (n "sentry-core") (r "^0.34.0") (d #t) (k 0)) (d (n "serde") (r "^1.0.117") (d #t) (k 2)) (d (n "serde_json") (r "^1.0.46") (d #t) (k 0)) (d (n "slog") (r "^2.5.2") (f (quote ("nested-values"))) (d #t) (k 0)))) (h "1svpbkzv6j3zna9mdymh1yblpl82jzir4jbx8vin1f0b41ilrfci") (r "1.73")))
+

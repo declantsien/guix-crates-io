@@ -68,3 +68,5 @@
 
 (define-public crate-sentry-debug-images-0.33.0 (c (n "sentry-debug-images") (v "0.33.0") (d (list (d (n "findshlibs") (r "=0.10.2") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "sentry-core") (r "^0.33.0") (d #t) (k 0)))) (h "1xybz6y8zzva6dkxh3jrg5cq2cx8q2nwdq0dg5w8bfjxls9ydqrb") (r "1.73")))
 
+(define-public crate-sentry-debug-images-0.34.0 (c (n "sentry-debug-images") (v "0.34.0") (d (list (d (n "findshlibs") (r "=0.10.2") (d #t) (k 0)) (d (n "once_cell") (r "^1") (d #t) (k 0)) (d (n "sentry-core") (r "^0.34.0") (d #t) (k 0)))) (h "12i3hq8fz3sxfx8s42abipqskggfcw1fxyj3gklsbjjzjigb5ilg") (r "1.73")))
+

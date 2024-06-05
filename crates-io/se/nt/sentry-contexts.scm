@@ -68,3 +68,5 @@
 
 (define-public crate-sentry-contexts-0.33.0 (c (n "sentry-contexts") (v "0.33.0") (d (list (d (n "hostname") (r "^0.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.66") (d #t) (k 0)) (d (n "os_info") (r "^3.5.0") (d #t) (t "cfg(windows)") (k 0)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "sentry-core") (r "^0.33.0") (d #t) (k 0)) (d (n "uname") (r "^0.1.1") (d #t) (t "cfg(not(windows))") (k 0)))) (h "0qxwa7mdapbz0cq75pp43lg5g2i4p2sghl2japvpnwqkn1p5wmhh") (r "1.73")))
 
+(define-public crate-sentry-contexts-0.34.0 (c (n "sentry-contexts") (v "0.34.0") (d (list (d (n "hostname") (r "^0.4") (d #t) (k 0)) (d (n "libc") (r "^0.2.66") (d #t) (k 0)) (d (n "os_info") (r "^3.5.0") (d #t) (t "cfg(windows)") (k 0)) (d (n "rustc_version") (r "^0.4.0") (d #t) (k 1)) (d (n "sentry-core") (r "^0.34.0") (d #t) (k 0)) (d (n "uname") (r "^0.1.1") (d #t) (t "cfg(not(windows))") (k 0)))) (h "044rwgv5asv4zl8363v1z5nvvkagzp71j5km766cn5ixv93dg38s") (r "1.73")))
+

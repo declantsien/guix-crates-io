@@ -66,3 +66,5 @@
 
 (define-public crate-sentry-panic-0.33.0 (c (n "sentry-panic") (v "0.33.0") (d (list (d (n "sentry-backtrace") (r "^0.33.0") (d #t) (k 0)) (d (n "sentry-core") (r "^0.33.0") (d #t) (k 0)))) (h "1rsh5hvgg9jm092cgl28fi8xdh1z3srvnn87qq7vjw2nmp040h3g") (r "1.73")))
 
+(define-public crate-sentry-panic-0.34.0 (c (n "sentry-panic") (v "0.34.0") (d (list (d (n "sentry-backtrace") (r "^0.34.0") (d #t) (k 0)) (d (n "sentry-core") (r "^0.34.0") (d #t) (k 0)))) (h "0qrds9n8byw31g9rnn6icjh4lm43g2zgq7s9m5qxjv8qqwlz4x5w") (r "1.73")))
+
