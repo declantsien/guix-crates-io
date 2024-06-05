@@ -314,3 +314,5 @@
 
 (define-public crate-deno_console-0.154.0 (c (n "deno_console") (v "0.154.0") (d (list (d (n "deno_core") (r "^0.283.0") (d #t) (k 0)))) (h "1ylkrh4mf94zvkvkjm5glpbzjp2k25lw870xmxw0cl908fdizg9h")))
 
+(define-public crate-deno_console-0.155.0 (c (n "deno_console") (v "0.155.0") (d (list (d (n "deno_core") (r "^0.284.0") (d #t) (k 0)))) (h "1bywlqd1cjlmzw7gg1lb2ympa9m6s6qkk724gz70z9w575lfs40h")))
+

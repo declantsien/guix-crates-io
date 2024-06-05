@@ -314,3 +314,5 @@
 
 (define-public crate-deno_url-0.154.0 (c (n "deno_url") (v "0.154.0") (d (list (d (n "deno_bench_util") (r "^0.148.0") (d #t) (k 2)) (d (n "deno_console") (r "^0.154.0") (d #t) (k 2)) (d (n "deno_core") (r "^0.283.0") (d #t) (k 0)) (d (n "deno_webidl") (r "^0.154.0") (d #t) (k 2)) (d (n "urlpattern") (r "^0.2.0") (d #t) (k 0)))) (h "19rpgraxs3i0zcqv1l5z641nw3za2wl3hqnwzffkm2ix585il38k")))
 
+(define-public crate-deno_url-0.155.0 (c (n "deno_url") (v "0.155.0") (d (list (d (n "deno_bench_util") (r "^0.149.0") (d #t) (k 2)) (d (n "deno_console") (r "^0.155.0") (d #t) (k 2)) (d (n "deno_core") (r "^0.284.0") (d #t) (k 0)) (d (n "deno_webidl") (r "^0.155.0") (d #t) (k 2)) (d (n "urlpattern") (r "^0.2.0") (d #t) (k 0)))) (h "16bby3w3icqw89jnig8ydnc541nndflhsqihr68ggd3ss2nlw1i4")))
+
