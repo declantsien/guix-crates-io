@@ -6,3 +6,5 @@
 
 (define-public crate-radicle-cli-test-0.9.0 (c (n "radicle-cli-test") (v "0.9.0") (d (list (d (n "escargot") (r "^0.5.7") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 0)) (d (n "radicle") (r "^0.9.0") (f (quote ("logger" "test"))) (d #t) (k 0)) (d (n "shlex") (r "^1.1.0") (d #t) (k 0)) (d (n "snapbox") (r "^0.4.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "01vp1w6crsdh1gp6l86r3clbdlga1brixpry22b556y98sm3f5pd")))
 
+(define-public crate-radicle-cli-test-0.10.0 (c (n "radicle-cli-test") (v "0.10.0") (d (list (d (n "escargot") (r "^0.5.7") (d #t) (k 0)) (d (n "log") (r "^0.4") (f (quote ("std"))) (d #t) (k 0)) (d (n "pretty_assertions") (r "^1.3.0") (d #t) (k 0)) (d (n "radicle") (r "^0.11.0") (f (quote ("logger" "test"))) (d #t) (k 0)) (d (n "shlex") (r "^1.1.0") (d #t) (k 0)) (d (n "snapbox") (r "^0.4.3") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)))) (h "1pfz5yivn3l3wjcbkipyx6cd7c5d45q963yhss9id05jgkfd3fym")))
+

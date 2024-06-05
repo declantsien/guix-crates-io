@@ -8,3 +8,5 @@
 
 (define-public crate-framous-0.1.3 (c (n "framous") (v "0.1.3") (d (list (d (n "bytes") (r "^1.4.0") (d #t) (k 0)) (d (n "socket-server-mocker") (r "^0.0.4") (d #t) (k 2)))) (h "13sci6kg188c1276m29il0b78idd8apmj7h67qvc7zdcqps2sw3i")))
 
+(define-public crate-framous-0.1.4 (c (n "framous") (v "0.1.4") (d (list (d (n "bytes") (r "^1.6.0") (d #t) (k 0)) (d (n "socket-server-mocker") (r "^0.0.4") (d #t) (k 2)))) (h "0qhdw6gddjvx3v49mqndyxz6k4h4yjd91ka15aq10q202lgwvrgg")))
+
