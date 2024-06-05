@@ -224,3 +224,5 @@
 
 (define-public crate-dragonfly-api-2.0.114 (c (n "dragonfly-api") (v "2.0.114") (d (list (d (n "prost") (r "^0.11.9") (d #t) (k 0)) (d (n "prost-types") (r "^0.12.4") (d #t) (k 0)) (d (n "prost-wkt-types") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tonic") (r "^0.9.2") (d #t) (k 0)) (d (n "tonic-build") (r "^0.9.2") (d #t) (k 1)))) (h "13biasy49w4fkf1mgq2l41sn23prrnz2s4sp0y7924mvbjxch24h")))
 
+(define-public crate-dragonfly-api-2.0.115 (c (n "dragonfly-api") (v "2.0.115") (d (list (d (n "prost") (r "^0.11.9") (d #t) (k 0)) (d (n "prost-types") (r "^0.12.6") (d #t) (k 0)) (d (n "prost-wkt-types") (r "^0.4") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "tokio") (r "^1.38.0") (f (quote ("rt-multi-thread" "macros"))) (d #t) (k 0)) (d (n "tonic") (r "^0.9.2") (d #t) (k 0)) (d (n "tonic-build") (r "^0.9.2") (d #t) (k 1)))) (h "0vbz2jvdrv6fd7npzq4f10zn1361xsch9n511zf132xj8gb35q7s")))
+
