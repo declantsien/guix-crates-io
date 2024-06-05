@@ -8,3 +8,5 @@
 
 (define-public crate-langtime-0.1.3 (c (n "langtime") (v "0.1.3") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)))) (h "09vvg1m7l5krwd2x3fkg2w2kd8m60axhlxwiv7yfzaa1x7fflixq")))
 
+(define-public crate-langtime-0.2.0 (c (n "langtime") (v "0.2.0") (d (list (d (n "chrono") (r "^0.4.31") (d #t) (k 0)) (d (n "nom") (r "^7.1.3") (d #t) (k 0)))) (h "0iyszgk6al627ka7yr2dnbdi5g7rzifvg9rfdpskd3z1ddc09p5y")))
+

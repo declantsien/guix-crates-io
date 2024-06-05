@@ -6,3 +6,5 @@
 
 (define-public crate-fiocz-rs-0.2.1 (c (n "fiocz-rs") (v "0.2.1") (d (list (d (n "env_logger") (r "^0.11") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.11") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "rust_decimal") (r "^1.34") (f (quote ("serde-float"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "1kzmg6fz7cp1rh5rph2xdzfni8js7ddm1mrw3zp73bfn0v04lazx")))
 
+(define-public crate-fiocz-rs-0.3.0 (c (n "fiocz-rs") (v "0.3.0") (d (list (d (n "env_logger") (r "^0.11") (d #t) (k 2)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "reqwest") (r "^0.12") (f (quote ("json" "multipart"))) (d #t) (k 0)) (d (n "rust_decimal") (r "^1.34") (f (quote ("serde-float"))) (d #t) (k 0)) (d (n "serde") (r "^1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 2)))) (h "02pl9c1yxxa8wkaz262kxhk3vw0ci0ad0vs55q421cqamgcq2s65")))
+
