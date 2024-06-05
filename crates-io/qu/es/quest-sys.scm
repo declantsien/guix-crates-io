@@ -80,3 +80,5 @@
 
 (define-public crate-quest-sys-0.13.1 (c (n "quest-sys") (v "0.13.1") (d (list (d (n "bindgen") (r "^0.69") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "openmp-sys") (r "^1.2.0") (f (quote ("static"))) (o #t) (d #t) (k 0)))) (h "1sf8iacn3yb41yih251z7z5nrq5bdp9q4c6yy8q00n5ld36qnh61") (f (quote (("rebuild" "bindgen") ("openmp" "openmp-sys") ("default") ("cuquantum") ("cuda")))) (r "1.60")))
 
+(define-public crate-quest-sys-0.14.0 (c (n "quest-sys") (v "0.14.0") (d (list (d (n "bindgen") (r "^0.69") (o #t) (d #t) (k 1)) (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "openmp-sys") (r "^1.2.0") (f (quote ("static"))) (o #t) (d #t) (k 0)))) (h "17c2b2rrh7f3b7h7hi0r8sgk37d3105cw0h3is5316yh5ggxsi0b") (f (quote (("rebuild" "bindgen") ("openmp" "openmp-sys") ("default") ("cuquantum") ("cuda")))) (r "1.67")))
+

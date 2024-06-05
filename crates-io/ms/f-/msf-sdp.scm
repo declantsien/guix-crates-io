@@ -6,3 +6,5 @@
 
 (define-public crate-msf-sdp-0.2.1 (c (n "msf-sdp") (v "0.2.1") (d (list (d (n "base64") (r "^0.21") (o #t) (d #t) (k 0)) (d (n "bytes") (r "^1") (o #t) (d #t) (k 0)) (d (n "msf-ice") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "msf-util") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "str-reader") (r "^0.1") (d #t) (k 0)))) (h "1zn6pl19gcrml0hd67m8c363szmq4hsmhn2wip91i0xg5qc3n0wq") (f (quote (("ice" "msf-ice") ("h264" "base64" "bytes" "msf-util/h264") ("default"))))))
 
+(define-public crate-msf-sdp-0.2.2 (c (n "msf-sdp") (v "0.2.2") (d (list (d (n "base64") (r "^0.22") (o #t) (d #t) (k 0)) (d (n "bytes") (r "^1") (o #t) (d #t) (k 0)) (d (n "msf-ice") (r "^0.2") (o #t) (d #t) (k 0)) (d (n "msf-util") (r "^0.1") (o #t) (d #t) (k 0)) (d (n "str-reader") (r "^0.1") (d #t) (k 0)))) (h "1pbv1z73qy96lfk7hmg53r1ir9vhncg82wymmahlnvq4fqabj8f9") (f (quote (("ice" "msf-ice") ("h264" "base64" "bytes" "msf-util/h264") ("default"))))))
+
