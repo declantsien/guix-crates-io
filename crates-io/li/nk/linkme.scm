@@ -90,3 +90,5 @@
 
 (define-public crate-linkme-0.3.26 (c (n "linkme") (v "0.3.26") (d (list (d (n "linkme-impl") (r "=0.3.26") (d #t) (k 0)) (d (n "once_cell") (r "^1.16") (d #t) (k 2)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "trybuild") (r "^1.0.66") (f (quote ("diff"))) (d #t) (k 2)))) (h "0gv2f6slhddajjz9sz63xxghsgv76cdcjw4piyn6ha77pypj4cl3") (f (quote (("used_linker" "linkme-impl/used_linker")))) (r "1.62")))
 
+(define-public crate-linkme-0.3.27 (c (n "linkme") (v "0.3.27") (d (list (d (n "linkme-impl") (r "=0.3.27") (d #t) (k 0)) (d (n "once_cell") (r "^1.16") (d #t) (k 2)) (d (n "rustversion") (r "^1.0") (d #t) (k 2)) (d (n "trybuild") (r "^1.0.66") (f (quote ("diff"))) (d #t) (k 2)))) (h "1xdvj3mqw4ig13jjfxr2c5vqpk6skf8xcq33yndrzp4fsxi6ddyc") (f (quote (("used_linker" "linkme-impl/used_linker")))) (r "1.62")))
+

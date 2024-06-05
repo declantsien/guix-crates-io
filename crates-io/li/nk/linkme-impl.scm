@@ -90,3 +90,5 @@
 
 (define-public crate-linkme-impl-0.3.26 (c (n "linkme-impl") (v "0.3.26") (d (list (d (n "proc-macro2") (r "^1.0.74") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.46") (d #t) (k 0)))) (h "021z534lx5v0d019abvj3ylbnrrrf941hbncawajg8xy5nlxxw1r") (f (quote (("used_linker")))) (r "1.62")))
 
+(define-public crate-linkme-impl-0.3.27 (c (n "linkme-impl") (v "0.3.27") (d (list (d (n "proc-macro2") (r "^1.0.74") (d #t) (k 0)) (d (n "quote") (r "^1.0.35") (d #t) (k 0)) (d (n "syn") (r "^2.0.46") (d #t) (k 0)))) (h "1nlc7apanzb2gi0n9zfs5ry1qq72pwszhz71yaxa6kz06akwvp7q") (f (quote (("used_linker")))) (r "1.62")))
+

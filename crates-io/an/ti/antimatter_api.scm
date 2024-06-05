@@ -28,3 +28,5 @@
 
 (define-public crate-antimatter_api-1.0.16 (c (n "antimatter_api") (v "1.0.16") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "192xhvrq03qabcsch5i4y4yk60q9dvhyyfxgghrq7wcikhhjzxxh")))
 
+(define-public crate-antimatter_api-1.0.17 (c (n "antimatter_api") (v "1.0.17") (d (list (d (n "reqwest") (r "^0.11") (f (quote ("json" "blocking" "multipart"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (d #t) (k 0)) (d (n "serde_derive") (r "^1.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "url") (r "^2.2") (d #t) (k 0)) (d (n "uuid") (r "^1.0") (f (quote ("serde" "v4"))) (d #t) (k 0)))) (h "1nghv66lidw4zn5ff2v26j8rc07nfpgr4aidvkjnca0083w3rqml")))
+
