@@ -88,7 +88,7 @@
 
 (define-public crate-dharitri-sc-modules-0.13.2 (c (n "dharitri-sc-modules") (v "0.13.2") (d (list (d (n "dharitri-sc") (r "^0.13.2") (d #t) (k 0)))) (h "03rn2pywzamnkcrmpcyfc6d4cx8c279mzp6khqyfndaz8053n16s") (f (quote (("alloc" "dharitri-sc/alloc")))) (y #t)))
 
-(define-public crate-dharitri-sc-modules-0.13.3 (c (n "dharitri-sc-modules") (v "0.13.3") (d (list (d (n "dharitri-sc") (r "^0.13.3") (d #t) (k 0)))) (h "142hrbl0v8nnqj5qwsm31hdhfj9qjkwh6a5my854wh6xzkjng6yg") (f (quote (("alloc" "dharitri-sc/alloc"))))))
+(define-public crate-dharitri-sc-modules-0.13.3 (c (n "dharitri-sc-modules") (v "0.13.3") (d (list (d (n "dharitri-sc") (r "^0.13.3") (d #t) (k 0)))) (h "142hrbl0v8nnqj5qwsm31hdhfj9qjkwh6a5my854wh6xzkjng6yg") (f (quote (("alloc" "dharitri-sc/alloc")))) (y #t)))
 
 (define-public crate-dharitri-sc-modules-0.13.4 (c (n "dharitri-sc-modules") (v "0.13.4") (d (list (d (n "dharitri-sc") (r "^0.13.4") (d #t) (k 0)))) (h "1jv8s2z5b3pc3ydp0qj4wjmj9wpn6zxzp0n5fmaf7wr44n94ryc3") (f (quote (("alloc" "dharitri-sc/alloc")))) (y #t)))
 

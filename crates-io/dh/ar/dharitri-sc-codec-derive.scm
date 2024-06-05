@@ -22,7 +22,7 @@
 
 (define-public crate-dharitri-sc-codec-derive-0.4.6 (c (n "dharitri-sc-codec-derive") (v "0.4.6") (d (list (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "0g692yaqj9h1imkiy7nix49n9y2jpz23v3k35pgdkpl1vc98vc2l") (f (quote (("default" "syn/full" "syn/parsing" "syn/extra-traits")))) (y #t)))
 
-(define-public crate-dharitri-sc-codec-derive-0.4.7 (c (n "dharitri-sc-codec-derive") (v "0.4.7") (d (list (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "0kn8gyxyi8nvfv5vj5hzg6br2fccix98zys63ax6qvqg8x9mwgi1") (f (quote (("default" "syn/full" "syn/parsing" "syn/extra-traits"))))))
+(define-public crate-dharitri-sc-codec-derive-0.4.7 (c (n "dharitri-sc-codec-derive") (v "0.4.7") (d (list (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^1.0") (d #t) (k 0)))) (h "0kn8gyxyi8nvfv5vj5hzg6br2fccix98zys63ax6qvqg8x9mwgi1") (f (quote (("default" "syn/full" "syn/parsing" "syn/extra-traits")))) (y #t)))
 
 (define-public crate-dharitri-sc-codec-derive-0.4.8 (c (n "dharitri-sc-codec-derive") (v "0.4.8") (d (list (d (n "hex") (r "^0.4") (d #t) (k 0)) (d (n "proc-macro2") (r "^1.0.66") (d #t) (k 0)) (d (n "quote") (r "^1.0.33") (d #t) (k 0)) (d (n "syn") (r "^2.0.39") (d #t) (k 0)))) (h "0qc1gyqm0k7kws1pi6dav8wvc6n0zs0z0cd7g4fsc2k7h51qbzqh") (f (quote (("default" "syn/full" "syn/parsing" "syn/extra-traits")))) (y #t)))
 
