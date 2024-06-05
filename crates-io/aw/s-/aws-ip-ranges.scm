@@ -660,3 +660,5 @@
 
 (define-public crate-aws-ip-ranges-0.331.0 (c (n "aws-ip-ranges") (v "0.331.0") (d (list (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 1)))) (h "02hxx8ggzw11yxzxkbiz3cf93fj147dwkqkb2cdd9dsz2bv6kdfq")))
 
+(define-public crate-aws-ip-ranges-0.332.0 (c (n "aws-ip-ranges") (v "0.332.0") (d (list (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 1)) (d (n "serde_json") (r "^1.0.108") (d #t) (k 1)))) (h "13z1bi54jywbiqbixl81lldkgvj9df0c0jv807n0nkxhavl0xi66")))
+

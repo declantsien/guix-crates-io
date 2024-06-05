@@ -62,3 +62,5 @@
 
 (define-public crate-fontdue-0.9.0 (c (n "fontdue") (v "0.9.0") (d (list (d (n "hashbrown") (r "^0.14") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.10") (o #t) (d #t) (k 0)) (d (n "ttf-parser") (r "^0.21") (f (quote ("opentype-layout"))) (k 0)))) (h "07ajhpgg73h1ms069w40mhpsxgmczm4nd5697yp3h6hxiw5p4xqr") (f (quote (("std") ("simd") ("parallel" "rayon" "hashbrown" "hashbrown/rayon") ("default" "simd" "hashbrown"))))))
 
+(define-public crate-fontdue-0.9.1 (c (n "fontdue") (v "0.9.1") (d (list (d (n "hashbrown") (r "^0.14") (o #t) (d #t) (k 0)) (d (n "rayon") (r "^1.10") (o #t) (d #t) (k 0)) (d (n "ttf-parser") (r "^0.21") (f (quote ("opentype-layout"))) (k 0)))) (h "18bhaq23rzv98jrfb00q0x2lh1sydjb332iqdjnii7n63safdr46") (f (quote (("std") ("simd") ("parallel" "rayon" "hashbrown" "hashbrown/rayon") ("default" "simd" "hashbrown"))))))
+
