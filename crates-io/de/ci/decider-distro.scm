@@ -66,3 +66,5 @@
 
 (define-public crate-decider-distro-0.6.12 (c (n "decider-distro") (v "0.6.12") (d (list (d (n "built") (r "^0.7.0") (d #t) (k 1)) (d (n "fluence-spell-dtos") (r "^0.7.4") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "05p8i90drp5sqki4mq3nlkb582mx1hcsddp8i9nszrg0d9qalrpy")))
 
+(define-public crate-decider-distro-0.7.0 (c (n "decider-distro") (v "0.7.0") (d (list (d (n "built") (r "^0.7.0") (d #t) (k 1)) (d (n "fluence-spell-dtos") (r "^0.7.4") (d #t) (k 0)) (d (n "maplit") (r "^1.0.2") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.96") (d #t) (k 0)))) (h "0nfi7g2cwlfmzdznx94xp2lwcjw3k8i0pr3am1iaqhw8bkav5zms")))
+
