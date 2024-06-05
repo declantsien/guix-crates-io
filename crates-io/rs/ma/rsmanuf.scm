@@ -24,3 +24,5 @@
 
 (define-public crate-rsmanuf-2.1.3 (c (n "rsmanuf") (v "2.1.3") (d (list (d (n "regex") (r "^1.10.2") (d #t) (k 0)))) (h "0y7m9pmlr7qsiywjaqrlppn5i70z3g7rgcjjr4z95myc8dyx2pac")))
 
+(define-public crate-rsmanuf-2.1.4 (c (n "rsmanuf") (v "2.1.4") (d (list (d (n "regex") (r "^1.10.2") (d #t) (k 0)))) (h "0irkcnpmf06hixk53bdk3qv4v6zfzg12c54d2y4hp1k8v8nf8mrd")))
+
