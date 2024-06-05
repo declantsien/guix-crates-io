@@ -28,3 +28,5 @@
 
 (define-public crate-session_log-0.1.13 (c (n "session_log") (v "0.1.13") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "uuid") (r "^1.8.0") (d #t) (k 0)))) (h "05rdl186yqs8a6xwljhpjgca1r2fq3czfs9l8a9mm3kv7agk49kc") (f (quote (("async"))))))
 
+(define-public crate-session_log-0.1.14 (c (n "session_log") (v "0.1.14") (d (list (d (n "chrono") (r "^0.4.38") (d #t) (k 0)) (d (n "once_cell") (r "^1.19.0") (d #t) (k 0)) (d (n "uuid") (r "^1.8.0") (d #t) (k 0)))) (h "07nfyhqiy2cndmg0sp0jijcsz713z1rqjl8jh1ddg1i0qknrvpbq") (f (quote (("async"))))))
+
