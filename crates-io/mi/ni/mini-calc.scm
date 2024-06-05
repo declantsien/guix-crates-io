@@ -76,3 +76,5 @@
 
 (define-public crate-mini-calc-3.1.0 (c (n "mini-calc") (v "3.1.0") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "confy") (r "^0.5.1") (d #t) (k 0)) (d (n "gnuplot") (r "^0.0.39") (d #t) (k 0)) (d (n "linefeed") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)))) (h "1jv85wxyvi34f6pf54ikg5ghpmjhncfix4ra5f8zy3g1gjm2rk74")))
 
+(define-public crate-mini-calc-3.2.0 (c (n "mini-calc") (v "3.2.0") (d (list (d (n "ansi_term") (r "^0.12.1") (d #t) (k 0)) (d (n "atty") (r "^0.2") (d #t) (k 0)) (d (n "confy") (r "^0.5.1") (d #t) (k 0)) (d (n "gnuplot") (r "^0.0.39") (d #t) (k 0)) (d (n "linefeed") (r "^0.6") (d #t) (k 0)) (d (n "serde") (r "^1.0.192") (f (quote ("derive"))) (d #t) (k 0)))) (h "1wk19xzqkxxr3q63lhcph0hkcrg37plznpdzvh7nxhl3dcvzzn3m")))
+
