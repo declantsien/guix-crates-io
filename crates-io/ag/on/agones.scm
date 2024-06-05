@@ -14,3 +14,5 @@
 
 (define-public crate-agones-1.40.0 (c (n "agones") (v "1.40.0") (d (list (d (n "async-stream") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "prost") (r "^0.11.9") (d #t) (k 0)) (d (n "prost-types") (r "^0.11.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.32") (f (quote ("sync" "time"))) (k 0)) (d (n "tonic") (r "^0.9.2") (f (quote ("codegen" "transport" "prost"))) (k 0)) (d (n "tonic-build") (r "^0.9.2") (f (quote ("prost" "transport"))) (k 1)))) (h "0h5cb5m30i4bdq26lgrhq2pqrm7vgg5xgagp8nn6bm1avy9f3d42")))
 
+(define-public crate-agones-1.41.0 (c (n "agones") (v "1.41.0") (d (list (d (n "async-stream") (r "^0.3") (d #t) (k 0)) (d (n "http") (r "^0.2") (d #t) (k 0)) (d (n "prost") (r "^0.11.9") (d #t) (k 0)) (d (n "prost-types") (r "^0.11.9") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.32") (f (quote ("sync" "time"))) (k 0)) (d (n "tonic") (r "^0.9.2") (f (quote ("codegen" "transport" "prost"))) (k 0)) (d (n "tonic-build") (r "^0.9.2") (f (quote ("prost" "transport"))) (k 1)))) (h "12brafxqmj197k9xs0f5s8d2dmv01rybbha5y7f880kdccsridm0")))
+

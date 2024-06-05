@@ -332,3 +332,5 @@
 
 (define-public crate-psl-2.1.41 (c (n "psl") (v "2.1.41") (d (list (d (n "psl-types") (r "^2.0.11") (d #t) (k 0)) (d (n "rspec") (r "^1.0.0") (d #t) (k 2)))) (h "0nya3fc1l9sbgvi7w8ikaiqkcja88ykrbfh8abipdl26sdwshx0r") (f (quote (("helpers") ("default" "helpers"))))))
 
+(define-public crate-psl-2.1.42 (c (n "psl") (v "2.1.42") (d (list (d (n "psl-types") (r "^2.0.11") (d #t) (k 0)) (d (n "rspec") (r "^1.0.0") (d #t) (k 2)))) (h "1zy64l5jj9n0qqnp1cf405l5ikkpicii4ivdkf7g8ix8fbsd5jki") (f (quote (("helpers") ("default" "helpers"))))))
+

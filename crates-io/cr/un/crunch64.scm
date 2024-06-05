@@ -12,3 +12,5 @@
 
 (define-public crate-crunch64-0.4.0 (c (n "crunch64") (v "0.4.0") (d (list (d (n "pyo3") (r "^0.20.0") (f (quote ("extension-module"))) (o #t) (d #t) (k 0)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "1mn4075ln6zffkgd7y0fwj83ibjrskwlnjsp58knng2xn9v9ffa2") (f (quote (("c_bindings")))) (s 2) (e (quote (("python_bindings" "dep:pyo3"))))))
 
+(define-public crate-crunch64-0.5.0 (c (n "crunch64") (v "0.5.0") (d (list (d (n "crc32fast") (r "^1.4.2") (d #t) (k 0)) (d (n "pyo3") (r "^0.20.0") (f (quote ("extension-module"))) (o #t) (d #t) (k 0)) (d (n "rstest") (r "^0.18.2") (d #t) (k 2)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)))) (h "12hr4iyd4j20w43mmp110wnprja1a1akc4v0413ak2rjagg61r81") (f (quote (("c_bindings")))) (s 2) (e (quote (("python_bindings" "dep:pyo3"))))))
+
