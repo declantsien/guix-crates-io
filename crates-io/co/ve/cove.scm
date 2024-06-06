@@ -10,3 +10,5 @@
 
 (define-public crate-cove-0.5.0 (c (n "cove") (v "0.5.0") (h "17c933w2cs9x5zc4ny80wyq8qwr7n95dlnjbjjbxh6cpxc09na1r") (f (quote (("std") ("default" "std"))))))
 
+(define-public crate-cove-0.6.0 (c (n "cove") (v "0.6.0") (h "1nx263i3agdzwzfrzfxs45yjvqa7z1ws0ig25pg3lkinm0amm0l4") (f (quote (("std") ("default" "std"))))))
+
