@@ -10,3 +10,5 @@
 
 (define-public crate-wikipedia_prosesize-0.2.0 (c (n "wikipedia_prosesize") (v "0.2.0") (d (list (d (n "parsoid") (r "^0.9.0") (k 0)) (d (n "serde") (r "^1.0.188") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.25.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0pxsrws72gvkql9pbg10i9628s0zkqwwfc0g7j4m9hvf2hnsqrr4") (f (quote (("serde-1" "serde")))) (r "1.67")))
 
+(define-public crate-wikipedia_prosesize-0.3.0-rc.1 (c (n "wikipedia_prosesize") (v "0.3.0-rc.1") (d (list (d (n "parsoid") (r "^0.10.0-rc.1") (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (o #t) (d #t) (k 0)) (d (n "tokio") (r "^1.38.0") (f (quote ("full"))) (d #t) (k 2)))) (h "0rxqslrrqphr5cklwjjflgamy6qa8j7ah7g2inxz5jgnk9dlrgpb") (f (quote (("serde-1" "serde")))) (r "1.74")))
+
