@@ -50,3 +50,5 @@
 
 (define-public crate-parquet2lance-0.4.1 (c (n "parquet2lance") (v "0.4.1") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lance") (r "^0.10") (d #t) (k 0)) (d (n "object_store") (r "^0.9.0") (f (quote ("aws" "azure" "gcp"))) (d #t) (k 0)) (d (n "parquet") (r "^50.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "1w8yfr3n8cwd53mzivm31zaxcp2ay1xkwb34m8dqzrnsg908p21c")))
 
+(define-public crate-parquet2lance-0.4.2 (c (n "parquet2lance") (v "0.4.2") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 0)) (d (n "lance") (r "^0.12") (d #t) (k 0)) (d (n "object_store") (r "^0.9.0") (f (quote ("aws" "azure" "gcp"))) (d #t) (k 0)) (d (n "parquet") (r "^51.0") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("full"))) (d #t) (k 0)))) (h "06bkf9anvwmmz0hl4f3mdf0r5da3n1yrq209xxv2jxi6s7p78gd5")))
+
