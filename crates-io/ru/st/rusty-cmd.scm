@@ -6,3 +6,5 @@
 
 (define-public crate-rusty-cmd-1.0.0 (c (n "rusty-cmd") (v "1.0.0") (h "1qz3g4nh1qgk0mwkdr3ddfd84hhkfnic55iaby8cvk1kjy9r6184")))
 
+(define-public crate-rusty-cmd-2.0.0 (c (n "rusty-cmd") (v "2.0.0") (h "12kw438dfsbcsbha155dk47n8sbvln2jx1sbqdyrk41y1sf4qzrm")))
+

@@ -10,3 +10,5 @@
 
 (define-public crate-committer-0.4.0 (c (n "committer") (v "0.4.0") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "clap") (r "^4.5") (f (quote ("derive"))) (d #t) (k 0)) (d (n "inquire") (r "^0.7") (f (quote ("editor"))) (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0wq602hikclsgvdzdwwhf4593fw5i633jv9c2xvnw26qzhd5m592")))
 
+(define-public crate-committer-0.6.1 (c (n "committer") (v "0.6.1") (d (list (d (n "anyhow") (r "^1.0") (d #t) (k 0)) (d (n "inquire") (r "^0.7") (f (quote ("editor"))) (d #t) (k 0)) (d (n "regex") (r "^1.10") (d #t) (k 0)) (d (n "semver") (r "^1.0.23") (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)))) (h "0awi0c862h5c2pmm1hxzimv4i0x2g1an9ik39k5r1bq4sgdyq9i5")))
+

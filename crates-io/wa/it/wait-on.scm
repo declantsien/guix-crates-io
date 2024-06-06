@@ -12,3 +12,7 @@
 
 (define-public crate-wait-on-0.0.6 (c (n "wait-on") (v "0.0.6") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("std" "derive" "env"))) (d #t) (k 0)) (d (n "notify") (r "^6.1.1") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("io-util" "rt-multi-thread" "macros" "net"))) (d #t) (k 0)))) (h "0dxmfdgccgrwi44inxyfj1jsp30fp4prlaqd6y8km3acrcimmvr3")))
 
+(define-public crate-wait-on-0.0.7 (c (n "wait-on") (v "0.0.7") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("std" "derive" "env"))) (d #t) (k 0)) (d (n "notify") (r "^6.1.1") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("rustls-tls"))) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("io-util" "rt-multi-thread" "macros" "net"))) (d #t) (k 0)))) (h "1r3382gd5zh0c9a9zxh21kgpv90gsjfcjk7grlpb4f6s0k52lxxr")))
+
+(define-public crate-wait-on-0.0.8 (c (n "wait-on") (v "0.0.8") (d (list (d (n "anyhow") (r "^1.0.81") (d #t) (k 0)) (d (n "clap") (r "^4.5.4") (f (quote ("std" "derive" "env"))) (d #t) (k 0)) (d (n "notify") (r "^6.1.1") (d #t) (k 0)) (d (n "pin-project") (r "^1.1.5") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("rustls-tls"))) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("io-util" "rt-multi-thread" "macros" "net"))) (d #t) (k 0)))) (h "0va90vq9p8z4923k3x31pi49d4xv4zn45zwyk5a7vrx1h6s046kb")))
+
