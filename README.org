@@ -1,0 +1,1 @@
+=guix import crate= works just fine
