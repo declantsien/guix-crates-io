@@ -156,3 +156,5 @@
 
 (define-public crate-ckb-reward-calculator-0.116.1 (c (n "ckb-reward-calculator") (v "0.116.1") (d (list (d (n "ckb-chain-spec") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-dao") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-dao-utils") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-logger") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-store") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-types") (r "=0.116.1") (d #t) (k 0)))) (h "0j0amd3siv018jyf25da66x8bvwp4n0vykcd9hjxkhqnwndsr9ck")))
 
+(define-public crate-ckb-reward-calculator-0.117.0-rc1 (c (n "ckb-reward-calculator") (v "0.117.0-rc1") (d (list (d (n "ckb-chain-spec") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-dao") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-dao-utils") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-logger") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-store") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-types") (r "=0.117.0-rc1") (d #t) (k 0)))) (h "17f9z5fgkf9cn4fl0bghqc3a5jb18g7ai30qkmfypgz0n6qqypqh")))
+

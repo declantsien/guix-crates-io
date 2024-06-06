@@ -8,3 +8,5 @@
 
 (define-public crate-console-utilities-0.1.3 (c (n "console-utilities") (v "0.1.3") (h "0rgr8krxw48q5n4laqs6m3jfy3920q1br3jw843a0liaqb3favhp")))
 
+(define-public crate-console-utilities-0.1.4 (c (n "console-utilities") (v "0.1.4") (h "1kvb8rf0fv5sbnfy289q15hrlcqyvz7wx07q3q637y9w2nf3z69m")))
+

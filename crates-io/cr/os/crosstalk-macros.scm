@@ -18,3 +18,5 @@
 
 (define-public crate-crosstalk-macros-0.2.6 (c (n "crosstalk-macros") (v "0.2.6") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "0as4lda0hrqq04i5mqpz6wqbrr7d56irh2p9a84vnpdw2hhq41vx")))
 
+(define-public crate-crosstalk-macros-0.2.7 (c (n "crosstalk-macros") (v "0.2.7") (d (list (d (n "proc-macro2") (r "^1.0") (d #t) (k 0)) (d (n "quote") (r "^1.0") (d #t) (k 0)) (d (n "syn") (r "^2.0") (f (quote ("extra-traits" "full"))) (d #t) (k 0)))) (h "0ax7y5qjqd7i5k4rwsjpdhwpm76b60jm37wgaw55a6ihl9aa68x9")))
+

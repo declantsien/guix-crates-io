@@ -16,3 +16,5 @@
 
 (define-public crate-spools-0.5.1 (c (n "spools") (v "0.5.1") (d (list (d (n "rand") (r "^0.8") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json"))) (d #t) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "1ik0ng7cz3m9six3asvny70rj4gfx4nsr92079vsh2rajdcfr5h0")))
 
+(define-public crate-spools-0.6.0 (c (n "spools") (v "0.6.0") (d (list (d (n "fastrand") (r "^2.1") (d #t) (k 0)) (d (n "reqwest") (r "^0.12.4") (f (quote ("json" "rustls-tls"))) (k 0)) (d (n "serde") (r "^1.0") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1.0") (d #t) (k 0)) (d (n "thiserror") (r "^1.0") (d #t) (k 0)) (d (n "tokio") (r "^1.37.0") (f (quote ("full"))) (d #t) (k 0)))) (h "0ird4xlq7jzy3i67fymkkdyfbkawhayirild681s16v9bm10bacl")))
+
