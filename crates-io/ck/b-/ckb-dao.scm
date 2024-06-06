@@ -156,3 +156,5 @@
 
 (define-public crate-ckb-dao-0.116.1 (c (n "ckb-dao") (v "0.116.1") (d (list (d (n "byteorder") (r "^1.3.1") (d #t) (k 0)) (d (n "ckb-chain-spec") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-dao-utils") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-traits") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-types") (r "=0.116.1") (d #t) (k 0)))) (h "1c1kzknv38sczpn7wszd1ihvfgn7hx76h3bzf9w3wf3cxyl0dw16")))
 
+(define-public crate-ckb-dao-0.117.0-rc1 (c (n "ckb-dao") (v "0.117.0-rc1") (d (list (d (n "byteorder") (r "^1.3.1") (d #t) (k 0)) (d (n "ckb-chain-spec") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-dao-utils") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-traits") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-types") (r "=0.117.0-rc1") (d #t) (k 0)))) (h "0fi65rz3sacn25c7cxqrln430b37biqynsglf8fg4p1p7sh7vx5p")))
+

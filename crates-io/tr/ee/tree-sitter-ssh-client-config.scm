@@ -78,3 +78,5 @@
 
 (define-public crate-tree-sitter-ssh-client-config-2024.5.23 (c (n "tree-sitter-ssh-client-config") (v "2024.5.23") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "tree-sitter") (r "~0.22") (d #t) (k 0)))) (h "1jr9dcpcxhyq1p9x8f2hpmjwqaz82fd9s3fn8qyp4894q08d9fiy")))
 
+(define-public crate-tree-sitter-ssh-client-config-2024.6.6 (c (n "tree-sitter-ssh-client-config") (v "2024.6.6") (d (list (d (n "cc") (r "^1.0") (d #t) (k 1)) (d (n "tree-sitter") (r "~0.22") (d #t) (k 0)))) (h "1nmannspqmkj9i2q8d90l46dzb16jfil25g0sw3xn6m0492q3smq")))
+

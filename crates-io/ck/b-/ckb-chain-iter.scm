@@ -156,3 +156,5 @@
 
 (define-public crate-ckb-chain-iter-0.116.1 (c (n "ckb-chain-iter") (v "0.116.1") (d (list (d (n "ckb-store") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-types") (r "=0.116.1") (d #t) (k 0)))) (h "167p276mxhi1dskyd6lb04dzrcr5ys1dlhj9i48l4khcs51ipzdj")))
 
+(define-public crate-ckb-chain-iter-0.117.0-rc1 (c (n "ckb-chain-iter") (v "0.117.0-rc1") (d (list (d (n "ckb-store") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-types") (r "=0.117.0-rc1") (d #t) (k 0)))) (h "17a5g5i9zp6s5ymbbhi4pqnsrf311s0bmdsvx89kf1bsmvf2zzln")))
+

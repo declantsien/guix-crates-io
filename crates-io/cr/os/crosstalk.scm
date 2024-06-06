@@ -24,3 +24,5 @@
 
 (define-public crate-crosstalk-0.2.6 (c (n "crosstalk") (v "0.2.6") (d (list (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "crosstalk-macros") (r "^0.2") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "hashbrown") (r "^0.14") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("sync" "time" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("macros" "sync" "time" "rt-multi-thread"))) (d #t) (k 2)))) (h "0v3hw86jca3j3bpbw8iqci8961qmr69x0az81w08ikqysc41i16l")))
 
+(define-public crate-crosstalk-0.2.7 (c (n "crosstalk") (v "0.2.7") (d (list (d (n "criterion") (r "^0.5") (f (quote ("html_reports"))) (d #t) (k 2)) (d (n "crosstalk-macros") (r "^0.2") (d #t) (k 0)) (d (n "futures") (r "^0.3") (d #t) (k 2)) (d (n "hashbrown") (r "^0.14") (d #t) (k 0)) (d (n "log") (r "^0.4") (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("sync" "time" "rt-multi-thread"))) (d #t) (k 0)) (d (n "tokio") (r "^1.36") (f (quote ("macros" "sync" "time" "rt-multi-thread"))) (d #t) (k 2)))) (h "1pqlks28x8m5gdzd9zdii46i19cnr07g05awg9l9rhrs1r09m78h")))
+
