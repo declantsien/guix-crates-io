@@ -200,3 +200,5 @@
 
 (define-public crate-opendp_derive-0.9.2-nightly.20240604.1 (c (n "opendp_derive") (v "0.9.2-nightly.20240604.1") (d (list (d (n "opendp_tooling") (r "^0.9.2-nightly.20240604.1") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "parsing"))) (o #t) (d #t) (k 0)))) (h "1p44ld5l12c5s7b0f6j7rghfp05zbj3vr6sqchcqhbidydy9acgs") (f (quote (("partials" "full") ("full" "syn" "quote" "opendp_tooling")))) (r "1.64.0")))
 
+(define-public crate-opendp_derive-0.9.2-nightly.20240605.1 (c (n "opendp_derive") (v "0.9.2-nightly.20240605.1") (d (list (d (n "opendp_tooling") (r "^0.9.2-nightly.20240605.1") (o #t) (d #t) (k 0)) (d (n "quote") (r "^1.0") (o #t) (d #t) (k 0)) (d (n "syn") (r "^1.0") (f (quote ("full" "parsing"))) (o #t) (d #t) (k 0)))) (h "06k73gdh19wb4wif7nmfgqwapd07vkm0z8zg4q516khlq2ahhhvl") (f (quote (("partials" "full") ("full" "syn" "quote" "opendp_tooling")))) (r "1.64.0")))
+
