@@ -58,3 +58,5 @@
 
 (define-public crate-code-it-later-rs-0.8.1 (c (n "code-it-later-rs") (v "0.8.1") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rustyline") (r "^9") (d #t) (k 0)) (d (n "serde") (r ">1.0.185") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0dxs5pdnn8973grm3n1invrz15m3hmwlf3whrn2lqg2jxvpmx4sy")))
 
+(define-public crate-code-it-later-rs-0.8.2 (c (n "code-it-later-rs") (v "0.8.2") (d (list (d (n "clap") (r "^4") (f (quote ("derive"))) (d #t) (k 0)) (d (n "env_logger") (r "^0.10.0") (d #t) (k 0)) (d (n "lazy_static") (r "^1") (d #t) (k 0)) (d (n "log") (r "^0.4.0") (d #t) (k 0)) (d (n "regex") (r "^1") (d #t) (k 0)) (d (n "rustyline") (r "^9") (d #t) (k 0)) (d (n "serde") (r ">1.0.185") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde_json") (r "^1") (d #t) (k 0)))) (h "0ifgd402a2js3ivg15smdk49610rryycjrmmcg2kazc6ga3j1pnl")))
+
