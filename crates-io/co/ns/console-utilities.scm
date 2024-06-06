@@ -18,3 +18,5 @@
 
 (define-public crate-console-utilities-1.0.0 (c (n "console-utilities") (v "1.0.0") (h "1j6ka3cnqy45vs3sbxdymzqbsliz97mxfgd7g5vgdzb0q8vkpcxa")))
 
+(define-public crate-console-utilities-1.0.1 (c (n "console-utilities") (v "1.0.1") (h "0pi8fzg8r0qyhkny3ma9x2dgg71zm9khl413vwv70gn1km1hz14j")))
+
