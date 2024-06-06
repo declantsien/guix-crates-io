@@ -102,3 +102,5 @@
 
 (define-public crate-ckb-block-filter-0.116.1 (c (n "ckb-block-filter") (v "0.116.1") (d (list (d (n "ckb-async-runtime") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-logger") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-shared") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-stop-handler") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-store") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-types") (r "=0.116.1") (d #t) (k 0)))) (h "1kzcn3aampiwmm373s20rhfvbj205bfws6dzsv9airabca9jrn8j")))
 
+(define-public crate-ckb-block-filter-0.117.0-rc1 (c (n "ckb-block-filter") (v "0.117.0-rc1") (d (list (d (n "ckb-async-runtime") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-logger") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-shared") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-stop-handler") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-store") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-types") (r "=0.117.0-rc1") (d #t) (k 0)))) (h "0qzfp63p1qgvq7gpk6fzy1rj37sjxv459rf2bgdg0fpwd9bgxnrl")))
+
