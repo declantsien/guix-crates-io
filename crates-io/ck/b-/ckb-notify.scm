@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-notify-0.116.1 (c (n "ckb-notify") (v "0.116.1") (d (list (d (n "ckb-app-config") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-async-runtime") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-logger") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-stop-handler") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-types") (r "=0.116.1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync"))) (d #t) (k 0)))) (h "1qs0ysgq9hgd9dpd364krig7wh771r42jx851r2yybfdqdlw6gk3")))
 
+(define-public crate-ckb-notify-0.117.0-rc1 (c (n "ckb-notify") (v "0.117.0-rc1") (d (list (d (n "ckb-app-config") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-async-runtime") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-logger") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-stop-handler") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-types") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "tokio") (r "^1") (f (quote ("sync"))) (d #t) (k 0)))) (h "0y4ya0300yrc9cc734h2a7hyfkagdadq97a0ngs1c6q4dvx73jsa")))
+

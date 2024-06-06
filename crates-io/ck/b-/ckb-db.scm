@@ -158,3 +158,5 @@
 
 (define-public crate-ckb-db-0.116.1 (c (n "ckb-db") (v "0.116.1") (d (list (d (n "ckb-app-config") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-db-schema") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-error") (r "=0.116.1") (d #t) (k 0)) (d (n "ckb-logger") (r "=0.116.1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "rocksdb") (r "=0.21.1") (f (quote ("snappy"))) (k 0) (p "ckb-rocksdb")))) (h "05hh0dmfs0fcrqfy5w583id4mpap9avhvf8h419isa0qy8aqx1k1") (f (quote (("portable" "rocksdb/portable") ("march-native" "rocksdb/march-native") ("default"))))))
 
+(define-public crate-ckb-db-0.117.0-rc1 (c (n "ckb-db") (v "0.117.0-rc1") (d (list (d (n "ckb-app-config") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-db-schema") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-error") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "ckb-logger") (r "=0.117.0-rc1") (d #t) (k 0)) (d (n "libc") (r "^0.2") (d #t) (k 0)) (d (n "rocksdb") (r "=0.21.1") (f (quote ("snappy"))) (k 0) (p "ckb-rocksdb")))) (h "0i7vljg2gh4jjzcgf126vvd1gawp9q8yjpc4gdi4dvx6756rzlhp") (f (quote (("portable" "rocksdb/portable") ("march-native" "rocksdb/march-native") ("default"))))))
+

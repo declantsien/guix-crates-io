@@ -2,3 +2,5 @@
 
 (define-public crate-rootvg-msaa-0.1.0 (c (n "rootvg-msaa") (v "0.1.0") (d (list (d (n "bytemuck") (r "^1.14.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rootvg-core") (r "^0.1") (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "wgpu") (r "^0.19.3") (f (quote ("wgsl"))) (k 0)))) (h "1cil9mb99jgrbfarqh1yn2x3xaaishpljnrq30axazlxppg8ikk8")))
 
+(define-public crate-rootvg-msaa-0.2.0 (c (n "rootvg-msaa") (v "0.2.0") (d (list (d (n "bytemuck") (r "^1.14.1") (f (quote ("derive"))) (d #t) (k 0)) (d (n "rootvg-core") (r "^0.2") (k 0)) (d (n "thiserror") (r "^1.0.57") (d #t) (k 0)) (d (n "wgpu") (r "^0.20.0") (f (quote ("wgsl"))) (k 0)))) (h "0pbhf5jnri9klqlgm0imr4zv4q4vi4b8aqpi6f4db5ma12dznwqh")))
+
