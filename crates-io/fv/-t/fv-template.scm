@@ -14,3 +14,5 @@
 
 (define-public crate-fv-template-0.4.0 (c (n "fv-template") (v "0.4.0") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "02k7l2d83a839k5v61kyn536aqb2k26j1l4vq7drxrzjyvliyxva")))
 
+(define-public crate-fv-template-0.5.0 (c (n "fv-template") (v "0.5.0") (d (list (d (n "proc-macro2") (r "^1") (d #t) (k 0)) (d (n "quote") (r "^1") (d #t) (k 0)) (d (n "syn") (r "^2") (f (quote ("full" "visit-mut"))) (d #t) (k 0)))) (h "1zi7ccjw6wks43m7bsz2791smmpxs0r84w88vc3qr02xiz2wr9xh")))
+
