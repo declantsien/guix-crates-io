@@ -8,3 +8,5 @@
 
 (define-public crate-nu_plugin_semver-0.4.0 (c (n "nu_plugin_semver") (v "0.4.0") (d (list (d (n "nu-plugin") (r "^0.94.0") (d #t) (k 0)) (d (n "nu-plugin-test-support") (r "^0.94.0") (d #t) (k 0)) (d (n "nu-protocol") (r "^0.94.0") (d #t) (k 0)) (d (n "semver") (r "^1.0.20") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.26") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "typetag") (r "^0.2") (d #t) (k 0)))) (h "1yx92i3v0fbz0sq1qr5kh0ak4q2nngn0f4rclgrmk2zcsfl540mc")))
 
+(define-public crate-nu_plugin_semver-0.4.1 (c (n "nu_plugin_semver") (v "0.4.1") (d (list (d (n "nu-plugin") (r "^0.94.0") (d #t) (k 0)) (d (n "nu-plugin-test-support") (r "^0.94.0") (d #t) (k 2)) (d (n "nu-protocol") (r "^0.94.0") (f (quote ("plugin"))) (d #t) (k 0)) (d (n "semver") (r "^1.0.20") (f (quote ("serde"))) (d #t) (k 0)) (d (n "serde") (r "^1") (d #t) (k 0)) (d (n "strum") (r "^0.26") (f (quote ("derive"))) (d #t) (k 0)) (d (n "thiserror") (r "^1") (d #t) (k 0)) (d (n "typetag") (r "^0.2") (d #t) (k 0)))) (h "1jlm87ma0v0695h4s90wa111x0vy04npyn33m7242gbhxx00xgwk")))
+

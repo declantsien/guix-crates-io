@@ -12,3 +12,5 @@
 
 (define-public crate-prelude-xml-parser-0.5.0 (c (n "prelude-xml-parser") (v "0.5.0") (d (list (d (n "chrono") (r "^0.4.38") (f (quote ("serde"))) (d #t) (k 0)) (d (n "pyo3") (r "^0.21.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.6.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0brihvn99wv7cjky2ccq50axx3gdicfax3wvx331lfy4c4mhp3dz") (s 2) (e (quote (("python" "dep:pyo3"))))))
 
+(define-public crate-prelude-xml-parser-0.6.0 (c (n "prelude-xml-parser") (v "0.6.0") (d (list (d (n "chrono") (r "^0.4.38") (f (quote ("serde"))) (d #t) (k 0)) (d (n "pyo3") (r "^0.21.2") (o #t) (d #t) (k 0)) (d (n "serde") (r "^1.0.203") (f (quote ("derive"))) (d #t) (k 0)) (d (n "serde-xml-rs") (r "^0.6.0") (d #t) (k 0)) (d (n "serde_json") (r "^1.0.117") (d #t) (k 0)) (d (n "tempfile") (r "^3.10.1") (d #t) (k 2)) (d (n "thiserror") (r "^1.0.61") (d #t) (k 0)))) (h "0rq3mn5cc38y341hf5z0acdbij3pi0s2pd0zxadyli4n9xdv7vvp") (s 2) (e (quote (("python" "dep:pyo3"))))))
+
