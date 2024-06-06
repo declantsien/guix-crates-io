@@ -6,3 +6,5 @@
 
 (define-public crate-omp-1.0.0 (c (n "omp") (v "1.0.0") (d (list (d (n "omp-gdk") (r "^1.0.0") (d #t) (k 0)))) (h "198rlprr85c51a2d184clypf9l7i761dzzgdkyl40dd29rlq5hlk")))
 
+(define-public crate-omp-1.0.1 (c (n "omp") (v "1.0.1") (d (list (d (n "omp-gdk") (r "^1.0.1") (d #t) (k 0)))) (h "07mvj7aw0db6z0azmxz42rx0b93rji7crncjynbcdf08x72nl32n")))
+

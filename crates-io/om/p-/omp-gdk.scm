@@ -6,3 +6,5 @@
 
 (define-public crate-omp-gdk-1.0.0 (c (n "omp-gdk") (v "1.0.0") (d (list (d (n "omp-codegen") (r "^0.3.0") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "windows") (r "^0.52.0") (f (quote ("Win32_Foundation" "Win32_System_LibraryLoader"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1a1s82pqkqrs57wq858gj68j9qs8wiikyzy0vafnawc5pgmjrr03")))
 
+(define-public crate-omp-gdk-1.0.1 (c (n "omp-gdk") (v "1.0.1") (d (list (d (n "omp-codegen") (r "^0.3.0") (d #t) (k 0)) (d (n "paste") (r "^1.0") (d #t) (k 0)) (d (n "windows") (r "^0.52.0") (f (quote ("Win32_Foundation" "Win32_System_LibraryLoader"))) (d #t) (t "cfg(windows)") (k 0)))) (h "1zbsjgwq9jh5fad7b7wbkrz8dhqs1r5ly7iyv21xi150vq307k46")))
+
