@@ -144,3 +144,5 @@
 
 (define-public crate-ckb-verification-traits-0.116.1 (c (n "ckb-verification-traits") (v "0.116.1") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "ckb-error") (r "=0.116.1") (d #t) (k 0)))) (h "1rz88nbcrm654hw71algf7njspavc7z9gb3q5xfqsks5q88ca8ad")))
 
+(define-public crate-ckb-verification-traits-0.117.0-rc1 (c (n "ckb-verification-traits") (v "0.117.0-rc1") (d (list (d (n "bitflags") (r "^1.0") (d #t) (k 0)) (d (n "ckb-error") (r "=0.117.0-rc1") (d #t) (k 0)))) (h "011q4qjj67mhgnvkx4kj63iq9138s4xqhjj5j4xw7ia33z1wbb3v")))
+
